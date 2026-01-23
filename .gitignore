@@ -1,0 +1,13 @@
+# Notion credentials (never commit!)
+scripts/config.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
