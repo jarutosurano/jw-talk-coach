@@ -159,6 +159,49 @@ Gaya po ng sabi sa caption: "[exact caption text]"
 - 6 min run-through (focus on 1 skill)
 - 2 min review (self-evaluate)
 
+## Notion Integration
+
+### /10minute Command
+Push 10-minute talk scripts to Notion using the `/10minute` skill.
+
+**Usage:**
+| Command | What it does |
+|---------|--------------|
+| `/10minute` | Lists all talks, you pick one to push |
+| `/10minute <folder-name>` | Push specific talk (e.g., `/10minute 0124-siya-ang-ating-diyos`) |
+| `/10minute all` | Push all talks (with confirmation) |
+
+**Requirements:**
+- `scripts/config.json` must have valid Notion API key and parent page ID
+- Talk folder must have `script.md` file
+
+**Script Formatting for Notion:**
+- Outline phrases (exact words from outline) should use **{curly braces}** format: `**{outline phrase here}**`
+- This renders as bold text with braces in Notion, so you know it's from the outline
+- Headings should NOT have bold markers (converter handles them)
+
+---
+
+## Pre-Commit Workflow
+
+**Before committing/pushing to git, always:**
+
+1. **Update documentation if needed:**
+   - `CLAUDE.md` — Update if workflow or skills changed
+   - `README.md` — Update if user-facing instructions changed
+   - `.claude/skills/*.md` — Update if skill behavior changed
+
+2. **Review changes:**
+   - Check modified files make sense
+   - Ensure no secrets (API keys) are being committed
+   - Verify `config.json` is in `.gitignore`
+
+3. **Commit with clear message:**
+   - Describe what changed and why
+   - Use conventional format if applicable
+
+---
+
 ## Key Guidelines to Remember
 
 - **Public talk scope only** — not for Bible reading assignments

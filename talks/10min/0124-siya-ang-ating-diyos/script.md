@@ -1,9 +1,4 @@
-# Script: "Siya ang Ating Diyos!" (10 min)
-
-> **Audience:** Mixed (kapatid + bisita)
-> **Tone:** Polite (po), simple, engaging, heart-reaching
-> **Target:** ~1,500 words
-> **Note:** Exact outline phrases are marked with 【brackets】
+# Script: "Siya ang Ating Diyos!"
 
 ---
 
@@ -17,11 +12,11 @@ Nakangiti siya. Proud na proud.
 
 Alam n'yo po ba — ganoon din po dapat ang nararamdaman natin kay Jehova?
 
-Sa talk po natin ngayong gabi, makikita natin na 【**napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova**】. At sa huli po, masasabi natin na: *"Siya ang ating Diyos!"*
+Sa talk po natin ngayong gabi, makikita natin na **{napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova}**. At sa huli po, masasabi natin na: *"Siya ang ating Diyos!"*
 
 ---
 
-## PUNTO 1: 【Napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova】 [2 minuto]
+## PUNTO 1: Napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova [2 minuto]
 
 ### Teksto: Isaias 25:9
 
@@ -43,7 +38,7 @@ Ano po ang ilan sa mga dahilang ito? Tingnan po natin ang dalawang pagpapala na 
 
 ---
 
-## PUNTO 2: 【Marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan—kasama na ang maraming masasarap na pagkain】 [3 minuto]
+## PUNTO 2: Marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan—kasama na ang maraming masasarap na pagkain [3 minuto]
 
 ### Teksto: Isaias 25:6
 
@@ -55,7 +50,7 @@ Bago po natin basahin, isipin n'yo ito: **Paano po kaya ang pagkain sa bagong sa
 
 > "Sa bundok na ito, si Jehova ng mga hukbo ay gagawa para sa lahat ng bayan ng isang handaan ng masasarap na pagkain, ng isang handaan ng mainam na alak."
 
-Ang sabi po dito — **handaan**. Hindi lang basta pagkain. Kundi 【masasarap na pagkain】.
+Ang sabi po dito — **handaan**. Hindi lang basta pagkain. Kundi **{masasarap na pagkain}**.
 
 Ano po ang ibig sabihin nito sa buhay natin sa Paraiso?
 
@@ -65,13 +60,13 @@ Ano po ang ibig sabihin nito sa buhay natin sa Paraiso?
 
 **Pangatlo,** sinasabi po sa Isaias 65:21, 22 na magkakaroon tayo ng sariling bahay at sariling ubasan. Isipin n'yo po — uupo kayo sa harap ng bahay n'yo, kakain ng prutas mula sa sarili n'yong puno.
 
-Sino po ang magbibigay ng lahat ng ito? Si Jehova po. 【Marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan】.
+Sino po ang magbibigay ng lahat ng ito? Si Jehova po. **{Marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan}**.
 
 Pero hindi pa po tapos. May isa pang pagpapala si Jehova — at ito po ang pinakadakila.
 
 ---
 
-## PUNTO 3: 【Bibigyan niya tayo ng buhay na walang hanggan】 [3 minuto]
+## PUNTO 3: Bibigyan niya tayo ng buhay na walang hanggan [3 minuto]
 
 ### Teksto: Isaias 25:7, 8
 
@@ -85,7 +80,7 @@ Habang hinahanap n'yo po, ito ang pag-isipan: **Ano po ang pinakamahirap na baga
 
 Narinig n'yo po ba iyon? **Lalamunin niya ang kamatayan.**
 
-Hindi lang po babawasan. Hindi lang pababagalin. Kundi **lalamunin — magpakailanman.** Ibig sabihin po — 【bibigyan niya tayo ng buhay na walang hanggan】.
+Hindi lang po babawasan. Hindi lang pababagalin. Kundi **lalamunin — magpakailanman.** Ibig sabihin po — **{bibigyan niya tayo ng buhay na walang hanggan}**.
 
 Ano po ang ibig sabihin nito sa atin?
 
@@ -111,7 +106,7 @@ Sulit po ba ang sakripisyo? Oo po. Siguradong sulit.
 
 ## IMAGE [pagkatapos ng Punto 3]
 
-【IMAGE CUE: 10min-picture.jpg】
+**IMAGE CUE: 10min-picture.jpg**
 
 Ngayon naman po, tingnan natin ang larawan.
 
@@ -135,13 +130,13 @@ Hindi po natin dapat itago ang magagandang pangako ni Jehova. Ibahagi po natin i
 
 Ano po ang natutunan natin ngayong gabi?
 
-Nakita po natin na 【**napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova**】.
+Nakita po natin na **{napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova}**.
 
 **Una,** proud po tayo sa kaniya — gaya ng batang proud sa tatay niya.
 
-**Pangalawa,** 【marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan—kasama na ang maraming masasarap na pagkain】.
+**Pangalawa,** **{marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan—kasama na ang maraming masasarap na pagkain}**.
 
-**Pangatlo,** 【bibigyan niya tayo ng buhay na walang hanggan】 — wala nang kamatayan, wala nang luha, at makikita natin ang mga mahal natin na namatay.
+**Pangatlo,** **{bibigyan niya tayo ng buhay na walang hanggan}** — wala nang kamatayan, wala nang luha, at makikita natin ang mga mahal natin na namatay.
 
 Mga kapatid at mga kaibigan, ang Paraiso po ay hindi lang isang magandang pangarap. Magiging totoo po ito. At bakit po posible ang lahat ng ito?
 
@@ -150,41 +145,3 @@ Mga kapatid at mga kaibigan, ang Paraiso po ay hindi lang isang magandang pangar
 Kaya po tama lang na sabihin natin ngayon — at sa hinaharap — na:
 
 *"Siya ang ating Diyos!"*
-
----
-
-## OUTLINE CHECKLIST
-
-| Outline Phrase | ✓ |
-|----------------|---|
-| "Siya ang Ating Diyos!" | ✓ |
-| Napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova | ✓ |
-| Marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan—kasama na ang maraming masasarap na pagkain | ✓ |
-| Bibigyan niya tayo ng buhay na walang hanggan | ✓ |
-
----
-
-## TIMING GUIDE
-
-| Section | Target | Actual |
-|---------|--------|--------|
-| Intro | 1 min | ___ |
-| Punto 1 | 2 min | ___ |
-| Punto 2 | 2.5 min | ___ |
-| Punto 3 | 2.5 min | ___ |
-| Image | 1 min | ___ |
-| Conclusion | 1 min | ___ |
-| **Total** | **10 min** | ___ |
-
----
-
-## PRACTICE CHECKLIST
-
-- [ ] Basahin nang malakas ang buong script
-- [ ] I-time ang bawat section
-- [ ] Practice eye contact (huwag basahin ang script)
-- [ ] Check kung natural ang mga transitions
-- [ ] Feel the emotion sa conclusion
-- [ ] Verify na lahat ng outline phrases ay nasabi
-- [ ] Ihanda ang larawan (10min-picture.jpg) — ready to display
-- [ ] Practice image transition — natural na paglipat sa larawan

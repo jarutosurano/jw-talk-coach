@@ -60,6 +60,47 @@ def extract_title(script_content):
     return "Untitled Talk"
 
 
+def parse_inline_formatting(text):
+    """Parse bold (**text**) and italic (*text*) into Notion rich_text array"""
+    import re
+    rich_text = []
+
+    # Pattern to match **bold**, *italic*, or plain text
+    # Order matters: check ** before * to handle bold correctly
+    pattern = r'(\*\*[^*]+\*\*|\*[^*]+\*|[^*]+)'
+
+    parts = re.findall(pattern, text)
+
+    for part in parts:
+        if not part:
+            continue
+
+        if part.startswith('**') and part.endswith('**'):
+            # Bold text
+            content = part[2:-2]
+            rich_text.append({
+                "type": "text",
+                "text": {"content": content},
+                "annotations": {"bold": True}
+            })
+        elif part.startswith('*') and part.endswith('*'):
+            # Italic text
+            content = part[1:-1]
+            rich_text.append({
+                "type": "text",
+                "text": {"content": content},
+                "annotations": {"italic": True}
+            })
+        else:
+            # Plain text
+            rich_text.append({
+                "type": "text",
+                "text": {"content": part}
+            })
+
+    return rich_text if rich_text else [{"type": "text", "text": {"content": text}}]
+
+
 def markdown_to_notion_blocks(markdown_text):
     """Convert markdown to Notion blocks (simplified)"""
     blocks = []
@@ -80,7 +121,7 @@ def markdown_to_notion_blocks(markdown_text):
                 "object": "block",
                 "type": "heading_3",
                 "heading_3": {
-                    "rich_text": [{"type": "text", "text": {"content": line[4:].strip()}}]
+                    "rich_text": parse_inline_formatting(line[4:].strip())
                 }
             })
         elif line.startswith('## '):
@@ -88,7 +129,7 @@ def markdown_to_notion_blocks(markdown_text):
                 "object": "block",
                 "type": "heading_2",
                 "heading_2": {
-                    "rich_text": [{"type": "text", "text": {"content": line[3:].strip()}}]
+                    "rich_text": parse_inline_formatting(line[3:].strip())
                 }
             })
         elif line.startswith('# '):
@@ -96,7 +137,7 @@ def markdown_to_notion_blocks(markdown_text):
                 "object": "block",
                 "type": "heading_1",
                 "heading_1": {
-                    "rich_text": [{"type": "text", "text": {"content": line[2:].strip()}}]
+                    "rich_text": parse_inline_formatting(line[2:].strip())
                 }
             })
         # Blockquotes
@@ -105,7 +146,7 @@ def markdown_to_notion_blocks(markdown_text):
                 "object": "block",
                 "type": "quote",
                 "quote": {
-                    "rich_text": [{"type": "text", "text": {"content": line[2:].strip()}}]
+                    "rich_text": parse_inline_formatting(line[2:].strip())
                 }
             })
         # Horizontal rule
@@ -140,7 +181,7 @@ def markdown_to_notion_blocks(markdown_text):
                 "object": "block",
                 "type": "bulleted_list_item",
                 "bulleted_list_item": {
-                    "rich_text": [{"type": "text", "text": {"content": line.strip()[2:].strip()}}]
+                    "rich_text": parse_inline_formatting(line.strip()[2:].strip())
                 }
             })
         # Table rows (simplified - just show as text)
@@ -149,14 +190,13 @@ def markdown_to_notion_blocks(markdown_text):
             pass
         # Regular paragraph
         else:
-            # Handle bold and italic (simplified)
             content = line.strip()
             if content:
                 blocks.append({
                     "object": "block",
                     "type": "paragraph",
                     "paragraph": {
-                        "rich_text": [{"type": "text", "text": {"content": content}}]
+                        "rich_text": parse_inline_formatting(content)
                     }
                 })
 
