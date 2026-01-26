@@ -31,7 +31,7 @@ Paste ang outline + references dito.
 
 ### Step 4: Claude will create
 - `summary.md` — simplified overview ng topic
-- `script.md` — full script with timing
+- `index.md` — full script with timing (serves as the page for GitHub Pages)
 
 ---
 
@@ -43,7 +43,7 @@ Paste ang outline + references dito.
   /10min/                   ← Assigned talks (Friday gabi)
     /0124-siya-ang-ating-diyos/
       outline.md
-      script.md
+      index.md              ← script (renamed for GitHub Pages)
       summary.md
       picture.jpg
   /30min/                   ← Public talks (Sunday umaga)
@@ -51,6 +51,21 @@ Paste ang outline + references dito.
 /CLAUDE.md                  ← Full workflow guide
 /public-talk-aralin.md      ← 15 teaching lessons
 /guidelines.md              ← Official speaker guidelines (S-141-TG)
+```
+
+---
+
+## 🌐 GitHub Pages
+
+Scripts are published online for easy reading:
+
+```
+https://[username].github.io/jw-talk-coach/talks/10min/[folder-name]/
+```
+
+Example:
+```
+https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jehova/
 ```
 
 ---
@@ -86,7 +101,7 @@ Example:
 | `public-talk-aralin.md` | 15 lessons for improving talks (intro, structure, texts, etc.) |
 | `guidelines.md` | Official S-141-TG speaker guidelines |
 | `outline.md` | Your assigned outline + references |
-| `script.md` | Full talk script with timing markers |
+| `index.md` | Full talk script with timing markers |
 | `summary.md` | Simplified overview of the topic |
 
 ---
@@ -95,7 +110,7 @@ Example:
 
 - [ ] Script is final
 - [ ] Timing is within limit
-- [ ] All outline phrases are included (check 【brackets】 in script)
+- [ ] All outline phrases are included (check **{braces}** in script)
 - [ ] Images are ready (if applicable)
 - [ ] Practiced aloud at least once
 - [ ] Eye contact practiced (hindi binabasa ang script)
@@ -116,4 +131,4 @@ First time? See `scripts/README.md` for setup instructions.
 
 ---
 
-*Last updated: January 2025*
+*Last updated: January 2026*
