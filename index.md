@@ -4,12 +4,20 @@ Welcome! Select a talk below:
 
 ---
 
-## 10-Minute Talks (OCLM - Friday)
+## 30-Minute Talks
 
 | Date | Title | Link |
 |------|-------|------|
-| Jan 24 | Siya ang Ating Diyos! | [View Script](./talks/10min/0124-siya-ang-ating-diyos/) |
+| — | *No talks yet* | — |
+
+---
+
+## 10-Minute Talks
+
+| Date | Title | Link |
+|------|-------|------|
 | Jan 30 | Parangalan si Jehova sa Pamamagitan ng mga Labi at Puso Mo | [View Script](./talks/10min/0130-parangalan-si-Jehova/) |
+| Jan 24 | Siya ang Ating Diyos! | [View Script](./talks/10min/0124-siya-ang-ating-diyos/) |
 
 ---
 

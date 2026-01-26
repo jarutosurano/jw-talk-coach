@@ -279,6 +279,28 @@ https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jeho
 - Repo must be **public** for free GitHub Pages
 - Private repos require GitHub Pro ($4/mo) for Pages
 
+**Updating Homepage Navigation:**
+
+When adding a new talk, update `/index.md` to add it to the navigation table:
+
+1. Open `/index.md`
+2. Find the appropriate section (30-Minute or 10-Minute Talks)
+3. Add a new row at the TOP of the table (latest first, oldest last)
+4. Format: `| Mon DD | Talk Title | [View Script](./talks/XXmin/MMDD-folder-name/) |`
+
+Example:
+```markdown
+## 10-Minute Talks
+
+| Date | Title | Link |
+|------|-------|------|
+| Feb 06 | New Talk Title | [View Script](./talks/10min/0206-new-talk/) |  ← ADD NEW TALKS HERE
+| Jan 30 | Parangalan si Jehova... | [View Script](./talks/10min/0130-parangalan-si-Jehova/) |
+| Jan 24 | Siya ang Ating Diyos! | [View Script](./talks/10min/0124-siya-ang-ating-diyos/) |
+```
+
+**Order:** Latest to oldest (newest talks at the top)
+
 ---
 
 ## Pre-Commit Workflow
