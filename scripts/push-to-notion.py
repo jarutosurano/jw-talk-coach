@@ -2,9 +2,10 @@
 """
 Push Talk Script to Notion
 Creates a new subpage under your Talks parent page with the script content.
+Reads the index.md file from the specified talk folder.
 
 Usage:
-    python push-to-notion.py ../talks/10min/0124-siya-ang-ating-diyos
+    python3 push-to-notion.py talks/10min/0130-parangalan-si-Jehova
 
 Requirements:
     pip install notion-client
@@ -37,11 +38,11 @@ def load_config():
 
 
 def read_script(talk_folder):
-    """Read the script.md file from the talk folder"""
-    script_path = Path(talk_folder) / "script.md"
+    """Read the index.md file from the talk folder"""
+    script_path = Path(talk_folder) / "index.md"
 
     if not script_path.exists():
-        print(f"❌ script.md not found in {talk_folder}")
+        print(f"❌ index.md not found in {talk_folder}")
         sys.exit(1)
 
     with open(script_path, encoding='utf-8') as f:
