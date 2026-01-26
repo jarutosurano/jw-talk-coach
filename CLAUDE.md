@@ -70,12 +70,12 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
   /5min/
     /MMDD-title/                    # e.g., 0131-paano-maging-masaya
       outline.md
-      script.md
+      index.md
 
   /10min/
     /MMDD-title/                    # e.g., 0124-siya-ang-ating-diyos
       outline.md
-      script.md
+      index.md
       summary.md
       picture.jpg                   # if applicable
 
@@ -83,14 +83,14 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
     /MMDD-title/                    # e.g., 0202-pag-ibig-ni-jehova
       outline.md
       references.md                 # separate (can be lengthy)
-      script.md
+      index.md
       picture-1.jpg                 # optional
       picture-2.jpg
 ```
 
 **Naming Convention:**
 - Talk folders: `MMDD-short-title` (e.g., `0124-siya-ang-ating-diyos`)
-- Files inside: simple names (`outline.md`, `script.md`, `summary.md`)
+- Files inside: simple names (`outline.md`, `index.md`, `summary.md`)
 - Images: `picture.jpg` or `picture-1.jpg`, `picture-2.jpg` (if multiple)
 - Use lowercase and hyphens for folder names
 
@@ -117,21 +117,80 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
 - Write conclusion (recap + call to action) — ~10% of time
 - **IMPORTANT:** Use exact words/phrases from the outline — elders may follow along
 
+**Step 4a: Script Formatting Standards (for Notion)**
+Follow this format for consistency and proper Notion conversion:
+
+```markdown
+# Script: "Talk Title Here"
+
+---
+
+## INTRO [1 minuto]
+
+[Content here...]
+
+---
+
+## PUNTO 1: Full outline text here [2 minuto]
+
+### Teksto: Book X:X
+
+[Intro before reading...]
+
+*[Basahin ang Book X:X]*
+
+> "Scripture quote here..."
+
+**{Key phrase from outline}** — [explanation]
+
+---
+
+## IMAGE [pagkatapos ng Punto X]
+
+**IMAGE CUE: picture.jpg**
+
+[Image discussion...]
+
+---
+
+## CONCLUSION [1 minuto]
+
+[Content here...]
+```
+
+| Element | Format | Example |
+|---------|--------|---------|
+| Title | `# Script: "Title"` | `# Script: "Siya ang Ating Diyos!"` |
+| Section headers | `## SECTION [X minuto]` | `## INTRO [1 minuto]` |
+| Punto headers | Full outline text | `## PUNTO 1: Nagalit si Isaias... [2.5 minuto]` |
+| Read cues | Italic with brackets | `*[Basahin ang Isaias 29:13]*` |
+| Scripture quotes | Blockquote | `> "Scripture text..."` |
+| Outline phrases | Bold with curly braces | `**{masunurin mula sa puso}**` |
+| Image cue | Bold | `**IMAGE CUE: picture.jpg**` |
+
 **Step 4b: Handle Visual Aids (Images)**
 - **10-min talks:** Images required — must include in script
 - **30-min talks:** Images optional — include if specified in outline
 - Script template for introducing image:
 
-```
-【IMAGE CUE: (description/filename)】
+```markdown
+## IMAGE [pagkatapos ng Punto X]
+
+**IMAGE CUE: picture.jpg**
 
 Ngayon naman po, tingnan natin ang larawan.
+
+*[Ipakita ang larawan]*
+
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
 
 [Describe what's in the image — connect to the point]
 
-[If image has caption, read it:]
-Gaya po ng sabi sa caption: "[exact caption text]"
+At napansin n'yo po ba ang caption? Sabi po dito:
+
+> **"[exact caption text]"**
+
+[Application from the image]
 ```
 
 - Place image cue AFTER explaining the point (image supports the teaching, not replaces it)
@@ -159,6 +218,16 @@ Gaya po ng sabi sa caption: "[exact caption text]"
 - 6 min run-through (focus on 1 skill)
 - 2 min review (self-evaluate)
 
+**Step 9: Create Summary (10-min talks)**
+- Create `summary.md` with the following sections:
+  - **Tema** — one-sentence theme
+  - **Ang 3 Pangunahing Punto** — each with teksto and simpleng ideya
+  - **Bakit Mahalaga Ito?** — table with tanong/sagot
+  - **Mga Realistic na Application** — table with sitwasyon/lip service/heart service (if applicable)
+  - **Visual na Structure ng Talk** — ASCII tree showing timing breakdown
+  - **Mga Reference na Ginamit** — list of publications cited
+- This helps the speaker review key points quickly before delivery
+
 ## Notion Integration
 
 ### /10minute Command
@@ -173,12 +242,42 @@ Push 10-minute talk scripts to Notion using the `/10minute` skill.
 
 **Requirements:**
 - `scripts/config.json` must have valid Notion API key and parent page ID
-- Talk folder must have `script.md` file
+- Talk folder must have `index.md` file
 
 **Script Formatting for Notion:**
 - Outline phrases (exact words from outline) should use **{curly braces}** format: `**{outline phrase here}**`
 - This renders as bold text with braces in Notion, so you know it's from the outline
 - Headings should NOT have bold markers (converter handles them)
+
+---
+
+## GitHub Pages
+
+Scripts are published to GitHub Pages for easy sharing and reading on any device.
+
+**URL Format:**
+```
+https://[username].github.io/jw-talk-coach/talks/10min/[folder-name]/
+```
+
+**Example:**
+```
+https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jehova/
+```
+
+**Why `index.md` instead of `script.md`:**
+- Using `index.md` creates clean URLs (folder path only, no filename needed)
+- GitHub Pages automatically serves `index.md` as the default page for a folder
+
+**Setup (one-time):**
+1. Go to repo Settings → Pages
+2. Source: Deploy from a branch
+3. Branch: `main`, folder: `/ (root)`
+4. Save — site will be live in a few minutes
+
+**Notes:**
+- Repo must be **public** for free GitHub Pages
+- Private repos require GitHub Pro ($4/mo) for Pages
 
 ---
 
@@ -211,4 +310,8 @@ Push 10-minute talk scripts to Notion using the `/10minute` skill.
 - **Tone**: Positive and upbuilding; avoid insults or harmful jokes
 - **Delivery**: Speak from heart, not read; practice aloud
 - **Audience adaptation**: Adjust wording based on bisita vs kapatid ratio
+- **Natural Taglish**: Use common English words naturally mixed with Tagalog (e.g., "lip service," "shortcut," "proud") — this reflects how Filipinos actually speak and makes the talk more conversational
+- **No formal greetings**: Skip "Mga kapatid at mga kaibigan, magandang gabi po sa inyong lahat" — jump straight into the hook
+- **Generic reference citations**: Use "Base sa referensya natin" instead of specific publication names (e.g., "Ayon sa Bantayan") — sounds more natural and less like reading from a script
+- **Memorable formula (optional)**: When possible, create a simple equation or phrase that captures the main point (e.g., "Labi + Puso = Tunay na Pagsamba"). Introduce it in the intro, reinforce at key moments, and drive it home in the conclusion. This helps the message stick.
 
