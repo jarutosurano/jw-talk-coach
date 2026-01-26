@@ -21,6 +21,14 @@ Welcome! Select a talk below:
 
 ---
 
+## Field Ministry
+
+| Date | Title | Duration | Link |
+|------|-------|----------|------|
+| Jan 30 | Paggawa ng mga Alagad | 4 min | [View Script](./field-ministry/0130-paggawa-ng-mga-alagad-4min/) |
+
+---
+
 ## Quick Links
 
 - [Full Workflow Guide (CLAUDE.md)](./CLAUDE.md)

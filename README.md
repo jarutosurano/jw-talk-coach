@@ -9,8 +9,10 @@
 | Kung gusto mo... | Pumunta sa... |
 |------------------|---------------|
 | Gumawa ng bagong talk | `talks/5min/`, `talks/10min/`, or `talks/30min/` |
+| Gumawa ng field ministry script | `field-ministry/` |
 | Tingnan ang workflow | `CLAUDE.md` |
 | Aralin reference | `public-talk-aralin.md` |
+| Ministeryo aralin reference | `ministeryo-aralin.md` |
 | Speaker guidelines | `guidelines.md` |
 
 ---
@@ -48,8 +50,14 @@ Paste ang outline + references dito.
       picture.jpg
   /30min/                   ← Public talks (Sunday umaga)
 
+/field-ministry/            ← Bible study demonstrations (Friday gabi)
+  /0130-paggawa-ng-mga-alagad-4min/
+    outline.md
+    index.md
+
 /CLAUDE.md                  ← Full workflow guide
-/public-talk-aralin.md      ← 15 teaching lessons
+/public-talk-aralin.md      ← 15 teaching lessons (public talks)
+/ministeryo-aralin.md       ← Counsel points (field ministry)
 /guidelines.md              ← Official speaker guidelines (S-141-TG)
 ```
 

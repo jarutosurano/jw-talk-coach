@@ -228,6 +228,79 @@ At napansin n'yo po ba ang caption? Sabi po dito:
   - **Mga Reference na Ginamit** — list of publications cited
 - This helps the speaker review key points quickly before delivery
 
+---
+
+## Field Ministry Scripts
+
+For Bible study demonstrations and other field ministry assignments.
+
+### Folder Structure
+
+```
+/field-ministry/
+  /MMDD-title-Xmin/                 # e.g., 0130-paggawa-ng-mga-alagad-4min
+    outline.md                       # reference content + notes
+    index.md                         # script
+```
+
+### Script Creation Workflow
+
+**Step 1: Intake**
+- Collect: reference (lff aralin, etc.), time limit, counsel point (lmd aralin)
+- Ask for: actual Bible verse text, character names
+
+**Step 2: Create outline.md**
+- Copy full reference content from publication
+- Include all questions from the book
+- Add actual Bible verse text (ask user to provide)
+- Note if there are pictures with captions
+- Add notes section (time constraints, setting, what to skip)
+
+**Step 3: Draft Script**
+- Use JW/HH format with character names in header
+- Mostly Tagalog, basic English lang (okay, sure, exactly, video, picture)
+- Explicitly say "Panoorin natin yung video" then "nakita natin yung video" (skip watching)
+- Use questions directly from the publication
+- Include picture discussion with caption if applicable
+- Address householder by name for natural flow
+- Follow counsel point guidelines (e.g., aralin 11 #3 = short explanations)
+
+**Step 4: Review**
+- Check Bible verses match actual NWT Tagalog text
+- Verify questions align with publication
+- Ensure timing fits (4 min = skip prayer, skip video watching)
+
+### Script Format
+
+```markdown
+# Title (X min)
+
+**Setting:** Bible Study (ongoing)
+**Reference:** lff aralin X: #X-X
+**Counsel point:** lmd aralin X: #X
+**Characters:** JW = [Name], HH = [Name]
+
+---
+
+## Script
+
+**JW:** [dialogue]
+
+**HH:** [dialogue]
+
+---
+
+## Notes
+
+- [Key reminders]
+```
+
+### Reference Files
+
+- **ministeryo-aralin.md** — Counsel points from "Maging Mahusay sa Ministeryo at sa Pagtuturo" (lmd)
+
+---
+
 ## Notion Integration
 
 ### /10minute Command
@@ -336,4 +409,5 @@ Example:
 - **No formal greetings**: Skip "Mga kapatid at mga kaibigan, magandang gabi po sa inyong lahat" — jump straight into the hook
 - **Generic reference citations**: Use "Base sa referensya natin" instead of specific publication names (e.g., "Ayon sa Bantayan") — sounds more natural and less like reading from a script
 - **Memorable formula (optional)**: When possible, create a simple equation or phrase that captures the main point (e.g., "Labi + Puso = Tunay na Pagsamba"). Introduce it in the intro, reinforce at key moments, and drive it home in the conclusion. This helps the message stick.
+- **Always ask for actual Bible text**: Never assume or use memorized scripture wording. Always ask the user to provide the exact Bible verse from their copy (NWT Tagalog). Scripture wording must be accurate.
 
