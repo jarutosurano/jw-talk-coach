@@ -12,11 +12,15 @@ Sa Ingles, tinatawag itong "lip service" — salita lang, walang gawa.
 
 Ngayong gabi, pag-uusapan po natin kung paano tayo makakaiwas sa ganitong uri ng pagsamba. Dahil ang tema po natin: **Parangalan si Jehova sa Pamamagitan ng mga Labi at Puso Mo**.
 
-Kaya simple lang po ang formula natin ngayong gabi: **Labi + Puso = Tunay na Pagsamba.**
+Kaya simple lang po ang formula natin ngayong gabi:
 
-Hindi lang labi. Hindi lang puso. Kundi labi *at* puso — magkasama.
+**Labi + Puso = Tunay na Pagsamba.**
 
-At may tatlong tanong ang sasagutin natin:
+Hindi lang labi. Hindi lang puso.
+
+Kundi labi *at* puso — magkasama.
+
+At may tatlong tanong po ang sasagutin natin:
 
 1. Paano ito naging problema noong panahon ni Isaias?
 
@@ -24,17 +28,31 @@ At may tatlong tanong ang sasagutin natin:
 
 3. At ano ang inaasahan ni Jehova sa atin ngayon?
 
-Simulan natin sa unang tanong — Paano ito naging problema noong panahon ni Isaias?
+Simulan po natin sa unang tanong — Paano ito naging problema noong panahon ni Isaias?
 
 ---
 
 ## 1 — Nagalit si Isaias sa mga lider ng relihiyon noong panahon niya dahil mapagkunwari sila [2.5 minuto]
 
-Isipin n'yo po ito: Ang mga lider ng relihiyon ng Juda noon, nag-aangkin silang malapit kay Jehova. Dumadalo sila sa templo. Nag-aalay sila. Nagdarasal sila. Pero ano ang problema?
+Isipin n'yo po ito: Ang mga lider ng relihiyon ng Juda noon, nag-aangkin silang malapit kay Jehova.
 
-Panlabas lang pala ang lahat. Kaya naman **nagalit si Isaias sa mga lider ng relihiyon noong panahon niya dahil mapagkunwari sila**.
+Dumadalo sila sa templo.
 
-Tingnan natin kung ano ang sinabi ni Jehova sa kanila sa pamamagitan ni Isaias. Buksan po natin ang Isaias kabanata 29, bersikulo 13. Dito, maririnig natin mismo ang damdamin ni Jehova tungkol sa mga mapagkunwari.
+Nag-aalay sila.
+
+Nagdarasal sila.
+
+Pero ano ang problema?
+
+Panlabas lang pala ang lahat.
+
+Kaya naman **nagalit si Isaias sa mga lider ng relihiyon noong panahon niya dahil mapagkunwari sila**.
+
+Tingnan po natin kung ano ang sinabi ni Jehova sa kanila sa pamamagitan ni Isaias.
+
+Buksan po natin ang Isaias kabanata 29, bersikulo 13.
+
+Dito, maririnig natin mismo ang damdamin ni Jehova tungkol sa mga mapagkunwari.
 
 *[Basahin ang Isaias 29:13]*
 
@@ -42,17 +60,31 @@ Tingnan natin kung ano ang sinabi ni Jehova sa kanila sa pamamagitan ni Isaias. 
 
 {pause and smile}
 
-Napansin n'yo po ba ang sinabi ni Jehova? **Malayong-malayo ang puso nila sa akin.**
+Napansin n'yo po ba ang sinabi ni Jehova?
 
-Ang sakit nun para kay Jehova, 'di ba? Parang may asawang nagsasabing "mahal kita" araw-araw, pero ang puso niya ay nasa iba. Panlabas lang. Pakitang-tao.
+**Malayong-malayo ang puso nila sa akin.**
 
-Base po sa referensya natin, ang mga pinunong ito ay "nag-aangking maingat sa paraang espirituwal, subalit iniwan nila si Jehova."
+Ang sakit nun para kay Jehova, 'di ba?
 
-Ano ba ang ginawa nila? Itinuturo nila ang sarili nilang mga ideya — hindi ang kalooban ng Diyos.
+Parang may asawang nagsasabing "mahal kita" araw-araw, pero ang puso niya ay nasa iba. Panlabas lang. Pakitang-tao.
 
-Kaya ano ang ginawa ni Jehova? Pinapanagot niya sila. Hindi niya kinunsinti ang pagpapaimbabaw nila.
+At kung titignan po natin ang referensya, sabi po dito — ang mga pinunong ito ay
 
-Bakit? Dahil labi lang ang meron sila — walang puso. Hindi kumpleto ang formula.
+"nag-aangking maingat sa paraang espirituwal, subalit iniwan nila si Jehova."
+
+Ano po ba ang ginawa nila?
+
+Itinuturo nila ang sarili nilang mga ideya — hindi ang kalooban ng Diyos.
+
+Kaya ano ang ginawa ni Jehova?
+
+Pinapanagot niya sila. Hindi niya kinunsinti ang pagpapaimbabaw nila.
+
+Bakit?
+
+Dahil labi lang ang meron sila — walang puso. Hindi kumpleto ang formula.
+
+Kaya iyon ang naging problema noong panahon ni Isaias — **ang pagsamba nila ay hindi tinanggap ni Jehova.**
 
 {pause and smile}
 
@@ -62,15 +94,17 @@ Ngayon naman, tingnan po natin ang pangalawang tanong — Paano ito kinondena ni
 
 ## 2 — Ginamit ni Jesus ang pananalita ni Isaias para tukuyin ang mga lider ng relihiyon noong unang siglo [2.5 minuto]
 
-Mga 700 years ang lumipas. Panahon na ni Jesus.
+Mga 700 years na ang lumipas. Panahon na ni Jesus.
 
-Pero alam n'yo ba? Parehong-pareho pa rin ang problema!
+Pero parehong-pareho pa rin ang problema!
 
 Alam n'yo po ba kung ano ang mas mahalaga sa mga Pariseo noon?
 
 Ang paghuhugas ng kamay ayon sa tradisyon, kaysa sa pag-aalaga sa sarili nilang mga magulang.
 
-Iisipin mo, tradisyon ng tao ang mas pinapahalagahan nila kaysa utos ng Diyos!
+{pause}
+
+Iisipin po natin, tradisyon ng tao ang mas pinapahalagahan nila kaysa utos ng Diyos!
 
 Kaya **ginamit ni Jesus ang pananalita ni Isaias para tukuyin ang mga lider ng relihiyon noong unang siglo**.
 
@@ -84,7 +118,7 @@ At pansinin kung gaano po katapang si Jesus dito.
 
 Ano ang sabi dito? **Walang saysay ang patuloy na pagsamba nila.**
 
-{pause and smile}
+{pause}
 
 Napakatinding salita, 'di ba?
 
@@ -108,59 +142,77 @@ Pero paano naman tayo ngayon?
 
 Posible bang maging mapagkunwari tayo nang hindi natin namamalayan?
 
-Alam natin na **inaasahan ni Jehova na magiging "masunurin mula sa puso" ang mga mananamba niya**.
+Oo, posible. Kaya nga **inaasahan ni Jehova na magiging "masunurin mula sa puso" ang mga mananamba niya**.
 
-Pero ano ba ang ibig sabihin nun?
-
-Tingnan natin ang Roma kabanata 6, bersikulo 17.
+Tingnan po natin kung ano ang ibig sabihin nito sa Roma kabanata 6, bersikulo 17.
 
 *[Basahin ang Roma 6:17]*
 
 > **"Pero salamat sa Diyos dahil kahit alipin kayo ng kasalanan noon, kayo ngayon ay naging masunurin mula sa puso sa turong iyon, sa parisan na ibinigay sa inyo para sundan."**
 
-Pansin nyo po ba mga kapatid?
+Pansinin po natin ang contrast, mga kapatid.
 
-Pero salamat sa Diyos dahil kahit alipin kayo ng kasalanan noon, kayo ngayon ay naging? **masunurin mula sa puso** sa turong iyon
+Dati — alipin ng kasalanan. Walang choice. Kontrolado.
+
+Ngayon — **masunurin mula sa puso**. Kusang-loob. Sariling desisyon.
 
 {pause and smile}
 
-Hindi lang mula sa labi. Hindi lang kapag may nakakakita kundi — **masunurin mula sa puso.**
+Kaya ano ang ibig sabihin ng "masunurin mula sa puso"?
 
-Pero alam nyo po ba kung paano nagiging mapagkunwari ang isang tao?
+Hindi lang sumusunod dahil may nakakakita.
+
+Hindi lang dahil kailangan.
+
+Kundi dahil gusto mo — dahil mahal mo si Jehova.
+
+Iyan ang pagkakaiba ng lip service at tunay na pagsamba.
+
+Pero alam n'yo po ba kung paano nagiging mapagkunwari ang isang tao?
 
 Kung titignan po natin ang reference, sabi dito — nagsisimula po ito sa maliit.
 
-Ang tanong, paano?
-
-Baka pagdudahan niya kung tama bang sundin ang isang utos ni Jehova.
+**Sa umpisa**, baka pagdudahan niya kung tama bang sundin ang isang utos ni Jehova.
 
 Tapos susuwayin niya 'yung parang "hindi naman ganoon kahalaga."
 
 Tapos kapag walang masamang nangyari agad, lalakas at lalakas ang loob niyang sumuway ng higit pa.
 
+Para po ilarawan — para pong anay sa kahoy.
+
+Hindi mo nakikita agad — maliit lang, tahimik lang. Pero unti-unti, kinakain ang loob.
+
+Tapos isang araw — gumuho na pala.
+
 Kaya mga kapatid, mapanganib 'yan.
 
-Kaya suriin po natin ang sarili. Kumpleto ba ang formula? Halimbawa po:
+Kaya suriin po natin ang sarili. Kumpleto ba ang Labi at Puso ko?
 
-- Labi: Kumakanta ng papuri. Puso: Magsalita rin ng mabuti tungkol sa mga kapatid pagkatapos.
-- Labi: Tinuturo ang katapatan sa ministry. Puso: Maging tapat din sa trabaho.
-- Labi: Nag-family worship. Puso: I-apply ito sa pakikitungo sa pamilya araw-araw.
+- Labi: Kumakanta ako ng papuri. Puso: May pagmamahal ba ako sa mga kapatid pagkatapos ng pulong?
+- Labi: Tinuturo ko ang katapatan. Puso: Tapat din ba ako sa trabaho?
+- Labi: May family worship kami. Puso: Ina-apply ko ba ito araw-araw?
 
-Kaya ang tanong sa ating lahat: Kumpleto ba ang formula ko? Labi + Puso — pareho ba?
+Kaya ang tanong sa ating lahat: Kumpleto ba ang formula ko — Labi *at* Puso?
 
 ---
 
-## IMAGE
-
-Ngayon naman po, tingnan natin ang larawan.
+## IMAGE [pagkatapos ng Punto 3]
 
 **IMAGE CUE: 202026004_univ_cnt_1_xl.jpg**
 
+Ngayon naman po, tingnan natin ang larawan.
+
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
 
-Isang kapatid na nagbibigay ng pahayag — posibleng tungkol sa family worship. Pero hindi lang siya nagtuturo sa platform. Isinasabuhay din niya ito sa sarili niyang pamilya.
+Isang kapatid na nagbibigay ng pahayag — posibleng tungkol sa family worship.
 
-At napansin n'yo po ba ang caption? Sabi po dito:
+Pero hindi lang siya nagtuturo sa platform.
+
+Isinasabuhay din niya ito sa sarili niyang pamilya.
+
+At napansin n'yo po ba ang caption?
+
+Sabi po dito:
 
 > **"Kapag isinasabuhay natin ang mga ipinapangaral natin, nakikita iyon at pinapahalagahan ni Jehova."**
 
@@ -174,18 +226,16 @@ Labi *at* puso — magkasama.
 
 Kaya mga kapatid at mga kaibigan, ano ang natutunan natin ngayong gabi?
 
-1. Noong panahon ni Isaias — labi lang, walang puso. Kinondena.
+1. Noong panahon ni Isaias — labi lang, walang puso. Problema.
 
-2. Noong panahon ni Jesus — labi lang, walang puso. Walang saysay.
+2. Noong panahon ni Jesus — labi lang din, walang puso. Walang saysay.
 
 3. Sa panahon natin — inaasahan ni Jehova na tayo ay **masunurin mula sa puso**.
 
-Kaya ang formula natin: **Labi + Puso = Tunay na Pagsamba.**
+Dahil si Jehova — nakikita niya ang puso.
 
-Suriin natin ang sarili. Hindi lang kung ano ang sinasabi natin — kundi kung ano ang nasa puso natin.
+At kapag kumpleto ang formula — labi *at* puso — pinaparangalan natin siya.
 
-Dahil si Jehova, nakikita niya ang puso. At kapag kumpleto ang formula — labi *at* puso — pinaparangalan natin siya.
-
-At pinapahalagahan niya iyon.
+At pinapahalagahan ni Jehova iyon.
 
 Maraming salamat po.
