@@ -1,4 +1,8 @@
-# Summary: "Siya ang Ating Diyos!" (10 min)
+---
+title: 'Summary: Siya ang Ating Diyos!'
+sidebar:
+  label: Summary
+---
 
 ## Tema (Theme)
 **Ipagmalaki si Jehova dahil sa mga pagpapalang ibibigay niya.**

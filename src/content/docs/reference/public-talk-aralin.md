@@ -1,4 +1,9 @@
-# Mga Aralin para sa Pahayag Pangmadla
+---
+title: Mga Aralin para sa Pahayag Pangmadla
+sidebar:
+  label: Public Talk Aralin
+---
+
 
 > Mga aralin na may kaugnayan sa public talk. Hindi kasama ang mga aralin para sa Bible reading o iba pang assignment.
 

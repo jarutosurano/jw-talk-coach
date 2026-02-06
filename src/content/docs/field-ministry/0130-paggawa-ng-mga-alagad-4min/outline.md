@@ -1,4 +1,9 @@
-# Paggawa ng mga Alagad (4 min)
+---
+title: 'Outline: Paggawa ng mga Alagad'
+sidebar:
+  label: Outline
+---
+
 
 **Petsa:** Enero 30, 2026
 **Oras:** 4 minuto

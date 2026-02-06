@@ -1,5 +1,7 @@
-# Script: "Siya ang Ating Diyos!"
-
+---
+title: 'Script: "Siya ang Ating Diyos!"'
+sidebar:
+  label: Siya ang Ating Diyos!
 ---
 
 ## INTRO [1 minuto]

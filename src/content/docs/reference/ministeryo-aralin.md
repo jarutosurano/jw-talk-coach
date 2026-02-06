@@ -1,4 +1,9 @@
-# Ministeryo Aralin
+---
+title: Ministeryo Aralin
+sidebar:
+  label: Ministeryo Aralin
+---
+
 
 > Counsel points from "Maging Mahusay sa Ministeryo at sa Pagtuturo" (lmd)
 > Used for reviewing student assignments in field ministry.

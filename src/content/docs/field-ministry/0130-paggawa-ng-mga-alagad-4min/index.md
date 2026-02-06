@@ -1,4 +1,9 @@
-# Paggawa ng mga Alagad (4 min)
+---
+title: Paggawa ng mga Alagad (4 min)
+sidebar:
+  label: Paggawa ng mga Alagad
+---
+
 
 **Setting:** Bible Study (ongoing)
 **Reference:** lff aralin 18: #6-7

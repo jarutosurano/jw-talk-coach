@@ -1,4 +1,8 @@
-# Summary: "Parangalan si Jehova sa Pamamagitan ng mga Labi at Puso Mo" (10 min)
+---
+title: 'Summary: Parangalan si Jehova'
+sidebar:
+  label: Summary
+---
 
 ## Tema (Theme)
 **Ang tunay na pagsamba kay Jehova ay hindi lang panlabas — dapat galing ito sa puso.**

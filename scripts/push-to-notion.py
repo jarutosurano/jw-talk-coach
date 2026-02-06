@@ -41,12 +41,27 @@ def read_script(talk_folder):
     """Read the index.md file from the talk folder"""
     script_path = Path(talk_folder) / "index.md"
 
+    # Also check src/content/docs/ path
+    if not script_path.exists():
+        project_root = Path(__file__).parent.parent
+        alt_path = project_root / "src" / "content" / "docs" / talk_folder / "index.md"
+        if alt_path.exists():
+            script_path = alt_path
+
     if not script_path.exists():
         print(f"❌ index.md not found in {talk_folder}")
         sys.exit(1)
 
     with open(script_path, encoding='utf-8') as f:
-        return f.read()
+        content = f.read()
+
+    # Strip YAML frontmatter if present
+    if content.startswith('---'):
+        parts = content.split('---', 2)
+        if len(parts) >= 3:
+            content = parts[2].lstrip('\n')
+
+    return content
 
 
 def extract_title(script_content):

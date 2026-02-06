@@ -7,20 +7,34 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## 🚀 New Session? Start Here!
 
 1. **Check `README.md`** for quick start guide
-2. **Check `talks/` folder** for existing and new talks
+2. **Check `src/content/docs/talks/` folder** for existing and new talks
 3. **Ask user:** "Anong talk po ang gagawin natin ngayon?"
 
 ---
 
 ## Project Overview
 
-This is a JW Public Talk Coaching System—a Tagalog-language knowledge base for helping speakers prepare and deliver effective public talks (pahayag pangmadla). It is a documentation-based project with no build/test infrastructure.
+This is a JW Public Talk Coaching System—a Tagalog-language knowledge base for helping speakers prepare and deliver effective public talks (pahayag pangmadla). Built with Astro Starlight. Run `npm run dev` for local development, `npm run build` to build.
 
 ## File Structure
 
-- **public-talk-aralin.md** — Training curriculum with 15 lessons (Aralin 1, 3, 4, 6-9, 13-14, 16-20) for public talk development. Aralins 2, 5, 10, 11, 12, 15 are intentionally excluded—they cover Bible reading or other assignments not relevant to public talks.
-- **guidelines.md** — Official speaker guidelines (S-141-TG) covering outline usage, visual aids, and delivery techniques.
-- **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition for coaching public talks.
+- **src/content/docs/** — All content lives here (Starlight content collection)
+  - **talks/10min/**, **talks/30min/**, **talks/5min/** — Talk scripts, outlines, summaries
+  - **field-ministry/** — Bible study demonstration scripts
+  - **reference/** — Aralin, guidelines, ministeryo aralin
+- **src/content/docs/reference/public-talk-aralin.md** — Training curriculum with 15 lessons
+- **src/content/docs/reference/guidelines.md** — Official speaker guidelines (S-141-TG)
+- **src/content/docs/reference/ministeryo-aralin.md** — Counsel points for field ministry
+- **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition for coaching public talks
+
+**IMPORTANT: All new markdown files need YAML frontmatter:**
+```yaml
+---
+title: 'Your Title Here'
+sidebar:
+  label: Short Label
+---
+```
 
 ## Claude Skill Behavior
 
@@ -66,21 +80,21 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
 ### Recommended File Structure
 
 ```
-/talks/
-  /5min/
-    /MMDD-title/                    # e.g., 0131-paano-maging-masaya
+src/content/docs/talks/
+  5min/
+    MMDD-title/                     # e.g., 0131-paano-maging-masaya
       outline.md
       index.md
 
-  /10min/
-    /MMDD-title/                    # e.g., 0124-siya-ang-ating-diyos
+  10min/
+    MMDD-title/                     # e.g., 0124-siya-ang-ating-diyos
       outline.md
       index.md
       summary.md
       picture.jpg                   # if applicable
 
-  /30min/
-    /MMDD-title/                    # e.g., 0202-pag-ibig-ni-jehova
+  30min/
+    [outline-number]-title/         # e.g., 33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan
       outline.md
       references.md                 # separate (can be lengthy)
       index.md
@@ -89,7 +103,8 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
 ```
 
 **Naming Convention:**
-- Talk folders: `MMDD-short-title` (e.g., `0124-siya-ang-ating-diyos`)
+- **5min/10min folders:** `MMDD-short-title` (e.g., `0124-siya-ang-ating-diyos`)
+- **30min folders:** `[outline-number]-title` (e.g., `33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan`) — uses outline number since speakers may have few talks per year
 - Files inside: simple names (`outline.md`, `index.md`, `summary.md`)
 - Images: `picture.jpg` or `picture-1.jpg`, `picture-2.jpg` (if multiple)
 - Use lowercase and hyphens for folder names
@@ -121,8 +136,10 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
 Follow this format for consistency and proper Notion conversion:
 
 ```markdown
-# Script: "Talk Title Here"
-
+---
+title: 'Script: "Talk Title Here"'
+sidebar:
+  label: Talk Title Here
 ---
 
 ## INTRO [1 minuto]
@@ -160,7 +177,7 @@ Follow this format for consistency and proper Notion conversion:
 
 | Element | Format | Example |
 |---------|--------|---------|
-| Title | `# Script: "Title"` | `# Script: "Siya ang Ating Diyos!"` |
+| Title | YAML frontmatter `title:` | `title: 'Script: "Siya ang Ating Diyos!"'` |
 | Section headers | `## SECTION [X minuto]` | `## INTRO [1 minuto]` |
 | Punto headers | Full outline text | `## PUNTO 1: Nagalit si Isaias... [2.5 minuto]` |
 | Read cues | Italic with brackets | `*[Basahin ang Isaias 29:13]*` |
@@ -237,8 +254,8 @@ For Bible study demonstrations and other field ministry assignments.
 ### Folder Structure
 
 ```
-/field-ministry/
-  /MMDD-title-Xmin/                 # e.g., 0130-paggawa-ng-mga-alagad-4min
+src/content/docs/field-ministry/
+  MMDD-title-Xmin/                   # e.g., 0130-paggawa-ng-mga-alagad-4min
     outline.md                       # reference content + notes
     index.md                         # script
 ```
@@ -273,7 +290,11 @@ For Bible study demonstrations and other field ministry assignments.
 ### Script Format
 
 ```markdown
-# Title (X min)
+---
+title: Title (X min)
+sidebar:
+  label: Title
+---
 
 **Setting:** Bible Study (ongoing)
 **Reference:** lff aralin X: #X-X
@@ -297,7 +318,7 @@ For Bible study demonstrations and other field ministry assignments.
 
 ### Reference Files
 
-- **ministeryo-aralin.md** — Counsel points from "Maging Mahusay sa Ministeryo at sa Pagtuturo" (lmd)
+- **src/content/docs/reference/ministeryo-aralin.md** — Counsel points from "Maging Mahusay sa Ministeryo at sa Pagtuturo" (lmd)
 
 ---
 
@@ -340,39 +361,21 @@ https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jeho
 
 **Why `index.md` instead of `script.md`:**
 - Using `index.md` creates clean URLs (folder path only, no filename needed)
-- GitHub Pages automatically serves `index.md` as the default page for a folder
+- Starlight renders `index.md` as the folder's default page
 
 **Setup (one-time):**
 1. Go to repo Settings → Pages
-2. Source: Deploy from a branch
-3. Branch: `main`, folder: `/ (root)`
-4. Save — site will be live in a few minutes
+2. Source: **GitHub Actions** (NOT "Deploy from a branch")
+3. The `.github/workflows/deploy.yml` handles the Astro build and deployment automatically
 
 **Notes:**
 - Repo must be **public** for free GitHub Pages
 - Private repos require GitHub Pro ($4/mo) for Pages
+- Sidebar navigation is auto-generated from the folder structure — no need to manually update a homepage table
 
-**Updating Homepage Navigation:**
+**Adding a New Talk:**
 
-When adding a new talk, update `/index.md` to add it to the navigation table:
-
-1. Open `/index.md`
-2. Find the appropriate section (30-Minute or 10-Minute Talks)
-3. Add a new row at the TOP of the table (latest first, oldest last)
-4. Format: `| Mon DD | Talk Title | [View Script](./talks/XXmin/MMDD-folder-name/) |`
-
-Example:
-```markdown
-## 10-Minute Talks
-
-| Date | Title | Link |
-|------|-------|------|
-| Feb 06 | New Talk Title | [View Script](./talks/10min/0206-new-talk/) |  ← ADD NEW TALKS HERE
-| Jan 30 | Parangalan si Jehova... | [View Script](./talks/10min/0130-parangalan-si-Jehova/) |
-| Jan 24 | Siya ang Ating Diyos! | [View Script](./talks/10min/0124-siya-ang-ating-diyos/) |
-```
-
-**Order:** Latest to oldest (newest talks at the top)
+When adding a new talk, just create the folder and files under `src/content/docs/talks/`. Starlight auto-generates sidebar navigation — no homepage update needed.
 
 ---
 
@@ -380,17 +383,22 @@ Example:
 
 **Before committing/pushing to git, always:**
 
-1. **Update documentation if needed:**
+1. **Update `CHANGELOG.md` (REQUIRED):**
+   - Add entry under the current version or create a new version section
+   - Describe what changed and why
+   - Use format: `## [X.X.X] - YYYY-MM-DD` with `Added`, `Changed`, `Removed` subsections
+
+2. **Update documentation if needed:**
    - `CLAUDE.md` — Update if workflow or skills changed
    - `README.md` — Update if user-facing instructions changed
    - `.claude/skills/*.md` — Update if skill behavior changed
 
-2. **Review changes:**
+3. **Review changes:**
    - Check modified files make sense
    - Ensure no secrets (API keys) are being committed
    - Verify `config.json` is in `.gitignore`
 
-3. **Commit with clear message:**
+4. **Commit with clear message:**
    - Describe what changed and why
    - Use conventional format if applicable
 

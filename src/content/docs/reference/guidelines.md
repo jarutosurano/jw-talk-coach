@@ -1,4 +1,9 @@
-# Mga Paalaala sa mga Nagbibigay ng Pahayag Pangmadla
+---
+title: Mga Paalaala sa mga Nagbibigay ng Pahayag Pangmadla
+sidebar:
+  label: Speaker Guidelines
+---
+
 
 > S-141-TG 11/21
 

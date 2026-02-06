@@ -11,3 +11,8 @@ __pycache__/
 # IDE
 .idea/
 .vscode/
+
+# Astro
+node_modules/
+dist/
+.astro/

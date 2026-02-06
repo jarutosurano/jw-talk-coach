@@ -1,4 +1,8 @@
-# Parangalan si Jehova sa Pamamagitan ng mga Labi *at* Puso Mo
+---
+title: Parangalan si Jehova sa Pamamagitan ng mga Labi at Puso Mo
+sidebar:
+  label: Parangalan si Jehova
+---
 
 Jan 30, 2026
 
