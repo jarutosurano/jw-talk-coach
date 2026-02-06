@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [2.0.1] - 2026-02-06
+
+### Fix UI issues and content publishing
+
+**Fixed:**
+- Removed Tagalog locale config that caused raw translation keys (`tableOfContents.onThisPage`, etc.) to display instead of proper labels
+- Fixed broken "Reference Materials" link on homepage (replaced with "30-Minute Talks")
+
+**Changed:**
+- Only scripts (`index.md`) are now published to GitHub Pages — outlines, summaries, and reference docs moved back to root-level folders outside `src/content/docs/`
+- Updated `CLAUDE.md` with publishing rule: only `index.md` scripts go in `src/content/docs/`
+- Sidebar now shows only published scripts (removed Reference section)
+
+---
+
 ## [2.0.0] - 2026-02-06
 
 ### Migrated from Jekyll to Astro Starlight

@@ -1,9 +1,4 @@
----
-title: 'Outline #33: Makakamit Pa Kaya Natin ang Tunay na Katarungan?'
-sidebar:
-  label: Outline
----
-
+# Outline #33: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 
 **Date:** April 26, 2026 (Sunday)
 **Duration:** 30 minutes

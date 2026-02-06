@@ -18,16 +18,26 @@ This is a JW Public Talk Coaching System—a Tagalog-language knowledge base for
 
 ## File Structure
 
-- **src/content/docs/** — All content lives here (Starlight content collection)
-  - **talks/10min/**, **talks/30min/**, **talks/5min/** — Talk scripts, outlines, summaries
-  - **field-ministry/** — Bible study demonstration scripts
-  - **reference/** — Aralin, guidelines, ministeryo aralin
-- **src/content/docs/reference/public-talk-aralin.md** — Training curriculum with 15 lessons
-- **src/content/docs/reference/guidelines.md** — Official speaker guidelines (S-141-TG)
-- **src/content/docs/reference/ministeryo-aralin.md** — Counsel points for field ministry
-- **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition for coaching public talks
+**IMPORTANT — Publishing Rule:**
+Only `index.md` scripts go in `src/content/docs/` (published to GitHub Pages). All other files (outlines, summaries, reference docs) stay in root-level folders and are NOT placed in `src/content/docs/`.
 
-**IMPORTANT: All new markdown files need YAML frontmatter:**
+**Published content (GitHub Pages):**
+- **src/content/docs/talks/10min/*/index.md** — 10-minute talk scripts
+- **src/content/docs/talks/30min/*/index.md** — 30-minute talk scripts
+- **src/content/docs/talks/5min/*/index.md** — 5-minute talk scripts
+- **src/content/docs/field-ministry/*/index.md** — Bible study demonstration scripts
+- **src/content/docs/index.mdx** — Splash homepage
+
+**Non-published content (root-level, repo only):**
+- **talks/10min/*/outline.md, summary.md** — Talk outlines and summaries
+- **talks/30min/*/outline.md, summary.md** — Talk outlines and summaries
+- **field-ministry/*/outline.md** — Field ministry outlines
+- **reference/public-talk-aralin.md** — Training curriculum with 15 lessons
+- **reference/guidelines.md** — Official speaker guidelines (S-141-TG)
+- **reference/ministeryo-aralin.md** — Counsel points for field ministry
+- **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition
+
+**IMPORTANT: All published markdown files (in `src/content/docs/`) need YAML frontmatter:**
 ```yaml
 ---
 title: 'Your Title Here'
@@ -79,27 +89,31 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
 
 ### Recommended File Structure
 
+**Published scripts** (in `src/content/docs/`):
 ```
 src/content/docs/talks/
-  5min/
-    MMDD-title/                     # e.g., 0131-paano-maging-masaya
-      outline.md
-      index.md
+  5min/MMDD-title/index.md
+  10min/MMDD-title/index.md
+  30min/[outline-number]-title/index.md
 
-  10min/
-    MMDD-title/                     # e.g., 0124-siya-ang-ating-diyos
-      outline.md
-      index.md
-      summary.md
-      picture.jpg                   # if applicable
+src/content/docs/field-ministry/
+  MMDD-title-Xmin/index.md
+```
 
-  30min/
-    [outline-number]-title/         # e.g., 33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan
-      outline.md
-      references.md                 # separate (can be lengthy)
-      index.md
-      picture-1.jpg                 # optional
-      picture-2.jpg
+**Non-published support files** (root-level):
+```
+talks/
+  5min/MMDD-title/outline.md
+  10min/MMDD-title/outline.md, summary.md, picture.jpg
+  30min/[outline-number]-title/outline.md, summary.md, references.md
+
+field-ministry/
+  MMDD-title-Xmin/outline.md
+
+reference/
+  public-talk-aralin.md
+  guidelines.md
+  ministeryo-aralin.md
 ```
 
 **Naming Convention:**
@@ -253,11 +267,16 @@ For Bible study demonstrations and other field ministry assignments.
 
 ### Folder Structure
 
+**Published script** (in `src/content/docs/`):
 ```
 src/content/docs/field-ministry/
-  MMDD-title-Xmin/                   # e.g., 0130-paggawa-ng-mga-alagad-4min
-    outline.md                       # reference content + notes
-    index.md                         # script
+  MMDD-title-Xmin/index.md          # script (published)
+```
+
+**Non-published outline** (root-level):
+```
+field-ministry/
+  MMDD-title-Xmin/outline.md        # reference content + notes
 ```
 
 ### Script Creation Workflow
@@ -318,7 +337,7 @@ sidebar:
 
 ### Reference Files
 
-- **src/content/docs/reference/ministeryo-aralin.md** — Counsel points from "Maging Mahusay sa Ministeryo at sa Pagtuturo" (lmd)
+- **reference/ministeryo-aralin.md** — Counsel points from "Maging Mahusay sa Ministeryo at sa Pagtuturo" (lmd)
 
 ---
 

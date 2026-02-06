@@ -1,8 +1,4 @@
----
-title: 'Summary: Parangalan si Jehova'
-sidebar:
-  label: Summary
----
+# Summary: Parangalan si Jehova
 
 ## Tema (Theme)
 **Ang tunay na pagsamba kay Jehova ay hindi lang panlabas — dapat galing ito sa puso.**

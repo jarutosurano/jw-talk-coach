@@ -1,9 +1,4 @@
----
-title: 'Outline: Paggawa ng mga Alagad'
-sidebar:
-  label: Outline
----
-
+# Outline: Paggawa ng mga Alagad
 
 **Petsa:** Enero 30, 2026
 **Oras:** 4 minuto

@@ -1,8 +1,4 @@
----
-title: 'Outline: Parangalan si Jehova'
-sidebar:
-  label: Outline
----
+# Outline: Parangalan si Jehova
 
 1. Parangalan si Jehova sa Pamamagitan ng mga Labi at Puso Mo (10 min.)
 

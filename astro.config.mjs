@@ -26,15 +26,7 @@ export default defineConfig({
 					label: 'Field Ministry',
 					autogenerate: { directory: 'field-ministry' },
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
 			],
-			defaultLocale: 'root',
-			locales: {
-				root: { label: 'Tagalog', lang: 'tl' },
-			},
 		}),
 	],
 });

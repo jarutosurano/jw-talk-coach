@@ -1,9 +1,4 @@
----
-title: 'Summary: Makakamit Pa Kaya Natin ang Tunay na Katarungan?'
-sidebar:
-  label: Summary
----
-
+# Summary: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 
 **Outline:** #33
 **Duration:** 30 minutes

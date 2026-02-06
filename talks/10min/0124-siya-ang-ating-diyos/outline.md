@@ -1,8 +1,4 @@
----
-title: 'Outline: Siya ang Ating Diyos!'
-sidebar:
-  label: Outline
----
+# Outline: Siya ang Ating Diyos!
 
 1. "Siya ang Ating Diyos!" (10 min.)
 Napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova (Isa 25:9; cl 17 ¶21)

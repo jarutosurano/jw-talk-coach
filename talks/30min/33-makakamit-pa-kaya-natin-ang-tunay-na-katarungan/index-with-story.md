@@ -1,9 +1,4 @@
----
-title: 'Script (With Story): Makakamit Pa Kaya Natin ang Tunay na Katarungan?'
-sidebar:
-  label: Script (With Story)
----
-
+# Script (With Story): Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 
 **Song:** #___ - [Title]
 **Date:** April 26, 2026 (Sunday)
