@@ -1,5 +1,5 @@
 ---
-title: 'Script: "Makakamit Pa Kaya Natin ang Tunay na Katarungan?"'
+title: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 ---
 
 **Song:** #___ - [Title]

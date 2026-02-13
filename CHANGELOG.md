@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.1.0] - 2026-02-13
+
+### Standardize 10-minute talk format and reorganize nav
+
+**Changed:**
+- 10-min script format: removed "PUNTO" prefix, use `## 1 —` numbered format
+- 10-min script format: removed "### Teksto:" subheadings
+- 10-min script format: IMAGE header simplified to `## IMAGE` (no "pagkatapos ng Punto X")
+- 10-min script format: title is plain text (no "Script:" prefix)
+- 10-min script format: date added below frontmatter (`Mon DD, YYYY`)
+- Updated both existing 10-min talks (0124, 0130) to new format
+- Removed "Script:" prefix from 30-min talk title for consistency
+- Updated `CLAUDE.md` with new 10-minute format standard
+- Hid Field Ministry from navigation (files kept, not published)
+- Created `docs/espirituwal-na-hiyas/` folder for Spiritual Gems section
+
+---
+
 ## [3.0.0] - 2026-02-13
 
 ### Migrated from Astro Starlight to MkDocs Material

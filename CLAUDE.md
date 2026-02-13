@@ -145,12 +145,17 @@ reference/
 - Write conclusion (recap + call to action) — ~10% of time
 - **IMPORTANT:** Use exact words/phrases from the outline — elders may follow along
 
-**Step 4a: Script Formatting Standards (for Notion)**
-Follow this format for consistency and proper Notion conversion:
+**Step 4a: Script Formatting Standards (10-Minute Talks)**
+
+This is the standard format. All 10-minute talks must follow this pattern:
 
 ```markdown
 ---
-title: 'Script: "Talk Title Here"'
+title: Talk Title Here
+---
+
+Mon DD, YYYY
+
 ---
 
 ## INTRO [1 minuto]
@@ -159,9 +164,7 @@ title: 'Script: "Talk Title Here"'
 
 ---
 
-## PUNTO 1: Full outline text here [2 minuto]
-
-### Teksto: Book X:X
+## 1 — Full outline text here [X minuto]
 
 [Intro before reading...]
 
@@ -173,7 +176,13 @@ title: 'Script: "Talk Title Here"'
 
 ---
 
-## IMAGE [pagkatapos ng Punto X]
+## 2 — Full outline text here [X minuto]
+
+[Content here...]
+
+---
+
+## IMAGE
 
 **IMAGE CUE: picture.jpg**
 
@@ -188,21 +197,30 @@ title: 'Script: "Talk Title Here"'
 
 | Element | Format | Example |
 |---------|--------|---------|
-| Title | YAML frontmatter `title:` | `title: 'Script: "Siya ang Ating Diyos!"'` |
+| Title | YAML frontmatter `title:` (plain, no "Script:" prefix) | `title: Siya ang Ating Diyos!` |
+| Date | Below frontmatter, before first `---` | `Jan 24, 2026` |
 | Section headers | `## SECTION [X minuto]` | `## INTRO [1 minuto]` |
-| Punto headers | Full outline text | `## PUNTO 1: Nagalit si Isaias... [2.5 minuto]` |
+| Point headers | `## N — Full outline text [X minuto]` (no "PUNTO") | `## 1 — Nagalit si Isaias... [2.5 minuto]` |
 | Read cues | Italic with brackets | `*[Basahin ang Isaias 29:13]*` |
 | Scripture quotes | Blockquote | `> "Scripture text..."` |
 | Outline phrases | Bold with curly braces | `**{masunurin mula sa puso}**` |
+| Image section | `## IMAGE` (no "pagkatapos ng Punto X") | `## IMAGE` |
 | Image cue | Bold | `**IMAGE CUE: picture.jpg**` |
+| Horizontal lines | Between every section | `---` |
+
+**Key rules:**
+- IMAGE is optional — not all 10-minute talks have images
+- IMAGE can be placed between any points (not fixed to after last point)
+- Always use `---` horizontal lines between sections
+- Date format: `Mon DD, YYYY` (e.g., `Jan 30, 2026`)
 
 **Step 4b: Handle Visual Aids (Images)**
-- **10-min talks:** Images required — must include in script
+- **10-min talks:** Images are optional — include only if the outline has one
 - **30-min talks:** Images optional — include if specified in outline
 - Script template for introducing image:
 
 ```markdown
-## IMAGE [pagkatapos ng Punto X]
+## IMAGE
 
 **IMAGE CUE: picture.jpg**
 

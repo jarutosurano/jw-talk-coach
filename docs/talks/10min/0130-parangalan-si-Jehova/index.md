@@ -198,7 +198,7 @@ Kaya ang tanong sa ating lahat: Kumpleto ba ang formula ko — Labi *at* Puso?
 
 ---
 
-## IMAGE [pagkatapos ng Punto 3]
+## IMAGE
 
 **IMAGE CUE: 202026004_univ_cnt_1_xl.jpg**
 

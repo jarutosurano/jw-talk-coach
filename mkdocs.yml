@@ -33,8 +33,9 @@ nav:
     - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
   - 30-Minute Talks:
     - 'Outline #33: Tunay na Katarungan': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
-  - Field Ministry:
-    - Paggawa ng mga Alagad: field-ministry/0130-paggawa-ng-mga-alagad-4min/index.md
+  # - Field Ministry:
+  #   - Paggawa ng mga Alagad: field-ministry/0130-paggawa-ng-mga-alagad-4min/index.md
+  # - Espirituwal na Hiyas: []
 
 extra_css:
   - stylesheets/extra.css

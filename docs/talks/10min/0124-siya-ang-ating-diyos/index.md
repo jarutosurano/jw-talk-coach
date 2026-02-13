@@ -1,5 +1,9 @@
 ---
-title: 'Script: "Siya ang Ating Diyos!"'
+title: Siya ang Ating Diyos!
+---
+
+Jan 24, 2026
+
 ---
 
 ## INTRO [1 minuto]
@@ -16,9 +20,7 @@ Sa talk po natin ngayong gabi, makikita natin na **{napakarami nating dahilan pa
 
 ---
 
-## PUNTO 1: Napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova [2 minuto]
-
-### Teksto: Isaias 25:9
+## 1 — Napakarami nating dahilan para ipagmalaki ang Diyos nating si Jehova [2 minuto]
 
 Buksan po natin ang Isaias kabanata 25, bersikulo 9.
 
@@ -38,9 +40,7 @@ Ano po ang ilan sa mga dahilang ito? Tingnan po natin ang dalawang pagpapala na 
 
 ---
 
-## PUNTO 2: Marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan—kasama na ang maraming masasarap na pagkain [3 minuto]
-
-### Teksto: Isaias 25:6
+## 2 — Marami siyang pagpapalang ibibigay sa atin sa bagong sanlibutan—kasama na ang maraming masasarap na pagkain [3 minuto]
 
 Manatili pa po tayo sa Isaias kabanata 25, pero tingnan natin ang bersikulo 6.
 
@@ -66,9 +66,7 @@ Pero hindi pa po tapos. May isa pang pagpapala si Jehova — at ito po ang pinak
 
 ---
 
-## PUNTO 3: Bibigyan niya tayo ng buhay na walang hanggan [3 minuto]
-
-### Teksto: Isaias 25:7, 8
+## 3 — Bibigyan niya tayo ng buhay na walang hanggan [3 minuto]
 
 Tingnan po natin ang bersikulo 7 at 8 ng Isaias 25.
 
@@ -104,7 +102,7 @@ Sulit po ba ang sakripisyo? Oo po. Siguradong sulit.
 
 ---
 
-## IMAGE [pagkatapos ng Punto 3]
+## IMAGE
 
 **IMAGE CUE: 10min-picture.jpg**
 
