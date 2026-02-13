@@ -4,6 +4,30 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.3.0] - 2026-02-13
+
+### Improve 10-min talk formatting: highlights, admonitions, transitions
+
+**Changed:**
+- Outline phrases now use `**==highlight==**` format (bold + highlight via `pymdownx.mark`) instead of `**{curly braces}**`
+- Bible text quotes now use `!!! quote "Book X:X"` admonition format with book icon instead of blockquotes
+- Added talk title mention in INTRO section
+- Added scripture transitions before every Bible reading ("Buksan po natin ang...")
+- Added image transitions with rhetorical questions and caption reading
+- Updated IMAGE section: speech transitions first, then figure with caption
+
+**Added:**
+- `pymdownx.mark` extension in `mkdocs.yml` for `==highlight==` syntax
+- `theme.icon.admonition.quote` set to `material/book-open-page-variant` (book icon for Bible quotes)
+- Content-to-footer spacing in `extra.css` (`padding-bottom: 3rem`)
+- MANDATORY rules in `CLAUDE.md`: scripture transitions (#13), image transitions (#8), Bible text admonition format, talk title in intro
+
+**Updated:**
+- `CLAUDE.md` formatting table, template, and Notion section to reflect new `**==highlight==**` and `!!! quote` patterns
+- 10-min talk script "Siya ang Magpapatatag sa Iyo" fully revised with all new formatting
+
+---
+
 ## [3.2.0] - 2026-02-13
 
 ### Add MkDocs Material features, REIA pattern, and talk rules

@@ -180,9 +180,10 @@ Mon DD, YYYY
 
 *[Basahin ang Book X:X]*
 
-> "Scripture quote here..."
+!!! quote "Book X:X"
+    "Scripture quote here..."
 
-**{Key phrase from outline}** — [explanation]
+**==Key phrase from outline==** — [explanation]
 
 ---
 
@@ -212,8 +213,8 @@ Mon DD, YYYY
 | Section headers | `## SECTION [X minuto]` | `## INTRO [1 minuto]` |
 | Point headers | `## N — Full outline text [X minuto]` (no "PUNTO") | `## 1 — Nagalit si Isaias... [2.5 minuto]` |
 | Read cues | Italic with brackets | `*[Basahin ang Isaias 29:13]*` |
-| Scripture quotes | Blockquote | `> "Scripture text..."` |
-| Outline phrases | Bold with curly braces | `**{masunurin mula sa puso}**` |
+| Scripture quotes | Admonition (quote) | `!!! quote "Isaias 33:6"` |
+| Outline phrases | Bold + highlight | `**==masunurin mula sa puso==**` |
 | Image section | `## IMAGE` (no "pagkatapos ng Punto X") | `## IMAGE` |
 | Image cue | Bold | `**IMAGE CUE: picture.jpg**` |
 | Horizontal lines | Between every section | `---` |
@@ -258,7 +259,7 @@ At napansin n'yo po ba ang caption? Sabi po dito:
 - **Hiyas (Espirituwal na Hiyas):** We are the CONDUCTOR. We ask the audience to read, answer, and share. "Sino po ang gustong bumasa?" is correct here.
 
 **MANDATORY — Use Exact Outline Wording:**
-- The exact words from the outline's main points MUST appear in the script sentences (wrapped in `**{curly braces}**`)
+- The exact words from the outline's main points MUST appear in the script sentences (wrapped in `**==highlight==**` — bold + highlight using `pymdownx.mark`)
 - Don't paraphrase or rephrase the outline — use the outline's own words
 - These phrases should be woven naturally into the flow, not just in headings
 
@@ -268,6 +269,41 @@ Each main point should follow this flow:
 2. **E — Explain** what it means
 3. **I — Ilarawan** (Illustrate) with a practical analogy or example
 4. **A — Ikapit** (Apply) to the audience's daily life
+
+**MANDATORY — Scripture Transitions (from guidelines.md #13):**
+Before reading any scripture, ALWAYS add a transition that:
+1. Tells the audience to open their Bible: "Buksan po natin ang [Book] kabanata X, bersikulo Y."
+2. Prepares their mind — tell them what to look for or ask a question: "Dito, makikita natin ang..."
+3. If returning to a previously opened text: "Balikan po natin ang [Book] X:X, pansinin naman ang..."
+
+Example:
+```
+Buksan po natin ang Isaias kabanata 33, bersikulo 6.
+Dito, makikita natin ang pangako ni Jehova sa atin.
+
+*[Basahin ang Isaias 33:6a]*
+```
+
+**MANDATORY — Image Transitions (from guidelines.md #8):**
+When presenting an image, ALWAYS follow this pattern:
+1. Call attention: "Ngayon naman po, tingnan natin ang larawan."
+2. Show: `*[Ipakita ang larawan]*`
+3. Ask rhetorical question: "Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?"
+4. Describe and connect to the point
+5. Read caption: "At napansin n'yo po ba ang caption? Sabi po dito: ..."
+6. Apply from the image
+
+**MANDATORY — Bible Text Format:**
+Use `!!! quote "Book X:X"` admonition format (with book icon) instead of blockquotes for ALL scripture readings in talks. The quote admonition icon is configured as `material/book-open-page-variant` in `mkdocs.yml`.
+
+Example:
+```markdown
+!!! quote "Isaias 33:6"
+    "Siya ang magpapatatag sa iyo..."
+```
+
+**MANDATORY — Talk Title in Intro:**
+Always mention the talk title in the introduction. Example: "Ang tema po natin ngayong gabi: **Siya ang Magpapatatag sa Iyo** — mula sa Isaias 33:6."
 
 **Step 5: Apply Aralin Principles**
 - Match struggles to relevant Aralin (see diagnostic mapping)
@@ -549,8 +585,8 @@ Push 10-minute talk scripts to Notion using the `/10minute` skill.
 - Talk folder must have `index.md` file
 
 **Script Formatting for Notion:**
-- Outline phrases (exact words from outline) should use **{curly braces}** format: `**{outline phrase here}**`
-- This renders as bold text with braces in Notion, so you know it's from the outline
+- Outline phrases (exact words from outline) should use **==highlight==** format: `**==outline phrase here==**`
+- This renders as bold highlighted text in the published site
 - Headings should NOT have bold markers (converter handles them)
 
 ---

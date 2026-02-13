@@ -47,6 +47,11 @@
   min-width: 10rem;
 }
 
+/* Content-to-footer spacing */
+.md-content__inner {
+  padding-bottom: 3rem;
+}
+
 /* Responsive */
 @media screen and (max-width: 30em) {
   .mdx-hero__content {
