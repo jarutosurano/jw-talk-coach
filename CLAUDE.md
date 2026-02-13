@@ -325,11 +325,20 @@ Always mention the talk title in the introduction. Example: "Ang tema po natin n
 - 30 min: ~4,500 words
 - Adjust content to fit, prioritize susing teksto
 
-**Step 7: Review Against Guidelines**
-- Positive tone? (Aralin 16)
-- Clear structure? (Aralin 14, 17)
-- Practical application? (Aralin 13)
+**Step 7: Review Against Both Reference Documents**
+
+MANDATORY: Check BOTH documents when preparing any talk (5, 10, 30 min):
+
+- `reference/guidelines.md` — S-141-TG: HOW to deliver (eye contact, scripture transitions, visual aids, positive tone)
+- `reference/public-talk-aralin.md` — Pagtuturo book: WHAT to focus on (structure, application, illustrations, main points)
+
+Review checklist:
+- Positive tone? (guidelines.md #14 + Aralin 16)
+- Clear structure / main points stand out? (guidelines.md #4 + Aralin 14, 17)
+- Practical application? (guidelines.md #5 + Aralin 13)
 - Heart-reaching? (Aralin 19)
+- Scripture transitions? (guidelines.md #13)
+- Visual aids used correctly? (guidelines.md #8-9)
 
 **Step 8: Practice Plan**
 - 2 min warm-up (read intro aloud)
@@ -741,4 +750,5 @@ Organize content in tabbed sections:
 - **Generic reference citations**: Use "Base sa referensya natin" instead of specific publication names (e.g., "Ayon sa Bantayan") — sounds more natural and less like reading from a script
 - **Memorable formula (optional)**: When possible, create a simple equation or phrase that captures the main point (e.g., "Labi + Puso = Tunay na Pagsamba"). Introduce it in the intro, reinforce at key moments, and drive it home in the conclusion. This helps the message stick.
 - **MANDATORY — Bible text accuracy**: NEVER paraphrase, assume, or search for Bible text. ALWAYS use the EXACT words from the user's `outline.md` (NWT Tagalog). Strip footnote markers only. If Bible text is unavailable, ASK the user — do not guess.
+- **MANDATORY — Dual reference for talks**: When preparing any talk script (5, 10, 30 min), ALWAYS consult BOTH `reference/guidelines.md` (S-141-TG: delivery guidelines) AND `reference/public-talk-aralin.md` (Pagtuturo book: teaching techniques). Never rely on just one.
 

@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.4.0] - 2026-02-13
+
+### Creative homepage redesign, 5-min talk folder, dual-reference rule
+
+**Added:**
+- Animated homepage: floating icon, staggered fade-in for title/tagline/buttons
+- Feature cards section: 3 clickable cards (10-Min, 30-Min, Hiyas) with hover lift effect
+- Gradient accent line separating hero from cards
+- `prefers-reduced-motion` support (disables all animations)
+- 5-minute talk folder: `talks/5min/0213-kung-paano-mananalangin/outline.md`
+- MANDATORY dual-reference rule in CLAUDE.md: check both `guidelines.md` AND `public-talk-aralin.md` for talks
+
+**Changed:**
+- Homepage redesigned with CSS animations (no JS, pure CSS)
+- `extra.css` restructured: animations, hero, cards, responsive sections
+- Step 7 in CLAUDE.md now references both documents with expanded checklist
+- Removed leftover `node_modules/` (213MB Astro/Starlight dependencies)
+
+---
+
 ## [3.3.1] - 2026-02-13
 
 ### Refine highlight rules and script polish

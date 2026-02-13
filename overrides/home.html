@@ -3,16 +3,17 @@
 {% block tabs %}
   {{ super() }}
 
+  <!-- Hero Section -->
   <section class="mdx-hero">
     <div class="md-grid mdx-hero__content">
-      <div class="mdx-hero__icon">
+      <div class="mdx-hero__icon mdx-animate-float">
         <span class="twemoji">
           {% include ".icons/material/account-voice.svg" %}
         </span>
       </div>
-      <h1>JW Talk Coach</h1>
-      <p>Talk preparation scripts para sa mga JW speakers</p>
-      <div class="mdx-hero__actions">
+      <h1 class="mdx-animate-fadein" style="animation-delay: 0s">JW Talk Coach</h1>
+      <p class="mdx-animate-fadein" style="animation-delay: 0.15s">Talk preparation scripts para sa mga JW speakers</p>
+      <div class="mdx-hero__actions mdx-animate-fadein" style="animation-delay: 0.3s">
         <a href="{{ 'talks/10min/0213-siya-ang-magpapatatag-sa-iyo/' | url }}" class="md-button md-button--primary">
           10-Minute Talks
         </a>
@@ -21,7 +22,48 @@
         </a>
       </div>
     </div>
+    <div class="mdx-hero__gradient"></div>
   </section>
+
+  <!-- Feature Cards Section -->
+  <section class="mdx-cards">
+    <div class="md-grid">
+      <div class="mdx-cards__grid">
+
+        <a href="{{ 'talks/10min/0213-siya-ang-magpapatatag-sa-iyo/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.4s">
+          <div class="mdx-card__icon">
+            <span class="twemoji">
+              {% include ".icons/material/clock-outline.svg" %}
+            </span>
+          </div>
+          <h3>10-Minute Talks</h3>
+          <p>Mga script para sa OCLM talk tuwing Biyernes gabi</p>
+        </a>
+
+        <a href="{{ 'talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.5s">
+          <div class="mdx-card__icon">
+            <span class="twemoji">
+              {% include ".icons/material/clock.svg" %}
+            </span>
+          </div>
+          <h3>30-Minute Talks</h3>
+          <p>Mga script para sa pahayag pangmadla tuwing Linggo</p>
+        </a>
+
+        <a href="{{ 'espirituwal-na-hiyas/0213-isaias-33-35/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.6s">
+          <div class="mdx-card__icon">
+            <span class="twemoji">
+              {% include ".icons/material/diamond-stone.svg" %}
+            </span>
+          </div>
+          <h3>Espirituwal na Hiyas</h3>
+          <p>Conductor script para sa Spiritual Gems</p>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
 {% endblock %}
 
 {% block content %}{% endblock %}
