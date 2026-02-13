@@ -400,6 +400,15 @@ espirituwal-na-hiyas/
 2. User tells Claude: "May bagong hiyas ako sa folder MMDD-title. Gawan mo ng script."
 3. Claude reads `outline.md` and creates `docs/espirituwal-na-hiyas/MMDD-title/index.md`
 
+### MANDATORY — Bible Text Accuracy
+
+- **NEVER** paraphrase, assume, or search for Bible text
+- **ALWAYS** use the EXACT words from the user's `outline.md` (which contains NWT Tagalog text copied from their Bible)
+- Strip footnote markers (single lowercase letters appearing as superscripts after words: e.g., `bisiga` → `bisig`, `kami.c` → `kami.`) but keep every word exact
+- If Bible text is not in the outline, **ASK the user** to provide it — do not guess
+- All publications and references should use jw.org data
+- This applies to ALL Bible quotes: Intro scripture, Tanong 1 scripture, and Tanong 2 personal gems
+
 ### Script Creation Workflow
 
 **Step 1:** Read `outline.md` — get bible reading, tanong 1, scripture text, reference
@@ -442,6 +451,10 @@ Salamat po.
 - [Key point 1 from reference]
 - [Key point 2 from reference]
 - [Key point 3 from reference]
+
+**Para ilarawan:**
+
+[Simple illustration or analogy to help explain the concept — practical, relatable, easy to understand. Think of a real-life scenario that makes the spiritual point click.]
 
 **Guided follow-up (kung kailangan):**
 
@@ -489,7 +502,7 @@ Balik po tayo sa chairman.
 **Key rules:**
 - Intro: improve/vary wording each time — use engaging synonyms, align with the Bible reading theme
 - Tanong 1 heading: use the EXACT workbook question word-for-word including scripture reference and publication reference
-- Tanong 1 body: simplified answer first, then highlights, then guided follow-ups WITH answers
+- Tanong 1 body: simplified answer first (explain "espirituwal na paraiso" or any unfamiliar terms in simple language), then highlights, then "Para ilarawan" illustration, then guided follow-ups WITH answers
 - Buod ng reference: bullet-point summary of the reference material (placed before Tanong 2)
 - Tanong 2 heading: always the exact same question text
 - Tanong 2 body: provide top 10 gems from the Bible reading — each with scripture text + personal answer (short, uses "ako/ko", within 30 seconds, practical application)
@@ -600,5 +613,5 @@ When adding a new talk:
 - **No formal greetings**: Skip "Mga kapatid at mga kaibigan, magandang gabi po sa inyong lahat" — jump straight into the hook
 - **Generic reference citations**: Use "Base sa referensya natin" instead of specific publication names (e.g., "Ayon sa Bantayan") — sounds more natural and less like reading from a script
 - **Memorable formula (optional)**: When possible, create a simple equation or phrase that captures the main point (e.g., "Labi + Puso = Tunay na Pagsamba"). Introduce it in the intro, reinforce at key moments, and drive it home in the conclusion. This helps the message stick.
-- **Always ask for actual Bible text**: Never assume or use memorized scripture wording. Always ask the user to provide the exact Bible verse from their copy (NWT Tagalog). Scripture wording must be accurate.
+- **MANDATORY — Bible text accuracy**: NEVER paraphrase, assume, or search for Bible text. ALWAYS use the EXACT words from the user's `outline.md` (NWT Tagalog). Strip footnote markers only. If Bible text is unavailable, ASK the user — do not guess.
 

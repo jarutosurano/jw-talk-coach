@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.1.1] - 2026-02-13
+
+### Fix Bible text accuracy and enhance Hiyas script
+
+**Fixed:**
+- All 10 Bible text quotes in Espirituwal na Hiyas gems now use EXACT wording from outline.md (NWT Tagalog) — previously some were truncated or paraphrased
+- Isaias 33:2 was missing "At kaligtasan namin sa panahon ng paghihirap"
+- Isaias 33:22 was missing "Dahil" and "Siya ang magliligtas sa atin"
+- Isaias 33:24, 34:16, 35:1, 35:3-4, 35:5-6, 35:10 all restored to full verse text
+
+**Added:**
+- "Espirituwal na paraiso" explanation in simplified answer (what it means in simple terms)
+- "Para ilarawan" illustration section in Tanong 1 (kagubatan analogy)
+- MANDATORY Bible text accuracy rule in CLAUDE.md (Hiyas section + Key Guidelines)
+- "Para ilarawan" template section in CLAUDE.md Hiyas script format
+
+**Changed:**
+- Personal reflections updated to reference newly included full Bible text portions
+- CLAUDE.md Tanong 1 body workflow updated to include illustration step
+
+---
+
 ## [3.1.0] - 2026-02-13
 
 ### Standardize 10-minute talk format and reorganize nav
