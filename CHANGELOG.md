@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.2.0] - 2026-02-13
+
+### Add MkDocs Material features, REIA pattern, and talk rules
+
+**Added:**
+- MkDocs Material features documentation in CLAUDE.md (admonitions, images with captions, content tabs)
+- `pymdownx.tabbed` extension in mkdocs.yml for content tabs
+- REIA pattern requirement for 10-min talk scripts (Read → Explain → Ilarawan → Ikapit)
+- Talks vs Hiyas distinction rule (MANDATORY: no audience interaction in talks)
+- Exact outline wording rule (MANDATORY: use outline's own words in script sentences)
+
+---
+
 ## [3.1.1] - 2026-02-13
 
 ### Fix Bible text accuracy and enhance Hiyas script

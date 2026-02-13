@@ -253,6 +253,22 @@ At napansin n'yo po ba ang caption? Sabi po dito:
 - Call attention to image → Describe → Connect to point → Read caption (if any)
 - See Aralin 9 and guidelines.md #8-9 for visual aid rules
 
+**IMPORTANT — Talks vs Hiyas Distinction:**
+- **Talks (5, 10, 15, 30 min):** WE are the speaker. No audience interaction. We read all scriptures ourselves. Never say "sino po ang gustong bumasa?" — that's Hiyas only.
+- **Hiyas (Espirituwal na Hiyas):** We are the CONDUCTOR. We ask the audience to read, answer, and share. "Sino po ang gustong bumasa?" is correct here.
+
+**MANDATORY — Use Exact Outline Wording:**
+- The exact words from the outline's main points MUST appear in the script sentences (wrapped in `**{curly braces}**`)
+- Don't paraphrase or rephrase the outline — use the outline's own words
+- These phrases should be woven naturally into the flow, not just in headings
+
+**REIA Pattern (for each scripture/point):**
+Each main point should follow this flow:
+1. **R — Read** the scripture text
+2. **E — Explain** what it means
+3. **I — Ilarawan** (Illustrate) with a practical analogy or example
+4. **A — Ikapit** (Apply) to the audience's daily life
+
 **Step 5: Apply Aralin Principles**
 - Match struggles to relevant Aralin (see diagnostic mapping)
 - Incorporate specific techniques from chosen Aralin
@@ -572,6 +588,71 @@ https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jeho
 When adding a new talk:
 1. Create the folder and `index.md` under `docs/talks/`
 2. Add the nav entry in `mkdocs.yml` under the appropriate section
+
+---
+
+## MkDocs Material Features
+
+These MkDocs Material features are available for use in scripts. Extensions are already configured in `mkdocs.yml`.
+
+### Admonitions (Callout Boxes)
+
+Useful for highlighting key points, tips, or notes in scripts.
+
+```markdown
+!!! quote "Isaias 33:6"
+    "Siya ang magpapatatag sa iyo..."
+
+!!! tip "Ikapit"
+    Pag-aralan ang Bibliya araw-araw.
+
+!!! example "Para Ilarawan"
+    Isipin ang isang barko sa gitna ng bagyo...
+```
+
+**Collapsible version** (click to expand):
+```markdown
+??? note "Karagdagang Impormasyon"
+    Expanded by clicking...
+
+???+ note "Bukas by Default"
+    Already expanded...
+```
+
+**Available types:** `note`, `abstract`, `info`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`
+
+### Images with Captions
+
+```markdown
+<figure markdown="span">
+  ![Alt text](picture.jpg){ width="100%" }
+  <figcaption>Caption text here</figcaption>
+</figure>
+```
+
+Alignment: `{ align=left }` or `{ align=right }`
+Lazy loading: `{ loading=lazy }`
+
+### Content Tabs
+
+Organize content in tabbed sections:
+
+```markdown
+=== "Punto 1"
+    Content for tab 1
+
+=== "Punto 2"
+    Content for tab 2
+```
+
+### When to Use These Features
+
+| Feature | Good for | Example use in talks |
+|---------|----------|---------------------|
+| Admonitions | Highlighting key sections | Scripture quotes, application boxes, illustrations |
+| Images | Rendering pictures with captions | Talk images with teaching captions |
+| Content tabs | Organizing alternatives | REIA breakdown, multiple examples |
+| Collapsible | Optional/extra content | Reference details, buod ng punto |
 
 ---
 
