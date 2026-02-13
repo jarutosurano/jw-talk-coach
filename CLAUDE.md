@@ -7,26 +7,26 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## 🚀 New Session? Start Here!
 
 1. **Check `README.md`** for quick start guide
-2. **Check `src/content/docs/talks/` folder** for existing and new talks
+2. **Check `docs/talks/` folder** for existing and new talks
 3. **Ask user:** "Anong talk po ang gagawin natin ngayon?"
 
 ---
 
 ## Project Overview
 
-This is a JW Public Talk Coaching System—a Tagalog-language knowledge base for helping speakers prepare and deliver effective public talks (pahayag pangmadla). Built with Astro Starlight. Run `npm run dev` for local development, `npm run build` to build.
+This is a JW Public Talk Coaching System—a Tagalog-language knowledge base for helping speakers prepare and deliver effective public talks (pahayag pangmadla). Built with MkDocs Material. Run `mkdocs serve` for local development, `mkdocs build` to build.
 
 ## File Structure
 
 **IMPORTANT — Publishing Rule:**
-Only `index.md` scripts go in `src/content/docs/` (published to GitHub Pages). All other files (outlines, summaries, reference docs) stay in root-level folders and are NOT placed in `src/content/docs/`.
+Only `index.md` scripts go in `docs/` (published to GitHub Pages). All other files (outlines, summaries, reference docs) stay in root-level folders and are NOT placed in `docs/`.
 
 **Published content (GitHub Pages):**
-- **src/content/docs/talks/10min/*/index.md** — 10-minute talk scripts
-- **src/content/docs/talks/30min/*/index.md** — 30-minute talk scripts
-- **src/content/docs/talks/5min/*/index.md** — 5-minute talk scripts
-- **src/content/docs/field-ministry/*/index.md** — Bible study demonstration scripts
-- **src/content/docs/index.mdx** — Splash homepage
+- **docs/talks/10min/*/index.md** — 10-minute talk scripts
+- **docs/talks/30min/*/index.md** — 30-minute talk scripts
+- **docs/talks/5min/*/index.md** — 5-minute talk scripts
+- **docs/field-ministry/*/index.md** — Bible study demonstration scripts
+- **docs/index.md** — Homepage
 
 **Non-published content (root-level, repo only):**
 - **talks/10min/*/outline.md, summary.md** — Talk outlines and summaries
@@ -37,14 +37,13 @@ Only `index.md` scripts go in `src/content/docs/` (published to GitHub Pages). A
 - **reference/ministeryo-aralin.md** — Counsel points for field ministry
 - **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition
 
-**IMPORTANT: All published markdown files (in `src/content/docs/`) need YAML frontmatter:**
+**IMPORTANT: All published markdown files (in `docs/`) need YAML frontmatter:**
 ```yaml
 ---
 title: 'Your Title Here'
-sidebar:
-  label: Short Label
 ---
 ```
+Navigation labels are defined in `mkdocs.yml` under the `nav:` section.
 
 ## Claude Skill Behavior
 
@@ -89,14 +88,14 @@ The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users 
 
 ### Recommended File Structure
 
-**Published scripts** (in `src/content/docs/`):
+**Published scripts** (in `docs/`):
 ```
-src/content/docs/talks/
+docs/talks/
   5min/MMDD-title/index.md
   10min/MMDD-title/index.md
   30min/[outline-number]-title/index.md
 
-src/content/docs/field-ministry/
+docs/field-ministry/
   MMDD-title-Xmin/index.md
 ```
 
@@ -152,8 +151,6 @@ Follow this format for consistency and proper Notion conversion:
 ```markdown
 ---
 title: 'Script: "Talk Title Here"'
-sidebar:
-  label: Talk Title Here
 ---
 
 ## INTRO [1 minuto]
@@ -267,9 +264,9 @@ For Bible study demonstrations and other field ministry assignments.
 
 ### Folder Structure
 
-**Published script** (in `src/content/docs/`):
+**Published script** (in `docs/`):
 ```
-src/content/docs/field-ministry/
+docs/field-ministry/
   MMDD-title-Xmin/index.md          # script (published)
 ```
 
@@ -311,8 +308,6 @@ field-ministry/
 ```markdown
 ---
 title: Title (X min)
-sidebar:
-  label: Title
 ---
 
 **Setting:** Bible Study (ongoing)
@@ -380,21 +375,23 @@ https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jeho
 
 **Why `index.md` instead of `script.md`:**
 - Using `index.md` creates clean URLs (folder path only, no filename needed)
-- Starlight renders `index.md` as the folder's default page
+- MkDocs renders `index.md` as the folder's default page
 
 **Setup (one-time):**
 1. Go to repo Settings → Pages
-2. Source: **GitHub Actions** (NOT "Deploy from a branch")
-3. The `.github/workflows/deploy.yml` handles the Astro build and deployment automatically
+2. Source: **Deploy from a branch** (`gh-pages`, `/ (root)`)
+3. The `.github/workflows/deploy.yml` handles `mkdocs gh-deploy` automatically
 
 **Notes:**
 - Repo must be **public** for free GitHub Pages
 - Private repos require GitHub Pro ($4/mo) for Pages
-- Sidebar navigation is auto-generated from the folder structure — no need to manually update a homepage table
+- Navigation is defined in `mkdocs.yml` under the `nav:` section
 
 **Adding a New Talk:**
 
-When adding a new talk, just create the folder and files under `src/content/docs/talks/`. Starlight auto-generates sidebar navigation — no homepage update needed.
+When adding a new talk:
+1. Create the folder and `index.md` under `docs/talks/`
+2. Add the nav entry in `mkdocs.yml` under the appropriate section
 
 ---
 

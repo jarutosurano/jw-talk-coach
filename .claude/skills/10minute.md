@@ -8,7 +8,7 @@
 ## Behavior
 
 ### Mode 1: List & Choose (no arguments)
-1. Scan `/src/content/docs/talks/10min/` for all talk folders
+1. Scan `/docs/talks/10min/` for all talk folders
 2. Display numbered list:
    ```
    Available 10-minute talks:
@@ -22,7 +22,7 @@
 ### Mode 2: Push Specific (with folder name)
 Example: `/10minute 0124-siya-ang-ating-diyos`
 
-1. Verify folder exists in `/src/content/docs/talks/10min/`
+1. Verify folder exists in `/docs/talks/10min/`
 2. Verify `index.md` exists in that folder
 3. Run: `python scripts/push-to-notion.py talks/10min/<folder-name>`
 4. Display result with Notion link
@@ -30,7 +30,7 @@ Example: `/10minute 0124-siya-ang-ating-diyos`
 ### Mode 3: Push All (argument = "all")
 Example: `/10minute all`
 
-1. Scan `/src/content/docs/talks/10min/` for all folders with `index.md`
+1. Scan `/docs/talks/10min/` for all folders with `index.md`
 2. Confirm with user: "Push X talks to Notion? (y/n)"
 3. Run script for each talk sequentially
 4. Display summary:
@@ -53,7 +53,7 @@ Before running, verify:
 3. Python and notion-client installed
 
 ## Error Handling
-- No talks found → "Walang talks sa /src/content/docs/talks/10min/. Gumawa muna ng talk folder."
+- No talks found → "Walang talks sa /docs/talks/10min/. Gumawa muna ng talk folder."
 - Folder not found → "Hindi mahanap ang folder: <name>. Check spelling."
 - No index.md → "Walang index.md sa folder na ito. Gumawa muna ng script."
 - API error → Show error message from script

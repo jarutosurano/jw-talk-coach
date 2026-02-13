@@ -1,7 +1,5 @@
 ---
 title: Paggawa ng mga Alagad (4 min)
-sidebar:
-  label: Paggawa ng mga Alagad
 ---
 
 

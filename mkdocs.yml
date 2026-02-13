@@ -1,0 +1,44 @@
+site_name: JW Talk Coach
+site_url: https://jarutosurano.github.io/jw-talk-coach/
+repo_url: https://github.com/jarutosurano/jw-talk-coach
+repo_name: jarutosurano/jw-talk-coach
+
+theme:
+  name: material
+  language: tl
+  favicon: assets/favicon.png
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - 10-Minute Talks:
+    - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
+    - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
+  - 30-Minute Talks:
+    - 'Outline #33: Tunay na Katarungan': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
+  - Field Ministry:
+    - Paggawa ng mga Alagad: field-ministry/0130-paggawa-ng-mga-alagad-4min/index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite

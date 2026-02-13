@@ -1,15 +1,15 @@
 # JW Public Talk Coaching System
 
-> Quick reference guide para sa talk preparation. Powered by Astro Starlight.
+> Quick reference guide para sa talk preparation. Powered by MkDocs Material.
 
 ---
 
 ## Quick Start
 
 ```bash
-npm install        # Install dependencies (first time only)
-npm run dev        # Start dev server at localhost:4321
-npm run build      # Build for production
+pip install -r requirements.txt   # Install dependencies (first time only)
+mkdocs serve                      # Start dev server at localhost:8000
+mkdocs build                      # Build for production
 ```
 
 ---
@@ -18,12 +18,12 @@ npm run build      # Build for production
 
 | Kung gusto mo... | Pumunta sa... |
 |------------------|---------------|
-| Gumawa ng bagong talk | `src/content/docs/talks/5min/`, `10min/`, or `30min/` |
-| Gumawa ng field ministry script | `src/content/docs/field-ministry/` |
+| Gumawa ng bagong talk | `docs/talks/5min/`, `10min/`, or `30min/` |
+| Gumawa ng field ministry script | `docs/field-ministry/` |
 | Tingnan ang workflow | `CLAUDE.md` |
-| Aralin reference | `src/content/docs/reference/public-talk-aralin.md` |
-| Ministeryo aralin reference | `src/content/docs/reference/ministeryo-aralin.md` |
-| Speaker guidelines | `src/content/docs/reference/guidelines.md` |
+| Aralin reference | `reference/public-talk-aralin.md` |
+| Ministeryo aralin reference | `reference/ministeryo-aralin.md` |
+| Speaker guidelines | `reference/guidelines.md` |
 
 ---
 
@@ -31,58 +31,57 @@ npm run build      # Build for production
 
 ### Step 1: Gumawa ng folder
 ```
-src/content/docs/talks/10min/MMDD-short-title/
+docs/talks/10min/MMDD-short-title/
 ```
-Example: `src/content/docs/talks/10min/0131-bagong-paksa/`
+Example: `docs/talks/10min/0131-bagong-paksa/`
 
 ### Step 2: Gumawa ng `outline.md`
-Paste ang outline + references dito. Add YAML frontmatter:
-```yaml
----
-title: 'Outline: Talk Title Here'
-sidebar:
-  label: Outline
----
-```
+Paste ang outline + references dito (sa root-level `talks/` folder).
 
 ### Step 3: Sabihin kay Claude
 > "May bagong 10min talk ako sa folder 0131-bagong-paksa. Gawan mo ng script."
 
 ### Step 4: Claude will create
-- `summary.md` — simplified overview ng topic
-- `index.md` — full script with timing (main page)
+- `summary.md` — simplified overview ng topic (sa root-level `talks/` folder)
+- `index.md` — full script with timing (sa `docs/talks/` — published)
 
-All new files need YAML frontmatter with `title` and `sidebar.label`.
+New script files need YAML frontmatter with `title`. Navigation labels are in `mkdocs.yml`.
 
 ---
 
 ## Folder Structure
 
 ```
-src/content/docs/
+docs/                             # Published content (GitHub Pages)
   talks/
-    5min/                     # Student talks (Friday gabi)
-    10min/                    # Assigned talks (Friday gabi)
+    5min/                         # Student talks (Friday gabi)
+    10min/                        # Assigned talks (Friday gabi)
       0124-siya-ang-ating-diyos/
-        outline.md
-        index.md              # main script
-        summary.md
-    30min/                    # Public talks (Sunday umaga)
-  field-ministry/             # Bible study demonstrations
-  reference/                  # Aralin, guidelines, ministeryo
+        index.md                  # main script
+    30min/                        # Public talks (Sunday umaga)
+  field-ministry/                 # Bible study demonstrations
 
-scripts/                      # Notion integration
+talks/                            # Non-published (outlines, summaries)
+  10min/
+    0124-siya-ang-ating-diyos/
+      outline.md
+      summary.md
+
+reference/                        # Aralin, guidelines, ministeryo
+
+scripts/                          # Notion integration
   push-to-notion.py
-  config.json                 # (gitignored)
+  config.json                     # (gitignored)
 
-.github/workflows/deploy.yml  # Auto-deploy to GitHub Pages
+mkdocs.yml                        # Site configuration & navigation
+.github/workflows/deploy.yml      # Auto-deploy to GitHub Pages
 ```
 
 ---
 
 ## GitHub Pages
 
-Site is deployed via GitHub Actions (Astro build).
+Site is deployed via GitHub Actions (`mkdocs gh-deploy`).
 
 URL format:
 ```
@@ -110,7 +109,7 @@ cd scripts
 python push-to-notion.py talks/10min/0124-siya-ang-ating-diyos
 ```
 
-The script auto-resolves paths from both `talks/` and `src/content/docs/talks/`.
+The script auto-resolves paths from both `talks/` and `docs/talks/`.
 
 First time? See `scripts/README.md` for setup instructions.
 

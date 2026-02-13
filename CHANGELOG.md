@@ -4,6 +4,36 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.0.0] - 2026-02-13
+
+### Migrated from Astro Starlight to MkDocs Material
+
+**Why:** Simpler Python-based toolchain, native Tagalog language support (`language: tl`), lighter dependency footprint, and better mobile reading experience.
+
+**Added:**
+- MkDocs Material configuration (`mkdocs.yml`, `requirements.txt`)
+- Explicit navigation in `mkdocs.yml` with section labels
+- Dark/light mode toggle (Material theme palette)
+- Tagalog UI language (`language: tl`)
+- New `docs/index.md` homepage with Material button styling
+
+**Changed:**
+- Content moved from `src/content/docs/` to `docs/` (MkDocs content root)
+- GitHub Actions workflow now uses Python + `mkdocs gh-deploy`
+- GitHub Pages source: "GitHub Actions" → "Deploy from a branch" (`gh-pages`)
+- `push-to-notion.py` fallback path updated to `docs/`
+- `.claude/skills/10minute.md` paths updated to `docs/`
+- `CLAUDE.md` and `README.md` updated with new paths and commands
+- Frontmatter simplified: removed `sidebar.label` (nav labels in `mkdocs.yml`)
+
+**Removed:**
+- Astro Starlight (`astro.config.mjs`, `package.json`, `package-lock.json`, `tsconfig.json`)
+- Starlight content config (`src/content.config.ts`)
+- Entire `src/` directory
+- `public/` directory (favicon moved to `docs/assets/`)
+
+---
+
 ## [2.0.1] - 2026-02-06
 
 ### Fix UI issues and content publishing

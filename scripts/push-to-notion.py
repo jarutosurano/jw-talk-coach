@@ -41,10 +41,10 @@ def read_script(talk_folder):
     """Read the index.md file from the talk folder"""
     script_path = Path(talk_folder) / "index.md"
 
-    # Also check src/content/docs/ path
+    # Also check docs/ path
     if not script_path.exists():
         project_root = Path(__file__).parent.parent
-        alt_path = project_root / "src" / "content" / "docs" / talk_folder / "index.md"
+        alt_path = project_root / "docs" / talk_folder / "index.md"
         if alt_path.exists():
             script_path = alt_path
 

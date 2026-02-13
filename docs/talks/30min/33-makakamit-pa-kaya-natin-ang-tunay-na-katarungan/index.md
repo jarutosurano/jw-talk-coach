@@ -1,7 +1,5 @@
 ---
 title: 'Script: "Makakamit Pa Kaya Natin ang Tunay na Katarungan?"'
-sidebar:
-  label: 'Outline #33: Tunay na Katarungan'
 ---
 
 **Song:** #___ - [Title]

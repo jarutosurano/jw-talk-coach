@@ -7,12 +7,12 @@ scripts/config.json
 # Python
 __pycache__/
 *.pyc
+.venv/
 
 # IDE
 .idea/
 .vscode/
 
-# Astro
-node_modules/
-dist/
-.astro/
+# MkDocs
+site/
+node_modules
