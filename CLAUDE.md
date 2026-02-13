@@ -364,6 +364,113 @@ title: Title (X min)
 
 ---
 
+## Espirituwal na Hiyas (Spiritual Gems)
+
+Conductor-led 10-minute discussion segment from the midweek meeting (OCLM). The user is the conductor — asks questions, audience answers. This is NOT a talk; it's a facilitated discussion.
+
+### How It Works
+
+1. **Timing:** 10 minutes total (no need to show timing per section in the script — conductor uses phone timer)
+2. **Two standard questions:**
+   - **Tanong 1:** Based on the Bible reading for that week. Comes with a specific scripture text and a Watchtower/workbook reference. The audience answers, and the conductor may ask guided follow-up questions if the answer needs to go deeper.
+   - **Tanong 2:** Always the same — "Sa pagbabasa ng Bibliya para sa linggong ito, anong espirituwal na hiyas ang nagustuhan mo?" Audience shares personal gems from their reading.
+
+### Folder Structure
+
+**Published script** (in `docs/`):
+```
+docs/espirituwal-na-hiyas/
+  MMDD-bible-reading/index.md     # conductor script (published)
+```
+
+**Non-published reference** (root-level):
+```
+espirituwal-na-hiyas/
+  MMDD-bible-reading/outline.md   # bible text, reference paragraphs, notes
+```
+
+**Naming:** `MMDD-bible-reading` (e.g., `0213-isaias-33-35`)
+
+### User Workflow
+
+1. User creates `espirituwal-na-hiyas/MMDD-title/outline.md` with:
+   - Bible reading range (e.g., Isaias 33-35)
+   - Tanong 1 text + scripture + reference paragraph
+   - Any notes
+2. User tells Claude: "May bagong hiyas ako sa folder MMDD-title. Gawan mo ng script."
+3. Claude reads `outline.md` and creates `docs/espirituwal-na-hiyas/MMDD-title/index.md`
+
+### Script Creation Workflow
+
+**Step 1:** Read `outline.md` — get bible reading, tanong 1, scripture text, reference
+
+**Step 2:** Draft script with this format:
+
+```markdown
+---
+title: Espirituwal na Hiyas — [Bible Reading]
+---
+
+Mon DD, YYYY
+
+---
+
+## Intro
+
+Magandang gabi po sa inyong lahat — mga kapatid at mga bisita.
+
+Dumako na po tayo sa ating bahagi na "Espirituwal na Hiyas" mula sa pagbabasa ng Bibliya sa aklat ng [Book] kabanata [X-X].
+
+---
+
+## Tanong 1: [Question text]
+
+Pero bago po natin sagutin ang unang tanong, sino po dito ang gustong bumasa sa [Scripture]?
+
+*[Basahin ang Scripture]*
+
+> "Scripture text here..."
+
+Salamat po. Ngayon, ang tanong: **[Question text]**
+
+**Mga highlight ng sagot:**
+
+- [Key point 1 from reference]
+- [Key point 2 from reference]
+- [Key point 3 from reference]
+
+**Guided follow-up (kung kailangan):**
+
+- [Follow-up question if audience answer is incomplete]
+- [Another angle to explore]
+
+---
+
+## Tanong 2: Anong espirituwal na hiyas ang nagustuhan mo?
+
+Sa pagbabasa ng Bibliya para sa linggong ito, anong espirituwal na hiyas ang nagustuhan mo?
+
+*(Hayaan ang mga kapatid at bisita na magbahagi ng kanilang personal na gems.)*
+
+---
+
+Maraming salamat po sa inyong mga sagot.
+```
+
+**Key rules:**
+- Intro: improve/vary wording each time — use engaging synonyms, align with the Bible reading theme
+- Tanong 1: scripture text is displayed (same blockquote format as talks), followed by highlights only (NOT the full reference paragraph)
+- Guided follow-up questions are optional — include when Tanong 1 might need deeper exploration
+- Tanong 2: always the same question, audience shares freely
+- References from `outline.md` are NEVER published — only the highlights appear in the script
+- No timing markers in the script (conductor uses phone timer)
+
+### Navigation Sorting
+
+Latest first (newest at top) in `mkdocs.yml` nav — same as 10-Minute Talks.
+
+---
+
 ## Notion Integration
 
 ### /10minute Command
