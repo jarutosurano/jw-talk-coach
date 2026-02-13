@@ -30,6 +30,8 @@ theme:
 
 nav:
   - Home: index.md
+  - 5-Minute Talks:
+    - Kung Paano Mananalangin: talks/5min/0213-kung-paano-mananalangin/index.md
   - 10-Minute Talks:
     - Siya ang Magpapatatag sa Iyo: talks/10min/0213-siya-ang-magpapatatag-sa-iyo/index.md
     - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
