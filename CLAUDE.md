@@ -26,6 +26,7 @@ Only `index.md` scripts go in `docs/` (published to GitHub Pages). All other fil
 - **docs/talks/30min/*/index.md** — 30-minute talk scripts
 - **docs/talks/5min/*/index.md** — 5-minute talk scripts
 - **docs/field-ministry/*/index.md** — Bible study demonstration scripts
+- **docs/cbs/*/index.md** — Congregational Bible Study conductor scripts
 - **docs/index.md** — Homepage
 
 **Non-published content (root-level, repo only):**
@@ -100,6 +101,9 @@ docs/field-ministry/
 
 docs/espirituwal-na-hiyas/
   MMDD-title/index.md
+
+docs/cbs/
+  MMDD-book-aral-XX-XX/index.md
 ```
 
 **Non-published support files** (root-level):
@@ -114,6 +118,9 @@ field-ministry/
 
 espirituwal-na-hiyas/
   MMDD-title/outline.md
+
+cbs/
+  MMDD-book-aral-XX-XX/outline.md
 
 reference/
   public-talk-aralin.md
@@ -584,6 +591,127 @@ Balik po tayo sa chairman.
 ### Navigation Sorting
 
 Latest first (newest at top) in `mkdocs.yml` nav — same as 10-Minute Talks.
+
+---
+
+## CBS (Congregational Bible Study)
+
+Conductor-led 30-minute book study from the midweek meeting (OCLM). The user is the conductor — introduces the material, assigns a reader, asks workbook questions, and facilitates discussion. This is NOT a talk; it's a facilitated study.
+
+### How It Works
+
+1. **Timing:** 30 minutes total (covers 2 aralins, sometimes with an introduction)
+2. **Flow per aralin:**
+   - Conductor gives brief intro on what we'll cover
+   - Reader reads the paragraphs: "Para simulan, makikisuyo tayo ni brother [name] para basahin ang mga talata"
+   - Conductor asks workbook questions after reading
+   - Audience answers, conductor may ask guided follow-ups
+   - Transition to next aralin
+3. **Current book:** lfb (Mga Aral Mula sa Bibliya)
+
+### Folder Structure
+
+**Published script** (in `docs/`):
+```
+docs/cbs/
+  MMDD-book-aral-XX-XX/index.md     # conductor script (published)
+```
+
+**Non-published reference** (root-level):
+```
+cbs/
+  MMDD-book-aral-XX-XX/outline.md   # aralin text, questions, notes
+```
+
+**Naming:** `MMDD-book-aral-XX-XX` (e.g., `0209-lfb-aral-60-61`)
+**Nav label:** `CBS` → `Feb 9-15` (week date range)
+
+### Script Creation Workflow
+
+**Step 1:** Read `outline.md` — get aralin text, questions, quoted texts, bible references
+
+**Step 2:** Draft script with this format:
+
+```markdown
+---
+title: CBS — [Date Range]
+---
+
+[Date Range], 2026
+
+---
+
+## Intro
+
+[Brief introduction on what we'll cover — 2 aralins overview]
+
+Para simulan, makikisuyo tayo ni brother [name] para basahin ang mga talata.
+
+---
+
+## Aral XX: [Title]
+
+### Tanong: [Exact workbook question]
+
+**Simplified na sagot:**
+
+[1-2 sentence plain answer — the core idea]
+
+**Mga highlight ng aralin:**
+
+- [Key point 1 from the aralin]
+- [Key point 2]
+- [Key point 3]
+
+### Mga Guided Questions
+
+**Q: [Basic question from intro/early part]**
+A: [30-second personalized answer — simple words, uses "ako/ko"]
+
+**Q: [Deeper question from middle]**
+A: [30-second personalized answer]
+
+**Q: [Application question from end]**
+A: [30-second personalized answer]
+
+---
+
+[Transition script to next aralin]
+
+---
+
+## Aral XX: [Title]
+
+[Same format as above]
+
+---
+
+## SUMMARY
+
+### Aral XX: [Title]
+- [Summary point 1]
+- [Summary point 2]
+
+### Aral XX: [Title]
+- [Summary point 1]
+- [Summary point 2]
+```
+
+**Key rules:**
+- Intro: brief overview of both aralins, assign reader
+- Questions: use EXACT workbook questions word-for-word
+- Simplified answers: plain, simple Tagalog — the core idea in 1-2 sentences
+- Highlights: bullet points from the aralin content
+- Guided questions: personal use — structured from basic (intro) to deep (end of aralin), 30-second answers, personalized ("ako/ko"), simple words
+- Transition: natural bridge between aralins
+- Summary: at the bottom, one summary per aralin
+- No "Para ilarawan" section (unlike Hiyas)
+- No timing markers in the script (conductor manages time)
+
+### Navigation
+
+Nav label format: `CBS` section → `[Date Range]` (e.g., `Feb 9-15`)
+Latest first in `mkdocs.yml` nav.
 
 ---
 
