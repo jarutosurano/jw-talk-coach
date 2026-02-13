@@ -40,7 +40,7 @@ nav:
       - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
       - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
     - 30-Minute:
-      - 'Outline #33: Tunay na Katarungan': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
+      - '33 - Makakamit Pa Kaya Natin ang Tunay na Katarungan?': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
   - Espirituwal na Hiyas:
     - Isaias 33-35: espirituwal-na-hiyas/0213-isaias-33-35/index.md
   - CBS:
@@ -61,3 +61,6 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.mark
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

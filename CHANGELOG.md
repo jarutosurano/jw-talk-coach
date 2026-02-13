@@ -4,17 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.6.0] - 2026-02-13
+
+### Reformat 30-min talk script to match 10-min standard
+
+**Changed:**
+- 30-min talk script reformatted: `## 1 —` numbered sections, `**==highlight==**` for outline words, `!!! quote` for all scriptures, scripture transitions
+- Nav title: `33 - Makakamit Pa Kaya Natin ang Tunay na Katarungan?` (new standard format)
+- Metadata with Material icons: song, date, KH on separate lines
+- IMAGE sections updated with transition pattern (no captions — pics pending)
+- Added `pymdownx.emoji` extension for Material icon shortcodes
+
+---
+
 ## [3.5.0] - 2026-02-13
 
-### Header tab navigation + Previous/Next footer
+### Header tab navigation + Previous/Next footer + CBS script
 
 **Added:**
 - Header tab navigation (`navigation.tabs`) — 4 tabs: Home, Talks, Espirituwal na Hiyas, CBS
 - Tabs hide on scroll down, reappear on scroll up (like squidfunk.github.io/mkdocs-material)
 - Previous/Next footer pagination (`navigation.footer`)
 - Tab navigation documentation in CLAUDE.md
-
-**Added:**
 - CBS conductor script: Aral 60-61 (Isang Kaharian na Mananatili Magpakailanman + Hindi Sila Yumukod)
 
 **Changed:**
