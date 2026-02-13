@@ -766,11 +766,28 @@ https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jeho
 - Private repos require GitHub Pro ($4/mo) for Pages
 - Navigation is defined in `mkdocs.yml` under the `nav:` section
 
+**Tab Navigation Structure:**
+
+The site uses MkDocs Material's header tabs (`navigation.tabs`) with 4 top-level tabs:
+
+| Tab | Sidebar Content | Adding New Content |
+|-----|----------------|-------------------|
+| **Home** | Custom hero page (no sidebar) | Edit `overrides/home.html` |
+| **Talks** | 5-Minute / 10-Minute / 30-Minute groups | Add under `Talks:` → `X-Minute:` in `mkdocs.yml` nav |
+| **Espirituwal na Hiyas** | Weekly entries | Add under `Espirituwal na Hiyas:` in nav |
+| **CBS** | Weekly entries | Add under `CBS:` in nav |
+
+Features enabled:
+- `navigation.tabs` — top-level nav items become header tabs
+- Tabs hide on scroll down, reappear on scroll up (no `navigation.tabs.sticky`)
+- `navigation.footer` — Previous/Next pagination in footer
+- `navigation.sections` — sidebar section headings stay bold
+
 **Adding a New Talk:**
 
 When adding a new talk:
 1. Create the folder and `index.md` under `docs/talks/`
-2. Add the nav entry in `mkdocs.yml` under the appropriate section
+2. Add the nav entry in `mkdocs.yml` under `Talks:` → the appropriate duration group
 
 ---
 

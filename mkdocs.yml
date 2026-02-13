@@ -13,8 +13,10 @@ theme:
     admonition:
       quote: material/book-open-page-variant
   features:
+    - navigation.tabs
+    # navigation.tabs.sticky removed — tabs hide on scroll down, reappear on scroll up
+    - navigation.footer
     - navigation.sections
-    - navigation.expand
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -30,20 +32,19 @@ theme:
 
 nav:
   - Home: index.md
-  - 5-Minute Talks:
-    - Kung Paano Mananalangin: talks/5min/0213-kung-paano-mananalangin/index.md
-  - 10-Minute Talks:
-    - Siya ang Magpapatatag sa Iyo: talks/10min/0213-siya-ang-magpapatatag-sa-iyo/index.md
-    - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
-    - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
-  - 30-Minute Talks:
-    - 'Outline #33: Tunay na Katarungan': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
+  - Talks:
+    - 5-Minute:
+      - Kung Paano Mananalangin: talks/5min/0213-kung-paano-mananalangin/index.md
+    - 10-Minute:
+      - Siya ang Magpapatatag sa Iyo: talks/10min/0213-siya-ang-magpapatatag-sa-iyo/index.md
+      - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
+      - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
+    - 30-Minute:
+      - 'Outline #33: Tunay na Katarungan': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
   - Espirituwal na Hiyas:
     - Isaias 33-35: espirituwal-na-hiyas/0213-isaias-33-35/index.md
   - CBS:
     - Feb 9-15: cbs/0209-lfb-aral-60-61/index.md
-  # - Field Ministry:
-  #   - Paggawa ng mga Alagad: field-ministry/0130-paggawa-ng-mga-alagad-4min/index.md
 
 extra_css:
   - stylesheets/extra.css

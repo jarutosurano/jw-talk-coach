@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.5.0] - 2026-02-13
+
+### Header tab navigation + Previous/Next footer
+
+**Added:**
+- Header tab navigation (`navigation.tabs`) — 4 tabs: Home, Talks, Espirituwal na Hiyas, CBS
+- Tabs hide on scroll down, reappear on scroll up (like squidfunk.github.io/mkdocs-material)
+- Previous/Next footer pagination (`navigation.footer`)
+- Tab navigation documentation in CLAUDE.md
+
+**Added:**
+- CBS conductor script: Aral 60-61 (Isang Kaharian na Mananatili Magpakailanman + Hindi Sila Yumukod)
+
+**Changed:**
+- Restructured `mkdocs.yml` nav: Talks now groups 5-Minute, 10-Minute, 30-Minute under one tab
+- Removed `navigation.expand` (conflicts with tab navigation)
+- CBS questions split into numbered format (1 — question, answer below)
+
+---
+
 ## [3.4.0] - 2026-02-13
 
 ### Creative homepage redesign, 5-min talk folder, dual-reference rule
