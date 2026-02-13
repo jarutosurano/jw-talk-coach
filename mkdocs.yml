@@ -29,8 +29,8 @@ theme:
 nav:
   - Home: index.md
   - 10-Minute Talks:
-    - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
     - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
+    - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
   - 30-Minute Talks:
     - 'Outline #33: Tunay na Katarungan': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
   # - Field Ministry:

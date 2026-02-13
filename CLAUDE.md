@@ -97,6 +97,9 @@ docs/talks/
 
 docs/field-ministry/
   MMDD-title-Xmin/index.md
+
+docs/espirituwal-na-hiyas/
+  MMDD-title/index.md
 ```
 
 **Non-published support files** (root-level):
@@ -109,6 +112,9 @@ talks/
 field-ministry/
   MMDD-title-Xmin/outline.md
 
+espirituwal-na-hiyas/
+  MMDD-title/outline.md
+
 reference/
   public-talk-aralin.md
   guidelines.md
@@ -116,11 +122,15 @@ reference/
 ```
 
 **Naming Convention:**
-- **5min/10min folders:** `MMDD-short-title` (e.g., `0124-siya-ang-ating-diyos`)
+- **5min/10min/espirituwal-na-hiyas folders:** `MMDD-short-title` (e.g., `0124-siya-ang-ating-diyos`)
 - **30min folders:** `[outline-number]-title` (e.g., `33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan`) — uses outline number since speakers may have few talks per year
 - Files inside: simple names (`outline.md`, `index.md`, `summary.md`)
 - Images: `picture.jpg` or `picture-1.jpg`, `picture-2.jpg` (if multiple)
 - Use lowercase and hyphens for folder names
+
+**Navigation Sorting:**
+- **10-Minute Talks:** Latest first (newest at top) in `mkdocs.yml` nav
+- **30-Minute Talks:** Leave as is (few per year)
 
 ### Script Creation Workflow
 
