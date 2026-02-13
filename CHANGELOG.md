@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [3.3.1] - 2026-02-13
+
+### Refine highlight rules and script polish
+
+**Changed:**
+- Highlight (`==`) now ONLY used at section intro when explicitly stating the outline point
+- All other uses of outline words (application, conclusion, summary) use bold only
+- Bible text phrases, formula, and talk title = bold only (not highlight)
+- Smoother intro transition (bridge from hook to theme, removed "mula sa Isaias 33:6")
+- Ana's experience now attributed to reference ("makikita natin sa ating referensya")
+- Fixed scripture transition for Isa 33:6a (was incorrectly described as "pangako")
+- Conclusion now uses bullet points
+- Summary now uses bullet points with outline text in bold (removed "Punto X —" prefix)
+- Removed `*[Ipakita ang larawan]*` stage cue from IMAGE section
+
+**Updated:**
+- `CLAUDE.md` with nuanced highlight vs bold rules and updated image template
+
+---
+
 ## [3.3.0] - 2026-02-13
 
 ### Improve 10-min talk formatting: highlights, admonitions, transitions

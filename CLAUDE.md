@@ -183,7 +183,9 @@ Mon DD, YYYY
 !!! quote "Book X:X"
     "Scripture quote here..."
 
-**==Key phrase from outline==** — [explanation]
+**==Key phrase from outline==** — only at section intro
+
+**Key phrase from Bible text** — [explanation] (bold only, not highlight)
 
 ---
 
@@ -233,11 +235,12 @@ Mon DD, YYYY
 ```markdown
 ## IMAGE
 
-**IMAGE CUE: picture.jpg**
-
 Ngayon naman po, tingnan natin ang larawan.
 
-*[Ipakita ang larawan]*
+<figure markdown="span">
+  ![Alt text](picture.jpg){ width="100%" }
+  <figcaption>Exact caption text from workbook</figcaption>
+</figure>
 
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
 
@@ -259,9 +262,16 @@ At napansin n'yo po ba ang caption? Sabi po dito:
 - **Hiyas (Espirituwal na Hiyas):** We are the CONDUCTOR. We ask the audience to read, answer, and share. "Sino po ang gustong bumasa?" is correct here.
 
 **MANDATORY — Use Exact Outline Wording:**
-- The exact words from the outline's main points MUST appear in the script sentences (wrapped in `**==highlight==**` — bold + highlight using `pymdownx.mark`)
+- The exact words from the outline's main points MUST appear in the script
 - Don't paraphrase or rephrase the outline — use the outline's own words
 - These phrases should be woven naturally into the flow, not just in headings
+
+**Highlight vs Bold Rules:**
+- `**==highlight==**` (bold + yellow highlight) = ONLY when explicitly introducing/stating the outline point at the START of each section (once per point). This is the visual indicator that "these are the exact words from the outline."
+- `**bold only**` = for the SAME outline words when used in other contexts: application ("Kaya paano natin ito ikakapit?"), conclusion, summary, Bible text phrases, formula, and talk title
+- Bible text key phrases (derived from scripture, not from the outline) = **bold only**
+- Formula = **bold only** (not from the outline)
+- Talk title in intro = **bold only**
 
 **REIA Pattern (for each scripture/point):**
 Each main point should follow this flow:
@@ -287,7 +297,7 @@ Dito, makikita natin ang pangako ni Jehova sa atin.
 **MANDATORY — Image Transitions (from guidelines.md #8):**
 When presenting an image, ALWAYS follow this pattern:
 1. Call attention: "Ngayon naman po, tingnan natin ang larawan."
-2. Show: `*[Ipakita ang larawan]*`
+2. Render image: `<figure markdown="span">` with caption
 3. Ask rhetorical question: "Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?"
 4. Describe and connect to the point
 5. Read caption: "At napansin n'yo po ba ang caption? Sabi po dito: ..."

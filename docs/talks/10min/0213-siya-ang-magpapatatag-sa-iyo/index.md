@@ -10,9 +10,11 @@ Feb 13, 2026
 
 Naranasan n'yo na ba na parang binabagyo kayo sa buhay? Mga problema na sunod-sunod, desisyon na mahirap gawin, emosyon na hindi makontrol. Parang nasa gitna ka ng dagat at walang makapitan.
 
-Ang tema po natin ngayong gabi: **Siya ang Magpapatatag sa Iyo** — mula sa Isaias 33:6. At tatalakayin natin ang tatlong hakbang mula sa talatang iyon para maging matatag.
+Pero alam n'yo ba? Hindi tayo nag-iisa sa ganitong pakiramdam. At may magandang balita — si Jehova mismo ang tutulong sa atin.
 
-Tandaan natin ito: **==Hilingin + Humingi + Umasa = Matatag==**.
+Kaya ang tema po natin ngayong gabi: **Siya ang Magpapatatag sa Iyo**. At tatalakayin natin ang tatlong hakbang para maging matatag.
+
+Tandaan natin ito: **Hilingin + Humingi + Umasa = Matatag**.
 
 Baka naiisip n'yo — hindi ba pareho lang ang hilingin at humingi? Malalaman natin mamaya.
 
@@ -24,18 +26,18 @@ Simulan natin sa unang hakbang.
 
 Ang unang hakbang: **==Hilingin kay Jehova na patatagin ka kapag may pinagdadaanan kang pagsubok==**.
 
-Buksan po natin ang Isaias kabanata 33, bersikulo 6. Dito, makikita natin ang pangako ni Jehova sa atin. Pansinin ang unang bahagi.
+Buksan po natin ang Isaias kabanata 33, bersikulo 6. Dito, maririnig natin kung ano ang sinasabi ni Jehova. Pansinin ang unang bahagi.
 
 *[Basahin ang Isaias 33:6a]*
 
 !!! quote "Isaias 33:6a"
     "Siya ang magpapatatag sa iyo"
 
-**==Siya ang magpapatatag sa iyo==** — hindi tayo, siya. Si Jehova mismo ang gagawa nito.
+**Siya ang magpapatatag sa iyo** — hindi tayo, siya. Si Jehova mismo ang gagawa nito.
 
 Kapag may mabigat tayong pinagdadaanan, baka mahirapan tayong kontrolin ang nararamdaman, iniisip, at reaksiyon natin. Baka maging pabago-bago ang emosyon natin.
 
-Ganiyan ang naranasan ni Ana nang mamatay ang asawa niyang si Luis. Sinabi niya: "Kapag nade-depress ako, naaawa ako sa sarili ko. Nagagalit din ako kasi wala na siya." Minsan, pakiramdam niya, para siyang binabagyo sa gitna ng dagat.
+Pansinin ang karanasan ni Ana na makikita natin sa ating referensya. Nang mamatay ang asawa niyang si Luis, ganito ang naranasan niya. Sinabi niya: "Kapag nade-depress ako, naaawa ako sa sarili ko. Nagagalit din ako kasi wala na siya." Minsan, pakiramdam niya, para siyang binabagyo sa gitna ng dagat.
 
 Para ilarawan, isipin ang isang barko sa gitna ng bagyo. Kapag malakas ang alon, puwedeng tumaob ang barko. Kaya maraming barko ang may mga stabilizer sa magkabilang gilid — nasa ilalim ng tubig. Nakakatulong ito para mabawasan ang pag-alog ng barko. Mas ligtas ang mga pasahero at mas komportable ang biyahe.
 
@@ -43,15 +45,13 @@ Pero narito ang importante — ang stabilizer ay magagamit lang nang husto kung 
 
 Ganiyan din si Jehova. Patatatagin niya tayo — pero kung patuloy tayong maglilingkod nang tapat kahit may mga problema.
 
-Kaya paano natin ito ikakapit? **==Hilingin kay Jehova na patatagin ka==** — iyan ang panalangin mo. Sabihin mo sa kaniya: "Patatagin mo ako." At patuloy na umandar — patuloy na maglingkod. Dahil gaya ng stabilizer, gumagana lang ito kapag gumagalaw ang barko.
+Kaya paano natin ito ikakapit? **Hilingin kay Jehova na patatagin ka** — iyan ang panalangin mo. Sabihin mo sa kaniya: "Patatagin mo ako." At patuloy na umandar — patuloy na maglingkod. Dahil gaya ng stabilizer, gumagana lang ito kapag gumagalaw ang barko.
 
 ---
 
 ## IMAGE
 
 Ngayon naman po, tingnan natin ang larawan.
-
-*[Ipakita ang larawan]*
 
 <figure markdown="span">
   ![Isang sister na nakaupo sa mesa, may hawak na tablet. Sa itaas niya, iniisip niya ang isang barko sa gitna ng bagyo.](picture.jpg){ width="100%" }
@@ -89,7 +89,7 @@ Balikan po natin ang Isaias 33:6, at pansinin naman ang pangalawang bahagi.
 !!! quote "Isaias 33:6b"
     "Dakilang kaligtasan, saganang karunungan at kaalaman, at pagkatakot kay Jehova — Ito ang kayamanan niya."
 
-**==Saganang karunungan at kaalaman==** — iyan ang kayamanan na ibinibigay ni Jehova. Hindi pera, hindi material na bagay — kundi karunungan at kaalaman.
+**Saganang karunungan at kaalaman** — iyan ang kayamanan na ibinibigay ni Jehova. Hindi pera, hindi material na bagay — kundi karunungan at kaalaman.
 
 At paano natin ito hihingiin? Buksan po natin ang Santiago kabanata 1, bersikulo 5. Dito, matutulungan tayo kung paano makukuha ang karunungan ng Diyos.
 
@@ -98,13 +98,13 @@ At paano natin ito hihingiin? Buksan po natin ang Santiago kabanata 1, bersikulo
 !!! quote "Santiago 1:5"
     "Kaya kung ang sinuman sa inyo ay kulang sa karunungan, patuloy siyang humingi sa Diyos, dahil sagana Siyang nagbibigay sa lahat at hindi nandurusta, at ibibigay iyon sa kaniya."
 
-**==Patuloy siyang humingi==** — hindi lang isang beses. Patuloy. Hindi makukulitan si Jehova kahit paulit-ulit tayong hihingi ng karunungan. Sagana niyang ibibigay.
+**Patuloy siyang humingi** — hindi lang isang beses. Patuloy. Hindi makukulitan si Jehova kahit paulit-ulit tayong hihingi ng karunungan. Sagana niyang ibibigay.
 
 Para ilarawan: Parang faucet. Kapag binuksan mo, aagos ang tubig. Kapag hindi mo binuksan, wala. Ang karunungan ni Jehova ay laging available — pero kailangan mong buksan ang faucet. Paano? Sa pamamagitan ng panalangin, pag-aaral ng Bibliya, at pagsasabuhay ng mga natututuhan mo.
 
 Gaya ng sinabi ni Santiago: "Maging tagatupad kayo ng salita at hindi tagapakinig lang." Kapag sinunod natin ang payo ng Diyos, mas nagiging mapagpayapa tayo, makatuwiran, at maawain.
 
-Kaya **==humingi sa kaniya ng karunungan at kaalaman==** — buksan ang faucet — at isabuhay ito para **==makagawa ka ng matatalinong desisyon==**.
+Kaya **humingi sa kaniya ng karunungan at kaalaman** — buksan ang faucet — at isabuhay ito para **makagawa ka ng matatalinong desisyon**.
 
 ---
 
@@ -127,28 +127,26 @@ Pero sa hinaharap — pagkatapos ng Armagedon — magkakaroon ng mas malaking ka
 
 Para ilarawan: May kakilala ka bang nagdurusa ngayon dahil sa sakit? Isipin ang mukha niya. Ngayon isipin — isang araw, sasabihin niya sa iyo nang nakangiti: "Wala na akong sakit." Hindi ba nakakakilabot iyon sa tuwa?
 
-Kaya **==umasa kay Jehova==** — dahil tiyak na **==mararanasan mo ang sinasabi sa Isaias 33:24==**.
+Kaya **umasa kay Jehova** — dahil tiyak na **mararanasan mo ang sinasabi sa Isaias 33:24**.
 
 ---
 
 ## CONCLUSION [1 minuto]
 
-Tandaan natin ang formula natin ngayong gabi: **==Hilingin + Humingi + Umasa = Matatag==**.
+Tandaan natin ang formula natin ngayong gabi: **Hilingin + Humingi + Umasa = Matatag**.
 
-**==Hilingin kay Jehova na patatagin ka==** — iyan ang panalangin mo. Siya ang stabilizer mo sa gitna ng bagyo.
+- **Hilingin kay Jehova na patatagin ka** — iyan ang panalangin mo. Siya ang stabilizer mo sa gitna ng bagyo.
+- **Humingi sa kaniya ng karunungan at kaalaman** — iyan ang aksyon mo. Buksan ang faucet. Pag-aralan. Isabuhay.
+- **Umasa kay Jehova** — iyan ang pag-asa mo. Darating ang araw na wala nang sakit, wala nang pagdurusa.
 
-**==Humingi sa kaniya ng karunungan at kaalaman==** — iyan ang aksyon mo. Buksan ang faucet. Pag-aralan. Isabuhay.
-
-**==Umasa kay Jehova==** — iyan ang pag-asa mo. Darating ang araw na wala nang sakit, wala nang pagdurusa.
-
-Kaya kahit anong bagyo ang dumating sa buhay natin — tandaan: Si Jehova — **==Siya ang magpapatatag sa iyo==**.
+Kaya kahit anong bagyo ang dumating sa buhay natin — tandaan: Si Jehova — **Siya ang magpapatatag sa iyo**.
 
 ---
 
 ## SUMMARY
 
-Ang temang "Siya ang Magpapatatag sa Iyo" ay mula sa Isaias 33:6 — isang pangako ni Jehova na hindi niya tayo pababayaan sa gitna ng mga pagsubok. Formula: **==Hilingin + Humingi + Umasa = Matatag==**.
+Ang temang "Siya ang Magpapatatag sa Iyo" ay mula sa Isaias 33:6 — isang pangako ni Jehova na hindi niya tayo pababayaan sa gitna ng mga pagsubok. Formula: **Hilingin + Humingi + Umasa = Matatag**.
 
-- **Punto 1 — Hilingin kay Jehova na patatagin ka:** Ang hilingin ay panalangin — hinihiling mo kay Jehova na patatagin ka. Gaya ng stabilizer ng barko, patatatagin niya tayo basta patuloy tayong naglilingkod nang tapat.
-- **Punto 2 — Humingi ng karunungan at kaalaman:** Ang humingi ay aksyon — hindi lang panalangin kundi pag-aaral at pagsasabuhay ng Salita ng Diyos para makagawa ng matatalinong desisyon.
-- **Punto 3 — Umasa kay Jehova (Isaias 33:24):** Ngayon pa lang ay nagtatamasa na tayo ng espirituwal na pagpapagaling, at sa hinaharap, wala nang sakit o pagdurusa.
+- **Hilingin kay Jehova na patatagin ka kapag may pinagdadaanan kang pagsubok** — Ang hilingin ay panalangin. Gaya ng stabilizer ng barko, patatatagin niya tayo basta patuloy tayong naglilingkod nang tapat.
+- **Humingi sa kaniya ng karunungan at kaalaman para makagawa ka ng matatalinong desisyon** — Ang humingi ay aksyon — pag-aaral at pagsasabuhay ng Salita ng Diyos.
+- **Umasa kay Jehova, at mararanasan mo ang sinasabi sa Isaias 33:24** — Ngayon pa lang ay nagtatamasa na tayo ng espirituwal na pagpapagaling, at sa hinaharap, wala nang sakit o pagdurusa.
