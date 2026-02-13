@@ -29,6 +29,7 @@ theme:
 nav:
   - Home: index.md
   - 10-Minute Talks:
+    - Siya ang Magpapatatag sa Iyo: talks/10min/0213-siya-ang-magpapatatag-sa-iyo/index.md
     - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
     - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
   - 30-Minute Talks:
