@@ -421,17 +421,21 @@ Magandang gabi po sa inyong lahat — mga kapatid at mga bisita.
 
 Dumako na po tayo sa ating bahagi na "Espirituwal na Hiyas" mula sa pagbabasa ng Bibliya sa aklat ng [Book] kabanata [X-X].
 
----
-
-## Tanong 1: [Question text]
-
 Pero bago po natin sagutin ang unang tanong, sino po dito ang gustong bumasa sa [Scripture]?
 
 *[Basahin ang Scripture]*
 
 > "Scripture text here..."
 
-Salamat po. Ngayon, ang tanong: **[Question text]**
+Salamat po.
+
+---
+
+## Tanong 1: [Exact workbook question with reference] (e.g., Isa 35:8 — Saan tumutukoy ang "Daan ng Kabanalan" ngayon? (w23.05 15 ¶8))
+
+**Simplified na sagot:**
+
+[1-2 sentence plain answer — the core idea]
 
 **Mga highlight ng sagot:**
 
@@ -441,28 +445,56 @@ Salamat po. Ngayon, ang tanong: **[Question text]**
 
 **Guided follow-up (kung kailangan):**
 
-- [Follow-up question if audience answer is incomplete]
-- [Another angle to explore]
+- **[Follow-up question]**
+  Sagot: [Answer to the follow-up]
+
+- **[Another follow-up question]**
+  Sagot: [Answer]
 
 ---
 
-## Tanong 2: Anong espirituwal na hiyas ang nagustuhan mo?
+**Buod ng reference:**
 
-Sa pagbabasa ng Bibliya para sa linggong ito, anong espirituwal na hiyas ang nagustuhan mo?
-
-*(Hayaan ang mga kapatid at bisita na magbahagi ng kanilang personal na gems.)*
+- [Summary bullet 1 from the reference material]
+- [Summary bullet 2]
+- [Summary bullet 3]
 
 ---
 
-Maraming salamat po sa inyong mga sagot.
+## Tanong 2: Sa pagbabasa ng Bibliya para sa linggong ito, anong espirituwal na hiyas ang nagustuhan mo?
+
+**[Book X:X]** — "[Scripture text]"
+
+- [Personal gem — short, direct, uses "ako/ko", within 30 seconds]
+
+**[Book X:X]** — "[Scripture text]"
+
+- [Another personal gem]
+
+(Provide top 10 gems from the Bible reading — personal, concise, practical)
+
+---
+
+## Maraming salamat po.
+
+Para sa huling komento po.. si sister..
+
+Maraming salamat po, mga kapatid, sa inyong pakikibahagi at sa inyong paghahanda.
+
+At paumanhin po sa di natawag.
+
+Balik po tayo sa chairman.
 ```
 
 **Key rules:**
 - Intro: improve/vary wording each time — use engaging synonyms, align with the Bible reading theme
-- Tanong 1: scripture text is displayed (same blockquote format as talks), followed by highlights only (NOT the full reference paragraph)
-- Guided follow-up questions are optional — include when Tanong 1 might need deeper exploration
-- Tanong 2: always the same question, audience shares freely
-- References from `outline.md` are NEVER published — only the highlights appear in the script
+- Tanong 1 heading: use the EXACT workbook question word-for-word including scripture reference and publication reference
+- Tanong 1 body: simplified answer first, then highlights, then guided follow-ups WITH answers
+- Buod ng reference: bullet-point summary of the reference material (placed before Tanong 2)
+- Tanong 2 heading: always the exact same question text
+- Tanong 2 body: provide top 10 gems from the Bible reading — each with scripture text + personal answer (short, uses "ako/ko", within 30 seconds, practical application)
+- Closing: always ends with the standard closing script (salamat, huling komento, paumanhin, balik sa chairman)
+- References from `outline.md` are NEVER published — only the highlights/summaries appear in the script
 - No timing markers in the script (conductor uses phone timer)
 
 ### Navigation Sorting
