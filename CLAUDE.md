@@ -139,6 +139,18 @@ reference/
 - **10-Minute Talks:** Latest first (newest at top) in `mkdocs.yml` nav
 - **30-Minute Talks:** Leave as is (few per year)
 
+### MANDATORY — Outline Template with Guided Comments
+
+When creating a new `outline.md` file for any talk type (5, 10, 30 min), ALWAYS include HTML comment guides (`<!-- -->`) in each section so the user knows exactly what to paste and how to format it. Every outline.md must have these sections with comments:
+
+- `## Outline` — what to paste (workbook text, main points, scriptures)
+- `## References` — format for each reference (publication code + full paragraph text)
+- `## Bible Texts` — reminder to paste EXACT NWT Tagalog text (never paraphrase)
+- `## Image` — what to include (URL, description, caption) or note if none
+- `## Notes` — suggestions for what to write (struggles, goals, audience type)
+
+This ensures the user is guided on where to put each piece of information without needing to ask. See existing outlines in `talks/10min/` for the standard template.
+
 ### Script Creation Workflow
 
 **Step 1: Intake**
