@@ -111,6 +111,25 @@ Minsan po, pagod na pagod tayong umaalis ng bahay para dumalo sa pulong. Pero pa
 
 ---
 
+## IMAGE
+
+Ngayon naman po, tingnan natin ang huling larawan.
+
+<figure markdown="span">
+  ![Paano nakatulong ang paglalarawan kay Jehova bilang pastol sa Isaias 40:11 para lumalim ang pag-ibig mo sa kaniya?](picture-2.jpg){ width="100%" }
+  <figcaption>PARA SA PAGBUBULAY-BULAY: Paano nakatulong ang paglalarawan kay Jehova bilang pastol sa Isaias 40:11 para lumalim ang pag-ibig mo sa kaniya?</figcaption>
+</figure>
+
+Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
+
+Napakagandang tanong ng caption. Sabi po dito:
+
+> **"Paano nakatulong ang paglalarawan kay Jehova bilang pastol sa Isaias 40:11 para lumalim ang pag-ibig mo sa kaniya?"**
+
+Isipin po natin — narinig natin ngayong gabi na si Jehova ay pastol na nagbibigay ng **Salita**, bumubuhat sa atin sa kaniyang **bisig**, at nagbibigay ng **lakas** sa mga nanghihina. Hindi ba nakakapagpalalalim iyon ng pag-ibig natin sa kaniya?
+
+---
+
 ## CONCLUSION [1 minuto]
 
 Kaya, mga kapatid at mga kaibigan, tandaan po natin ang tatlong paraan ng pag-aalaga ng ating Pastol: **Salita + Bisig + Lakas = Pastol na Nagmamalasakit**.
