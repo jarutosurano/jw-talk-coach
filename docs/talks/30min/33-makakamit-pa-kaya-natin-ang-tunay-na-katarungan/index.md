@@ -8,6 +8,11 @@ title: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 
 ---
 
+!!! success "Paalaala sa Tagapagsalita"
+    Taglay ang simpatiya, kumbinsihin ang mga biktima ng kawalang-katarungan na hindi solusyon ang paghihimagsik. Sabihin ang pangako ng Bibliya na sa hinaharap, wawakasan ang kawalang-katarungan. Magbigay rin ng praktikal na mga mungkahi kung paano haharapin ang kawalang-katarungan ngayon. Puwede mong gamitin ang artwork na kasama ng outline na ito para ilarawan ang mga punto.
+
+---
+
 ## INTRO [1 minuto]
 
 Marami sa atin ang nakaranas na ng kawalang-katarungan.
@@ -17,6 +22,8 @@ Baka sa trabaho — pinagmalabisan ka ng boss mo kahit wala kang kasalanan. Baka
 At alam natin kung gaano kasakit 'yon. Yung pakiramdam na... *walang kumakampi sa iyo.*
 
 Kaya ngayong umaga, sasagutin natin ang tanong: **Makakamit pa kaya natin ang tunay na katarungan?**
+
+At ang sagot — naibubuod sa isang salita: **DAIG**. Ibig sabihin: **D**iyos ang may solusyon, **A**sahan ang Kaharian, **I**buhos ang niloob mo sa panalangin, at **G**awin ang mabuti — huwag gumanti. Iyan po ang tandaan natin ngayong umaga.
 
 ---
 
@@ -107,11 +114,9 @@ Kaya kung hindi sa tao ang sagot... saan tayo dapat tumingin?
 
 ## 3 — Ano ang solusyon ng Diyos sa kawalang-katarungan? [12 minuto]
 
-May magandang balita. At ito ang bahaging gusto kong pakinggan n'yo nang mabuti — lalo na kung nasaktan kayo, kung naranasan n'yo ang kawalang-katarungan.
+May magandang balita. Mga kapatid at mga kaibigan, kung may dala-dala kayong bigat sa dibdib ngayong umaga — dahil nasaktan kayo, dahil naranasan n'yo ang di-makatarungan, o dahil may taong nanakit sa inyo na parang walang nangyari — ito po ang bahaging para sa inyo. Hindi kayo nakalimutan ni Jehova.
 
 **==Ang Diyos ay nagtatag ng isang Kaharian sa langit na magdadala ng tunay na katarungan.==**
-
-Hindi kayo nakalimutan ni Jehova. Hindi niya bina-brush off ang nararamdaman n'yo.
 
 Nakita ito ni propeta Daniel sa isang pangitain.
 
@@ -313,17 +318,28 @@ Hindi mo kailangang maging miserable habang naghihintay. Puwede kang maging masa
 
 ## CONCLUSION [1 minuto]
 
-Kaya ano ang natutunan natin ngayong umaga?
+Kaya ano ang natutunan natin ngayong umaga? Tandaan natin ang formula: **DAIG**.
 
-- **Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan.** At kung nasaktan ka na... hindi ka nag-iisa.
-- **Hindi ang paghihimagsik ang solusyon.** Mabibigo ang mga pagsisikap ng tao kung walang tulong ng Diyos.
-- **Ang Kaharian ng Diyos ang solusyon.** Si Jesu-Kristo ang Tagapamahala, at ang pamamahala niya ay magdadala ng katarungan at katuwiran.
-- **Puwede na tayong makasumpong ng kaginhawahan ngayon** sa pamamagitan ng karunungan, panalangin, at paglilinang ng mga katangiang Kristiyano.
+- **D — Diyos ang may solusyon.** Nagtatag siya ng Kaharian sa langit na magdadala ng tunay na katarungan. Hindi ang paghihimagsik ang sagot — ang Kaharian ni Kristo ang sagot.
+- **A — Asahan ang Kaharian.** Si Jesu-Kristo ang Tagapamahala, at ang pamamahala niya ay magdadala ng katarungan at katuwiran — mawawala na ang pagtatangi, pang-aapi, at kawalang-katarungan.
+- **I — Ibuhos ang niloob mo sa panalangin.** Kung pinagkaitan ka ng hustisya, sabihin mo kay Jehova. Nagmamalasakit siya sa iyo. Aaliwin ka niya at papatibayin.
+- **G — Gawin ang mabuti, huwag gumanti.** Linangin ang pagtitiis, kabaitan, at pagpipigil sa sarili. Baka gumanda pa ang pakikitungo nila sa iyo kapag nakita nila ang mabubuti mong katangian.
 
 Kung may dala-dala kang sakit ngayon dahil sa kawalang-katarungan... gusto kong malaman mong nakikinig si Jehova. Nagmamalasakit siya sa iyo. At balang-araw, tutuparin niya ang kaniyang pangako.
 
 Tandaan natin ang sinabi sa Roma 12:21:
 
-**"Huwag kang padaig sa masama, kundi patuloy na daigin ng mabuti ang masama."**
+**"Huwag kang padaig sa masama, kundi patuloy na DAIGIN ng mabuti ang masama."**
 
 Tunay na katarungan — para sa lahat. Malapit na.
+
+---
+
+## SUMMARY
+
+Ang temang "Makakamit Pa Kaya Natin ang Tunay na Katarungan?" ay sumasagot sa tanong ng bawat taong nasaktan at naghahanap ng hustisya. Formula: **DAIG** — Diyos ang may solusyon, Asahan ang Kaharian, Ibuhos ang niloob mo sa panalangin, Gawin ang mabuti.
+
+- **Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan** — Mula pa noong panahon ni Solomon, "walang dumadamay" sa mga pinahihirapan. Nagpapatuloy pa rin ito sa ating panahon — sa trabaho, sa gobyerno, sa komunidad.
+- **Hindi ang paghihimagsik ang solusyon** — Natural lang na humingi ng tulong, pero mabibigo ang mga pagsisikap ng tao kung walang tulong ng Diyos. Ang tao ang pinagmulan ng problema dahil hindi nila sinusunod ang matuwid na mga daan ng Diyos.
+- **Ang Kaharian ng Diyos ang tunay na solusyon** — Si Jesu-Kristo ang Tagapamahala ng Kaharian na magdadala ng "katarungan at katuwiran." Kapag namamahala na ito, mawawala ang pagtatangi, pang-aapi, at kawalang-katarungan.
+- **Ngayon pa lang, puwede na tayong makasumpong ng kaginhawahan** — Iwasan ang delikadong sitwasyon, humingi ng tulong kung kinakailangan, ibuhos ang niloob kay Jehova, linangin ang mga katangiang Kristiyano, at huwag gumanti — "daigin ng mabuti ang masama."
