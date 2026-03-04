@@ -48,6 +48,8 @@
 
   - Para mabawasan ang kawalang-katarungan, ang ilan ay naghihimagsik (g 7/13 7-8)
     - **[Larawan 1]**
+See: 1000032_univ_cnt_1_xl.jpg
+Alt image: A diverse group of people at a protest, holding signs and raising fists. Some individuals are shouting passionately. The crowd appears determined and energetic, with protest signs visible in the background.
 
 - Hindi ang paghihimagsik ang solusyon sa kawalang-katarungan (Ec 1:15)
   > "15 Ang baluktot ay hindi maitutuwid, At ang wala ay hindi puwedeng bilangin."
@@ -85,6 +87,9 @@
   > "12 Dahil ililigtas niya ang dukha na humihingi ng tulong, At ang hamak at ang sinumang walang katulong. 13 Maaawa siya sa hamak at sa dukha, At ililigtas niya ang buhay ng mga dukha. 14 Sasagipin niya sila mula sa pang-aapi at karahasan, At magiging mahalaga sa paningin niya ang dugo nila."
 
   - **[Larawan 2]**
+
+See Image: 1000032_univ_cnt_2_xl.jpg
+  Alt image: A group of diverse, smiling people stands together under a golden sky, looking up at a radiant, robed figure with a crown who has open arms and is surrounded by clouds.
 
   - Lahat ay makikinabang sa mga likas na yaman ng lupa kaya wala nang mayaman o mahirap (Aw 72:16)
     > "16 Magkakaroon ng saganang butil sa lupa; Mag-uumapaw ito sa tuktok ng mga bundok. Mananagana ang bunga niya gaya ng sa Lebanon, At darami ang mga tao sa mga lunsod gaya ng pananim sa lupa."

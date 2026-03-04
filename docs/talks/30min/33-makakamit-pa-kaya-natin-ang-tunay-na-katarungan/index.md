@@ -74,6 +74,10 @@ At dahil dito, **==para mabawasan ang kawalang-katarungan, ang ilan ay naghihima
 
 Ngayon naman po, tingnan natin ang larawan.
 
+<figure markdown="span">
+  ![Mga tao na nagpoprotesta](1000032_univ_cnt_1_xl.jpg){ width="100%" }
+</figure>
+
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan? Mga taong nagpoprotesta. Nagmamartsa. May hawak na mga karatula. Galit. Naghahanap ng pagbabago.
 
 At naiintindihan natin kung bakit. Sawa na sila. Pagod na sila sa kawalang-katarungan. Gusto na nilang may magbago.
@@ -83,6 +87,8 @@ Base sa referensya natin, maraming kilos-protesta ang sumiklab sa buong mundo da
 Pero hindi laging ganoon ang ending.
 
 Minsan, mapaparusahan pa ang mga nagpoprotesta. At kahit manalo sila, pagkatapos ng ilang panahon, magkakaroon na naman ng panibagong problema.
+
+*Salamat po sa picture.*
 
 Bakit? Dahil **==hindi ang paghihimagsik ang solusyon sa kawalang-katarungan.==**
 
@@ -173,9 +179,17 @@ Pinakain niya ang libu-libo. Pinagaling niya ang mga bulag, mga pilay, mga may k
 
 ## IMAGE 2
 
-Ngayon naman po, tingnan natin ang larawan.
+Ngayon naman po, tingnan natin ang isa pang larawan.
+
+<figure markdown="span">
+  ![Buhay sa ilalim ng Kaharian ng Diyos](1000032_univ_cnt_2_xl.jpg){ width="100%" }
+</figure>
 
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan? Buhay sa ilalim ng Kaharian. Kapayapaan. Kasiyahan. Walang nang-aapi. Walang inaapi.
+
+Ang ganda ng pagkakaiba, hindi ba? Kanina, nakita natin ang mga taong galit, nagmamartsa, naghahanap ng pagbabago. Pero dito — kapayapaan. Kasiyahan. Pagkakaisa. Ito ang pagkakaiba ng solusyon ng tao at ng solusyon ng Diyos.
+
+*Salamat po sa picture.*
 
 Para sa mga nasaktan... para sa mga naranasan ang di-makatarungan... ito ang pangako ng Diyos sa inyo:
 
