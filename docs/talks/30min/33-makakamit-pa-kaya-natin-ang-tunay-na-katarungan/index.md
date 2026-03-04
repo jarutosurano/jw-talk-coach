@@ -23,7 +23,7 @@ At alam natin kung gaano kasakit 'yon. Yung pakiramdam na... *walang kumakampi s
 
 Kaya ngayong umaga, sasagutin natin ang tanong: **Makakamit pa kaya natin ang tunay na katarungan?**
 
-At ang sagot — naibubuod sa isang salita: **DAIG**. Ibig sabihin: **D**iyos ang may solusyon, **A**sahan ang Kaharian, **I**buhos ang niloob mo sa panalangin, at **G**awin ang mabuti — huwag gumanti. Iyan po ang tandaan natin ngayong umaga.
+At ang sagot — naibubuod sa isang salita: **DAIG**. Ibig sabihin: **D**iyos ang may solusyon, **A**sahan ang Kaharian, **I**buhos ang niloob mo sa panalangin, at **G**awin ang mabuti — huwag gumanti. Iyan po ang tandaan natin ngayong umaga. Pero simulan muna natin sa realidad: <mark class="green">**Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan.**</mark>
 
 ---
 
@@ -51,11 +51,11 @@ At ito ang realidad hanggang ngayon. **==Nagpapatuloy pa rin ang kawalang-kataru
 
 Nakikita natin ito sa balita. Sa trabaho. Sa gobyerno. Minsan, kahit sa sarili nating komunidad.
 
-At **kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.**
+At **==kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.==**
 
 Kung naranasan mo na ang masaktan nang walang dahilan... kung napagmalabisan ka nang hindi mo kasalanan... naiintindihan namin 'yan. Gusto mong may kumilos. Gusto mong may gumawa ng paraan para magkaroon ng hustisya.
 
-Pero ano nga ba ang ginagawa ng mga tao para labanan ang kawalang-katarungan?
+Pero ano nga ba ang ginagawa ng mga tao para labanan ang kawalang-katarungan? <mark class="green">**Paghihimagsik ba ang sagot?**</mark>
 
 ---
 
@@ -114,7 +114,7 @@ Kaya kahit gaano pa kaganda ang intensyon ng mga nagpoprotesta, **==mabibigo ang
 !!! quote "Jeremias 10:23"
     "Alam na alam ko, O Jehova, na ang landasin ng isang tao ay hindi sa kaniya. Hindi para sa taong lumalakad ang ituwid man lang ang sarili niyang hakbang."
 
-Kaya kung hindi sa tao ang sagot... saan tayo dapat tumingin?
+Kaya kung hindi sa tao ang sagot... saan tayo dapat tumingin? <mark class="green">**Ano ang solusyon ng Diyos sa kawalang-katarungan?**</mark>
 
 ---
 
@@ -229,7 +229,7 @@ At **magkakaroon ng kapayapaan sa lahat ng pamilya.**
 
 Wala nang pang-aabuso sa tahanan. Wala nang pamilyang wasak. Kapayapaan sa bawat bahay.
 
-Ang ganda, hindi ba?
+Ang ganda, hindi ba? Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian? <mark class="green">**Paano mo mahaharap ang kawalang-katarungan ngayon?**</mark>
 
 ---
 

@@ -153,6 +153,20 @@
   opacity: 0.7;
 }
 
+/* ===== Green highlight for section headings (read aloud) ===== */
+
+mark.green {
+  background-color: #c8e6c9;
+  color: inherit;
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
+[data-md-color-scheme="slate"] mark.green {
+  background-color: #2e7d32;
+  color: #e8f5e9;
+}
+
 /* ===== Content-to-footer spacing ===== */
 
 .md-content__inner {
