@@ -241,7 +241,11 @@ Wala nang hidwaan. Wala nang giyera dahil sa relihiyon. Iisang pagsamba lang.
 
 Wala nang pang-aabuso sa tahanan. Wala nang pamilyang wasak. Kapayapaan sa bawat bahay.
 
-Ang ganda, hindi ba? Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian? <mark class="green">**Paano mo mahaharap ang kawalang-katarungan ngayon?**</mark>
+Ang ganda, hindi ba?
+
+Sino ba ang ayaw na mabuhay sa mundong ganito? Walang pang-aapi. Walang pagtatangi. Walang luha dahil sa kawalang-katarungan. Gusto mo ba ito? Kung oo — may pag-asa. Hindi 'yan panaginip. Pangako 'yan ng Diyos na Jehova — at hindi siya nagsisinungaling.
+
+Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian? <mark class="green">**Paano mo mahaharap ang kawalang-katarungan ngayon?**</mark>
 
 ---
 
@@ -344,7 +348,7 @@ Ngumiti ang kapatid at ibinahagi ang pag-asa niya... **"Daigin ng mabuti ang mas
 
 Hindi mo kailangang maging miserable habang naghihintay. Puwede kang maging masaya dahil may pag-asa ka.
 
-**Patibayin ang pananampalataya mo sa Kaharian ng Diyos — ang magdadala ng tunay na katarungan.**
+**==Patibayin ang pananampalataya mo sa Kaharian ng Diyos — ang magdadala ng tunay na katarungan.==**
 
 ---
 
