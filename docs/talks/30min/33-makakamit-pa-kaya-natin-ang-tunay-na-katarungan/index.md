@@ -2,9 +2,11 @@
 title: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 ---
 
-:material-music-note:{ .lg } Song #22 — Dumating Nawa ang Kaharian! (Apocalipsis 11:15)
+:material-music-note:{ .lg } Song #157 — Kapayapaang Hindi Magwawakas (Awit 29:11)
 
-<p style="font-size: 0.85em; opacity: 0.7;">:material-calendar: April 26, 2026 (Sunday) · :material-map-marker: 355 Gage Ave, Kitchener, ON N2M 5E1</p>
+<div style="font-size: 0.85em; opacity: 0.7;" markdown="span">
+:material-calendar: April 26, 2026 (Sunday) · :material-map-marker: 355 Gage Ave, Kitchener, ON N2M 5E1
+</div>
 
 ---
 
