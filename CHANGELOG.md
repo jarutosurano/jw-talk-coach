@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.1.0] - 2026-03-06
+
+### Add field ministry reference and guidelines page
+
+**Added:**
+- `reference/field-ministry-service.md` — compiled guidelines from 5 jw.org/WOL publications (midweek meeting + CBS)
+- `docs/field-ministry/guidelines/index.md` — practice/checklist page with tables, tabs, admonitions
+- "Field Ministry" tab in navigation with Guidelines page and existing script
+
+---
+
 ## [4.0.0] - 2026-03-06
 
 ### Major revamp: design, 30-min script rewrite, codebase audit
