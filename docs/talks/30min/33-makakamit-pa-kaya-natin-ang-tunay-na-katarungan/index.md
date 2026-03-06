@@ -2,9 +2,9 @@
 title: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 ---
 
-:material-music-note:{ .lg } Song #___ — [Title]
+:material-music-note:{ .lg } Song #22 — Dumating Nawa ang Kaharian! (Apocalipsis 11:15)
 
-:material-calendar:{ .lg } April 26, 2026 (Sunday) · :material-map-marker:{ .lg } 355 Gage Ave, Kitchener, ON N2M 5E1
+<p style="font-size: 0.85em; opacity: 0.7;">:material-calendar: April 26, 2026 (Sunday) · :material-map-marker: 355 Gage Ave, Kitchener, ON N2M 5E1</p>
 
 ---
 
