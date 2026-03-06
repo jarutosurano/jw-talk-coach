@@ -4,6 +4,43 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.0.0] - 2026-03-06
+
+### Major revamp: design, 30-min script rewrite, codebase audit
+
+**Added:**
+- Pink highlight CSS (`mark.pink`) for talk titles — light mode: `#f8bbd0`, dark mode: `#ad1457`
+- Indigo primary + amber accent color scheme (both light and dark modes)
+- Inter font (body) + JetBrains Mono (code)
+- Hero section gradient background, icon box with shadow, tagline, CTA buttons
+- Card badges (Student, OCLM, Linggo, Conductor) and section heading above cards
+- CBS card added to homepage (previously missing)
+- `scaleIn` animation, CSS custom properties for theme-aware variables
+- `CODEBASE_AUDIT.md` — full codebase review report
+
+**Changed:**
+- 30-min talk script (outline 33) fully rewritten with user feedback:
+  - Removed story (kapatid sa bundok) from intro and conclusion
+  - Removed DAIG formula from intro and conclusion
+  - Talk title highlighted in pink (`mark.pink`)
+  - REIA pattern applied to Eclesiastes 4:1 with Solomon context
+  - Supporting texts (Ecl 8:9, Job 35:9, Ecl 1:15, Deu 32:4-5, Aw 146:3, Jer 10:23, Isa 32:1) woven naturally — admonitions removed
+  - Added `{pause}` stage direction after "Sa gobyerno."
+  - Mateo 4:23 and 6:9,10 now formally read with admonitions
+  - Summarized Jesus' actions: "Una, pangangaral... Pangalawa, panalangin..."
+  - Numbering changed from One/Two/Three to una/pangalawa/pangatlo/pang-apat
+  - Kingdom blessings bible texts woven naturally (admonitions removed)
+  - "Salamat po sa picture" moved after pang-apat (kapayapaan sa pamilya)
+  - Conclusion rewritten: heart-touching, Roma 12:21 anchor, no DAIG/story
+  - More empathetic tone throughout, follows outline structure more closely
+- Homepage cards redesigned: 3-column grid, rounded corners, hover accents, shadows
+- Hero section: gradient bg, pill buttons, proper tagline
+- Card links updated to latest content
+- Admonition styling improved (rounded corners + subtle shadow)
+- Responsive breakpoints updated (60em → 2-col, 40em → 1-col)
+
+---
+
 ## [3.6.0] - 2026-02-13
 
 ### Reformat 30-min talk script to match 10-min standard
