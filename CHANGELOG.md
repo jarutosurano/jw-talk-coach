@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.2.0] - 2026-03-11
+
+### Add Zoom field ministry script (Roma 12:11) and Mahalin ang mga Tao reference
+
+**Added:**
+- `docs/field-ministry/0311-roma-12-11-zoom/index.md` — Zoom field ministry script for Roma 12:11, aligned with Memorial Invitation campaign
+- `field-ministry/0311-roma-12-11-zoom/outline.md` — outline with study notes, cross references, and aralin alignment
+- `reference/mahalin-ang-mga-tao.md` — "Mahalin ang mga Tao" aralin reference (Seksiyon 1-3 + Apendise)
+
+**Removed:**
+- `docs/field-ministry/0130-paggawa-ng-mga-alagad-4min/` — removed (not field ministry)
+- `field-ministry/0130-paggawa-ng-mga-alagad-4min/` — removed
+
+---
+
 ## [4.1.0] - 2026-03-06
 
 ### Add field ministry reference and guidelines page
