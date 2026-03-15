@@ -232,6 +232,8 @@ Follow-up: **Pagkatapos ng insidente, ano po ang susunod?**
 
 ### Bomb Threat
 
+📖 *Sa plan natin, tingnan po ang seksyon na **"Bomb Threats"** under "Handling Serious Security Concerns."*
+
 **==Dapat na seryosohin ang mga bomb threat.==**
 
 **Tanong: Ano po ang gagawin natin kapag may natanggap tayong bomb threat habang nagpupulong?**
@@ -251,6 +253,8 @@ Follow-up: **Matapos mag-evacuate, anong mga hakbang ang dapat gawin?**
 ---
 
 ### Pananatili para Magkubli (Shelter in Place) [⏱ 18:00]
+
+📖 *Sa plan natin, tingnan po ang seksyon na **"Civil Disturbances, Severe Weather, or Environmental Emergencies"** under "Handling Serious Security Concerns."*
 
 **==May mga pagkakataong baka kailangang manatili sa Kingdom Hall para magkubli.==**
 
@@ -397,3 +401,40 @@ Follow-up: **Matapos mag-evacuate, anong mga hakbang ang dapat gawin?**
 - Ipanalangin po natin na patuloy tayong gabayan ni Jehova sa atas na ito.
 
 *[Panalangin]*
+
+---
+
+## Quick Reference
+
+### Ano ang Service Department?
+
+- Ang **Service Department** ay ang departamento sa branch office ng mga Saksi ni Jehova na tumutulong sa mga kongregasyon sa mga bagay na may kinalaman sa organisasyon, legal na usapin, at seguridad.
+- Kapag may seryosong insidente (violent individual, bomb threat, etc.) — kailangan i-inform agad ang Service Department pagkatapos ng insidente.
+- Para sa seryoso o ongoing na security issue — tumawag agad sa **Legal Department** (base sa Risk Incident Report Instructions, TO-5i).
+
+### VTC Kingdom Hall Security Plan (S-288) — Section Reference Guide
+
+| Tagalog (sa script) | English (sa plan) | Section |
+| --- | --- | --- |
+| Pagharap sa Pursigidong mga Sumasalansang | *(Not in S-288 — from S-289 outline)* | S-289 Blg. 2 |
+| Pagharap sa Mararahas na Indibidwal | Violent Individuals | Handling Serious Security Concerns |
+| Bomb Threat | Bomb Threats | Handling Serious Security Concerns |
+| Pananatili para Magkubli | Civil Disturbances, Severe Weather, or Environmental Emergencies | Handling Serious Security Concerns |
+| Mga Atas ng Attendant | Entrance Attendant / Auditorium Attendant | Attendant Roles |
+| Evacuation Plan | Evacuation Plan | Evacuation Plan |
+| Pag-iinspeksiyon sa Palibot | *(From S-289 outline — walkthrough)* | S-289 Blg. 2 |
+
+### Kingdom Hall Equipment & Emergency Info
+
+| Item | Lokasyon sa Kingdom Hall | Notes |
+| --- | --- | --- |
+| **Fire extinguisher** | *(tukuyin during walkthrough)* | Alam ba ng lahat kung saan? |
+| **First-aid kit** | *(tukuyin during walkthrough)* | |
+| **Mga ilaw (light switches)** | *(tukuyin during walkthrough)* | Paano i-on/off? |
+| **HVAC system** | *(tukuyin during walkthrough)* | Paano i-operate? |
+| **Lock ng pinto** | *(tukuyin during walkthrough)* | Lahat ba ng pinto — alam kung paano i-lock? |
+| **Alarm system** | *(tukuyin during walkthrough)* | Paano i-activate/deactivate? |
+| **Emergency service numbers** | *(i-save sa phone ng lahat ng attendant)* | Police, Fire, Ambulance |
+| **Evacuation exits** | *(tukuyin during walkthrough)* | Saan ang mga labasan? |
+| **Evacuation assembly point** | *(tukuyin during walkthrough)* | Saan ang pagtitipunan? |
+| **Hiding locations** | *(tukuyin during walkthrough)* | Saan puwedeng magtago? |
