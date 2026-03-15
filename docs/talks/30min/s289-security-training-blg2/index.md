@@ -102,6 +102,8 @@ Mar 15, 2026
 - Itatanong ko po ang mga punto isa-isa.
     - Pakisagot po base sa nabasa ninyo sa plan.
 
+*[Itampok kung paano nakakatulong sa mga attendant ang mga hakbang na ito para maiwasan ang mapanganib na mga sitwasyon, pigilang makapanakit ang marahas na indibidwal, o ipagtanggol ang iba mula sa karahasan]*
+
 ---
 
 ### Tanong 1: Ano po ang dapat na gawin agad kapag nakaharap ang isang marahas na indibidwal? [⏱ 4:00]
@@ -112,6 +114,8 @@ Mar 15, 2026
 2. Huwag nang balaan pa ang indibidwal
 3. Habang mas mabilis dumating ang pulis, mas kaunti ang pinsala
 
+*[Pansinin: Puwedeng tumawag sa pulis ang kahit sino. Dapat kumpirmahin ng attendant sa awditoryum na nagawa na ito. Bukod diyan, kung malaki ang posibilidad na maging marahas ang isang tao, makakabuting isa pang indibidwal ang presente para maging saksi at para makatulong]*
+
 Follow-up: **Sino lang po ba ang puwedeng tumawag?**
 
 - *{Kahit sino po. Hindi lang ang auditorium attendant. Pero kailangan niyang kumpirmahin na may tumawag na.}*
@@ -120,9 +124,13 @@ Follow-up: **Sino po ang mag-take the lead sa ganitong sitwasyon?**
 
 - *{Ang auditorium attendant po. Siya ang mag-take the lead in providing direction.}*
 
+Follow-up: **Kung malaki ang posibilidad na maging marahas ang isang tao, ano pa po ang dapat gawin?**
+
+- *{Makakabuting isa pang indibidwal ang presente — para maging saksi at para makatulong.}*
+
 ---
 
-### Tanong 2: Paano po natin mapipigilang pumasok sa gusali ang indibidwal? [⏱ 6:00]
+### Tanong 2: Paano po natin mapipigilang pumasok sa gusali ang indibidwal? Ano ang karagdagang tagubilin sa attendant sa pasukan? [⏱ 6:00]
 
 ...
 
@@ -150,6 +158,8 @@ Follow-up: **Bakit po importante ang silence?**
 
 ### Tanong 4: Kung nakapasok po ang indibidwal sa gusali, ano ang dapat gawin? [⏱ 9:00]
 
+*[Tingnan ang mga bullet point sa plan]*
+
 ...
 
 1. **==Gumamit ng maraming kapatid para pigilan ang indibidwal==** — hanggang sa dumating ang pulis
@@ -175,7 +185,7 @@ Pansinin po — sa sumasalansang kanina, sabi natin huwag hawakan. Pero dito, ib
 
 ---
 
-### Tanong 6: Sa Kingdom Hall natin, saan puwedeng magtago? Ano pa ang puwedeng gawin ng mga attendant para protektahan ang mga dumalo? [⏱ 13:00]
+### Tanong 6: Kung hindi posibleng mag-evacuate, tatagubilinan ng mga attendant ang mga dumalo na magtago. Sa Kingdom Hall natin, saan puwedeng magtago? Ano pa ang puwedeng gawin ng mga attendant para protektahan ang mga dumalo? [⏱ 13:00]
 
 Sabi sa plan:
 
@@ -217,6 +227,8 @@ Follow-up: **Pagkatapos ng insidente, ano po ang susunod?**
 ---
 
 ## 3 — Pagharap sa Iba Pang Sitwasyon [3 min | ⏱ 16:00]
+
+*[Ang sumusunod na tanong ay base sa mga punto sa parapo na may pamagat na "Bomb Threat" at "Kaguluhan sa Lugar, Masamang Panahon, o Sakuna sa Kapaligiran" sa Plano sa Seguridad ng Kingdom Hall]*
 
 ### Bomb Threat
 
@@ -269,10 +281,20 @@ Follow-up: **Matapos mag-evacuate, anong mga hakbang ang dapat gawin?**
 
 ### Pangunahing Impormasyon [⏱ 19:00]
 
+*[Repasuhin ang mahahalagang punto mula sa nabuong Plano sa Seguridad ng Kingdom Hall at libutin ang Kingdom Hall kasama ang mga dumalo sa miting]*
+
+**==Ituro ang lokasyon ng mga fire extinguisher, first-aid kit, at katulad na mga item==**
+
 - **Fire extinguisher** — Saan po ito nakalagay? Alam ba ng lahat?
 - **First-aid kit** — Saan po ito?
-- **Mga ilaw, HVAC system, lock ng pinto, at alarm system** — Alam ba natin kung paano i-operate?
-- **Mga numero ng emergency service** — Naka-save na po ba sa phone ng lahat ng attendant?
+
+**==Repasuhin kung paano i-operate ang mga ilaw, HVAC system, lock ng pinto, at alarm system==**
+
+- Alam ba natin kung paano i-operate ang mga ito?
+
+**==Kumpirmahin kung may numero ng mga emergency service ang mga attendant==**
+
+- Naka-save na po ba sa phone ng lahat ng attendant?
 
 ---
 
