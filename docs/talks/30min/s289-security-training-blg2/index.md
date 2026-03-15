@@ -304,21 +304,43 @@ Follow-up: **Matapos mag-evacuate, anong mga hakbang ang dapat gawin?**
 
 ### Mga Atas ng Attendant [⏱ 21:00]
 
+📖 *Sa plan natin, tingnan po ang seksyon na **"Attendant Roles"** — "Entrance Attendant" at "Auditorium Attendant."*
+
 **==Repasuhin ang espesipikong mga atas, kung kailan dapat nandoon ang mga attendant para sa atas nila, at kung paano sila makakakuha ng karagdagang tulong==**
 
-- Entrance attendant at auditorium attendant — nagsisimula **30 minuto bago** ang pulong hanggang **umalis ang huling dumalo**
-- Entrance attendant — monitoring ng entrance, security cameras, parking lot inspection
-- Auditorium attendant — welcoming, positioning ng trained brothers, direction during emergencies
-- Karagdagang tulong — koordinasyon sa isa't isa, laging may communication
+**Entrance Attendant** *(Plan: "Entrance Attendant" items 1-9)*
+
+- Nagsisimula **30 minuto bago** ang pulong hanggang **umalis ang huling dumalo**
+- Monitoring ng entrance at mga papasok — item 1
+- Locking/unlocking ng doors — items 2, 4, 5
+- Security cameras at communication sa auditorium attendant — item 6
+- Assisting sa coatroom, foyer, elevators — item 7
+- Assisting sa evacuation — item 8
+- Sidewalk ice check (winter) — item 9
+
+**Auditorium Attendant** *(Plan: "Auditorium Attendant" items 1-5)*
+
+- Nagsisimula **30 minuto bago** ang pulong hanggang **umalis ang huling dumalo**
+- Welcoming at arranging seating for newcomers — item 1
+- Positioning ng trained brothers malapit sa mga hindi kilala — item 2
+- Direction during emergencies — item 3
+- Monitoring ng auditorium, stage, heating/ventilation — item 4
+- Handling disruptions at serious security concerns — item 5
+
+**Karagdagang tulong** — koordinasyon sa isa't isa, laging may communication
 
 **==Repasuhin ang mga kaayusan sa pagla-lock ng mga pinto sa lahat ng pulong, kasama ang pagtitipon para sa paglilingkod sa larangan==**
 
-- **5 minuto** pagkatapos magsimula ang pulong — i-lock ang mga pinto
-- I-unlock pagkatapos ng concluding prayer
-- I-lock ulit kapag umalis na ang lahat
-- Sa field service group, Bible study, elders' meeting, cleaning — **naka-lock ang mga pinto sa lahat ng oras**
+📖 *Plan: "Entrance Attendant" items 2, 4, 5 at "General Security Measures" paragraph 2*
+
+- **5 minuto** pagkatapos magsimula ang pulong — i-lock ang mga pinto — item 2
+- I-unlock pagkatapos ng concluding prayer — item 4
+- I-lock ulit kapag umalis na ang lahat — item 5
+- Sa field service group, Bible study, elders' meeting, cleaning — **naka-lock ang mga pinto sa lahat ng oras** — General Security Measures
 
 **==Repasuhin kung paano at kung kailan dapat gawin ang pag-iinspeksiyon para sa seguridad sa labas ng gusali==**
+
+📖 *Plan: "Entrance Attendant" item 3*
 
 - **30 minuto** pagkatapos magsimula ang pulong — unang inspection
 - **15 minuto** bago matapos — pangalawang inspection
