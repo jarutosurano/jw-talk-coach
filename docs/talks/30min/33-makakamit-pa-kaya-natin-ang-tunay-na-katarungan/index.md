@@ -474,7 +474,19 @@ Si Jehova — nakikinig siya. Naiintindihan niya.
 
 Ang panalangin ay hindi lang ritual.
 &nbsp;&nbsp;&nbsp;&nbsp;Ito'y koneksyon sa Diyos na nagbibigay ng lakas.
-&nbsp;&nbsp;&nbsp;&nbsp;At kapag nanalangin ka — hindi ka nag-iisa. May nakikinig.
+
+Naisip n'yo na ba 'to?
+&nbsp;&nbsp;&nbsp;&nbsp;Nasubukan n'yo na bang pumunta sa lugar na walang signal?
+&nbsp;&nbsp;&nbsp;&nbsp;Kahit simpleng message, hindi mo magawa. Walang connection.
+
+Pero ang panalangin kay Jehova —
+&nbsp;&nbsp;&nbsp;&nbsp;hindi siya nawawalan ng signal.
+&nbsp;&nbsp;&nbsp;&nbsp;Kahit nasa pinaka-malalim na problema ka,
+&nbsp;&nbsp;&nbsp;&nbsp;kahit pakiramdam mo nasa ilalim ka ng dagat —
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;naririnig ka ni Jehova.
+&nbsp;&nbsp;&nbsp;&nbsp;Walang dead spot sa panalangin.
+
+Kaya kapag nanalangin ka — hindi ka nag-iisa. May nakikinig.
 
 At tandaan:
 &nbsp;&nbsp;&nbsp;&nbsp;**==Sa kaniyang itinakdang panahon, paparusahan niya ang masasama.==**
@@ -586,6 +598,13 @@ At balang-araw, tutuparin niya ang kaniyang pangako —
 &nbsp;&nbsp;&nbsp;&nbsp;Ang **Kaharian ng Diyos** ang magdadala niyan.
 
 Pero habang naghihintay tayo, huwag tayong padaig sa masama.
+
+At tandaan natin —
+&nbsp;&nbsp;&nbsp;&nbsp;sino ba ang nasa likod ng lahat ng kawalang-katarungan sa mundong ito?
+&nbsp;&nbsp;&nbsp;&nbsp;Si Satanas.
+&nbsp;&nbsp;&nbsp;&nbsp;Siya ang namamahala sa sanlibutang ito.
+&nbsp;&nbsp;&nbsp;&nbsp;Kaya huwag na tayong magtaka kung bakit punong-puno ng kasamaan ang mundo.
+&nbsp;&nbsp;&nbsp;&nbsp;Pero malapit na siyang alisin — kasama ang lahat ng kawalang-katarungan.
 
 Tandaan natin ang sinabi sa Roma 12:21:
 
