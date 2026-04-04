@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.3.0] - 2026-04-04
+
+### Polish talk 33 scripts (v1 and v2) based on guidelines review
+
+**Changed:**
+- `index.md` (v2) — Removed Satan paragraph from conclusion (not in outline; violates Aralin 20 "no new ideas in conclusion"); restored section timings to match outline (3+4+12+11=30 min)
+- `index-v1.md` (v1) — Fixed Mateo 6:9,10 handling (was treated as "Basahin" text with full admonition, but outline marks it as supporting reference only); removed timing from Intro/Conclusion headers to align with outline's 30-min total
+
+---
+
 ## [4.2.0] - 2026-03-11
 
 ### Add Zoom field ministry script (Roma 12:11) and Mahalin ang mga Tao reference

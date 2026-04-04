@@ -15,7 +15,7 @@ title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v2)
 
 ---
 
-## INTRO [2 minuto]
+## INTRO
 
 Marami sa atin ang nakaranas na ng kawalang-katarungan.
 
@@ -221,7 +221,7 @@ Kaya kung hindi sa tao ang sagot...
 
 ---
 
-## 3 — Ano ang solusyon ng Diyos sa kawalang-katarungan? [10 minuto]
+## 3 — Ano ang solusyon ng Diyos sa kawalang-katarungan? [12 minuto]
 
 Mga kapatid at mga kaibigan,
 &nbsp;&nbsp;&nbsp;&nbsp;kung may dala-dala kayong bigat sa dibdib ngayong umaga —
@@ -355,7 +355,7 @@ Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian?
 
 ---
 
-## 4 — Paano mo mahaharap ang kawalang-katarungan ngayon? [13 minuto]
+## 4 — Paano mo mahaharap ang kawalang-katarungan ngayon? [11 minuto]
 
 **==Ngayon pa lang, puwede ka nang makasumpong ng kaginhawahan sa kabila ng kawalang-katarungan o masamang pagtrato.==**
 
@@ -583,7 +583,7 @@ Ang mga taong walang pag-asa — sila ang pinakamiserable.
 
 ---
 
-## CONCLUSION [1 minuto]
+## CONCLUSION
 
 Kung may dala-dala kang sakit ngayon dahil sa kawalang-katarungan...
 &nbsp;&nbsp;&nbsp;&nbsp;gusto kong malaman mong hindi ka nag-iisa.
@@ -598,13 +598,6 @@ At balang-araw, tutuparin niya ang kaniyang pangako —
 &nbsp;&nbsp;&nbsp;&nbsp;Ang **Kaharian ng Diyos** ang magdadala niyan.
 
 Pero habang naghihintay tayo, huwag tayong padaig sa masama.
-
-At tandaan natin —
-&nbsp;&nbsp;&nbsp;&nbsp;sino ba ang nasa likod ng lahat ng kawalang-katarungan sa mundong ito?
-&nbsp;&nbsp;&nbsp;&nbsp;Si Satanas.
-&nbsp;&nbsp;&nbsp;&nbsp;Siya ang namamahala sa sanlibutang ito.
-&nbsp;&nbsp;&nbsp;&nbsp;Kaya huwag na tayong magtaka kung bakit punong-puno ng kasamaan ang mundo.
-&nbsp;&nbsp;&nbsp;&nbsp;Pero malapit na siyang alisin — kasama ang lahat ng kawalang-katarungan.
 
 Tandaan natin ang sinabi sa Roma 12:21:
 

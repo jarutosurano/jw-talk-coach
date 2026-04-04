@@ -15,7 +15,7 @@ title: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 
 ---
 
-## INTRO [2 minuto]
+## INTRO
 
 Marami sa atin ang nakaranas na ng kawalang-katarungan.
 
@@ -142,14 +142,12 @@ Buksan po natin ang Mateo kabanata 4, bersikulo 23.
 
 Una, nangangaral siya ng mabuting balita ng Kaharian. Ito ang solusyong ipinakilala ni Jesus — hindi ang rebolusyon, kundi ang Kaharian ng Diyos.
 
-Pangalawa, itinuro niya sa atin na manalangin para sa Kaharian. Basahin po natin ang Mateo 6:9, 10.
+At itinuro niya sa atin na manalangin:
+&nbsp;&nbsp;&nbsp;&nbsp;"Dumating nawa ang Kaharian mo.
+&nbsp;&nbsp;&nbsp;&nbsp;Mangyari nawa ang kalooban mo,
+&nbsp;&nbsp;&nbsp;&nbsp;kung paano sa langit, gayon din sa lupa." (Mateo 6:9, 10)
 
-*[Basahin ang Mateo 6:9, 10]*
-
-!!! quote "Mateo 6:9, 10"
-    "Manalangin kayo sa ganitong paraan: 'Ama namin na nasa langit, pakabanalin nawa ang pangalan mo. Dumating nawa ang Kaharian mo. Mangyari nawa ang kalooban mo, kung paano sa langit, gayon din sa lupa.'"
-
-Ito ang panalangin na itinuro ni Jesus mismo — na dumating ang Kaharian. Ibig sabihin, noong nasa lupa siya, gusto niyang ipakita sa mga tagasunod niya ang daan — hindi ang protesta, kundi ang pagtitiwala sa Kaharian.
+Noong nasa lupa siya, gusto niyang ipakita sa mga tagasunod niya ang daan — hindi ang protesta, kundi ang pagtitiwala sa Kaharian.
 
 At **==makikita sa mga ginawa niyang himala kung ano ang gagawin niya bilang Hari ng Kaharian ng Diyos.==** Pinakain niya ang libu-libo. Pinagaling niya ang mga bulag, mga pilay, mga may ketong. Ipinakita niya kung ano ang magagawa ng Kaharian sa hinaharap.
 
@@ -295,7 +293,7 @@ Hindi mo kailangang maging miserable habang naghihintay. Puwede kang maging masa
 
 ---
 
-## CONCLUSION [1 minuto]
+## CONCLUSION
 
 Kung may dala-dala kang sakit ngayon dahil sa kawalang-katarungan... gusto kong malaman mong hindi ka nag-iisa. Nakikinig si Jehova. **Nagmamalasakit siya sa iyo.** At balang-araw, tutuparin niya ang kaniyang pangako — isang mundong walang pang-aapi, walang pagtatangi, walang kawalang-katarungan. Ang **Kaharian ng Diyos** ang magdadala niyan.
 
