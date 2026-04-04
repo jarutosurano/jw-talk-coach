@@ -78,62 +78,21 @@ Buksan po natin ang Eclesiastes kabanata 4, bersikulo 1.
 
 Napansin n'yo ba?
 &nbsp;&nbsp;&nbsp;&nbsp;Dalawang beses sinabing **"walang dumadamay sa kanila."**
-&nbsp;&nbsp;&nbsp;&nbsp;Hindi isang beses — dalawang beses.
+&nbsp;&nbsp;&nbsp;&nbsp;Hindi lang sila pinahihirapan — wala pa man lang kumampi.
 
-Bakit?
-&nbsp;&nbsp;&nbsp;&nbsp;Dahil dalawang anggulo ito ng iisang sakit.
-&nbsp;&nbsp;&nbsp;&nbsp;Una: umiiyak ang biktima, pero walang tumulong.
-&nbsp;&nbsp;&nbsp;&nbsp;Pangalawa: ang nang-aapi, may kapangyarihan — at wala pa ring kumampi sa inaapi.
-
-At hindi lang 'yan.
-&nbsp;&nbsp;&nbsp;&nbsp;Sa Eclesiastes 3:16, sinabi ni Solomon:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Sa lugar ng katarungan, naroon ang kasamaan."
-&nbsp;&nbsp;&nbsp;&nbsp;Sa mismong korte na dapat nagbibigay ng hustisya —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doon mismo nangyayari ang kawalang-katarungan.
-
-At sinabi pa niya sa Eclesiastes 5:8 —
-&nbsp;&nbsp;&nbsp;&nbsp;kung may nakikita kang pang-aapi sa mahihirap, huwag ka nang magtaka,
-&nbsp;&nbsp;&nbsp;&nbsp;dahil "ang mataas na opisyal ay binabantayan ng mas mataas pa,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at may mas mataas pa sa kanila."
-&nbsp;&nbsp;&nbsp;&nbsp;Bawat antas ng gobyerno, may kumukuha ng parte.
-&nbsp;&nbsp;&nbsp;&nbsp;At sino ang nagdurusa? Ang nasa pinakababa.
-
-Nakakalungkot, hindi ba?
-&nbsp;&nbsp;&nbsp;&nbsp;Kahit ang pinakamarunong na hari —
+Kahit si Solomon — pinakamarunong na hari —
 &nbsp;&nbsp;&nbsp;&nbsp;nakita niya ang problema, pero hindi niya naayos.
-&nbsp;&nbsp;&nbsp;&nbsp;Ang kaniyang sariling pamamahala ang naging dahilan ng hirap ng mga tao.
 
 **==Nagpapatuloy pa rin ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi sa ating panahon.==**
 &nbsp;&nbsp;&nbsp;&nbsp;Base po sa Eclesiastes 8:9,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"sa panahong ang tao ay namamahala sa kapuwa niya sa ikapipinsala nito."
 
-At nakikita natin ito ngayon — sa panahon natin.
-
-Sa Pilipinas —
-&nbsp;&nbsp;&nbsp;&nbsp;mga OFW na hindi binabayaran ng tama, minsan inaabuso pa ng employer.
-&nbsp;&nbsp;&nbsp;&nbsp;Mga manggagawa na anim na buwan lang kinukuha para iwasang i-regularize —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tapos tanggal na naman.
-&nbsp;&nbsp;&nbsp;&nbsp;Bilyun-bilyong pondo para sa flood control na kinurakot —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;400 na proyekto na hindi naman talaga ginawa —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at pagdating ng bagyo, ang mahihirap ang naghihirap.
-
-Dito naman sa Canada —
-&nbsp;&nbsp;&nbsp;&nbsp;mga Temporary Foreign Worker na tinatrato na parang alipin.
-&nbsp;&nbsp;&nbsp;&nbsp;Ayon sa Amnesty International,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ang TFW program dito ay "breeding ground for modern slavery."
-&nbsp;&nbsp;&nbsp;&nbsp;May mga kababayan nating Filipino na siningil ng milyon-milyon para sa recruitment —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tapos scam pala.
-&nbsp;&nbsp;&nbsp;&nbsp;May mga nag-aapply ng trabaho na hindi tinatawagan —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dahil lang sa pangalan nila sa resume.
-
-At sa buong mundo?
-&nbsp;&nbsp;&nbsp;&nbsp;Sa Gaza — mahigit isang milyong tao ang nawalan ng tahanan.
-&nbsp;&nbsp;&nbsp;&nbsp;Sa Sudan — 12 milyong tao ang naging displaced,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ang pinaka-malaking humanitarian crisis ngayon.
-&nbsp;&nbsp;&nbsp;&nbsp;At 138 milyong bata pa rin ang nasa child labor — sa taong 2024.
+Nakikita natin ito sa paligid natin.
+&nbsp;&nbsp;&nbsp;&nbsp;Mga kababayan nating pinagsamantalahan sa trabaho.
+&nbsp;&nbsp;&nbsp;&nbsp;Mga manggagawa na hindi binabayaran ng tama.
+&nbsp;&nbsp;&nbsp;&nbsp;Mga taong tinanggihan dahil lang sa kung saan sila nagmula.
 
 Hindi nagbago ang mundo mula noong panahon ni Solomon.
-&nbsp;&nbsp;&nbsp;&nbsp;Nagpapatuloy pa rin ang kawalang-katarungan.
 
 At **==kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.==**
 
