@@ -52,15 +52,16 @@ At may isang tao sa Bibliya na lubos na nakaunawa nito — si Haring Solomon.
 Pero alam n'yo ba kung ano ang nangyayari sa ilalim ng kaniyang pamamahala?
 &nbsp;&nbsp;&nbsp;&nbsp;Para maitayo ang templo at ang kaniyang palasyo,
 &nbsp;&nbsp;&nbsp;&nbsp;nagrekrut siya ng 30,000 Israelita bilang sapilitang manggagawa —
-&nbsp;&nbsp;&nbsp;&nbsp;bukod pa sa 150,000 tagapagdala ng mabibigat na bagay at tagaputol ng bato.
+&nbsp;&nbsp;&nbsp;&nbsp;bukod pa sa 150,000 dayuhang residente na tagapagdala ng mabibigat na bagay at tagaputol ng bato.
 &nbsp;&nbsp;&nbsp;&nbsp;Ang palasyo niya? Labing-tatlong taon itinayo —
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;halos doble ng panahon para sa templo ng Diyos.
 
 At nang mamatay si Solomon, ano ang sinabi ng mga tao sa anak niyang si Rehoboam?
-&nbsp;&nbsp;&nbsp;&nbsp;"Gawing magaan mo ang mabigat na pamatok ng iyong ama."
-&nbsp;&nbsp;&nbsp;&nbsp;Ang gamit nilang salita — "pamatok" —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ang salitang ginagamit para sa mga hayop na pantrabaho.
-&nbsp;&nbsp;&nbsp;&nbsp;Ganoon ang pakiramdam ng mga tao: parang mga kalabaw silang ginamit.
+&nbsp;&nbsp;&nbsp;&nbsp;"Gawing magaan mo ang mabigat na pamatok ng iyong ama" —
+&nbsp;&nbsp;&nbsp;&nbsp;"pagaanin mo ang malupit na pagpapatrabaho ng iyong ama."
+&nbsp;&nbsp;&nbsp;&nbsp;Gaano kalala ang galit nila?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si Adoram — ang opisyal na namamahala sa sapilitang manggagawa —
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;binato nila siya hanggang mamatay.
 
 Kaya kapag binasa natin ang Eclesiastes,
 &nbsp;&nbsp;&nbsp;&nbsp;hindi lang ito isang hari na nagkokomento mula sa malayo.
