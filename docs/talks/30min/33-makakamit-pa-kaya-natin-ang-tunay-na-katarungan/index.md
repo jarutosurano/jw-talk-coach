@@ -44,55 +44,33 @@ Simulan natin sa realidad:
 **==Matagal nang nararanasan ng tao ang kawalang-katarungan.==**
 
 Hindi ito bago.
-Libu-libong taon na itong problema.
+&nbsp;&nbsp;&nbsp;&nbsp;Libu-libong taon nang nagdurusa ang mga tao dahil sa kawalang-katarungan.
 
-At may isang tao sa Bibliya na lubos na nakaunawa nito — si Haring Solomon.
-&nbsp;&nbsp;&nbsp;&nbsp;Bilang hari ng Israel, siya ang pinakamarunong at pinakamayamang tao sa kaniyang panahon.
-
-Pero alam n'yo ba kung ano ang nangyayari sa ilalim ng kaniyang pamamahala?
-&nbsp;&nbsp;&nbsp;&nbsp;Para maitayo ang templo at ang kaniyang palasyo,
-&nbsp;&nbsp;&nbsp;&nbsp;nagrekrut siya ng 30,000 Israelita bilang sapilitang manggagawa —
-&nbsp;&nbsp;&nbsp;&nbsp;bukod pa sa 150,000 dayuhang residente na tagapagdala ng mabibigat na bagay at tagaputol ng bato.
-&nbsp;&nbsp;&nbsp;&nbsp;Ang palasyo niya? Labing-tatlong taon itinayo —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;halos doble ng panahon para sa templo ng Diyos.
-
-At nang mamatay si Solomon, ano ang sinabi ng mga tao sa anak niyang si Rehoboam?
-&nbsp;&nbsp;&nbsp;&nbsp;"Gawing magaan mo ang mabigat na pamatok ng iyong ama" —
-&nbsp;&nbsp;&nbsp;&nbsp;"pagaanin mo ang malupit na pagpapatrabaho ng iyong ama."
-&nbsp;&nbsp;&nbsp;&nbsp;Gaano kalala ang galit nila?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Si Adoram — ang opisyal na namamahala sa sapilitang manggagawa —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;binato nila siya hanggang mamatay.
-
-Kaya kapag binasa natin ang Eclesiastes,
-&nbsp;&nbsp;&nbsp;&nbsp;hindi lang ito isang hari na nagkokomento mula sa malayo.
-&nbsp;&nbsp;&nbsp;&nbsp;Ito ay isang taong nakakita ng kawalang-katarungan —
-&nbsp;&nbsp;&nbsp;&nbsp;at, sa totoo lang, bahagi rin siya nito.
+Si Haring Solomon — ang sumulat ng Eclesiastes —
+&nbsp;&nbsp;&nbsp;&nbsp;siya mismo ang nakasaksi nito.
 
 Buksan po natin ang Eclesiastes kabanata 4, bersikulo 1.
-&nbsp;&nbsp;&nbsp;&nbsp;Pansinin kung ano ang naobserbahan ni Solomon.
+&nbsp;&nbsp;&nbsp;&nbsp;Pansinin kung ano ang sinabi niya.
 
 *[Basahin ang Eclesiastes 4:1]*
 
 !!! quote "Eclesiastes 4:1"
     "Binigyang-pansin ko ulit ang lahat ng pagpapahirap na patuloy na nangyayari sa ilalim ng araw. Nakita ko ang mga luha ng mga pinahihirapan, at walang dumadamay sa kanila. May kapangyarihan ang mga nagpapahirap sa kanila, at walang dumadamay sa kanila."
 
-Napansin n'yo ba?
-&nbsp;&nbsp;&nbsp;&nbsp;Dalawang beses sinabing **"walang dumadamay sa kanila."**
-&nbsp;&nbsp;&nbsp;&nbsp;Hindi lang sila pinahihirapan — wala pa man lang kumampi.
+**"Walang dumadamay sa kanila."**
+&nbsp;&nbsp;&nbsp;&nbsp;Dalawang beses sinabi ni Solomon ang mga salitang 'yan.
 
-Kahit si Solomon — pinakamarunong na hari —
-&nbsp;&nbsp;&nbsp;&nbsp;nakita niya ang problema, pero hindi niya naayos.
+Bakit? Dahil iyon ang pinakamasakit na bahagi —
+&nbsp;&nbsp;&nbsp;&nbsp;hindi lang ka pinahihirapan...
+&nbsp;&nbsp;&nbsp;&nbsp;wala pa man lang kumakampi sa iyo.
+
+Naranasan n'yo na ba 'yan?
+&nbsp;&nbsp;&nbsp;&nbsp;Nasaktan ka, pero walang nakinig.
+&nbsp;&nbsp;&nbsp;&nbsp;Pinagmalabisan ka, pero walang kumampi.
 
 **==Nagpapatuloy pa rin ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi sa ating panahon.==**
-&nbsp;&nbsp;&nbsp;&nbsp;Base po sa Eclesiastes 8:9,
+&nbsp;&nbsp;&nbsp;&nbsp;Gaya ng sinabi sa Eclesiastes 8:9,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"sa panahong ang tao ay namamahala sa kapuwa niya sa ikapipinsala nito."
-
-Nakikita natin ito sa paligid natin.
-&nbsp;&nbsp;&nbsp;&nbsp;Mga kababayan nating pinagsamantalahan sa trabaho.
-&nbsp;&nbsp;&nbsp;&nbsp;Mga manggagawa na hindi binabayaran ng tama.
-&nbsp;&nbsp;&nbsp;&nbsp;Mga taong tinanggihan dahil lang sa kung saan sila nagmula.
-
-Hindi nagbago ang mundo mula noong panahon ni Solomon.
 
 At **==kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.==**
 
@@ -578,17 +556,13 @@ Iyan ang hamon sa atin ngayong umaga:
 Ang temang **Makakamit Pa Kaya Natin ang Tunay na Katarungan?** ay sumasagot sa tanong ng bawat taong nasaktan at naghahanap ng hustisya.
 
 **Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan:**
-&nbsp;&nbsp;&nbsp;&nbsp;Mula pa noong panahon ni Solomon — na siya mismo'y bahagi ng problema —
+&nbsp;&nbsp;&nbsp;&nbsp;Mula pa noong panahon ni Solomon —
 &nbsp;&nbsp;&nbsp;&nbsp;"walang dumadamay" sa mga pinahihirapan.
-&nbsp;&nbsp;&nbsp;&nbsp;Nagpapatuloy ito hanggang ngayon:
-&nbsp;&nbsp;&nbsp;&nbsp;OFW abuse, endo, korapsiyon, TFW exploitation, renovictions,
-&nbsp;&nbsp;&nbsp;&nbsp;child labor, at mga giyera sa buong mundo.
+&nbsp;&nbsp;&nbsp;&nbsp;Nagpapatuloy pa rin ito hanggang ngayon.
 
 **Hindi ang paghihimagsik ang solusyon:**
 &nbsp;&nbsp;&nbsp;&nbsp;Natural lang na humingi ng tulong,
 &nbsp;&nbsp;&nbsp;&nbsp;pero mabibigo ang mga pagsisikap ng tao kung walang tulong ng Diyos.
-&nbsp;&nbsp;&nbsp;&nbsp;Kahit si Solomon — pinakamarunong na hari —
-&nbsp;&nbsp;&nbsp;&nbsp;nakita niya ang problema pero hindi niya naayos.
 
 **Ang Kaharian ng Diyos ang tunay na solusyon:**
 &nbsp;&nbsp;&nbsp;&nbsp;Si Jesu-Kristo ang Tagapamahala ng Kaharian
