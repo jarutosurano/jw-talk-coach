@@ -44,38 +44,43 @@ Simulan natin sa realidad:
 **==Matagal nang nararanasan ng tao ang kawalang-katarungan.==**
 
 Hindi ito bago.
-&nbsp;&nbsp;&nbsp;&nbsp;Libu-libong taon nang nagdurusa ang mga tao dahil sa kawalang-katarungan.
+&nbsp;&nbsp;&nbsp;&nbsp;Matagal na itong problema ng sangkatauhan.
 
-Si Haring Solomon — ang sumulat ng Eclesiastes —
-&nbsp;&nbsp;&nbsp;&nbsp;siya mismo ang nakasaksi nito.
+At may isang tao sa Bibliya na lubos na nakaunawa nito — si Haring Solomon.
+&nbsp;&nbsp;&nbsp;&nbsp;Bilang hari, nakita niya mismo ang kawalang-katarungan sa paligid niya.
+&nbsp;&nbsp;&nbsp;&nbsp;Hindi siya bulag sa nangyayari sa kaniyang bayan.
 
 Buksan po natin ang Eclesiastes kabanata 4, bersikulo 1.
-&nbsp;&nbsp;&nbsp;&nbsp;Pansinin kung ano ang sinabi niya.
+&nbsp;&nbsp;&nbsp;&nbsp;Pansinin kung ano ang naobserbahan ni Solomon.
 
 *[Basahin ang Eclesiastes 4:1]*
 
 !!! quote "Eclesiastes 4:1"
     "Binigyang-pansin ko ulit ang lahat ng pagpapahirap na patuloy na nangyayari sa ilalim ng araw. Nakita ko ang mga luha ng mga pinahihirapan, at walang dumadamay sa kanila. May kapangyarihan ang mga nagpapahirap sa kanila, at walang dumadamay sa kanila."
 
-**"Walang dumadamay sa kanila."**
-&nbsp;&nbsp;&nbsp;&nbsp;Dalawang beses sinabi ni Solomon ang mga salitang 'yan.
+Napansin n'yo ba? Dalawang beses sinabing **"walang dumadamay sa kanila."**
+&nbsp;&nbsp;&nbsp;&nbsp;Hindi isang beses — dalawang beses.
+&nbsp;&nbsp;&nbsp;&nbsp;Para bang sinasabi ni Solomon:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Ito ang pinakamasakit na bahagi —
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hindi lang sila pinahihirapan,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kundi wala pa man lang kumakampi."
 
-Bakit? Dahil iyon ang pinakamasakit na bahagi —
-&nbsp;&nbsp;&nbsp;&nbsp;hindi lang ka pinahihirapan...
-&nbsp;&nbsp;&nbsp;&nbsp;wala pa man lang kumakampi sa iyo.
-
-Naranasan n'yo na ba 'yan?
-&nbsp;&nbsp;&nbsp;&nbsp;Nasaktan ka, pero walang nakinig.
-&nbsp;&nbsp;&nbsp;&nbsp;Pinagmalabisan ka, pero walang kumampi.
-
-**==Nagpapatuloy pa rin ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi sa ating panahon.==**
+At gayon din sa panahon natin.
+&nbsp;&nbsp;&nbsp;&nbsp;**==Nagpapatuloy pa rin ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi sa ating panahon.==**
 &nbsp;&nbsp;&nbsp;&nbsp;Gaya ng sinabi sa Eclesiastes 8:9,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"sa panahong ang tao ay namamahala sa kapuwa niya sa ikapipinsala nito."
 
-At **==kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.==**
+**==Kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.==**
+
+Kung naranasan mo na ang masaktan nang walang dahilan...
+&nbsp;&nbsp;&nbsp;&nbsp;kung napagmalabisan ka nang hindi mo kasalanan...
+&nbsp;&nbsp;&nbsp;&nbsp;naiintindihan namin 'yan.
+&nbsp;&nbsp;&nbsp;&nbsp;Gusto mong may kumilos.
+&nbsp;&nbsp;&nbsp;&nbsp;Gusto mong may gumawa ng paraan para magkaroon ng hustisya.
 
 Pero ano nga ba ang ginagawa ng mga tao para labanan ang kawalang-katarungan?
-&nbsp;&nbsp;&nbsp;&nbsp;Ang tanong: <mark class="green">**Paghihimagsik ba ang sagot?**</mark>
+&nbsp;&nbsp;&nbsp;&nbsp;Paghihimagsik.
+&nbsp;&nbsp;&nbsp;&nbsp;Pero ang tanong: <mark class="green">**Paghihimagsik ba ang sagot?**</mark>
 
 ---
 
