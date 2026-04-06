@@ -175,60 +175,106 @@ Hindi kayo nakalimutan ni Jehova.
 **==Ang Diyos ay nagtatag ng isang Kaharian sa langit na magdadala ng tunay na katarungan.==**
 
 Ano ba ang Kaharian ng Diyos?
-Simply put — ito ay gobyerno. Hindi gobyerno ng tao. Gobyerno ng Diyos — *God's government.*
-At sino ang pinili niyang maging Hari? Si Jesu-Kristo.
+Ito ay gobyerno — gobyerno ng Diyos.
+Tulad ng ibang gobyerno, may tagapamahala — si Jesu-Kristo.
+May mga kasama siyang mamamahala mula sa iba't ibang bansa.
+At may mga sakop — lahat ng gumagawa ng kalooban ng Diyos.
 
-Sinabi sa Daniel 7:13, 14 na binigyan si Kristo ng "awtoridad na mamahala, ng karangalan, at ng isang kaharian."
-At ang pinaka-importanteng bahagi:
-"Ang pamamahala niya ay walang hanggan — hindi ito magwawakas."
+Ayon sa Daniel 7:13, 14, itinayo ng Diyos ang gobyernong ito sa langit — at **==malapit nang palitan ng Kaharian ang mga pamahalaan ng tao at mamamahala ito sa buong lupa.==**
 
-Hindi ito tulad ng mga gobyerno ng tao — na nagbabago-bago, na puwedeng ma-impeach, na puwedeng ma-corrupt.
-**==Malapit nang palitan ng Kaharian ang mga pamahalaan ng tao at mamamahala ito sa buong lupa.==**
+Isipin n'yo 'yon.
+Isang gobyerno na hindi mababago ng eleksyon.
+Hindi mawawala kahit magpalit ng administrasyon.
+At hindi kailanman mabibigo.
+
+Sino ba ang ayaw ng ganyang gobyerno?
 
 Pero sino ang mamumuno?
 
 **==Si Jesu-Kristo ang Tagapamahala ng Kaharian ng Diyos; ang pamamahala niya ay magdadala ng "katarungan at katuwiran."==**
 
 Buksan po natin ang Isaias kabanata 9, bersikulo 6 at 7.
-Pansinin kung anong klase ng pamamahala ang itatayo ni Kristo.
+Sa tekstong ito, sinasabi ni Jehova kung anong klase ng lider ang ipapadala niya — at bakit siya ang tamang mamuno.
 
 *[Basahin ang Isaias 9:6, 7]*
 
 !!! quote "Isaias 9:6, 7"
     "Dahil isang bata ang ipinanganak sa atin, Isang anak na lalaki ang ibinigay sa atin; At ang pamamahala ay iaatang sa balikat niya. Siya ay tatawaging Kamangha-manghang Tagapayo, Makapangyarihang Diyos, Walang-Hanggang Ama, Prinsipe ng Kapayapaan. Ang paglawak ng pamamahala niya At ang kapayapaan ay hindi magwawakas Sa trono ni David at sa kaniyang kaharian Para itatag ito nang matibay at panatilihin Sa pamamagitan ng katarungan at katuwiran, Ngayon at magpakailanman. Mangyayari ito dahil sa sigasig ni Jehova ng mga hukbo."
 
-Ano ang natutunan natin dito?
+Parang nagpapakilala si Jehova ng isang lider, hindi ba?
+Tulad ng kapag may bagong speaker — sinasabi muna ang credentials niya.
+Tingnan natin ang credentials ni Kristo:
 
-**"Katarungan at katuwiran"** — iyan ang pundasyon ng gobyernong ito.
+"Kamangha-manghang Tagapayo" — marunong siya mamuno. Hindi siya gagawa ng maling desisyon.
+"Makapangyarihang Diyos" — binigyan siya ni Jehova ng kapangyarihang gawin ang katarungan.
+"Walang-Hanggang Ama" — minamahal niya ang mga sakop niya gaya ng isang ama sa kaniyang mga anak.
+"Prinsipe ng Kapayapaan" — ang dala niya ay kapayapaan, hindi giyera.
 
-Isipin natin ang pagkakaiba.
-Ang mga gobyerno ng tao — ano ang madalas na nangyayari?
-May paboritismo. May korapsiyon. May palakasan.
-Nangangako ng pagbabago — pero pagka-upo, sarili ang inuuna.
+At ang pundasyon ng lahat? **"Katarungan at katuwiran."**
+Hindi lang niya ipinangako — gagawin niya talaga.
+At "ngayon at magpakailanman" — walang expiration.
 
-Pero ang Kaharian ni Kristo?
-Walang suhol. Walang palakasan. Walang "kilala mo ba kung sino ako?"
+Para ilarawan:
+Isipin n'yo — nagtatrabaho ka nang tapat. Araw-araw, ginagawa mo ang tama.
+Pero ang katrabaho mo na laging late, laging absent — siya ang napromote.
+Bakit? Dahil kakilala siya ng boss.
+Masakit, hindi ba? At wala kang magawa.
+
+Pero isipin n'yo kung ang boss mo ay tulad ni Kristo —
+"Kamangha-manghang Tagapayo" — hindi siya magpapaboritismo.
+"Makapangyarihang Diyos" — kaya niyang ayusin ang sistema.
+At "Prinsipe ng Kapayapaan" — ang goal niya, kapayapaan para sa lahat.
+
+Iyon ang klase ng pamamahala na sinasabi sa Isaias 9:6, 7.
 Gaya ng sinabi sa Isaias 32:1,
 "Isang hari ang mamumuno para sa katuwiran,
 at may mga prinsipeng mamamahala para sa katarungan."
 
-At para sa atin — ibig sabihin nito:
-ang gobyernong ito ay hindi ka bibiguin.
-Kung nasaktan ka ng sistema ng tao — may darating na gobyerno na talagang makatarungan.
+Kaya ano ang ibig sabihin nito para sa atin?
+Kung nasaktan ka ng sistema ng tao — may darating na gobyerno na hindi ka bibiguin.
 At hindi ito mawawala — "ngayon at magpakailanman."
 
 ---
 
+Napakalaking pangako, hindi ba?
+Pero hindi lang siya nangako.
+
 **==Noong ministeryo ni Jesus sa lupa, hindi niya itinaguyod ang katarungan sa pamamagitan ng mga reporma sa lipunan o politika; itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.==**
 
 Hindi siya naging aktibista. Hindi siya namuno ng rebolusyon.
-Ano ang ginawa niya?
-Nangangaral siya ng mabuting balita ng Kaharian.
-Itinuro niya sa atin na ipanalangin: "Dumating nawa ang Kaharian mo." (Mateo 6:9, 10)
+Ano ang ginawa niya? Nangangaral siya ng mabuting balita ng Kaharian.
+At itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.
+
+Paano? Sa pamamagitan ng panalangin.
+Pakinggan natin kung ano ang itinuro niya.
+
+*[Basahin ang Mateo 6:9, 10]*
+
+!!! quote "Mateo 6:9, 10"
+    "Manalangin kayo sa ganitong paraan: 'Ama namin na nasa langit, pakabanalin nawa ang pangalan mo. Dumating nawa ang Kaharian mo. Mangyari nawa ang kalooban mo, kung paano sa langit, gayon din sa lupa.'"
+
+Isipin n'yo ang ibig sabihin nito.
+Sa langit — walang kawalang-katarungan. Walang pang-aapi. Walang luha.
+At ipinanalangin natin na ang ganyang realidad — mangyari din dito sa lupa.
+
+Hindi 'yan basta panalangin lang. Iyon ay pangako.
+Darating ang araw na kung ano ang nangyayari sa langit — ganoon din ang mangyayari dito.
 
 At **==makikita sa mga ginawa niyang himala kung ano ang gagawin niya bilang Hari ng Kaharian ng Diyos.==**
-Pinakain niya ang libu-libo. Pinagaling ang mga may sakit.
+
+May isang pagkakataon — limang tinapay at dalawang isda lang ang mayroon.
+Pero pinakain niya ang 5,000 lalaki, bukod pa sa mga babae at mga bata.
+Lahat nabusog — at 12 basket pa ang natira.
+
+Sa isa namang pagkakataon, may bulag na nakaupo sa tabi ng daan.
+Nang marinig niyang dumadaan si Jesus, sumigaw siya: "Anak ni David, maawa ka sa akin!"
+Sinasaway siya ng mga tao — pero lalo lang niyang isinigaw.
+Huminto si Jesus. Tinanong siya: "Ano ang gusto mong gawin ko para sa iyo?"
+"Panginoon, gusto kong makakita uli."
+At agad siyang nakakita.
+
 Preview 'yan — sample ng kung ano ang gagawin ng Kaharian.
+Walang magugutom. Walang magkakasakit. Walang maiiwan.
 
 ---
 
