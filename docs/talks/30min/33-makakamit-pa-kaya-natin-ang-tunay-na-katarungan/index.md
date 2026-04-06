@@ -125,14 +125,22 @@ Pagkaraan ng ilang panahon — panibagong problema na naman.
 
 *Salamat po sa picture.*
 
-Kaya **==hindi ang paghihimagsik ang solusyon sa kawalang-katarungan.==**
+Ano po ang natutuhan natin dito?
+
+**==Hindi ang paghihimagsik ang solusyon sa kawalang-katarungan.==**
 
 Gaya ng sinabi sa Eclesiastes 1:15,
 "Ang baluktot ay hindi maitutuwid."
 
-Pero bakit ganoon?
+Ano ang ibig sabihin nito?
+Sira ang sistema mismo.
+Puwede mong ayusin ang isang problema ngayon — pero bukas, may lalabas na bago.
+Bakit? Dahil ang ugat ng problema ay hindi nabago.
+
+At ano ang ugat?
 **==May kawalang-katarungan dahil hindi sinusunod ng tao ang matuwid na mga daan ng Diyos.==**
-Ang tao ang pinagmulan ng problema — hindi ang Diyos.
+Hindi lang ito tungkol sa masasamang lider o maling batas.
+Ang problema — ang tao mismo ay hindi kayang mamuno nang tama kung wala ang Diyos.
 
 Kaya ba ng tao na solusyonan ito mag-isa?
 **==Mabibigo ang mga pagsisikap ng tao na magkaroon ng tunay na katarungan kung walang tulong ng Diyos.==**
@@ -146,6 +154,8 @@ kung wala ang Diyos, hindi magtatagumpay.
 
 Kung hindi sa tao ang sagot...
 sino ang puwedeng tumulong sa atin?
+Tama — ang Diyos.
+Pero ano ang solusyon niya?
 <mark class="green">**Ano ang solusyon ng Diyos sa kawalang-katarungan?**</mark>
 
 ---
