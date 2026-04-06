@@ -133,29 +133,30 @@ Gaya ng sinabi sa Eclesiastes 1:15,
 "Ang baluktot ay hindi maitutuwid."
 
 Ano ang ibig sabihin nito?
-Sira ang sistema mismo.
+Sira ang sistema mismo — *the system itself is broken.*
 Puwede mong ayusin ang isang problema ngayon — pero bukas, may lalabas na bago.
 Bakit? Dahil ang ugat ng problema ay hindi nabago.
 
-At ano ang ugat?
+At ano ang ugat? Ano po ba ang root cause ng problema?
 **==May kawalang-katarungan dahil hindi sinusunod ng tao ang matuwid na mga daan ng Diyos.==**
 Hindi lang ito tungkol sa masasamang lider o maling batas.
-Ang problema — ang tao mismo ay hindi kayang mamuno nang tama kung wala ang Diyos.
+Ang problema — ang tao mismo.
+Hindi siya dinisenyo na mamuno nang mag-isa — *not designed to rule on his own.*
 
-Kaya ba ng tao na solusyonan ito mag-isa?
+Kaya ba ng tao na solusyonan ito mag-isa? Hindi.
 **==Mabibigo ang mga pagsisikap ng tao na magkaroon ng tunay na katarungan kung walang tulong ng Diyos.==**
-Sinabi sa Jeremias 10:23,
+Bakit masasabi natin 'yan?
+Dahil gaya ng sinabi sa Jeremias 10:23,
 "Hindi para sa taong lumalakad
 ang ituwid man lang ang sarili niyang hakbang."
 
-Hindi dinisenyo ang tao na mamahala sa sarili niya.
-Kaya kahit gaano pa kaganda ang intensyon —
+Kahit gaano pa kaganda ang intensyon —
 kung wala ang Diyos, hindi magtatagumpay.
 
-Kung hindi sa tao ang sagot...
-sino ang puwedeng tumulong sa atin?
-Tama — ang Diyos.
-Pero ano ang solusyon niya?
+Kung hindi dinisenyo ang tao na mamahala sa sarili niya...
+sino ang may karapatan at kakayahang mamuno?
+Ang Diyos.
+Pero paano?
 <mark class="green">**Ano ang solusyon ng Diyos sa kawalang-katarungan?**</mark>
 
 ---
