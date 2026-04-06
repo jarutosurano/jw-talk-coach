@@ -165,6 +165,9 @@ Pero paano?
 
 Mga kapatid at mga kaibigan,
 kung may dala-dala kayong bigat sa dibdib ngayong umaga —
+dahil nasaktan kayo,
+dahil naranasan n'yo ang di-makatarungan,
+o dahil may taong nanakit sa inyo na parang walang nangyari —
 ito po ang bahaging para sa inyo.
 
 Hindi kayo nakalimutan ni Jehova.
