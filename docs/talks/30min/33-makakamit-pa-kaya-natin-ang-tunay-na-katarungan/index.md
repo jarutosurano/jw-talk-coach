@@ -165,95 +165,78 @@ Pero paano?
 
 Mga kapatid at mga kaibigan,
 kung may dala-dala kayong bigat sa dibdib ngayong umaga —
-dahil nasaktan kayo,
-dahil naranasan n'yo ang di-makatarungan,
-o dahil may taong nanakit sa inyo na parang walang nangyari —
 ito po ang bahaging para sa inyo.
 
 Hindi kayo nakalimutan ni Jehova.
 
-Iisa lang ang solusyon ng Diyos —
-at iyon ay ang **Kaharian niya**.
-
 **==Ang Diyos ay nagtatag ng isang Kaharian sa langit na magdadala ng tunay na katarungan.==**
 
-Nakita ito ni propeta Daniel sa isang pangitain.
-Sinabi sa Daniel 7:13, 14 na may isang "gaya ng anak ng tao" —
-si Jesu-Kristo —
-na binigyan ng "awtoridad na mamahala, ng karangalan, at ng isang kaharian."
+Ano ba ang Kaharian ng Diyos?
+Simply put — ito ay gobyerno. Hindi gobyerno ng tao. Gobyerno ng Diyos — *God's government.*
+At sino ang pinili niyang maging Hari? Si Jesu-Kristo.
 
+Sinabi sa Daniel 7:13, 14 na binigyan si Kristo ng "awtoridad na mamahala, ng karangalan, at ng isang kaharian."
 At ang pinaka-importanteng bahagi:
-**"Ang pamamahala niya ay walang hanggan —
-hindi ito magwawakas, at hindi mawawasak ang kaharian niya."**
+"Ang pamamahala niya ay walang hanggan — hindi ito magwawakas."
 
-Hindi ito tulad ng mga gobyerno ng tao na nagbabago-bago.
-Hindi ito maaagawan ng kapangyarihan.
+Hindi ito tulad ng mga gobyerno ng tao — na nagbabago-bago, na puwedeng ma-impeach, na puwedeng ma-corrupt.
 **==Malapit nang palitan ng Kaharian ang mga pamahalaan ng tao at mamamahala ito sa buong lupa.==**
 
-Pero sino ang mamumuno sa Kahariang ito?
+Pero sino ang mamumuno?
 
 **==Si Jesu-Kristo ang Tagapamahala ng Kaharian ng Diyos; ang pamamahala niya ay magdadala ng "katarungan at katuwiran."==**
 
 Buksan po natin ang Isaias kabanata 9, bersikulo 6 at 7.
-Dito, makikita natin kung anong klase ng pamamahala ang itatayo ni Kristo.
+Pansinin kung anong klase ng pamamahala ang itatayo ni Kristo.
 
 *[Basahin ang Isaias 9:6, 7]*
 
 !!! quote "Isaias 9:6, 7"
     "Dahil isang bata ang ipinanganak sa atin, Isang anak na lalaki ang ibinigay sa atin; At ang pamamahala ay iaatang sa balikat niya. Siya ay tatawaging Kamangha-manghang Tagapayo, Makapangyarihang Diyos, Walang-Hanggang Ama, Prinsipe ng Kapayapaan. Ang paglawak ng pamamahala niya At ang kapayapaan ay hindi magwawakas Sa trono ni David at sa kaniyang kaharian Para itatag ito nang matibay at panatilihin Sa pamamagitan ng katarungan at katuwiran, Ngayon at magpakailanman. Mangyayari ito dahil sa sigasig ni Jehova ng mga hukbo."
 
-**"Katarungan at katuwiran"** —
-iyan ang pundasyon ng pamamahala ni Kristo.
-Hindi tulad ni Solomon na nakakita ng problema pero hindi naayos.
-Hindi tulad ng mga gobyerno ng tao na may paboritismo at korapsiyon.
-Ang Kaharian ni Kristo ay itatayo sa katarungan.
+Ano ang natutunan natin dito?
 
+**"Katarungan at katuwiran"** — iyan ang pundasyon ng gobyernong ito.
+
+Isipin natin ang pagkakaiba.
+Ang mga gobyerno ng tao — ano ang madalas na nangyayari?
+May paboritismo. May korapsiyon. May palakasan.
+Nangangako ng pagbabago — pero pagka-upo, sarili ang inuuna.
+
+Pero ang Kaharian ni Kristo?
+Walang suhol. Walang palakasan. Walang "kilala mo ba kung sino ako?"
 Gaya ng sinabi sa Isaias 32:1,
 "Isang hari ang mamumuno para sa katuwiran,
 at may mga prinsipeng mamamahala para sa katarungan."
+
+At para sa atin — ibig sabihin nito:
+ang gobyernong ito ay hindi ka bibiguin.
+Kung nasaktan ka ng sistema ng tao — may darating na gobyerno na talagang makatarungan.
+At hindi ito mawawala — "ngayon at magpakailanman."
 
 ---
 
 **==Noong ministeryo ni Jesus sa lupa, hindi niya itinaguyod ang katarungan sa pamamagitan ng mga reporma sa lipunan o politika; itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.==**
 
-Hindi siya naging aktibista.
-Hindi siya namuno ng rebolusyon laban sa Roma.
-
+Hindi siya naging aktibista. Hindi siya namuno ng rebolusyon.
 Ano ang ginawa niya?
-Buksan po natin ang Mateo kabanata 4, bersikulo 23.
-
-*[Basahin ang Mateo 4:23]*
-
-!!! quote "Mateo 4:23"
-    "Nilibot niya ang buong Galilea; nagtuturo siya sa mga sinagoga, nangangaral ng mabuting balita ng Kaharian, at nagpapagaling ng bawat uri ng sakit at kapansanan ng mga tao."
-
 Nangangaral siya ng mabuting balita ng Kaharian.
-At itinuro niya sa atin na manalangin:
-"Dumating nawa ang Kaharian mo.
-Mangyari nawa ang kalooban mo,
-kung paano sa langit, gayon din sa lupa." (Mateo 6:9, 10)
+Itinuro niya sa atin na ipanalangin: "Dumating nawa ang Kaharian mo." (Mateo 6:9, 10)
 
 At **==makikita sa mga ginawa niyang himala kung ano ang gagawin niya bilang Hari ng Kaharian ng Diyos.==**
-Pinakain niya ang libu-libo.
-Pinagaling niya ang mga bulag, mga pilay, mga may ketong.
-Ipinakita niya kung ano ang magagawa ng Kaharian sa hinaharap.
+Pinakain niya ang libu-libo. Pinagaling ang mga may sakit.
+Preview 'yan — sample ng kung ano ang gagawin ng Kaharian.
 
 ---
 
 **==Kapag namamahala na ang Kaharian, mawawala na ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi.==**
 
-Para sa mga nasaktan...
-para sa mga naranasan ang di-makatarungan...
-ito ang pangako ng Diyos sa inyo.
+Para sa mga nasaktan... ito ang pangako ng Diyos sa inyo.
+Sinabi sa Awit 72:12-14 tungkol sa Hari ng Kaharian:
+"Ililigtas niya ang dukha na humihingi ng tulong...
+Sasagipin niya sila mula sa pang-aapi at karahasan,
+at **magiging mahalaga sa paningin niya ang dugo nila.**"
 
-Buksan po natin ang Awit 72, bersikulo 12 hanggang 14.
-
-*[Basahin ang Awit 72:12-14]*
-
-!!! quote "Awit 72:12-14"
-    "Dahil ililigtas niya ang dukha na humihingi ng tulong, At ang hamak at ang sinumang walang katulong. Maaawa siya sa hamak at sa dukha, At ililigtas niya ang buhay ng mga dukha. Sasagipin niya sila mula sa pang-aapi at karahasan, At magiging mahalaga sa paningin niya ang dugo nila."
-
-**"Magiging mahalaga sa paningin niya ang dugo nila."**
 Kung naramdaman mong walang kwenta ka...
 hindi ganoon ang tingin ni Jehova sa iyo.
 Mahalaga ka sa kaniya.
@@ -267,28 +250,31 @@ Ngayon naman po, tingnan natin ang isa pang larawan.
 </figure>
 
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
-Buhay sa ilalim ng Kaharian.
-Kapayapaan. Kasiyahan.
-Walang nang-aapi. Walang inaapi.
+May malaking grupo ng mga tao — iba't ibang lahi, iba't ibang bansa — pero lahat sila nakangiti.
+Nakatayo sila sa ilalim ng gintong mga ulap.
+At tingnan n'yo kung sino ang nakikita nila sa itaas —
+isang maringal na pigura, naka-glowing na damit, may korona, at nakabukás ang mga kamay.
+Sino 'yon? Si Jesu-Kristo — ang Hari ng Kaharian ng Diyos.
 
-Kanina, nakita natin ang mga taong galit, nagmamartsa, naghahanap ng pagbabago.
+Natatandaan n'yo ang unang larawan?
+Mga taong galit, nagmamartsa, naghahanap ng pagbabago.
 Pero dito — kapayapaan. Kasiyahan. Pagkakaisa.
+Iyan ang pagkakaiba ng gobyerno ng tao at ng gobyerno ng Diyos.
 
-At apat na pagbabago ang makikita natin:
+Isipin n'yo ang mundong ganito:
 
-**==Lahat ay makikinabang sa mga likas na yaman ng lupa kaya wala nang mayaman o mahirap==** (Awit 72:16).
+**==Walang gutom — lahat sagana.==** Wala nang mayaman o mahirap. (Awit 72:16)
 
-**==Pantay-pantay na ang lahat ng lahi at etnikong mga grupo==** (Gawa 10:34, 35).
+**==Walang discrimination — pantay-pantay ang lahat.==** Hindi ka iju-judge dahil sa kulay ng balat mo o kung saan ka nanggaling. (Gawa 10:34, 35)
 
-**==Hindi na mababahagi ang mga tao dahil sa relihiyon; ang lahat ay magkakaisa sa pagsamba kay Jehova==** (Isaias 11:9).
+**==Walang away dahil sa relihiyon — iisa ang pagsamba.==** Ang lahat ay magkakaisa sa pagsamba kay Jehova. (Isaias 11:9)
 
-At **==magkakaroon ng kapayapaan sa lahat ng pamilya.==**
+At **==walang broken family — kapayapaan sa bawat tahanan.==**
 
 *Salamat po sa picture.*
 
 Sino ba ang ayaw na mabuhay sa mundong ganito?
-Hindi 'yan panaginip.
-Pangako 'yan ng Diyos na Jehova.
+Hindi 'yan panaginip. Pangako 'yan ng Diyos na Jehova.
 
 Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian?
 <mark class="green">**Paano mo mahaharap ang kawalang-katarungan ngayon?**</mark>
