@@ -92,10 +92,7 @@ Gaya ng sinabi sa Job 35:9,
 &nbsp;&nbsp;&nbsp;&nbsp;"Dumaraing ang mga tao kapag inaapi sila;
 &nbsp;&nbsp;&nbsp;&nbsp;humihingi sila ng tulong dahil sa panggigipit ng mga makapangyarihan."
 
-Walang masama sa paghiling ng katarungan.
-Walang masama sa paghingi ng tulong.
-Natural 'yan.
-&nbsp;&nbsp;&nbsp;&nbsp;Tao tayo — nasaktan tayo, gusto nating may mangyari.
+Walang masama doon. Natural 'yan.
 
 At dahil dito,
 &nbsp;&nbsp;&nbsp;&nbsp;**==para mabawasan ang kawalang-katarungan, ang ilan ay naghihimagsik.==**
@@ -109,56 +106,45 @@ Ngayon naman po, tingnan natin ang larawan.
 </figure>
 
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
-&nbsp;&nbsp;&nbsp;&nbsp;Mga taong nagpoprotesta. Nagmamartsa.
-&nbsp;&nbsp;&nbsp;&nbsp;May hawak na mga karatula. Galit. Naghahanap ng pagbabago.
+&nbsp;&nbsp;&nbsp;&nbsp;Mga taong nagpoprotesta. Nagmamartsa. Galit. Naghahanap ng pagbabago.
 
-At naiintindihan natin kung bakit.
+Naiintindihan natin kung bakit.
 &nbsp;&nbsp;&nbsp;&nbsp;Sawa na sila. Pagod na sila sa kawalang-katarungan.
 
-Base sa referensya natin,
-&nbsp;&nbsp;&nbsp;&nbsp;maraming kilos-protesta ang sumiklab sa buong mundo —
-&nbsp;&nbsp;&nbsp;&nbsp;rent riots sa Chicago para tulungan ang mahihirap,
-&nbsp;&nbsp;&nbsp;&nbsp;bus boycott sa Montgomery, Alabama dahil sa kawalan ng hustisya,
-&nbsp;&nbsp;&nbsp;&nbsp;at coal plant protest sa Hong Kong para ipaglaban ang karapatan ng mga tao.
-&nbsp;&nbsp;&nbsp;&nbsp;Minsan, may naisasagawa sila —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;natulungan ang mahihirap, napawalang-bisa ang ilang di-makatarungang batas.
+Ano ba ang ginawa ng ilan?
+&nbsp;&nbsp;&nbsp;&nbsp;Base sa referensya natin,
+&nbsp;&nbsp;&nbsp;&nbsp;sa Chicago, nagkaroon ng rent riots — lumaban ang mga mahihirap
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dahil hindi na nila kaya ang renta.
+&nbsp;&nbsp;&nbsp;&nbsp;Sa Montgomery, Alabama, nag-boycott ng bus ang mga tao
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dahil sa kawalan ng hustisya.
 
-Pero hindi laging ganoon ang ending.
-&nbsp;&nbsp;&nbsp;&nbsp;Minsan, mapaparusahan pa ang mga nagpoprotesta.
-&nbsp;&nbsp;&nbsp;&nbsp;At kahit manalo sila, pagkatapos ng ilang panahon,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;magkakaroon na naman ng panibagong problema.
+May naisagawa ba sila? Oo.
+&nbsp;&nbsp;&nbsp;&nbsp;Natulungan ang mahihirap. Nabago ang ilang batas.
+&nbsp;&nbsp;&nbsp;&nbsp;Pero ano ang nangyari pagkatapos?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pagkaraan ng ilang panahon — panibagong problema na naman.
 
 *Salamat po sa picture.*
 
-Pero narito ang tanong:
-&nbsp;&nbsp;&nbsp;&nbsp;Hindi ba laging nakakamit ng mga nagpoprotesta ang gusto nila?
+Kaya **==hindi ang paghihimagsik ang solusyon sa kawalang-katarungan.==**
 
-**==Hindi ang paghihimagsik ang solusyon sa kawalang-katarungan.==**
+Gaya ng sinabi sa Eclesiastes 1:15,
+&nbsp;&nbsp;&nbsp;&nbsp;"Ang baluktot ay hindi maitutuwid."
 
-Bakit?
-&nbsp;&nbsp;&nbsp;&nbsp;Dahil gaya ng sinabi sa Eclesiastes 1:15,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Ang baluktot ay hindi maitutuwid."
-&nbsp;&nbsp;&nbsp;&nbsp;Hindi kayang ituwid ng tao ang mga problemang mismo'y tao rin ang gumawa.
+Pero bakit ganoon?
+&nbsp;&nbsp;&nbsp;&nbsp;**==May kawalang-katarungan dahil hindi sinusunod ng tao ang matuwid na mga daan ng Diyos.==**
+&nbsp;&nbsp;&nbsp;&nbsp;Ang tao ang pinagmulan ng problema — hindi ang Diyos.
 
-Alam kong mahirap tanggapin 'yan.
-&nbsp;&nbsp;&nbsp;&nbsp;Gusto nating may magawa tayo. Pero ang totoo...
+Kaya ba ng tao na solusyonan ito mag-isa?
+&nbsp;&nbsp;&nbsp;&nbsp;**==Mabibigo ang mga pagsisikap ng tao na magkaroon ng tunay na katarungan kung walang tulong ng Diyos.==**
+&nbsp;&nbsp;&nbsp;&nbsp;Sinabi sa Jeremias 10:23,
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Hindi para sa taong lumalakad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ang ituwid man lang ang sarili niyang hakbang."
 
-**==May kawalang-katarungan dahil hindi sinusunod ng tao ang matuwid na mga daan ng Diyos.==**
-&nbsp;&nbsp;&nbsp;&nbsp;Sinabi sa Deuteronomio 32:4, 5 na si Jehova —
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Siya ang "Bato" na lahat ng ginagawa ay makatarungan.
-&nbsp;&nbsp;&nbsp;&nbsp;Pero ang mga tao?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Sila ang kumilos nang kapaha-pahamak.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sila ang pinagmulan ng problema."
+Hindi dinisenyo ang tao na mamahala sa sarili niya.
+&nbsp;&nbsp;&nbsp;&nbsp;Kaya kahit gaano pa kaganda ang intensyon —
+&nbsp;&nbsp;&nbsp;&nbsp;kung wala ang Diyos, hindi magtatagumpay.
 
-Kaya kahit gaano pa kaganda ang intensyon ng mga nagpoprotesta,
-&nbsp;&nbsp;&nbsp;&nbsp;**==mabibigo ang mga pagsisikap ng tao na magkaroon ng tunay na katarungan kung walang tulong ng Diyos.==**
-&nbsp;&nbsp;&nbsp;&nbsp;Sabi sa Awit 146:3,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Huwag kayong umasa sa mga pinuno o sa anak ng tao, na hindi makapagliligtas."
-&nbsp;&nbsp;&nbsp;&nbsp;At sinabi rin sa Jeremias 10:23,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Hindi para sa taong lumalakad ang ituwid man lang ang sarili niyang hakbang."
-
-Kaya kung hindi sa tao ang sagot...
-&nbsp;&nbsp;&nbsp;&nbsp;kung hindi kayang ituwid ng tao ang sarilin niyang hakbang...
+Kung hindi sa tao ang sagot...
 &nbsp;&nbsp;&nbsp;&nbsp;sino ang puwedeng tumulong sa atin?
 &nbsp;&nbsp;&nbsp;&nbsp;<mark class="green">**Ano ang solusyon ng Diyos sa kawalang-katarungan?**</mark>
 
