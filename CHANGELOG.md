@@ -4,6 +4,53 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.4.0] - 2026-04-18
+
+### Deep polish of talk 33 v2 (outline 33) — heart-reach, REIA structure, memorable formulas
+
+**Intro:**
+- Sprinkled `po` in 3 warm spots (opener, emotional line, topic question)
+- Added `{pause}` markers on own line + bold for delivery cues
+- Italicized `*walang kumakampi sa iyo*` for softer delivery before the pink title question
+- Fixed broken transition ("Simulan natin sa realidad" → "Pero bago natin ito masagot, [skipped to green heading]")
+
+**Section 1 (Mundo punô ng kawalang-katarungan):**
+- Sharpened Solomon setup: added "3,000 years na ang nakalipas" + credentials triplet "Matalino. Mayaman. Makapangyarihan."
+- Replaced vague pre-read cue with question "Pero ano ang nakita niya sa kaniyang bayan?" + direct Bible open
+- Added emotional bridge "At pamilyar po, hindi ba, ang pakiramdam na 'yon?" mirroring Solomon's observation
+- Added inner-wound line "minsan, pati sa tahimik ng gabi — nababalik pa rin sa isip mo ang nangyari. Paulit-ulit. Parang walang katapusan."
+- Removed Ec 8:9 supporting quote (redundant with Ec 4:1)
+
+**Section 2 (Paghihimagsik ba ang sagot?):**
+- Restructured into "Dalawang dahilan" memorable framework
+- Una: Root cause (outline phrase preserved) — explained without Ec 1:15 quote (dropped as redundant supporting text)
+- Pangalawa: Not designed to rule on own — ELEVATED Jer 10:23 to Basahin with proper guidelines #13 transition
+- Added question bridge "Pero paano po kung walang nakikinig? Paano kung matagal nang walang nagbabago?" to connect Job 35:9 → rebellion
+- Removed Chicago rent riots and Montgomery bus boycott historical references (not needed for KW audience)
+- Tightened closing: dropped triple restatement of "hindi dinisenyo ang tao na mamuno" and "sino kaya? Ang Diyos" redundancy before green heading
+
+**Section 3 (Ano ang solusyon ng Diyos?):**
+- Added short answer "Kaharian ng Diyos" + "Alam n'yo po ba —" lead before outline phrase
+- Integrated JW.org definition ("isang tunay na gobyerno na itinatag ng Diyos na Jehova"; "Kaharian ng langit")
+- Added "tunay" to government descriptor (marks it as real, not symbolic)
+- Components in Q&A format: "Sino ang mamumuno? Sino ang katuwang? Sino ang mga sakop?"
+- Changed vague "mga kasama" to "mga katuwang / kasamang mamamahala"
+- Added "Anong ibig sabihin nito?" explanation after "Malapit nang palitan" outline phrase
+- Broke long "Si Jesu-Kristo ang Tagapamahala..." outline phrase into 2 highlighted blocks with bridge "At ang pamamahala niya —"
+- Broke long "Noong ministeryo ni Jesus..." outline phrase similarly with "Sa halip —" contrast bridge
+- REIA structure markers applied throughout: **Anong ibig sabihin nito?** (Explain), **Para ilarawan:** (Illustrate), **Ikapit mo:** (Apply)
+- Credentials breakdown (4 titles + pundasyon) re-anchored in REIA; tightened workplace illustration (removed doubled walk-through)
+- Mat 6:9,10 given proper "Buksan po natin" transition per guidelines #13
+- Labeled miracles as **Himala 1 / Himala 2 / Preview** for memorable structure
+- Image 2: replaced literal picture description with experiential invitation "Isipin n'yo — andyan kayo sa larawan"
+- **4K ng Kaharian** acronym introduced: Kasaganaan / Kapantayan / Kaisahan / Kapayapaan — mnemonic for the 4 sub-outline phrases
+- Dropped Daniel 7:13-14, Isaias 32:1, Awit 72:12-14 (all non-Basahin supporting texts; section tightened)
+
+### Session workflow
+- New memory: `feedback_apply-on-approval.md` — apply approved edits to local file immediately so mkdocs preview stays current
+
+---
+
 ## [4.3.0] - 2026-04-04
 
 ### Polish talk 33 scripts (v1 and v2) based on guidelines review

@@ -17,7 +17,7 @@ title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v2)
 
 ## INTRO
 
-Marami sa atin ang nakaranas na ng kawalang-katarungan.
+Marami po sa atin ang nakaranas na ng kawalang-katarungan.
 
 Baka sa trabaho —
 pinagmalabisan ka ng boss mo kahit wala kang kasalanan.
@@ -28,13 +28,17 @@ hindi ka pinakinggan, hindi ka pinanigan.
 Baka sa komunidad —
 tinanggihan ka dahil lang sa kung sino ka.
 
-At alam natin kung gaano kasakit 'yon.
-Yung pakiramdam na... *walang kumakampi sa iyo.*
+At alam po natin kung gaano kasakit 'yon.
+Yung pakiramdam na...
+*walang kumakampi sa iyo.*
 
-Kaya ngayong umaga, sasagutin natin ang tanong na ito:
+**{pause}**
+
+Kaya ngayong umaga, sasagutin po natin ang tanong na ito:
 <mark class="pink">**Makakamit pa kaya natin ang tunay na katarungan?**</mark>
 
-Simulan natin sa realidad:
+**{pause}**
+
 <mark class="green">**Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan.**</mark>
 
 ---
@@ -43,15 +47,17 @@ Simulan natin sa realidad:
 
 **==Matagal nang nararanasan ng tao ang kawalang-katarungan.==**
 
-Hindi ito bago.
+Hindi po ito bago.
 Matagal na itong problema ng sangkatauhan.
 
-At may isang tao sa Bibliya na lubos na nakaunawa nito — si Haring Solomon.
-Bilang hari, nakita niya mismo ang kawalang-katarungan sa paligid niya.
-Hindi siya bulag sa nangyayari sa kaniyang bayan.
+May isang hari — si Solomon.
+**3,000 years** na ang nakalipas.
+Matalino. Mayaman. Makapangyarihan.
+Pero ano ang nakita niya sa kaniyang bayan?
 
 Buksan po natin ang Eclesiastes kabanata 4, bersikulo 1.
-Pansinin kung ano ang naobserbahan ni Solomon.
+
+**{pause}**
 
 *[Basahin ang Eclesiastes 4:1]*
 
@@ -65,17 +71,23 @@ Para bang sinasabi ni Solomon:
 hindi lang sila pinahihirapan,
 kundi wala pa man lang kumakampi."
 
+**{pause}**
+
+At pamilyar po, hindi ba, ang pakiramdam na 'yon?
+Yung nararamdaman mo na walang nakikita,
+walang naninindigan, walang kumakampi.
+
 At gayon din sa panahon natin.
 **==Nagpapatuloy pa rin ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi sa ating panahon.==**
-Gaya ng sinabi sa Eclesiastes 8:9,
-"sa panahong ang tao ay namamahala sa kapuwa niya sa ikapipinsala nito."
 
 **==Kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.==**
 
-Kung naranasan mo na ang masaktan nang walang dahilan...
-kung napagmalabisan ka nang hindi mo kasalanan...
-naiintindihan namin 'yan.
-Gusto mong may kumilos.
+Minsan, pati sa tahimik ng gabi —
+nababalik pa rin sa isip mo ang nangyari.
+Paulit-ulit. Parang walang katapusan.
+
+Kaya natural lang —
+gusto mong may kumilos.
 Gusto mong may gumawa ng paraan para magkaroon ng hustisya.
 
 Pero ano nga ba ang ginagawa ng mga tao para labanan ang kawalang-katarungan?
@@ -88,14 +100,17 @@ Pero ang tanong: <mark class="green">**Paghihimagsik ba ang sagot?**</mark>
 
 **==Natural lang na humingi ng tulong kapag inaapi ka.==**
 
-Gaya ng sinabi sa Job 35:9,
+Iyan mismo ang sinasabi sa Job 35:9 —
 "Dumaraing ang mga tao kapag inaapi sila;
 humihingi sila ng tulong dahil sa panggigipit ng mga makapangyarihan."
 
 Walang masama doon. Natural 'yan.
 
-At dahil dito,
-**==para mabawasan ang kawalang-katarungan, ang ilan ay naghihimagsik.==**
+Pero paano po kung walang nakikinig?
+Paano kung matagal nang walang nagbabago?
+
+Kaya ano ang ginagawa ng iba?
+**==Para mabawasan ang kawalang-katarungan, ang ilan ay naghihimagsik.==**
 
 ## IMAGE 1
 
@@ -111,17 +126,10 @@ Mga taong nagpoprotesta. Nagmamartsa. Galit. Naghahanap ng pagbabago.
 Naiintindihan natin kung bakit.
 Sawa na sila. Pagod na sila sa kawalang-katarungan.
 
-Ano ba ang ginawa ng ilan?
-Base sa referensya natin,
-sa Chicago, nagkaroon ng rent riots — lumaban ang mga mahihirap
-dahil hindi na nila kaya ang renta.
-Sa Montgomery, Alabama, nag-boycott ng bus ang mga tao
-dahil sa kawalan ng hustisya.
-
-May naisagawa ba sila? Oo.
-Natulungan ang mahihirap. Nabago ang ilang batas.
-Pero ano ang nangyari pagkatapos?
-Pagkaraan ng ilang panahon — panibagong problema na naman.
+May naisagawa ba sila? Oo, minsan —
+natulungan ang ilan, nabago ang ilang batas.
+Pero pagkalipas ng ilang panahon —
+panibagong problema na naman ang sumulpot.
 
 *Salamat po sa picture.*
 
@@ -129,200 +137,208 @@ Ano po ang natutuhan natin dito?
 
 **==Hindi ang paghihimagsik ang solusyon sa kawalang-katarungan.==**
 
-Gaya ng sinabi sa Eclesiastes 1:15,
-"Ang baluktot ay hindi maitutuwid."
+Bakit po?
+Dalawang dahilan.
 
-Ano ang ibig sabihin nito?
-Sira ang sistema mismo — *the system itself is broken.*
-Puwede mong ayusin ang isang problema ngayon — pero bukas, may lalabas na bago.
+---
+
+**Una** — **==May kawalang-katarungan dahil hindi sinusunod ng tao ang matuwid na mga daan ng Diyos.==**
+
+Hindi lang po ito tungkol sa masasamang lider o maling batas.
+Ang problema — ang tao mismo.
+
+Puwede mong ayusin ang isang problema ngayon —
+pero bukas, may lalabas na bago.
 Bakit? Dahil ang ugat ng problema ay hindi nabago.
 
-At ano ang ugat? Ano po ba ang root cause ng problema?
-**==May kawalang-katarungan dahil hindi sinusunod ng tao ang matuwid na mga daan ng Diyos.==**
-Hindi lang ito tungkol sa masasamang lider o maling batas.
-Ang problema — ang tao mismo.
-Hindi siya dinisenyo na mamuno nang mag-isa — *not designed to rule on his own.*
+---
 
-Kaya ba ng tao na solusyonan ito mag-isa? Hindi.
+**Pangalawa** — hindi dinisenyo ang tao na mamahala sa sarili niya.
+
+Buksan po natin ang Jeremias 10:23.
+Pakinggan natin ang mismong sinasabi ng Bibliya.
+
+**{pause}**
+
+*[Basahin ang Jeremias 10:23]*
+
+!!! quote "Jeremias 10:23"
+    "Alam na alam ko, O Jehova, na ang landasin ng isang tao ay hindi sa kaniya. Hindi para sa taong lumalakad ang ituwid man lang ang sarili niyang hakbang."
+
+Malinaw po ang sinasabi ng Bibliya —
+ang landasin ng tao, hindi sa kaniya.
+
+Kahit gaano pa kaganda ang intensyon natin —
+kung wala ang Diyos, hindi tayo magtatagumpay.
+
 **==Mabibigo ang mga pagsisikap ng tao na magkaroon ng tunay na katarungan kung walang tulong ng Diyos.==**
-Bakit masasabi natin 'yan?
-Dahil gaya ng sinabi sa Jeremias 10:23,
-"Hindi para sa taong lumalakad
-ang ituwid man lang ang sarili niyang hakbang."
 
-Kahit gaano pa kaganda ang intensyon —
-kung wala ang Diyos, hindi magtatagumpay.
+---
 
-Kung hindi dinisenyo ang tao na mamahala sa sarili niya...
-sino ang may karapatan at kakayahang mamuno?
-Ang Diyos.
-Pero paano?
 <mark class="green">**Ano ang solusyon ng Diyos sa kawalang-katarungan?**</mark>
 
 ---
 
 ## 3 — Ano ang solusyon ng Diyos sa kawalang-katarungan? [12 minuto]
 
-Mga kapatid at mga kaibigan,
-kung may dala-dala kayong bigat sa dibdib ngayong umaga —
-dahil nasaktan kayo,
-dahil naranasan n'yo ang di-makatarungan,
-o dahil may taong nanakit sa inyo na parang walang nangyari —
-ito po ang bahaging para sa inyo.
+Ang sagot po?
+**Kaharian ng Diyos.**
 
-Hindi kayo nakalimutan ni Jehova.
+Opo — ang Kaharian niya.
 
+Alam n'yo po ba —
 **==Ang Diyos ay nagtatag ng isang Kaharian sa langit na magdadala ng tunay na katarungan.==**
 
-Ano ba ang Kaharian ng Diyos?
-Ito ay gobyerno — gobyerno ng Diyos.
-Tulad ng ibang gobyerno, may tagapamahala — si Jesu-Kristo.
-May mga kasama siyang mamamahala mula sa iba't ibang bansa.
-At may mga sakop — lahat ng gumagawa ng kalooban ng Diyos.
+**Ano po ba ang Kaharian ng Diyos?**
 
-Ayon sa Daniel 7:13, 14, itinayo ng Diyos ang gobyernong ito sa langit — at **==malapit nang palitan ng Kaharian ang mga pamahalaan ng tao at mamamahala ito sa buong lupa.==**
+Ito ay isang tunay na gobyerno na itinatag ng Diyos na Jehova.
+Tinatawag din ito ng Bibliya bilang "Kaharian ng langit" —
+dahil sa langit ito nakatatag.
 
-Isipin n'yo 'yon.
-Isang gobyerno na hindi mababago ng eleksyon.
+Marami itong pagkakapareho sa mga gobyerno ng tao —
+pero nakahihigit ito sa lahat ng aspekto.
+
+Tulad ng ibang gobyerno, may tatlong components:
+
+**Sino ang mamumuno?** Ang Tagapamahala.
+**Sino ang katuwang?** Mga kasamang mamamahala.
+**Sino ang mga sakop?** Lahat ng gumagawa ng kalooban ng Diyos — kasama po tayo.
+
+Parehas sa ibang gobyerno — pero may malaking pagkakaiba.
+
+**==Malapit nang palitan ng Kaharian ang mga pamahalaan ng tao at mamamahala ito sa buong lupa.==**
+
+**Anong ibig sabihin nito?**
+
+Ang ibig sabihin po —
+hindi ito mababago ng eleksyon.
 Hindi mawawala kahit magpalit ng administrasyon.
 At hindi kailanman mabibigo.
 
-Sino ba ang ayaw ng ganyang gobyerno?
+Sino po ang ayaw ng ganyang gobyerno?
 
-Pero sino ang mamumuno?
+---
 
-**==Si Jesu-Kristo ang Tagapamahala ng Kaharian ng Diyos; ang pamamahala niya ay magdadala ng "katarungan at katuwiran."==**
+**Pero sino ang mamumuno?**
+
+**==Si Jesu-Kristo ang Tagapamahala ng Kaharian ng Diyos.==**
+
+At ang pamamahala niya —
+**==magdadala ng "katarungan at katuwiran."==**
 
 Buksan po natin ang Isaias kabanata 9, bersikulo 6 at 7.
-Sa tekstong ito, sinasabi ni Jehova kung anong klase ng lider ang ipapadala niya — at bakit siya ang tamang mamuno.
+Dito, makikita natin ang credentials ng Haring pinili ni Jehova —
+**apat na titulo, at isang pundasyon.**
+
+**{pause}**
 
 *[Basahin ang Isaias 9:6, 7]*
 
 !!! quote "Isaias 9:6, 7"
     "Dahil isang bata ang ipinanganak sa atin, Isang anak na lalaki ang ibinigay sa atin; At ang pamamahala ay iaatang sa balikat niya. Siya ay tatawaging Kamangha-manghang Tagapayo, Makapangyarihang Diyos, Walang-Hanggang Ama, Prinsipe ng Kapayapaan. Ang paglawak ng pamamahala niya At ang kapayapaan ay hindi magwawakas Sa trono ni David at sa kaniyang kaharian Para itatag ito nang matibay at panatilihin Sa pamamagitan ng katarungan at katuwiran, Ngayon at magpakailanman. Mangyayari ito dahil sa sigasig ni Jehova ng mga hukbo."
 
-Parang nagpapakilala si Jehova ng isang lider, hindi ba?
-Tulad ng kapag may bagong speaker — sinasabi muna ang credentials niya.
-Tingnan natin ang credentials ni Kristo:
+**Anong ibig sabihin nito?**
 
-"Kamangha-manghang Tagapayo" — marunong siya mamuno. Hindi siya gagawa ng maling desisyon.
-"Makapangyarihang Diyos" — binigyan siya ni Jehova ng kapangyarihang gawin ang katarungan.
-"Walang-Hanggang Ama" — minamahal niya ang mga sakop niya gaya ng isang ama sa kaniyang mga anak.
-"Prinsipe ng Kapayapaan" — ang dala niya ay kapayapaan, hindi giyera.
+Parang nagpapakilala si Jehova ng bagong lider —
+sinasabi muna ang credentials:
+
+**"Kamangha-manghang Tagapayo"** — walang maling desisyon. Walang paboritismo.
+**"Makapangyarihang Diyos"** — kaya niyang ayusin ang sistema.
+**"Walang-Hanggang Ama"** — minamahal ka niya tulad ng ama sa anak.
+**"Prinsipe ng Kapayapaan"** — ang dala niya, kapayapaan para sa lahat.
 
 At ang pundasyon ng lahat? **"Katarungan at katuwiran."**
-Hindi lang niya ipinangako — gagawin niya talaga.
 At "ngayon at magpakailanman" — walang expiration.
 
-Para ilarawan:
-Isipin n'yo — nagtatrabaho ka nang tapat. Araw-araw, ginagawa mo ang tama.
-Pero ang katrabaho mo na laging late, laging absent — siya ang napromote.
-Bakit? Dahil kakilala siya ng boss.
+**Para ilarawan:**
+
+Isipin n'yo — nagtatrabaho ka nang tapat. Ginagawa mo ang tama.
+Pero ang katrabaho mong tamad — siya ang na-promote.
 Masakit, hindi ba? At wala kang magawa.
 
-Pero isipin n'yo kung ang boss mo ay tulad ni Kristo —
-"Kamangha-manghang Tagapayo" — hindi siya magpapaboritismo.
-"Makapangyarihang Diyos" — kaya niyang ayusin ang sistema.
-At "Prinsipe ng Kapayapaan" — ang goal niya, kapayapaan para sa lahat.
+Pero kung ang boss mo ay tulad ni Kristo?
+Walang paboritismo. Walang iniwan. Lahat pantay.
 
-Iyon ang klase ng pamamahala na sinasabi sa Isaias 9:6, 7.
-Gaya ng sinabi sa Isaias 32:1,
-"Isang hari ang mamumuno para sa katuwiran,
-at may mga prinsipeng mamamahala para sa katarungan."
+**Ikapit mo:**
 
-Kaya ano ang ibig sabihin nito para sa atin?
-Kung nasaktan ka ng sistema ng tao — may darating na gobyerno na hindi ka bibiguin.
-At hindi ito mawawala — "ngayon at magpakailanman."
+Kung nasaktan ka ng sistema ng tao —
+may darating na gobyerno na hindi ka bibiguin.
+Forever.
 
 ---
 
 Napakalaking pangako, hindi ba?
 Pero hindi lang siya nangako.
 
-**==Noong ministeryo ni Jesus sa lupa, hindi niya itinaguyod ang katarungan sa pamamagitan ng mga reporma sa lipunan o politika; itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.==**
+**==Noong ministeryo ni Jesus sa lupa, hindi niya itinaguyod ang katarungan sa pamamagitan ng mga reporma sa lipunan o politika.==**
 
-Hindi siya naging aktibista. Hindi siya namuno ng rebolusyon.
-Ano ang ginawa niya? Nangangaral siya ng mabuting balita ng Kaharian.
-At itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.
+Sa halip —
+**==itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.==**
 
 Paano? Sa pamamagitan ng panalangin.
-Pakinggan natin kung ano ang itinuro niya.
+
+Buksan po natin ang Mateo kabanata 6, bersikulo 9 at 10.
+Pakinggan natin kung ano ang itinuro ni Jesus na ipanalangin.
+
+**{pause}**
 
 *[Basahin ang Mateo 6:9, 10]*
 
 !!! quote "Mateo 6:9, 10"
     "Manalangin kayo sa ganitong paraan: 'Ama namin na nasa langit, pakabanalin nawa ang pangalan mo. Dumating nawa ang Kaharian mo. Mangyari nawa ang kalooban mo, kung paano sa langit, gayon din sa lupa.'"
 
-Isipin n'yo ang ibig sabihin nito.
+**Anong ibig sabihin nito?**
+
 Sa langit — walang kawalang-katarungan. Walang pang-aapi. Walang luha.
 At ipinanalangin natin na ang ganyang realidad — mangyari din dito sa lupa.
 
-Hindi 'yan basta panalangin lang. Iyon ay pangako.
-Darating ang araw na kung ano ang nangyayari sa langit — ganoon din ang mangyayari dito.
+Hindi 'yan basta panalangin. Iyon ay pangako.
+
+---
 
 At **==makikita sa mga ginawa niyang himala kung ano ang gagawin niya bilang Hari ng Kaharian ng Diyos.==**
 
-May isang pagkakataon — limang tinapay at dalawang isda lang ang mayroon.
-Pero pinakain niya ang 5,000 lalaki, bukod pa sa mga babae at mga bata.
-Lahat nabusog — at 12 basket pa ang natira.
+**Himala 1.** Limang tinapay, dalawang isda — pinakain ang 5,000 lalaki, bukod pa sa mga babae at mga bata. 12 basket pa ang natira.
 
-Sa isa namang pagkakataon, may bulag na nakaupo sa tabi ng daan.
-Nang marinig niyang dumadaan si Jesus, sumigaw siya: "Anak ni David, maawa ka sa akin!"
-Sinasaway siya ng mga tao — pero lalo lang niyang isinigaw.
-Huminto si Jesus. Tinanong siya: "Ano ang gusto mong gawin ko para sa iyo?"
-"Panginoon, gusto kong makakita uli."
-At agad siyang nakakita.
+**Himala 2.** May bulag sa tabi ng daan. Sumigaw: *"Anak ni David, maawa ka sa akin!"* Huminto si Jesus. *"Ano ang gusto mong gawin ko para sa iyo?"* *"Panginoon, gusto kong makakita uli."* At agad siyang nakakita.
 
-Preview 'yan — sample ng kung ano ang gagawin ng Kaharian.
+**Preview 'yan** — sample ng kung ano ang gagawin ng Kaharian.
 Walang magugutom. Walang magkakasakit. Walang maiiwan.
 
 ---
 
 **==Kapag namamahala na ang Kaharian, mawawala na ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi.==**
 
-Para sa mga nasaktan... ito ang pangako ng Diyos sa inyo.
-Sinabi sa Awit 72:12-14 tungkol sa Hari ng Kaharian:
-"Ililigtas niya ang dukha na humihingi ng tulong...
-Sasagipin niya sila mula sa pang-aapi at karahasan,
-at **magiging mahalaga sa paningin niya ang dugo nila.**"
-
-Kung naramdaman mong walang kwenta ka...
-hindi ganoon ang tingin ni Jehova sa iyo.
-Mahalaga ka sa kaniya.
-
 ## IMAGE 2
 
-Ngayon naman po, tingnan natin ang isa pang larawan.
+Tingnan po natin ang isa pang larawan.
 
 <figure markdown="span">
   ![Buhay sa ilalim ng Kaharian ng Diyos](1000032_univ_cnt_2_xl.jpg){ width="100%" }
 </figure>
 
-Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
-May malaking grupo ng mga tao — iba't ibang lahi, iba't ibang bansa — pero lahat sila nakangiti.
-Nakatayo sila sa ilalim ng gintong mga ulap.
-At tingnan n'yo kung sino ang nakikita nila sa itaas —
-isang maringal na pigura, naka-glowing na damit, may korona, at nakabukás ang mga kamay.
-Sino 'yon? Si Jesu-Kristo — ang Hari ng Kaharian ng Diyos.
-
-Natatandaan n'yo ang unang larawan?
-Mga taong galit, nagmamartsa, naghahanap ng pagbabago.
-Pero dito — kapayapaan. Kasiyahan. Pagkakaisa.
-Iyan ang pagkakaiba ng gobyerno ng tao at ng gobyerno ng Diyos.
-
-Isipin n'yo ang mundong ganito:
-
-**==Walang gutom — lahat sagana.==** Wala nang mayaman o mahirap. (Awit 72:16)
-
-**==Walang discrimination — pantay-pantay ang lahat.==** Hindi ka iju-judge dahil sa kulay ng balat mo o kung saan ka nanggaling. (Gawa 10:34, 35)
-
-**==Walang away dahil sa relihiyon — iisa ang pagsamba.==** Ang lahat ay magkakaisa sa pagsamba kay Jehova. (Isaias 11:9)
-
-At **==walang broken family — kapayapaan sa bawat tahanan.==**
+Isipin n'yo — andyan kayo sa larawan na 'to.
+Kasama ang iba't ibang lahi, iba't ibang bansa.
+Pero walang takot. Walang alitan. Walang maiiwan.
+Lahat, nakangiti.
+At sa itaas — si Kristo, ang Hari.
 
 *Salamat po sa picture.*
 
-Sino ba ang ayaw na mabuhay sa mundong ganito?
+Iyon po ang magiging realidad kapag namamahala na ang Kaharian.
+
+Isipin n'yo ang **4K ng Kaharian** —
+apat na bagay na mawawala.
+
+**==Kasaganaan==** — walang gutom. Lahat sagana. (Awit 72:16)
+
+**==Kapantayan==** — walang discrimination. Pantay-pantay ang lahat. (Gawa 10:34, 35)
+
+**==Kaisahan==** — iisa ang pagsamba. Walang hidwaan sa relihiyon. (Isaias 11:9)
+
+**==Kapayapaan==** — walang broken family. Kapayapaan sa bawat tahanan.
+
+Sino po ang ayaw na mabuhay sa mundong ganito?
 Hindi 'yan panaginip. Pangako 'yan ng Diyos na Jehova.
 
 Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian?
