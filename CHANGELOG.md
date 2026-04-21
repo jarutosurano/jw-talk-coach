@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.5.1] - 2026-04-21
+
+### Polish of 5-min talk 0424 "Kung Paano Mag-aaral"
+
+- Fixed Tagalog: `nganga` → `ngumunguya` / `nguya` (correct word for chewing food)
+- Softened food-analogy claim (swallowing without chewing → hindi matitikman + mahihirapang matunaw + baka mabulunan, instead of "walang sustansya" which was too absolute)
+- New intro hook: rhetorical question "Alam n'yo po ba — may tatlong paraan para mas epektibo tayong mag-aaral?" replaces flat "Kaya ngayong gabi, may ibabahagi po ako..." pattern
+- Acronym change: **PAG → 3P's sa Pag-aaral** (Pahapyaw, Punto, Pakilusin)
+  - Pure-Tagalog alliterative mnemonic; middle P "Punto" directly echoes Heb 8:1 "pangunahing punto" + th aralin 14 counsel title
+  - Triple anchor: tema + scripture + counsel point all converge on the same word
+
+---
+
 ## [4.5.0] - 2026-04-20
 
 ### New 5-minute talk: Kung Paano Mag-aaral (Apr 24) — counsel point th aralin 14

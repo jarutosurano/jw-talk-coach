@@ -8,25 +8,25 @@ Apr 24, 2026
 
 ## INTRO [0.5 minuto]
 
-Ano kaya'ng mangyayari kung araw-araw kang kumakain — pero hindi ka nagnganganga *(no chewing, just swallowing)*? Lunok ka lang nang lunok.
+Ano kaya'ng mangyayari kung araw-araw kang kumakain — pero hindi ka ngumunguya *(no chewing, just swallowing)*? Lunok ka lang nang lunok.
 
-Kahit gaano kasarap ang ulam, kahit gaano kamahal — walang sustansyang makukuha ang katawan mo.
+Kahit gaano kasarap ang ulam, kahit gaano kamahal — hindi mo matitikman, at mahihirapang matunaw ng tiyan mo. Baka mabulunan ka pa.
 
-Ganoon din po sa **pag-aaral** ng Salita ng Diyos. Marami sa atin ang nagbabasa — Bantayan, Bibliya, aklat. Pero paglabas sa isip — wala. Parang lunok lang, walang nganga.
+Ganoon din po sa **pag-aaral** ng Salita ng Diyos. Marami sa atin ang nagbabasa — Bantayan, Bibliya, aklat. Pero paglabas sa isip — wala. Parang lunok lang, walang nguya.
 
 Ang problema madalas — hindi kulang sa oras, kundi kulang sa **paraan**.
 
-Kaya ngayong gabi, may ibabahagi po ako — tatlong simpleng hakbang kung **Paano Mag-aaral** nang epektibo. At para madaling matandaan, tatlong titik lang — **PAG** — tulad ng simula ng **PAG-aaral**:
+Alam n'yo po ba — may **tatlong paraan** para mas epektibo tayong mag-aaral? 'Yan po ang pag-usapan natin ngayong gabi — kung **Paano Mag-aaral**. Para madaling matandaan, tawagin natin itong **3P's sa Pag-aaral**:
 
 - **P** — **Pahapyaw** muna ang materyal
-- **A** — **Alamin** ang pangunahing punto
-- **G** — **Gamitin** agad sa buhay
+- **P** — **Punto** — idiin ang pangunahing
+- **P** — **Pakilusin** ang sarili
 
 ---
 
 ## P — Pahapyaw muna ang materyal [1 minuto]
 
-<mark class="green">**Unang P sa PAG**</mark> — **==pahapyaw na tingnan muna ang buong materyal==** bago sumabak sa parapo 1.
+<mark class="green">**Unang P — Pahapyaw**</mark> — **==pahapyaw na tingnan muna ang buong materyal==** bago sumabak sa parapo 1.
 
 Ano'ng ibig sabihin? Tingnan muna ang pamagat — 'yan ang tema. Tingnan ang mga subtitulo — 'yan ang main points. Tingnan ang ilustrasyon, tsart, at kahon.
 
@@ -38,9 +38,9 @@ Ganoon din sa **pag-aaral** — **pahapyaw muna**, para may direksyon.
 
 ---
 
-## A — Alamin ang pangunahing punto [2.5 minuto]
+## P — Punto: idiin ang pangunahing [2.5 minuto]
 
-<mark class="green">**Pangalawang A sa PAG**</mark> — at ito po ang pinakaimportante — **==alamin at idiin ang pangunahing punto==**.
+<mark class="green">**Pangalawang P — Punto**</mark> — at ito po ang pinakaimportante — **==idiin ang pangunahing punto==**.
 
 Bakit? Kasi kahit nabasa mo ang buong materyal, kung di mo matutukoy kung alin ang **pinakamahalaga**, madadaan-daanan lang 'yan.
 
@@ -69,9 +69,9 @@ Gayahin natin si Pablo.
 
 ---
 
-## G — Gamitin agad sa buhay [0.75 minuto]
+## P — Pakilusin ang sarili [0.75 minuto]
 
-<mark class="green">**Pangatlong G sa PAG**</mark> — **==gamitin agad ang natutunan sa buhay==**. Dito pakikilusin ng pag-aaral ang sarili mo.
+<mark class="green">**Pangatlong P — Pakilusin**</mark> — **==pakilusin ang sarili sa natutunan==**. Gamitin agad sa buhay.
 
 Hindi tapos ang **pag-aaral** sa pagbabasa. Pagkatapos, itanong sa sarili: *"Paano ito makaaapekto sa saloobin ko? Paano ko ito magagamit sa pamilya, sa ministeryo, o sa kongregasyon?"*
 
@@ -83,10 +83,10 @@ Maliit lang 'to. Pero dito tumatatak ang natutuhan.
 
 ## CONCLUSION [0.25 minuto]
 
-Kaya mga kapatid, para maging epektibo ang **pag-aaral** natin — tandaan lang natin ang **PAG**:
+Kaya mga kapatid, para maging epektibo ang **pag-aaral** natin — tandaan lang natin ang **3P's**:
 
 - **P** — **Pahapyaw** muna ang materyal
-- **A** — **Alamin** ang pangunahing punto, tulad ng ginawa ni Pablo sa Hebreo 8:1
-- **G** — **Gamitin** agad sa buhay
+- **P** — **Punto** — idiin ang pangunahing, tulad ng ginawa ni Pablo sa Hebreo 8:1
+- **P** — **Pakilusin** ang sarili
 
-Kapag may **PAG** tayo sa **pag-aaral** — hindi na lunok-lunok lang. May sustansyang matatanggap ang puso at isip natin.
+Kapag may **3P's** tayo sa **pag-aaral** — hindi na lunok-lunok lang. May sustansyang matatanggap ang puso at isip natin.
