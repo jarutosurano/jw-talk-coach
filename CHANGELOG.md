@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.5.2] - 2026-04-21
+
+### 5-min talk 0424: third P renamed Pakilusin → Pagkakapit
+
+- Changed 3rd P from **Pakilusin** (motivate) to **Pagkakapit** (application) — standard JW Tagalog term, more concrete, better matches the substance of be ¶8 (which is mostly about *how* to ikapit to family, ministry, congregation)
+- Final mnemonic: **3P's sa Pag-aaral** = Pahapyaw, Punto, Pagkakapit
+
+---
+
 ## [4.5.1] - 2026-04-21
 
 ### Polish of 5-min talk 0424 "Kung Paano Mag-aaral"

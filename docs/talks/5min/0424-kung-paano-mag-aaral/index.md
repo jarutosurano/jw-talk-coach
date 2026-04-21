@@ -20,7 +20,7 @@ Alam n'yo po ba — may **tatlong paraan** para mas epektibo tayong mag-aaral? '
 
 - **P** — **Pahapyaw** muna ang materyal
 - **P** — **Punto** — idiin ang pangunahing
-- **P** — **Pakilusin** ang sarili
+- **P** — **Pagkakapit** sa buhay
 
 ---
 
@@ -69,15 +69,15 @@ Gayahin natin si Pablo.
 
 ---
 
-## P — Pakilusin ang sarili [0.75 minuto]
+## P — Pagkakapit sa buhay [0.75 minuto]
 
-<mark class="green">**Pangatlong P — Pakilusin**</mark> — **==pakilusin ang sarili sa natutunan==**. Gamitin agad sa buhay.
+<mark class="green">**Pangatlong P — Pagkakapit**</mark> — **==ikapit ang natutunan sa buhay==**.
 
 Hindi tapos ang **pag-aaral** sa pagbabasa. Pagkatapos, itanong sa sarili: *"Paano ito makaaapekto sa saloobin ko? Paano ko ito magagamit sa pamilya, sa ministeryo, o sa kongregasyon?"*
 
 At para tumatak — **maglaan ng ilang minuto para sa maikling repaso**. Balikan ang pangunahing mga punto.
 
-Maliit lang 'to. Pero dito tumatatak ang natutuhan.
+Maliit lang 'to. Pero dito nagiging tunay na **pagkakapit** ang natutuhan.
 
 ---
 
@@ -87,6 +87,6 @@ Kaya mga kapatid, para maging epektibo ang **pag-aaral** natin — tandaan lang 
 
 - **P** — **Pahapyaw** muna ang materyal
 - **P** — **Punto** — idiin ang pangunahing, tulad ng ginawa ni Pablo sa Hebreo 8:1
-- **P** — **Pakilusin** ang sarili
+- **P** — **Pagkakapit** sa buhay
 
 Kapag may **3P's** tayo sa **pag-aaral** — hindi na lunok-lunok lang. May sustansyang matatanggap ang puso at isip natin.
