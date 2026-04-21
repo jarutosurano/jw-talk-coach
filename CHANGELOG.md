@@ -4,6 +4,33 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.5.0] - 2026-04-20
+
+### New 5-minute talk: Kung Paano Mag-aaral (Apr 24) — counsel point th aralin 14
+
+**New files:**
+- `talks/5min/0424-kung-paano-mag-aaral/outline.md` — reference paragraphs from be pp. 28 ¶3 – 31 ¶2, Hebreo 8:1, th aralin 14 counsel details
+- `docs/talks/5min/0424-kung-paano-mag-aaral/index.md` — full 5-min script (~730 words)
+
+**Script structure — PAG acronym (Pahapyaw, Alamin, Gamitin):**
+- Pure-Tagalog 3-letter mnemonic tied self-referentially to PAG-aaral
+- Reinforced at intro reveal, each section header, and conclusion recap — structural execution of aralin 14 (Idiin ang Pangunahing Punto)
+
+**Intro:**
+- Hook via nganga/lunok food analogy (eating without chewing = reading without studying) with English gloss
+- "Marami sa atin" inclusive framing (not "Maraming kapatid")
+- Dropped flat "Kaya ang tema po natin ngayong gabi, base sa referensya natin" opening pattern
+
+**Section 2 (A — Alamin ang pangunahing punto):**
+- REIA on Hebreo 8:1 — Paul's "Ito ang pangunahing punto" literally models the counsel point
+- Highlighter/notes illustration for personal application
+
+**Config:**
+- Nav entry added to `mkdocs.yml` under 5-Minute (latest first)
+- `.playwright-mcp/` added to `.gitignore` (tooling artifacts)
+
+---
+
 ## [4.4.0] - 2026-04-18
 
 ### Deep polish of talk 33 v2 (outline 33) — heart-reach, REIA structure, memorable formulas

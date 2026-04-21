@@ -16,3 +16,6 @@ __pycache__/
 # MkDocs
 site/
 node_modules
+
+# Playwright MCP artifacts
+.playwright-mcp/

@@ -41,6 +41,7 @@ nav:
   - Home: index.md
   - Talks:
     - 5-Minute:
+      - Kung Paano Mag-aaral: talks/5min/0424-kung-paano-mag-aaral/index.md
       - Kung Paano Mananalangin: talks/5min/0213-kung-paano-mananalangin/index.md
     - 10-Minute:
       - Gaya ng Isang Pastol: talks/10min/0227-gaya-ng-isang-pastol/index.md
