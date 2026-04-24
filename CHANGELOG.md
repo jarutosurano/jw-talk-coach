@@ -4,6 +4,40 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.6.0] - 2026-04-24
+
+### End-to-end polish of 5-min talk 0424 "Kung Paano Mag-aaral"
+
+**Content & framing:**
+- Restored guideline #13 pre-read teaser before Heb 8:1 (*"Pansinin kung paano idiniin ni Pablo ang pangunahing punto"*)
+- Added "Sabi nya" conversational warmth before the main-point quote
+- Replaced confusing "mahihirapang matunaw ng tiyan mo" with simpler "mahirap tunawin"
+- Rewrote "madadaan-daanan lang 'yan" (unclear) → "mabilis mong makakalimutan"
+- Removed the guro/exam illustration — analogy was cluttering P2
+
+**Structure:**
+- Dropped the 3P bullet list from intro (speaker reveals via body + conclusion recap only)
+- Bolded "Kung Paano Mag-aaral" tema throughout
+- Reframed 4-category intro as "Gumawa tayo ng apat na kategorya" (no personal ownership)
+- Removed standalone formula box; integrated the 4 categories as Punto diagnostic in conclusion recap
+- Rewrote P3 opener — replaced "Hindi tapos ang pag-aaral sa pagbabasa" (confusing) with "may susunod pang hakbang — pagbubulay-bulay"
+
+**Terminology:**
+- Removed English gloss "(no chewing, just swallowing)" — Tagalog-only now
+- Swapped `pagninilay` → `pagbubulay-bulay` (JW-standard meditation term, not Catholic-adjacent)
+- Fixed `tinututuro` → `tinuturuan` (recipient-focus, correct grammar)
+- Replaced academic `pasibong` → `basta-basta`
+
+**Divine education close:**
+- Added seed in intro: *"kung nais nating lumapit kay Jehova, kailangan natin ng tamang paraan"*
+- Added seed at P2 close: *"Ito ang paraan kung paano tayo mismo tinuturuan ni Jehova"*
+- New triad ending: *"tatatak sa isip, tatagos sa puso, at makikita sa buhay"* → **divine education** (Thoughts/Feelings/Actions) → *"hindi big head kundi big heart"*
+
+**Pacing:**
+- Trimmed from 843 → 569 words (~7 min → ~4:15 at conversational pace)
+
+---
+
 ## [4.5.2] - 2026-04-21
 
 ### 5-min talk 0424: third P renamed Pakilusin → Pagkakapit

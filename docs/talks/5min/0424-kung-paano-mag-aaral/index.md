@@ -8,64 +8,57 @@ Apr 24, 2026
 
 ## INTRO [0.5 minuto]
 
-Ano kaya'ng mangyayari kung araw-araw kang kumakain — pero hindi ka ngumunguya *(no chewing, just swallowing)*? Lunok ka lang nang lunok.
+Ano kaya'ng mangyayari kung araw-araw kang kumakain — pero hindi ka ngumunguya?
 
-Kahit gaano kasarap ang ulam, kahit gaano kamahal — hindi mo matitikman, at mahihirapang matunaw ng tiyan mo. Baka mabulunan ka pa.
+Kahit gaano kasarap ang ulam — mahirap tunawin, at baka mabulunan ka pa.
 
-Ganoon din po sa **pag-aaral** ng Salita ng Diyos. Marami sa atin ang nagbabasa — Bantayan, Bibliya, aklat. Pero paglabas sa isip — wala. Parang lunok lang, walang nguya.
+Ganoon din po sa **pag-aaral** ng Salita ng Diyos. Kapag walang pagbubulay-bulay, mabilis mawawala sa isip ang binasa natin.
 
-Ang problema madalas — hindi kulang sa oras, kundi kulang sa **paraan**.
+Ang problema — hindi kulang sa oras, kundi sa **paraan**. At kung nais nating lumapit kay Jehova, kailangan natin ng tamang paraan.
 
-Alam n'yo po ba — may **tatlong paraan** para mas epektibo tayong mag-aaral? 'Yan po ang pag-usapan natin ngayong gabi — kung **Paano Mag-aaral**. Para madaling matandaan, tawagin natin itong **3P's sa Pag-aaral**:
-
-- **P** — **Pahapyaw** muna ang materyal
-- **P** — **Punto** — idiin ang pangunahing
-- **P** — **Pagkakapit** sa buhay
+Alam n'yo po ba — may tatlong paraan para mas epektibo tayong mag-aaral? Tawagin natin itong **3P's sa Pag-aaral** — kung **Paano Mag-aaral**.
 
 ---
 
 ## P — Pahapyaw muna ang materyal [1 minuto]
 
-<mark class="green">**Unang P — Pahapyaw**</mark> — **==pahapyaw na tingnan muna ang buong materyal==** bago sumabak sa parapo 1.
+<mark class="green">**Unang P — Pahapyaw**</mark> — **==pahapyaw na tingnan muna ang buong materyal==**.
 
-Ano'ng ibig sabihin? Tingnan muna ang pamagat — 'yan ang tema. Tingnan ang mga subtitulo — 'yan ang main points. Tingnan ang ilustrasyon, tsart, at kahon.
+Ano'ng ibig sabihin po nito? Kailangan po natin tingnan ang **pamagat** (ang tema), ang mga **subtitulo** (ang main points), at ang mga **ilustrasyon, chart, at kahon**.
 
-Tapos tanungin ang sarili: *"Base dito, ano ang inaasahan kong matutunan? Paano magiging kapaki-pakinabang ito sa akin?"*
+Tapos tanungin ang sarili: *"Ano ang inaasahan kong matutunan dito?"*
 
-**Para ilarawan** — parang pag pupunta ka sa bagong lugar. Titingnan mo muna ang **mapa** bago ka magmaneho. Kung diretso ka lang nang walang direksyon, malamang maligaw ka.
+**Para ilarawan** — sa bagong lugar, titingnan mo muna ang **mapa** bago magmaneho. Kung walang direksyon, maligaw ka.
 
 Ganoon din sa **pag-aaral** — **pahapyaw muna**, para may direksyon.
 
 ---
 
-## P — Punto: idiin ang pangunahing [2.5 minuto]
+## P — Punto: idiin ang pangunahing [2 minuto]
 
 <mark class="green">**Pangalawang P — Punto**</mark> — at ito po ang pinakaimportante — **==idiin ang pangunahing punto==**.
 
-Bakit? Kasi kahit nabasa mo ang buong materyal, kung di mo matutukoy kung alin ang **pinakamahalaga**, madadaan-daanan lang 'yan.
+Bakit? Kasi kung di mo matutukoy ang **pinakamahalaga**, mabilis mong makakalimutan.
 
-At may magandang halimbawa po tayo rito — si apostol Pablo mismo.
+Tingnan natin ang halimbawa ni apostol Pablo. Sa liham niya sa mga Hebreo tungkol kay Kristo, bigla siyang huminto sa kalagitnaan.
 
-Sa liham niya sa mga Hebreo, detalyado ang paliwanag niya tungkol kay Kristo bilang dakilang Mataas na Saserdote. Pero sa kalagitnaan ng liham, bigla siyang huminto.
-
-Buksan po natin ang Hebreo kabanata 8, bersikulo 1. Pansinin ninyo kung paano mismo idiniin ni Pablo ang **pangunahing punto** para sa kaniyang mga mambabasa.
+Buksan po natin ang Hebreo kabanata 8, bersikulo 1. Pansinin kung paano idiniin ni Pablo ang **pangunahing punto**.
 
 *[Basahin ang Hebreo 8:1]*
 
 !!! quote "Hebreo 8:1"
     "Ito ngayon ang pangunahing punto ng pinag-uusapan natin: Tayo ay may gayong mataas na saserdote, at umupo siya sa kanan ng trono ng Dakilang Diyos sa langit."
 
-Napansin n'yo po ba? **"Ito ang pangunahing punto."** Itinuro mismo ni Pablo. Parang sinabi niya sa mga Hebreo: *"Mga kapatid, 'wag n'yo pong palampasin 'to."*
+Napansin n'yo po? Sabi nya, **"Ito ang pangunahing punto."** Itinuro mismo ni Pablo para 'wag palampasin. Alam niya: kung di matutukoy, di maikakapit sa buhay.
 
-Bakit niya ginawa 'yan? Kasi alam niya — kahit gaano kaganda ang buong liham, kung di matutukoy ng mambabasa ang **pangunahing punto**, di nila maikakapit sa buhay nila.
+**Paano natin ito gagawin?** Gumawa tayo ng **apat na kategorya** para sa mahahalagang punto:
 
-**Para ilarawan** — isipin n'yo pong nagbabasa kayo ng Bantayan, pero walang highlighter, walang notes. Matatapos n'yo, oo. Pero pag tinanong kayo: *"Ano ba ang pinakaimportanteng idea sa article na 'yon?"* — baka mahirapan kayo sumagot.
+- **Gems** — espirituwal na hiyas na nais matandaan.
+- **Later** — ideya na di pa naiintindihan — saliksikin sa ibang araw.
+- **Shepherding** — puntong makapagpapatibay sa iba. Kahit sinong kapatid, may dala kang pampalakas-loob.
+- **Illustration** — magagandang ilustrasyon para sa ministeryo o pahayag.
 
-Pero kapag huminto ka, minarkahan ang **pangunahing punto**, tinanong ang sarili: *"Ano ba talaga ang itinuturo nito?"* — doon tumatatak.
-
-Kaya paano natin **ikakapit**? Sa susunod nating **pag-aaral** — huminto sa bawat parapo. Tanungin: *"Ano ang pangunahing punto dito?"* Markahan. Isulat.
-
-Gayahin natin si Pablo.
+Gayahin natin si Pablo — idiin ang **pangunahing punto**. Kasi ang **pag-aaral** natin — hindi lang para madagdagan ang alam. Ito ang paraan kung paano tayo mismo tinuturuan ni Jehova.
 
 ---
 
@@ -73,20 +66,20 @@ Gayahin natin si Pablo.
 
 <mark class="green">**Pangatlong P — Pagkakapit**</mark> — **==ikapit ang natutunan sa buhay==**.
 
-Hindi tapos ang **pag-aaral** sa pagbabasa. Pagkatapos, itanong sa sarili: *"Paano ito makaaapekto sa saloobin ko? Paano ko ito magagamit sa pamilya, sa ministeryo, o sa kongregasyon?"*
+Pagkatapos basahin, may sunod pang hakbang — ang **pagbubulay-bulay**. Itanong: *"Paano ito makaaapekto sa saloobin ko? Paano ko ito magagamit sa pamilya, ministeryo, o kongregasyon?"*
 
-At para tumatak — **maglaan ng ilang minuto para sa maikling repaso**. Balikan ang pangunahing mga punto.
-
-Maliit lang 'to. Pero dito nagiging tunay na **pagkakapit** ang natutuhan.
+Tapos, **maglaan ng ilang minuto para sa maikling repaso**. Dito nagiging tunay na **pagkakapit** ang aral.
 
 ---
 
 ## CONCLUSION [0.25 minuto]
 
-Kaya mga kapatid, para maging epektibo ang **pag-aaral** natin — tandaan lang natin ang **3P's**:
+Kaya mga kapatid, tandaan natin ang **3P's**:
 
-- **P** — **Pahapyaw** muna ang materyal
-- **P** — **Punto** — idiin ang pangunahing, tulad ng ginawa ni Pablo sa Hebreo 8:1
-- **P** — **Pagkakapit** sa buhay
+- **P** — **Pahapyaw** muna — tema, main points, at mga visual
+- **P** — **Punto** — idiin ang pangunahing. Sa bawat punto, itanong: *Gems? Later? Shepherding? Illustration?*
+- **P** — **Pagkakapit** — ikapit sa buhay; maglaan ng oras para sa **pagbubulay-bulay**
 
-Kapag may **3P's** tayo sa **pag-aaral** — hindi na lunok-lunok lang. May sustansyang matatanggap ang puso at isip natin.
+Kapag ginagamit natin ang **3P's** — **tatatak sa isip, tatagos sa puso, at makikita sa buhay.** Ito po ang **divine education** — Thoughts, Feelings, Actions. Ina-absorb natin ang pag-ibig ni Jehova, hindi para maging **big head**, kundi **big heart**.
+
+At yan po ang tunay na **Kung Paano Mag-aaral**.
