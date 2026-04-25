@@ -4,6 +4,36 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.7.0] - 2026-04-24
+
+### Talk 33 v3 — apply 3K's mnemonic + Perpektong Lider analogy (aralin 14)
+
+Bringing the same aralin 14 treatment that worked for the 5-min 0424 talk to the 30-min outline 33. The v2 was strong on emotional content but lacked a structural mnemonic — audience had no scaffold to track the 4-section arc.
+
+**New: 3K's ng Tunay na Katarungan**
+- **K1 — Kawalang-katarungan** (realidad): sections 1+2 grouped under this
+- **K2 — Kaharian** (solusyon): section 3
+- **K3 — Kilos ngayon** (aksyon): section 4
+- Stated in intro, named at each section transition, recapped in conclusion + SUMMARY
+
+**New: "Perpektong Lider" analogy** (section 3, before Isaias 9:6,7)
+Sets up audience expectations (lider na hindi nagkakamali, hindi nagpapaboritismo, hindi tumatanda, hindi nababayaran, hindi mawawala) so the 4 titles in Isaias 9:6,7 land as fulfillment of those expectations.
+
+**Section headings renamed** with K-prefix to reinforce the mnemonic:
+- "1 — Kawalang-katarungan: Nabubuhay tayo sa isang mundo na punô nito"
+- "3 — Kaharian: Ano ang solusyon ng Diyos sa kawalang-katarungan?"
+- "4 — Kilos ngayon: Paano mo mahaharap ang kawalang-katarungan?"
+
+**Inner 4K renamed** "4K ng Kaharian" → "Apat na Pangako ng Kaharian" — disambiguates from the structural 3K's (different layers: 3K = talk spine; 4 Pangako = what the Kingdom delivers, scoped only inside section 3).
+
+**SUMMARY restructured** around the 3K's instead of free-form content recap.
+
+**Files:**
+- `docs/talks/30min/33-.../index.md` — v3 (active)
+- `docs/talks/30min/33-.../index-v2.md` — v2 archived
+
+---
+
 ## [4.6.0] - 2026-04-24
 
 ### End-to-end polish of 5-min talk 0424 "Kung Paano Mag-aaral"

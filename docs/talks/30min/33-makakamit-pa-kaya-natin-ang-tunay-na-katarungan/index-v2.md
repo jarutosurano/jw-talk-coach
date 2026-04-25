@@ -1,5 +1,5 @@
 ---
-title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v3)
+title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v2)
 ---
 
 :material-music-note:{ .lg } Song #157 — Kapayapaang Hindi Magwawakas (Awit 29:11)
@@ -39,17 +39,11 @@ Kaya ngayong umaga, sasagutin po natin ang tanong na ito:
 
 **{pause}**
 
-Para masagot natin 'to, may **3K's ng Tunay na Katarungan** po tayong daraanan ngayong umaga:
-
-- **K** — **Kawalang-katarungan**: ang realidad
-- **K** — **Kaharian**: ang solusyon ng Diyos
-- **K** — **Kilos ngayon**: ang aksyon habang naghihintay
-
-<mark class="green">**Unang K — Kawalang-katarungan: Nabubuhay tayo sa isang mundo na punô nito.**</mark>
+<mark class="green">**Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan.**</mark>
 
 ---
 
-## 1 — Kawalang-katarungan: Nabubuhay tayo sa isang mundo na punô nito [3 minuto]
+## 1 — Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan [3 minuto]
 
 **==Matagal nang nararanasan ng tao ang kawalang-katarungan.==**
 
@@ -103,8 +97,6 @@ Pero ang tanong: <mark class="green">**Paghihimagsik ba ang sagot?**</mark>
 ---
 
 ## 2 — Paghihimagsik ba ang sagot? [4 minuto]
-
-*(Nasa Unang K pa rin tayo — patuloy nating susuriin ang realidad ng kawalang-katarungan.)*
 
 **==Natural lang na humingi ng tulong kapag inaapi ka.==**
 
@@ -183,13 +175,11 @@ kung wala ang Diyos, hindi tayo magtatagumpay.
 
 ---
 
-Kung hindi paghihimagsik, hindi pamahalaan ng tao — ano nga ba ang sagot?
-
-<mark class="green">**Pangalawang K — Kaharian: Ano ang solusyon ng Diyos sa kawalang-katarungan?**</mark>
+<mark class="green">**Ano ang solusyon ng Diyos sa kawalang-katarungan?**</mark>
 
 ---
 
-## 3 — Kaharian: Ano ang solusyon ng Diyos sa kawalang-katarungan? [12 minuto]
+## 3 — Ano ang solusyon ng Diyos sa kawalang-katarungan? [12 minuto]
 
 Ang sagot po?
 **Kaharian ng Diyos.**
@@ -231,26 +221,13 @@ Sino po ang ayaw ng ganyang gobyerno?
 
 **Pero sino ang mamumuno?**
 
-**Para ilarawan** — isipin n'yo po:
-Ano kaya ang mangyayari kung mayroong lider na —
-hindi nagkakamali sa kahit anong desisyon,
-hindi nagpapaboritismo,
-hindi tumatanda,
-hindi nababayaran,
-hindi mawawala kailanman?
-
-Walang ganyang lider sa lupa.
-Hindi mo siya mahahanap sa anumang eleksyon, kahit saan.
-
-Pero may ganyan na — at hinirang siya mismo ni Jehova.
-
 **==Si Jesu-Kristo ang Tagapamahala ng Kaharian ng Diyos.==**
 
 At ang pamamahala niya —
 **==magdadala ng "katarungan at katuwiran."==**
 
 Buksan po natin ang Isaias kabanata 9, bersikulo 6 at 7.
-Dito, makikita natin ang credentials ng Haring 'yan —
+Dito, makikita natin ang credentials ng Haring pinili ni Jehova —
 **apat na titulo, at isang pundasyon.**
 
 **{pause}**
@@ -272,6 +249,15 @@ sinasabi muna ang credentials:
 
 At ang pundasyon ng lahat? **"Katarungan at katuwiran."**
 At "ngayon at magpakailanman" — walang expiration.
+
+**Para ilarawan:**
+
+Isipin n'yo — nagtatrabaho ka nang tapat. Ginagawa mo ang tama.
+Pero ang katrabaho mong tamad — siya ang na-promote.
+Masakit, hindi ba? At wala kang magawa.
+
+Pero kung ang boss mo ay tulad ni Kristo?
+Walang paboritismo. Walang iniwan. Lahat pantay.
 
 **Ikapit mo:**
 
@@ -341,7 +327,7 @@ At sa itaas — si Kristo, ang Hari.
 
 Iyon po ang magiging realidad kapag namamahala na ang Kaharian.
 
-Isipin n'yo ang **Apat na Pangako ng Kaharian** —
+Isipin n'yo ang **4K ng Kaharian** —
 apat na bagay na mawawala.
 
 **==Kasaganaan==** — walang gutom. Lahat sagana. (Awit 72:16)
@@ -356,12 +342,11 @@ Sino po ang ayaw na mabuhay sa mundong ganito?
 Hindi 'yan panaginip. Pangako 'yan ng Diyos na Jehova.
 
 Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian?
-
-<mark class="green">**Pangatlong K — Kilos ngayon: Paano mo mahaharap ang kawalang-katarungan?**</mark>
+<mark class="green">**Paano mo mahaharap ang kawalang-katarungan ngayon?**</mark>
 
 ---
 
-## 4 — Kilos ngayon: Paano mo mahaharap ang kawalang-katarungan? [11 minuto]
+## 4 — Paano mo mahaharap ang kawalang-katarungan ngayon? [11 minuto]
 
 **==Ngayon pa lang, puwede ka nang makasumpong ng kaginhawahan sa kabila ng kawalang-katarungan o masamang pagtrato.==**
 
@@ -597,21 +582,23 @@ gusto kong malaman mong hindi ka nag-iisa.
 Nakikinig si Jehova.
 **Nagmamalasakit siya sa iyo.**
 
-Tandaan natin ngayong umaga ang **3K's ng Tunay na Katarungan**:
-
-- **K** — **Kawalang-katarungan** ang realidad. Hindi tayo nagbubulag-bulagan.
-- **K** — **Kaharian** ng Diyos ang tunay na solusyon. Hindi sa paghihimagsik, hindi sa pamahalaan ng tao.
-- **K** — **Kikilos tayo ngayon** habang naghihintay — sa pamamagitan ng karunungan, panalangin, at bunga ng espiritu.
-
-At balang-araw, tutuparin ni Jehova ang kaniyang pangako —
+At balang-araw, tutuparin niya ang kaniyang pangako —
 isang mundong walang pang-aapi,
 walang pagtatangi,
 walang kawalang-katarungan.
 Ang **Kaharian ng Diyos** ang magdadala niyan.
 
-Pero habang naghihintay tayo, tandaan natin ang sinabi sa Roma 12:21:
+Pero habang naghihintay tayo, huwag tayong padaig sa masama.
+
+Tandaan natin ang sinabi sa Roma 12:21:
 
 **"Huwag kang padaig sa masama, kundi patuloy na daigin ng mabuti ang masama."**
+
+Iyan ang hamon sa atin ngayong umaga:
+Magtiwala sa Kaharian.
+Ibuhos ang niloob kay Jehova.
+At patuloy na gawin ang mabuti —
+kahit mahirap, kahit masakit.
 
 **Tunay na katarungan** — para sa lahat. Malapit na.
 
@@ -619,17 +606,27 @@ Pero habang naghihintay tayo, tandaan natin ang sinabi sa Roma 12:21:
 
 ## SUMMARY
 
-**3K's ng Tunay na Katarungan:**
+Ang temang **Makakamit Pa Kaya Natin ang Tunay na Katarungan?** ay sumasagot sa tanong ng bawat taong nasaktan at naghahanap ng hustisya.
 
-**K1 — Kawalang-katarungan (Realidad):**
-Mula pa noong panahon ni Solomon, "walang dumadamay" sa mga pinahihirapan.
-Nagpapatuloy hanggang ngayon. Hindi solusyon ang paghihimagsik kasi mabibigo ito kung walang tulong ng Diyos.
+**Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan:**
+Mula pa noong panahon ni Solomon —
+"walang dumadamay" sa mga pinahihirapan.
+Nagpapatuloy pa rin ito hanggang ngayon.
 
-**K2 — Kaharian (Solusyon):**
-Si Jesu-Kristo ang Tagapamahala — Kamangha-manghang Tagapayo, Makapangyarihang Diyos, Walang-Hanggang Ama, Prinsipe ng Kapayapaan. Pundasyon: katarungan at katuwiran. Apat na Pangako ng Kaharian: Kasaganaan, Kapantayan, Kaisahan, Kapayapaan.
+**Hindi ang paghihimagsik ang solusyon:**
+Natural lang na humingi ng tulong,
+pero mabibigo ang mga pagsisikap ng tao kung walang tulong ng Diyos.
 
-**K3 — Kilos ngayon (Aksyon):**
+**Ang Kaharian ng Diyos ang tunay na solusyon:**
+Si Jesu-Kristo ang Tagapamahala ng Kaharian
+na magdadala ng "katarungan at katuwiran."
+Kapag namamahala na ito,
+mawawala ang pagtatangi, pang-aapi, at kawalang-katarungan.
+
+**Ngayon pa lang, puwede na tayong makasumpong ng kaginhawahan:**
 (1) Iwasan ang delikadong sitwasyon
 (2) Humingi ng tulong sa awtoridad kung kinakailangan
 (3) Ibuhos ang niloob kay Jehova
 (4) Linangin ang bunga ng espiritu
+Sa bawat hakbang — may praktikal na paraan
+para harapin ang kawalang-katarungan nang hindi nagpapadala sa galit.
