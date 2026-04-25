@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.7.1] - 2026-04-24
+
+### Talk 33: revert structural 3K's, scope acronym to Section 4 only (4P's)
+
+The structural 3K's (Kawalang-katarungan / Kaharian / Kilos ngayon) introduced in 4.7.0 spelled "KKK" when listed together — unintended bad connotation. Reverted that approach. Mnemonic now scoped only to the 4 practical hakbang in Section 4.
+
+**Changes:**
+- `index.md` reverted to v2 content (no structural 3K's, no Perpektong Lider analogy, no renamed section headings)
+- New `index-v3.md` = v2 content + **4P's** mnemonic in Section 4 only:
+  - **P** — Pag-iwas (sa delikadong sitwasyon)
+  - **P** — Paghingi (ng tulong sa awtoridad)
+  - **P** — Panalangin (ibuhos kay Jehova)
+  - **P** — Paglinang (ng bunga ng espiritu)
+- Section 4 hakbang headings renamed: "Hakbang 1" → "Unang P — Pag-iwas", etc.
+- Intro, sections 1-3, conclusion, and SUMMARY untouched
+
+---
+
 ## [4.7.0] - 2026-04-24
 
 ### Talk 33 v3 — apply 3K's mnemonic + Perpektong Lider analogy (aralin 14)

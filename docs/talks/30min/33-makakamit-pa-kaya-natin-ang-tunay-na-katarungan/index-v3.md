@@ -1,5 +1,5 @@
 ---
-title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v2)
+title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v3)
 ---
 
 :material-music-note:{ .lg } Song #157 — Kapayapaang Hindi Magwawakas (Awit 29:11)
@@ -350,13 +350,18 @@ Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian?
 
 **==Ngayon pa lang, puwede ka nang makasumpong ng kaginhawahan sa kabila ng kawalang-katarungan o masamang pagtrato.==**
 
-Hindi tayo kailangang maghintay nang walang ginagawa.
-May apat na praktikal na hakbang tayo ngayon.
-At sa bawat hakbang, tingnan natin kung paano ito mag-aapply sa totoong buhay.
+Hindi tayo kailangang maghintay nang walang ginagawa. May apat na praktikal na hakbang tayo — para madaling matandaan, tawagin natin itong **4P's**:
+
+- **P** — **Pag-iwas** (sa delikadong sitwasyon)
+- **P** — **Paghingi** (ng tulong sa awtoridad)
+- **P** — **Panalangin** (ibuhos kay Jehova)
+- **P** — **Paglinang** (ng bunga ng espiritu)
+
+At sa bawat **P**, tingnan natin kung paano ito mag-aapply sa totoong buhay.
 
 ---
 
-### Hakbang 1: Iwasan ang delikadong sitwasyon
+### Unang P — Pag-iwas: Iwasan ang delikadong sitwasyon
 
 **Una** — **==Alamin ang mga sitwasyon na malamang na tratuhin ka nang masama at kung posible, iwasan ito.==**
 
@@ -386,7 +391,7 @@ Hindi naghihintay na mangyari bago kumilos.
 
 ---
 
-### Hakbang 2: Humingi ng tulong kung kinakailangan
+### Pangalawang P — Paghingi: Humingi ng tulong kung kinakailangan
 
 **Pangalawa** — **==Kung naging biktima ka, puwede kang humingi ng tulong sa mga nasa awtoridad.==**
 
@@ -417,7 +422,7 @@ Gamitin natin ang proteksyong available.
 
 ---
 
-### Hakbang 3: Ibuhos ang niloob kay Jehova
+### Pangatlong P — Panalangin: Ibuhos ang niloob kay Jehova
 
 **Pangatlo** — Pero paano kung hindi ka nakakuha ng hustisya?
 Paano kung nag-file ka ng reklamo pero walang nangyari?
@@ -492,7 +497,7 @@ At mas magaling siya doon kaysa sa atin.
 
 ---
 
-### Hakbang 4: Linangin ang bunga ng espiritu
+### Pang-apat na P — Paglinang: Linangin ang bunga ng espiritu
 
 **Pang-apat** — **==Linangin ang mga katangiang gaya ng pagtitiis, kabaitan, at pagpipigil sa sarili.==**
 
