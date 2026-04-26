@@ -1,5 +1,5 @@
 ---
-title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v2)
+title: Makakamit Pa Kaya Natin ang Tunay na Katarungan?
 ---
 
 :material-music-note:{ .lg } Song #157 — Kapayapaang Hindi Magwawakas (Awit 29:11)
@@ -17,7 +17,15 @@ title: Makakamit Pa Kaya Natin ang Tunay na Katarungan? (v2)
 
 ## INTRO
 
-Marami po sa atin ang nakaranas na ng kawalang-katarungan.
+Mga kapatid, mga kaibigan —
+may isang bagay po akong tiyak ngayong umaga.
+
+Bawat isa sa loob ng bulwagan na ito —
+may kuwento ng kawalang-katarungan.
+
+May ilan, sariwa pa lang.
+May ilan, matagal nang dala-dala.
+May ilan, hindi pa nasabi kahit kanino.
 
 Baka sa trabaho —
 pinagmalabisan ka ng boss mo kahit wala kang kasalanan.
@@ -34,10 +42,24 @@ Yung pakiramdam na...
 
 **{pause}**
 
-Kaya ngayong umaga, sasagutin po natin ang tanong na ito:
+Kaya po ang tanong natin ngayong umaga:
 <mark class="pink">**Makakamit pa kaya natin ang tunay na katarungan?**</mark>
 
 **{pause}**
+
+Para masagot natin 'yan, **tatlong tanong** po ang pag-uusapan natin:
+
+**Una** — Paghihimagsik ba ang sagot?
+
+**Pangalawa** — Ano ang solusyon ng Diyos sa kawalang-katarungan?
+
+**Pangatlo** — Paano mo mahaharap ang kawalang-katarungan ngayon?
+
+Mahalaga po ito sa bawat isa sa atin. Walang sinuman ang nakaiwas sa kawalang-katarungan. At ang sagot — galing sa Bibliya — ay magbibigay sa atin ng pag-asa.
+
+Pero bakit pa nga ba na-experience natin ang ganito?
+
+Kasi po —
 
 <mark class="green">**Nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan.**</mark>
 
@@ -48,12 +70,14 @@ Kaya ngayong umaga, sasagutin po natin ang tanong na ito:
 **==Matagal nang nararanasan ng tao ang kawalang-katarungan.==**
 
 Hindi po ito bago.
-Matagal na itong problema ng sangkatauhan.
 
-May isang hari — si Solomon.
-**3,000 years** na ang nakalipas.
-Matalino. Mayaman. Makapangyarihan.
-Pero ano ang nakita niya sa kaniyang bayan?
+Kung titingnan po natin ang history — sa panahon ni haring Solomon, **3,000 years** na ang nakalipas.
+
+Si Solomon — matalino. Mayaman. Makapangyarihan. Ang pinakamayamang hari sa kaniyang panahon.
+
+Pero kahit siya, hindi niya kayang itigil ang kawalang-katarungan na nakita niya. Kaya sa katapusan ng kaniyang paghahari, sumulat siya tungkol dito — pagbubulay-bulay sa kaniyang buong buhay.
+
+Ano nga ba ang nakita niya sa kaniyang bayan?
 
 Buksan po natin ang Eclesiastes kabanata 4, bersikulo 1.
 
@@ -67,36 +91,35 @@ Buksan po natin ang Eclesiastes kabanata 4, bersikulo 1.
 Napansin n'yo ba? Dalawang beses sinabing **"walang dumadamay sa kanila."**
 Hindi isang beses — dalawang beses.
 Para bang sinasabi ni Solomon:
-"Ito ang pinakamasakit na bahagi —
-hindi lang sila pinahihirapan,
-kundi wala pa man lang kumakampi."
+*"Doble po ang sakit — pinahihirapan, at wala pa man lang dumadamay."*
+
+**Para ilarawan** — sa panahon ni Solomon, walang nagpoprotekta sa inaapi. Kapag may makapangyarihang nang-aapi sa iyo, walang lalapitan.
+
+May mga balo at ulila na walang nagde-defensa. May mga umiiyak araw-araw — habang nakatingin lang ang iba.
+
+Sa puso nila, sakit. Sa katawan, pagod. Sa pang-araw-araw, kawalang-pag-asa.
+
+Iyon ang luha na nakita ni Solomon. **At walang dumadamay sa kanila.**
 
 **{pause}**
 
-At pamilyar po, hindi ba, ang pakiramdam na 'yon?
-Yung nararamdaman mo na walang nakikita,
-walang naninindigan, walang kumakampi.
+At gayon din po sa panahon natin —
 
-At gayon din sa panahon natin.
 **==Nagpapatuloy pa rin ang kawalang-katarungan, pagtatangi, pag-abuso, at pang-aapi sa ating panahon.==**
 
 **==Kung biktima ka ng kawalang-katarungan, tiyak na gusto mo ng tulong at kaaliwan.==**
 
-Minsan, pati sa tahimik ng gabi —
-nababalik pa rin sa isip mo ang nangyari.
-Paulit-ulit. Parang walang katapusan.
+Kaya po — gusto mong may kumilos. Gusto mong may action agad — magkaroon ng hustisya.
 
-Kaya natural lang —
-gusto mong may kumilos.
-Gusto mong may gumawa ng paraan para magkaroon ng hustisya.
+At marami ang gustong lumaban — gustong maghimagsik.
 
-Pero ano nga ba ang ginagawa ng mga tao para labanan ang kawalang-katarungan?
-Paghihimagsik.
 Pero ang tanong: <mark class="green">**Paghihimagsik ba ang sagot?**</mark>
 
 ---
 
 ## 2 — Paghihimagsik ba ang sagot? [4 minuto]
+
+Bago natin sagutin 'yan — alamin muna natin kung bakit umaabot ang ilan sa paghihimagsik.
 
 **==Natural lang na humingi ng tulong kapag inaapi ka.==**
 
@@ -104,7 +127,7 @@ Iyan mismo ang sinasabi sa Job 35:9 —
 "Dumaraing ang mga tao kapag inaapi sila;
 humihingi sila ng tulong dahil sa panggigipit ng mga makapangyarihan."
 
-Walang masama doon. Natural 'yan.
+Walang masama doon. Tama lang 'yan.
 
 Pero paano po kung walang nakikinig?
 Paano kung matagal nang walang nagbabago?
@@ -121,15 +144,14 @@ Ngayon naman po, tingnan natin ang larawan.
 </figure>
 
 Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
-Mga taong nagpoprotesta. Nagmamartsa. Galit. Naghahanap ng pagbabago.
 
-Naiintindihan natin kung bakit.
-Sawa na sila. Pagod na sila sa kawalang-katarungan.
+Mga taong nagpoprotesta. Nagmamartsa. Galit. At naghahanap ng pagbabago.
 
-May naisagawa ba sila? Oo, minsan —
-natulungan ang ilan, nabago ang ilang batas.
-Pero pagkalipas ng ilang panahon —
-panibagong problema na naman ang sumulpot.
+Naiintindihan natin kung bakit. Sawa na sila. Pagod na sila.
+
+May resulta ba? Oo — minsan, nabago ang batas. Minsan, may natulungan.
+
+Pero hindi nagtatagal — panibagong problema, panibagong sigaw, panibagong protesta. At walang katapusang cycle.
 
 *Salamat po sa picture.*
 
@@ -144,19 +166,23 @@ Dalawang dahilan.
 
 **Una** — **==May kawalang-katarungan dahil hindi sinusunod ng tao ang matuwid na mga daan ng Diyos.==**
 
-Hindi lang po ito tungkol sa masasamang lider o maling batas.
-Ang problema — ang tao mismo.
+Anong ibig sabihin po nito?
 
-Puwede mong ayusin ang isang problema ngayon —
-pero bukas, may lalabas na bago.
-Bakit? Dahil ang ugat ng problema ay hindi nabago.
+Hindi lang po ito tungkol sa masasamang lider o maling batas. Ang problema — ang tao mismo.
+
+Puwede mong ayusin ang isang problema ngayon — pero bukas, may lalabas na bago. Bakit? Dahil ang ugat ng problema ay hindi nabago.
+
+**Parang damo** — pwede mong putulin ang dahon. Pero kung hindi mo binubunot ang ugat, tutubo at tutubo lang ulit.
 
 ---
 
-**Pangalawa** — hindi dinisenyo ang tao na mamahala sa sarili niya.
+**Pangalawa** — **==Mabibigo ang mga pagsisikap ng tao na magkaroon ng tunay na katarungan kung walang tulong ng Diyos.==**
 
-Buksan po natin ang Jeremias 10:23.
-Pakinggan natin ang mismong sinasabi ng Bibliya.
+Ano naman ang ibig sabihin po nito?
+
+Hindi po dinisenyo ang tao na mamahala sa sarili niya.
+
+Buksan po natin ang Jeremias 10:23. Pakinggan natin ang mismong sinasabi ng Bibliya.
 
 **{pause}**
 
@@ -165,13 +191,13 @@ Pakinggan natin ang mismong sinasabi ng Bibliya.
 !!! quote "Jeremias 10:23"
     "Alam na alam ko, O Jehova, na ang landasin ng isang tao ay hindi sa kaniya. Hindi para sa taong lumalakad ang ituwid man lang ang sarili niyang hakbang."
 
-Malinaw po ang sinasabi ng Bibliya —
-ang landasin ng tao, hindi sa kaniya.
+Malinaw po ang sinasabi ng Bibliya — ang landasin ng tao, hindi sa kaniya. Sabi pa — kahit ituwid lang ng tao ang sarili niyang hakbang, hindi niya kaya.
 
-Kahit gaano pa kaganda ang intensyon natin —
-kung wala ang Diyos, hindi tayo magtatagumpay.
+Kaya kahit gaano pa kaganda ang intensyon natin — kung wala ang Diyos, hindi tayo magtatagumpay.
 
-**==Mabibigo ang mga pagsisikap ng tao na magkaroon ng tunay na katarungan kung walang tulong ng Diyos.==**
+**Parang naglalakad sa madilim** — walang ilaw, walang gabay. Pati ang isang hakbang, hindi mo kayang siguraduhing tama.
+
+Klaro po — kailangan natin ang gabay ng Diyos.
 
 ---
 
@@ -181,39 +207,27 @@ kung wala ang Diyos, hindi tayo magtatagumpay.
 
 ## 3 — Ano ang solusyon ng Diyos sa kawalang-katarungan? [12 minuto]
 
-Ang sagot po?
-**Kaharian ng Diyos.**
+Ang sagot po — ang **Kaharian ng Diyos**.
 
-Opo — ang Kaharian niya.
+Pero bakit po Kaharian ang tunay na sagot? Sapagkat —
 
-Alam n'yo po ba —
 **==Ang Diyos ay nagtatag ng isang Kaharian sa langit na magdadala ng tunay na katarungan.==**
 
 **Ano po ba ang Kaharian ng Diyos?**
 
 Ito ay isang tunay na gobyerno na itinatag ng Diyos na Jehova.
-Tinatawag din ito ng Bibliya bilang "Kaharian ng langit" —
-dahil sa langit ito nakatatag.
 
-Marami itong pagkakapareho sa mga gobyerno ng tao —
-pero nakahihigit ito sa lahat ng aspekto.
+Marami itong pagkakapareho sa mga gobyerno ng tao — pero nakahihigit ito sa lahat ng aspekto. Tulad ng anumang gobyerno, may **Tagapamahala**, may mga **kasamang mamamahala**, at may mga **sakop** — kasama po tayo.
 
-Tulad ng ibang gobyerno, may tatlong components:
-
-**Sino ang mamumuno?** Ang Tagapamahala.
-**Sino ang katuwang?** Mga kasamang mamamahala.
-**Sino ang mga sakop?** Lahat ng gumagawa ng kalooban ng Diyos — kasama po tayo.
-
-Parehas sa ibang gobyerno — pero may malaking pagkakaiba.
+**At ano po ang gagawin ng Kaharian na ito?**
 
 **==Malapit nang palitan ng Kaharian ang mga pamahalaan ng tao at mamamahala ito sa buong lupa.==**
 
-**Anong ibig sabihin nito?**
+**Anong ibig sabihin po nito?**
 
-Ang ibig sabihin po —
-hindi ito mababago ng eleksyon.
-Hindi mawawala kahit magpalit ng administrasyon.
-At hindi kailanman mabibigo.
+Lahat ng kawalang-katarungan na dulot ng baluktot na sistema ng tao — mawawala. Papalitan po ito ng gobyerno ng Diyos na itinatag niya sa langit.
+
+Walang corrupt na lider. Walang baluktot na korte. Walang batas na nag-fafavor sa makapangyarihan. Walang luha dahil sa pang-aapi.
 
 Sino po ang ayaw ng ganyang gobyerno?
 
@@ -221,14 +235,7 @@ Sino po ang ayaw ng ganyang gobyerno?
 
 **Pero sino ang mamumuno?**
 
-**==Si Jesu-Kristo ang Tagapamahala ng Kaharian ng Diyos.==**
-
-At ang pamamahala niya —
-**==magdadala ng "katarungan at katuwiran."==**
-
-Buksan po natin ang Isaias kabanata 9, bersikulo 6 at 7.
-Dito, makikita natin ang credentials ng Haring pinili ni Jehova —
-**apat na titulo, at isang pundasyon.**
+Buksan po natin ang Isaias kabanata 9, bersikulo 6 at 7. Dito po pinakilala ni Jehova kung sino ang piniling Hari, at pansinin ang pundasyon ng gobyernong gagawin niya.
 
 **{pause}**
 
@@ -237,48 +244,37 @@ Dito, makikita natin ang credentials ng Haring pinili ni Jehova —
 !!! quote "Isaias 9:6, 7"
     "Dahil isang bata ang ipinanganak sa atin, Isang anak na lalaki ang ibinigay sa atin; At ang pamamahala ay iaatang sa balikat niya. Siya ay tatawaging Kamangha-manghang Tagapayo, Makapangyarihang Diyos, Walang-Hanggang Ama, Prinsipe ng Kapayapaan. Ang paglawak ng pamamahala niya At ang kapayapaan ay hindi magwawakas Sa trono ni David at sa kaniyang kaharian Para itatag ito nang matibay at panatilihin Sa pamamagitan ng katarungan at katuwiran, Ngayon at magpakailanman. Mangyayari ito dahil sa sigasig ni Jehova ng mga hukbo."
 
-**Anong ibig sabihin nito?**
+Malinaw po na tinitukoy dito si Jesus. Ang batang ipinanganak — ito ang Anak ni Jehova. Pinili siya bilang Hari ng Kaharian.
 
-Parang nagpapakilala si Jehova ng bagong lider —
-sinasabi muna ang credentials:
+**==Si Jesu-Kristo ang Tagapamahala ng Kaharian ng Diyos.==** At ang pamamahala niya — **==magdadala ng "katarungan at katuwiran."==**
 
-**"Kamangha-manghang Tagapayo"** — walang maling desisyon. Walang paboritismo.
-**"Makapangyarihang Diyos"** — kaya niyang ayusin ang sistema.
-**"Walang-Hanggang Ama"** — minamahal ka niya tulad ng ama sa anak.
-**"Prinsipe ng Kapayapaan"** — ang dala niya, kapayapaan para sa lahat.
+**Anong ibig sabihin po nito?**
 
-At ang pundasyon ng lahat? **"Katarungan at katuwiran."**
-At "ngayon at magpakailanman" — walang expiration.
+Apat ang titulo na ibinigay sa kaniya — at bawat titulo ay sagot sa iba't-ibang aspekto ng kawalang-katarungan. Naranasan mo na ba 'yon?
 
-**Para ilarawan:**
+**"Kamangha-manghang Tagapayo."** *(beat)* Sa korteng nagpapaboritismo, sa pulitikong tiwali — walang maling desisyon ang Hari na ito.
 
-Isipin n'yo — nagtatrabaho ka nang tapat. Ginagawa mo ang tama.
-Pero ang katrabaho mong tamad — siya ang na-promote.
-Masakit, hindi ba? At wala kang magawa.
+**"Makapangyarihang Diyos."** *(beat)* Sa makapangyarihang nang-aapi, sa sistemang nandadaya sa mahihirap — mas malakas siya.
 
-Pero kung ang boss mo ay tulad ni Kristo?
-Walang paboritismo. Walang iniwan. Lahat pantay.
+**"Walang-Hanggang Ama."** *(beat)* Sa pakiramdam na walang kumakampi, sa pamilyang di nakinig sa iyo — may Ama tayo. Habampanahon.
 
-**Ikapit mo:**
+**"Prinsipe ng Kapayapaan."** *(beat)* Sa walang-tigil na alitan, sa balisang puso — may permanenteng kapayapaan.
 
-Kung nasaktan ka ng sistema ng tao —
-may darating na gobyerno na hindi ka bibiguin.
-Forever.
+At ang pundasyon ng lahat? **"Katarungan at katuwiran."** Iyan po mismo ang **tunay na katarungan** na pangako ng Diyos.
 
 ---
 
 Napakalaking pangako, hindi ba?
-Pero hindi lang siya nangako.
+
+Pero hindi lang siya nangako — pinakita pa niya sa kaniyang ministeryo.
 
 **==Noong ministeryo ni Jesus sa lupa, hindi niya itinaguyod ang katarungan sa pamamagitan ng mga reporma sa lipunan o politika.==**
 
-Sa halip —
-**==itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.==**
+Sa halip — **==itinuro niya sa kaniyang mga tagasunod na manampalataya sa Kaharian.==**
 
-Paano? Sa pamamagitan ng panalangin.
+Paano? Tinuro niya sa kanila kung paano manalangin para sa Kaharian.
 
-Buksan po natin ang Mateo kabanata 6, bersikulo 9 at 10.
-Pakinggan natin kung ano ang itinuro ni Jesus na ipanalangin.
+Buksan po natin ang Mateo kabanata 6, bersikulo 9 at 10. Pakinggan natin kung ano ang itinuro ni Jesus na ipanalangin.
 
 **{pause}**
 
@@ -287,23 +283,23 @@ Pakinggan natin kung ano ang itinuro ni Jesus na ipanalangin.
 !!! quote "Mateo 6:9, 10"
     "Manalangin kayo sa ganitong paraan: 'Ama namin na nasa langit, pakabanalin nawa ang pangalan mo. Dumating nawa ang Kaharian mo. Mangyari nawa ang kalooban mo, kung paano sa langit, gayon din sa lupa.'"
 
-**Anong ibig sabihin nito?**
+**Anong ibig sabihin po nito?**
 
-Sa langit — walang kawalang-katarungan. Walang pang-aapi. Walang luha.
-At ipinanalangin natin na ang ganyang realidad — mangyari din dito sa lupa.
+Sa langit — walang kawalang-katarungan, walang luha, walang pang-aapi. Doon, sumusunod ang lahat sa kalooban ng Diyos.
 
-Hindi 'yan basta panalangin. Iyon ay pangako.
+Kaya itinuro ni Jesus na ipanalangin — na mangyari ang kalooban ng Diyos dito sa lupa, kung paano sa langit.
 
 ---
 
 At **==makikita sa mga ginawa niyang himala kung ano ang gagawin niya bilang Hari ng Kaharian ng Diyos.==**
 
-**Himala 1.** Limang tinapay, dalawang isda — pinakain ang 5,000 lalaki, bukod pa sa mga babae at mga bata. 12 basket pa ang natira.
+Magbigay po tayo ng dalawang halimbawa.
 
-**Himala 2.** May bulag sa tabi ng daan. Sumigaw: *"Anak ni David, maawa ka sa akin!"* Huminto si Jesus. *"Ano ang gusto mong gawin ko para sa iyo?"* *"Panginoon, gusto kong makakita uli."* At agad siyang nakakita.
+**Una**, ang **Pagpapakain sa 5,000**. Sa limang tinapay at dalawang isda lang — pinakain niya ang libo-libong tao. 12 basket pa ang natira.
 
-**Preview 'yan** — sample ng kung ano ang gagawin ng Kaharian.
-Walang magugutom. Walang magkakasakit. Walang maiiwan.
+**Pangalawa**, **pinagaling niya ang isang bulag**. Sa salita lang ni Jesus, agad nakakita uli.
+
+May lider po ba ngayon na nakagagawa ng ganyan? Wala. Sa halip — minsan, nababawasan pa nga ang tulong sa mga nangangailangan.
 
 ---
 
@@ -317,29 +313,19 @@ Tingnan po natin ang isa pang larawan.
   ![Buhay sa ilalim ng Kaharian ng Diyos](1000032_univ_cnt_2_xl.jpg){ width="100%" }
 </figure>
 
-Isipin n'yo — andyan kayo sa larawan na 'to.
-Kasama ang iba't ibang lahi, iba't ibang bansa.
-Pero walang takot. Walang alitan. Walang maiiwan.
-Lahat, nakangiti.
-At sa itaas — si Kristo, ang Hari.
+Isipin n'yo. Andyan kayo. Andyan tayo — sa mundong walang takot, walang sakit, walang luha. Si Jesus, ang Hari, namamahala na. At lahat tayo, nasa ilalim ng kaniyang kapayapaan.
+
+**Imagine** — **==Lahat ay makikinabang sa mga likas na yaman ng lupa kaya wala nang mayaman o mahirap.==** Walang gutom. Walang kahirapan. Lahat may pagkain. Lahat may tahanan. Hindi na tayo nagrerenta. Hindi na nag-uutang para mabuhay.
+
+**Imagine** — **==Pantay-pantay na ang lahat ng lahi at etnikong mga grupo.==** Walang discrimination. Walang rehiyonalismo. Magkakapatid lahat ng tao.
+
+**Imagine** — **==Hindi na mababahagi ang mga tao dahil sa relihiyon; ang lahat ay magkakaisa sa pagsamba kay Jehova.==** Iisang pananampalataya. Iisang Diyos. Walang giyera dahil sa pananampalataya.
+
+**Imagine** — **==Magkakaroon ng kapayapaan sa lahat ng pamilya.==** Walang broken family. Walang awayan ng mag-asawa. Walang pagmamaltrato sa loob ng tahanan. Lahat ng tahanan — payapa.
 
 *Salamat po sa picture.*
 
-Iyon po ang magiging realidad kapag namamahala na ang Kaharian.
-
-Isipin n'yo ang **4K ng Kaharian** —
-apat na bagay na mawawala.
-
-**==Kasaganaan==** — walang gutom. Lahat sagana. (Awit 72:16)
-
-**==Kapantayan==** — walang discrimination. Pantay-pantay ang lahat. (Gawa 10:34, 35)
-
-**==Kaisahan==** — iisa ang pagsamba. Walang hidwaan sa relihiyon. (Isaias 11:9)
-
-**==Kapayapaan==** — walang broken family. Kapayapaan sa bawat tahanan.
-
-Sino po ang ayaw na mabuhay sa mundong ganito?
-Hindi 'yan panaginip. Pangako 'yan ng Diyos na Jehova.
+Yan po ang sandali na inaasam-asam ng puso natin. Sa bawat luha, sa bawat pighati, sa bawat sandali ng kawalang-katarungan ngayon — andyan ang araw na 'yan, naghihintay.
 
 Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian?
 <mark class="green">**Paano mo mahaharap ang kawalang-katarungan ngayon?**</mark>
@@ -350,257 +336,160 @@ Pero paano naman tayo ngayon habang hinihintay natin ang Kaharian?
 
 **==Ngayon pa lang, puwede ka nang makasumpong ng kaginhawahan sa kabila ng kawalang-katarungan o masamang pagtrato.==**
 
-Hindi tayo kailangang maghintay nang walang ginagawa.
-May apat na praktikal na hakbang tayo ngayon.
-At sa bawat hakbang, tingnan natin kung paano ito mag-aapply sa totoong buhay.
+Hindi tayo kailangang maghintay nang walang ginagawa. May **apat na praktikal na hakbang** tayo, habang naghihintay tayo sa Kaharian. Para madaling matandaan, tawagin natin itong **4P's**.
+
+At sa bawat P, tingnan natin ang prinsipyo sa Bibliya at kung paano ito mag-aapply sa totoong buhay.
 
 ---
 
-### Hakbang 1: Iwasan ang delikadong sitwasyon
+### Unang P — Pag-iwas
 
 **Una** — **==Alamin ang mga sitwasyon na malamang na tratuhin ka nang masama at kung posible, iwasan ito.==**
 
-!!! quote "Kawikaan 22:3"
-    "Nakikita ng matalino ang panganib at nagtatago, Pero tulóy lang ang mga walang karanasan at pinagdurusahan ang epekto nito."
+**Anong prinsipyo sa Bibliya ang pwede natin ikapit dito?**
 
-Hindi ito takot. Ito'y karunungan.
+**Kawikaan 22:3 — Nakikita ng matalino ang panganib at nagtatago.**
+
+**Anong ibig sabihin nito?**
+
+Hindi ito takot. Ito'y karunungan. Ang marunong — nakikita ang panganib bago mangyari, at iniiwasan.
 
 **Halimbawa:**
-Baka may katrabaho ka na laging nangi-insulto o nanla-lait.
-Lagi niyang pinaparamdam na mas mababa ka dahil immigrant ka.
 
-Ano ang gagawin mo?
-Hindi 'yan ibig sabihin na kailangan mong mag-resign agad.
-Pero kung puwede mong iwasan na magka-shift kasabay niya,
-o iwasang mag-break kasama niya — gawin mo.
-Ginagamit mo lang ang karunungang ibinigay ni Jehova.
-
-O baka sa Pilipinas —
-alam mong may lugar na mapanganib, may area na peligroso kung gabi.
-Hindi ikaw ang may kasalanan kung may mangyaring masama,
-pero kung puwede mong iwasan — iwasan mo.
-
-Ang sabi ng Bibliya:
-ang matalino, **nakikita** ang panganib.
-Hindi naghihintay na mangyari bago kumilos.
+May katrabaho ka na laging nangi-insulto, laging pinaparamdam na mas mababa ka dahil immigrant ka. Hindi ibig sabihin mag-resign agad. Pero kung puwede mong iwasan na magka-shift kasabay niya, o iwasang mag-break kasama niya — gawin mo. Yan ang **pag-iwas**.
 
 ---
 
-### Hakbang 2: Humingi ng tulong kung kinakailangan
+Pero hindi naman lahat naiiwasan natin. Minsan, biktima ka na talaga. Dito papasok ang pangalawang P.
+
+---
+
+### Pangalawang P — Paghingi
 
 **Pangalawa** — **==Kung naging biktima ka, puwede kang humingi ng tulong sa mga nasa awtoridad.==**
 
-!!! quote "Roma 13:4"
-    "dahil lingkod ito ng Diyos para sa kapakanan mo. Pero kung masama ang ginagawa mo, matakot ka, dahil may kapangyarihan itong magparusa gamit ang espada. Lingkod ito ng Diyos, isang tagapaghiganti para ipakita ang galit sa mga gumagawa ng masama."
+**Anong prinsipyo sa Bibliya?**
 
-Hindi masama ang humingi ng tulong sa pulis o sa korte kung kinakailangan.
-Hindi tayo pinagbawalan doon.
+**Roma 13:4 — Dahil lingkod ito ng Diyos para sa kapakanan mo. Pero kung masama ang ginagawa mo, matakot ka, dahil may kapangyarihan itong magparusa gamit ang espada.**
+
+**Anong ibig sabihin nito?**
+
+Hindi masama ang humingi ng tulong sa pulis o sa korte kung kinakailangan. Inilagay ng Diyos ang mga awtoridad para sa proteksyon natin.
 
 **Halimbawa:**
-Dito sa Canada, kung temporary foreign worker ka
-at hindi ka binabayaran ng tama,
-o pinapagtrabaho ka nang labis —
-may karapatan kang mag-file ng complaint sa Labour Board.
-Hindi ka ide-deport dahil lang nagrereklamo ka.
-May batas na nagpoprotekta sa iyo.
 
-Kung sa Pilipinas —
-kung may iligal na recruitment na nangyari,
-may DMW at mga ahensya na tutulong sa iyo.
-Kung may krimen, may karapatan kang lumapit sa awtoridad.
-
-Minsan, natatakot tayo na humingi ng tulong —
-baka walang mangyari, baka pagtawanan pa tayo.
-Pero ang sinasabi ng Bibliya:
-ang awtoridad ay "lingkod ng Diyos para sa kapakanan mo."
-Gamitin natin ang proteksyong available.
+Dito sa Canada, kung temporary foreign worker ka at hindi binabayaran ng tama, may karapatan kang mag-file ng complaint sa Labour Board. Hindi ka ide-deport dahil lang nagrereklamo ka. May batas na nagpoprotekta sa iyo. Yan ang **paghingi**.
 
 ---
 
-### Hakbang 3: Ibuhos ang niloob kay Jehova
+Pero paano kung hindi ka nakakuha ng hustisya? Paano kung nag-file ka ng reklamo pero walang nangyari? Dito papasok ang pangatlong P.
 
-**Pangatlo** — Pero paano kung hindi ka nakakuha ng hustisya?
-Paano kung nag-file ka ng reklamo pero walang nangyari?
-Paano kung pakiramdam mo... *wala nang pag-asa?*
+---
 
-**==Kung pinagkaitan ka ng hustisya, ibuhos mo ang niloob mo sa Diyos na Jehova.==**
+### Pangatlong P — Panalangin
 
-Buksan po natin ang 1 Pedro kabanata 5, bersikulo 6 at 7.
-Dito, makikita natin kung gaano nagmamalasakit si Jehova sa atin.
+**Pangatlo** — **==Kung pinagkaitan ka ng hustisya, ibuhos mo ang niloob mo sa Diyos na Jehova.==**
+
+Buksan po natin ang 1 Pedro kabanata 5, bersikulo 6 at 7. Pansinin natin kung gaano nagmamalasakit si Jehova sa atin.
 
 *[Basahin ang 1 Pedro 5:6, 7]*
 
 !!! quote "1 Pedro 5:6, 7"
     "Kaya magpakababa kayo sa ilalim ng makapangyarihang kamay ng Diyos, para maitaas niya kayo sa takdang panahon, habang inihahagis ninyo sa kaniya ang lahat ng inyong álalahanín, dahil nagmamalasakit siya sa inyo."
 
-Gusto kong ulitin 'yan:
-**"Nagmamalasakit siya sa inyo."**
+**Anong ibig sabihin nito?**
 
-Hindi ka niya kinakalimutan.
-Hindi niya bina-brush off ang nararamdaman mo.
-Puwede mong sabihin sa kaniya lahat —
-ang sakit, ang galit, ang frustration,
-ang tanong na "Bakit ako?"
+Tatlo po ang itinuturo nito.
+
+**Una — "magpakababa."** Aminin sa Diyos na Jehova: *"Jehova, hindi ko po ito kaya. Ikaw na po ang bahala."*
+
+**Pangalawa — "inihahagis."** Pansinin po — sabi dito *"ihagis,"* hindi *"ilagay."* May lakas. May desisyon.
+
+Kasi pag *inilagay* mo lang — pwede mong balikan, pwede mong hawakan ulit. Pero pag *inihagis* mo na — palayo. Walang balikan.
+
+Parang basura. Pag tinapon mo na sa labas, hindi mo na binabalot at hinahawakan ulit. Hindi mo na ibinabalik sa loob ng bahay mo.
+
+Ganyan dapat ang ginagawa natin sa mga alalahanin natin — ihagis kay Jehova, at huwag nang hawakan ulit.
+
+**Pangatlo — "nagmamalasakit siya."** Pag may dala kang hinanakit, ihagis mo kay Jehova. At para siyang magulang na yayakap sa iyo — dahil mahal ka niya, dahil nagmamalasakit siya sa iyo.
 
 **Halimbawa:**
-Baka may kapatid dito na nag-apply ng permanent residency —
-ginawa ang lahat ng tama, sumunod sa proseso —
-pero ni-reject.
-O baka nag-trabaho ka nang ilang taon sa isang company,
-tapos biglang tinanggal ka — walang tamang dahilan.
-At wala kang magawa. Walang nakinig.
 
-O baka sa pamilya —
-hindi ka pinanigan ng sarili mong magulang.
-Ang kapatid mo ang laging tama. Ikaw ang laging mali.
-At hindi mo ma-explain sa kahit kanino kung gaano 'yon kasakit.
+Nag-apply ka ng permanent residency. Ginawa mo lahat ng tama, sumunod sa proseso. Pero ni-reject. Walang paliwanag. Wala kang magawa, walang mahingan ng tulong.
 
-Si Jehova — nakikinig siya. Naiintindihan niya.
-Hindi ka nag-iisa.
+Pero si Jehova — 24/7 open. Katok ka lang sa panalangin.
 
-**==Aaliwin ka niya at papatibayin.==**
+**Magpakababa.** **Ihagis** ang alalahanin mo sa kanya. **Nagmamalasakit** siya sa iyo. **==Aaliwin ka niya at papatibayin.==**
 
-!!! quote "Roma 12:12"
-    "Magsaya kayo dahil sa pag-asa ninyo. Magtiis kayo habang nagdurusa. Magmatiyaga kayo sa pananalangin."
-
-Ang panalangin ay hindi lang ritual.
-Ito'y koneksyon sa Diyos na nagbibigay ng lakas.
-
-Naisip n'yo na ba 'to?
-Nasubukan n'yo na bang pumunta sa lugar na walang signal?
-Kahit simpleng message, hindi mo magawa. Walang connection.
-
-Pero ang panalangin kay Jehova —
-hindi siya nawawalan ng signal.
-Kahit nasa pinaka-malalim na problema ka,
-kahit pakiramdam mo nasa ilalim ka ng dagat —
-naririnig ka ni Jehova.
-Walang dead spot sa panalangin.
-
-Kaya kapag nanalangin ka — hindi ka nag-iisa. May nakikinig.
-
-At tandaan:
-**==Sa kaniyang itinakdang panahon, paparusahan niya ang masasama.==**
-
-!!! quote "Roma 12:19"
-    "Huwag ninyong ipaghiganti ang inyong sarili, mga minamahal, kundi bigyang-daan ninyo ang poot; dahil nasusulat: 'Akin ang paghihiganti; ako ang gaganti,' sabi ni Jehova."
-
-Hindi tayo kailangang maghiganti.
-Si Jehova ang bahalang gumanti.
-Sa tamang panahon. Sa tamang paraan.
-At mas magaling siya doon kaysa sa atin.
+Yan ang **panalangin**.
 
 ---
 
-### Hakbang 4: Linangin ang bunga ng espiritu
+Pero paano kung galit na galit ka? Paano kung gusto mo nang gumanti?
+
+Ano gagawin mo?
+
+**Halimbawa:** May katrabaho na ginawan ka ng tsismis. Pinost pa sa social media.
+
+Anong prinsipyo ang pwedeng tutulong sa atin dito?
+
+**Roma 12:19 — "Akin ang paghihiganti; ako ang gaganti," sabi ni Jehova.**
+
+Hindi tayo kailangang maghiganti. **==Sa kaniyang itinakdang panahon, paparusahan niya ang masasama.==**
+
+Pero habang hinihintay natin 'yon — dito papasok ang pang-apat na P.
+
+---
+
+### Pang-apat na P — Paglinang
 
 **Pang-apat** — **==Linangin ang mga katangiang gaya ng pagtitiis, kabaitan, at pagpipigil sa sarili.==**
 
-!!! quote "Galacia 5:22, 23"
-    "Pero ang mga katangian na bunga ng espiritu ay pag-ibig, kagalakan, kapayapaan, pagtitiis, kabaitan, kabutihan, pananampalataya, kahinahunan, at pagpipigil sa sarili. Walang kautusan laban sa ganitong mga bagay."
+**Bakit kailangan natin ito?**
 
-Alam ko... mahirap 'yan.
-Kapag nasaktan ka, ang hirap maging mabait. Ang hirap magpigil.
-Pero ito ang lakas na galing sa espiritu ng Diyos —
-hindi sa sarili nating kakayahan.
+Kailangan natin ito dahil — **==Tutulungan ka ng mga katangiang ito na manatiling kalmado kapag nakakaranas ka ng kawalang-katarungan para maiwasang lumala ang mga bagay-bagay.==**
 
-**==Tutulungan ka ng mga katangiang ito na manatiling kalmado kapag nakakaranas ka ng kawalang-katarungan para maiwasang lumala ang mga bagay-bagay.==**
+At higit pa — **==Baka gumanda ang pakikitungo nila sa iyo kapag nakita nila ang mabubuti mong katangian.==**
 
-!!! quote "Roma 12:17"
-    "Huwag gumanti kaninuman ng masama para sa masama. Gawin kung ano ang mabuti sa pananaw ng lahat ng tao."
-
-**Halimbawa:**
-Dito sa Ontario, may mga kababayan nating naninirahan sa apartment
-na biglang binigyan ng eviction notice — renoviction ang tawag.
-Ang landlord, gusto lang palang itaas ang renta.
-
-Nakakainis, hindi ba? Nakakapagalit.
-At ang natural na reaction —
-sigawan mo sila, mag-post ka sa social media, gumanti ka.
-
-Pero kapag gumanti ka, lulubha lang ang problema.
-Baka mas lumala pa ang sitwasyon mo.
-
-Pero kapag nanatili kang kalmado —
-kumuha ka ng legal advice,
-kinausalap mo nang maayos ang landlord,
-ipinakita mong marunong kang makipag-usap — minsan...
-
-**==Baka gumanda ang pakikitungo nila sa iyo kapag nakita nila ang mabubuti mong katangian.==**
-
-!!! quote "Roma 12:20, 21"
-    "Kundi 'kung nagugutom ang kaaway mo, pakainin mo siya; kung nauuhaw siya, bigyan mo siya ng maiinom; dahil sa paggawa nito, makapagtutumpok ka ng baga sa ulo niya.' Huwag kang padaig sa masama, kundi patuloy na daigin ng mabuti ang masama."
-
-**Isa pang halimbawa:**
-Sa trabaho, may supervisor ka na parating parinig nang parinig.
-"Ah, ganyan talaga kayo."
-"Hindi talaga kayo makakaangat dito."
-
-Ang sakit pakinggan.
-At ang natural na response — ibalik mo, lumaban ka.
-
-Pero isipin natin:
-Ano ang nangyayari kapag hindi ka gumanti?
-Kapag patuloy kang mabait, matiyaga, magaling sa trabaho?
-
-Minsan, ang supervisor na 'yon — siya pa ang magtataka.
-"Bakit hindi siya nagagalit?
-Bakit mabait pa rin siya sa akin?"
-At iyon ang simula ng pagbabago.
-Hindi dahil sa protesta — kundi dahil sa katangian mo.
-
-Hindi laging ganyan ang resulta.
-Minsan, hindi talaga magbabago ang tao.
-Pero kahit hindi sila magbago —
-**ikaw** ang nananatiling buo.
-Hindi ka nasira ng galit.
-Hindi ka nadala ng sama ng loob.
+Minsan, hindi talaga magbabago ang tao. Pero kahit hindi sila magbago — **ikaw** ang nananatiling buo. Hindi ka nasira ng galit. Yan ang **paglinang**.
 
 ---
 
-**==Maaari kang makasumpong ng kagalakan at kapayapaan ngayon sa kabila ng kawalang-katarungan.==**
+At kung gagawin po natin ang **4P's** na ito — **==Maaari kang makasumpong ng kagalakan at kapayapaan ngayon sa kabila ng kawalang-katarungan.==**
 
-!!! quote "Roma 15:13"
-    "Dahil nagtitiwala kayo sa Diyos, na nagbibigay ng pag-asa, punuin nawa niya ang inyong puso ng kagalakan at kapayapaan, nang sa gayon ay mapuno kayo ng pag-asa sa pamamagitan ng kapangyarihan ng banal na espiritu."
-
-Hindi mo kailangang maging miserable habang naghihintay.
-Puwede kang maging masaya dahil may pag-asa ka.
-
-Ang mga taong walang pag-asa — sila ang pinakamiserable.
-Pero tayo, may alam tayong darating.
-May Kaharian na magdadala ng tunay na katarungan.
-
-**==Patibayin ang pananampalataya mo sa Kaharian ng Diyos — ang magdadala ng tunay na katarungan.==**
+Kaya — **==Patibayin ang pananampalataya mo sa Kaharian ng Diyos — ang magdadala ng tunay na katarungan.==**
 
 ---
 
 ## CONCLUSION
 
-Kung may dala-dala kang sakit ngayon dahil sa kawalang-katarungan...
-gusto kong malaman mong hindi ka nag-iisa.
+Mga kapatid, mga kaibigan po —
 
-Nakikinig si Jehova.
-**Nagmamalasakit siya sa iyo.**
+Kung may dala-dala kang **hinanakit** ngayon dahil sa kawalang-katarungan, gusto kong malaman mong hindi ka nag-iisa.
 
-At balang-araw, tutuparin niya ang kaniyang pangako —
-isang mundong walang pang-aapi,
-walang pagtatangi,
-walang kawalang-katarungan.
-Ang **Kaharian ng Diyos** ang magdadala niyan.
+Nakikinig si Jehova. **Nagmamalasakit siya sa iyo.**
 
-Pero habang naghihintay tayo, huwag tayong padaig sa masama.
+---
 
-Tandaan natin ang sinabi sa Roma 12:21:
+Totoo — **nabubuhay tayo sa isang mundo na punô ng kawalang-katarungan.** Pero hindi paghihimagsik ang sagot — kundi ang **Kaharian ng Diyos na Jehova.**
 
-**"Huwag kang padaig sa masama, kundi patuloy na daigin ng mabuti ang masama."**
+---
 
-Iyan ang hamon sa atin ngayong umaga:
-Magtiwala sa Kaharian.
-Ibuhos ang niloob kay Jehova.
-At patuloy na gawin ang mabuti —
-kahit mahirap, kahit masakit.
+Kaya — balikan po natin ang tanong sa pagsisimula:
 
-**Tunay na katarungan** — para sa lahat. Malapit na.
+<mark class="pink">**Makakamit pa kaya natin ang tunay na katarungan?**</mark>
+
+**Oo.**
+
+Sa pamumuno ng Hari na pinili ni Jehova.
+
+Sa Kaharian niyang itinatag sa langit.
+
+Sa araw na inaasam-asam ng puso natin.
+
+Hindi panaginip. Hindi pangarap.
+
+**Pangako ng Diyos. At malapit na.**
 
 ---
 
