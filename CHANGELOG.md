@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.8.0] - 2026-04-28
+
+### New Zoom Field Ministry talk: Colosas 4:6 (4-min, talakayan format)
+
+Brief encouragement talk for Zoom field ministry meeting on speech "seasoned with salt." Talakayan-style — invites a brother/sister to share a real-life example mid-talk.
+
+**Added:**
+- `field-ministry/0428-colosas-4-6-zoom/outline.md` — outline + alignment table mapping each phrase of Colosas 4:6 to relevant aralin (Public-Talk Aralin 16/3, Ministeryo Aralin 11, Mahalin ang mga Tao Aralin 3)
+- `docs/field-ministry/0428-colosas-4-6-zoom/index.md` — 4-min script structured around three angles of "asin": pampalasa (kindness), pampreserba (doesn't damage relationships), sustansiya (substantive, adapted per person)
+
+**Changed:**
+- `mkdocs.yml` — added Colosas 4:6 entry above Roma 12:11 in Field Ministry nav (latest first)
+
+---
+
 ## [4.7.1] - 2026-04-24
 
 ### Talk 33: revert structural 3K's, scope acronym to Section 4 only (4P's)
