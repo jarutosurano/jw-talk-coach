@@ -17,5 +17,13 @@ __pycache__/
 site/
 node_modules
 
+# Reference books / full copyrighted publications (local only, never publish)
+reference/books/
+
 # Playwright MCP artifacts
 .playwright-mcp/
+.credentials
+.ssh-credentials
+.env*
+secrets/
+.clickup-session-context.json

@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.9.0] - 2026-06-15
+
+### New 10-minute talk: Hinamak Nila ang Templo ni Jehova (Jeremias 7)
+
+Friday OCLM talk (Jun 19, 2026) on Jeremiah's temple sermon. Built around the study point **Aralin 14 (Idiin ang Punto)** with an effective intro (Aralin 1), simple words (Aralin 17), and a heart-reaching conclusion (Aralin 19/20). Theme formula: *Panlabas na Anyo ≠ Proteksiyon. Tunay na Paggawi = Tunay na Pagsamba.*
+
+**Added:**
+- `talks/10min/0619-hinamak-nila-ang-templo-ni-jehova/outline.md` — outline with workbook text, references (jr p.21 ¶12; it "Jehova" ¶78; it "Shilo"), exact NWT Tagalog texts (Jer 7:4, 8-10, 11, 12-14), and image notes
+- `docs/talks/10min/0619-hinamak-nila-ang-templo-ni-jehova/index.md` — full script: 3 points (false security → dishonored name → Shilo warning) with REIA, analogies (police-station, company uniform, shut-down flagship branch), split-image discussion on consistency, and the "Napapapurihan ba si Jehova ang mga paggawi ko?" reflection
+- `docs/talks/10min/0619-hinamak-nila-ang-templo-ni-jehova/picture.jpg` — workbook split image (work conflict vs. warm at the meeting)
+
+**Changed:**
+- `mkdocs.yml` — added Hinamak Nila ang Templo ni Jehova at top of 10-Minute nav (latest first)
+- `.gitignore` — added `reference/books/` so full copyrighted publications are stored locally only, never published
+
+---
+
 ## [4.8.0] - 2026-04-28
 
 ### New Zoom Field Ministry talk: Colosas 4:6 (4-min, talakayan format)
