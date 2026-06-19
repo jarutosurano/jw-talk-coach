@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.9.1] - 2026-06-15
+
+### Revise talk 0619 (Hinamak Nila ang Templo ni Jehova) for heart, clarity, and timing
+
+Extensive line-by-line revision of the 10-min talk based on delivery feedback. Trimmed from ~12 min down to ~8.5–9 min (relaxed pace), simplified for newcomer comprehension, and strengthened the heart-reaching applications (Aralin 19).
+
+**Changed (`docs/talks/10min/0619-hinamak-nila-ang-templo-ni-jehova/index.md`):**
+- **Intro:** opens with "Alam n'yo po ba…" hook + 3-question roadmap; removed the redundant deeper heart-question (it duplicated the conclusion). Title now lands as a declaration, not "Kaya ang tema…".
+- **Each point:** read → ask-to-frame → answer pattern; key terms defined plainly (e.g. *mapandaya* = "niloloko ang sarili"; *pugad ng magnanakaw* = "taguan ng magnanakaw"); explanations cut to 2–3 sentences.
+- **Illustrations:** Point 1 now uses a driver's-license analogy (easier to say than "gym"); Point 2 keeps company-uniform + badge (applied to everyday life, not just events).
+- **Heart applications:** personalized with self-examination ("ako/ko"), warm and non-shaming; conclusion now ends with a confident exhortation instead of another reflection question.
+- **Accuracy:** "pintuang-daan ng templo" added per Jer 7:2 (verified against NWT); historical setup simplified (dropped the kings/Josias detour).
+- **Trims:** removed duplicate Shilo backstory, collapsed redundant "Ang Natutuhan Natin" framing, shortened the image discussion and conclusion. Confirmed `mkdocs build --strict` passes.
+
+---
+
 ## [4.9.0] - 2026-06-15
 
 ### New 10-minute talk: Hinamak Nila ang Templo ni Jehova (Jeremias 7)
