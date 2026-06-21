@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.10.0] - 2026-06-21
+
+### New content type: Watchtower (Bantayan) study comment prep
+
+Added a **Watchtower** nav tab and the first study-article comment-prep page. Each paragraph question is answered inside a `success` admonition box — simple, personal ("ako/ko"), heart-reaching, and kept to ~1 minute (analogy added where it helps).
+
+**Added:**
+- `docs/watchtower/tamang-pananaw-sa-mga-problema/index.md` — *Panatilihin ang Tamang Pananaw sa mga Problema* (Awit 119:143). Covers all 17 paragraph questions + the 3 review questions, each answer in a box.
+- `watchtower/tamang-pananaw-sa-mga-problema/outline.md` — non-published source outline (theme, per-paragraph summaries, scriptures, notes).
+- **Personalization (handpicked, 2 of the items only):** items **10** (doubting if Jehovah still cares → David/Habakuk → kept praying) and **14** (Jehovah answering through the brothers) woven with the speaker's real faith-testing trial — told "kami"-voice, storytelling, warm. Straight answer leads, then connects to the personal experience. Immigration specifics kept general for the public site; gratitude to the brothers/sisters of VTC and to Jehovah included.
+
+**Changed:**
+- `mkdocs.yml` — added `Watchtower:` nav group (between Talks and Field Ministry).
+
+---
+
 ## [4.9.1] - 2026-06-15
 
 ### Revise talk 0619 (Hinamak Nila ang Templo ni Jehova) for heart, clarity, and timing
