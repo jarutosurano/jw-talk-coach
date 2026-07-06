@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.11.0] - 2026-07-06
+
+### New Espirituwal na Hiyas: Jeremias 11-12 + speaker notes for Outline 33
+
+**Added:**
+- `docs/espirituwal-na-hiyas/0703-jeremias-11-12/index.md` — conductor script for the Jul 3 Hiyas (Jeremias 11-12): Tanong 1 with simplified answer, highlights, illustration, and guided follow-ups; top gems for Tanong 2; standard closing.
+- `espirituwal-na-hiyas/0703-jeremias-11-12/outline.md` — non-published source outline (Bible text, reference paragraphs, notes).
+- `talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/speaker-notes.md` — non-published speaker notes ("Ang Mas Malalim na Layer ng Kawalang-Katarungan") for future reuse of Outline 33 or related talks; kept out of `docs/` intentionally.
+
+**Changed:**
+- `mkdocs.yml` — added `Jeremias 11-12` nav entry under Espirituwal na Hiyas (newest first).
+
+---
+
 ## [4.10.0] - 2026-06-21
 
 ### New content type: Watchtower (Bantayan) study comment prep
