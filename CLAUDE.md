@@ -36,7 +36,23 @@ Only `index.md` scripts go in `docs/` (published to GitHub Pages). All other fil
 - **reference/public-talk-aralin.md** — Training curriculum with 15 lessons
 - **reference/guidelines.md** — Official speaker guidelines (S-141-TG)
 - **reference/ministeryo-aralin.md** — Counsel points for field ministry
+- **reference/mahalin-ang-mga-tao.md** — Markdown extract/notes from the lmd book (Love People, Make Disciples)
+- **reference/books/** — Full copyrighted publication PDFs (see "Reference Books" below) — **git-ignored, local-only, NEVER published**
 - **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition
+
+### Reference Books (`reference/books/`)
+
+Full copyrighted JW publication PDFs are stored here for research/citation. This folder is **git-ignored** (`.gitignore`: `reference/books/`) so the PDFs stay local and are **never committed or published**. When the user downloads a publication PDF and asks to store it, copy it here.
+
+**Naming convention:** `[publication-symbol]-[title-slug].pdf` (e.g., `lmd-mahalin-ang-mga-tao-gumawa-ng-mga-alagad.pdf`, `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf`).
+
+**Currently stored:**
+| Symbol | Title | File |
+|--------|-------|------|
+| lmd | Mahalin ang mga Tao—Gumawa ng mga Alagad (Love People, Make Disciples) | `lmd-mahalin-ang-mga-tao-gumawa-ng-mga-alagad.pdf` |
+| jr | Mensahe ng Diyos sa Pamamagitan ni Jeremias | `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf` |
+
+**Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 
 **IMPORTANT: All published markdown files (in `docs/`) need YAML frontmatter:**
 ```yaml

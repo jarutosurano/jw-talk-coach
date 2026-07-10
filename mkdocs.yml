@@ -41,6 +41,7 @@ nav:
   - Home: index.md
   - Talks:
     - 5-Minute:
+      - Inihula ni Jesus ang mga Pangyayaring Nakikita Natin Ngayon: talks/5min/0710-inihula-ni-jesus-ang-mga-pangyayari/index.md
       - Kung Paano Mag-aaral: talks/5min/0424-kung-paano-mag-aaral/index.md
       - Kung Paano Mananalangin: talks/5min/0213-kung-paano-mananalangin/index.md
     - 10-Minute:
@@ -50,7 +51,9 @@ nav:
       - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
       - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
     - 30-Minute:
+      - 'Kamatayan Ba ang Wakas ng Lahat?': talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/index.md
       - 'Makakamit Pa Kaya Natin ang Tunay na Katarungan?': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
+      - 'Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad': talks/30min/s289-security-training-blg2/index.md
   - Watchtower:
     - Panatilihin ang Tamang Pananaw sa mga Problema: watchtower/tamang-pananaw-sa-mga-problema/index.md
   - Field Ministry:
@@ -58,6 +61,7 @@ nav:
     - Roma 12:11 — Zoom Ministry: field-ministry/0311-roma-12-11-zoom/index.md
     - Guidelines: field-ministry/guidelines/index.md
   - Espirituwal na Hiyas:
+    - Jeremias 13-15: espirituwal-na-hiyas/0710-jeremias-13-15/index.md
     - Jeremias 11-12: espirituwal-na-hiyas/0703-jeremias-11-12/index.md
     - Isaias 38-40: espirituwal-na-hiyas/0227-isaias-38-40/index.md
     - Isaias 33-35: espirituwal-na-hiyas/0213-isaias-33-35/index.md

@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.12.0] - 2026-07-10
+
+### New Espirituwal na Hiyas (Jeremias 13-15), new 5-min & 30-min talks, reference-books docs
+
+**Added:**
+- `docs/espirituwal-na-hiyas/0710-jeremias-13-15/index.md` — conductor script for the Jul 10 Hiyas (Jeremias 13-15): Tanong 1 (Jer 15:16, 17 — overcoming discouragement) with simplified answer, highlights, "cellphone battery" illustration, and guided follow-ups; **Tanong 2 with 10 gems in a deeper format** (mas malalim na kahulugan → maikling analohiya → mas malalim na aplikasyon), each with exact NWT Tagalog text; standard closing.
+- `espirituwal-na-hiyas/0710-jeremias-13-15/outline.md` — non-published source outline (Tanong 1 text, w07 3/15 reference, selected gem verses, notes).
+- `docs/talks/5min/0710-inihula-ni-jesus-ang-mga-pangyayari/index.md` + `talks/5min/.../outline.md` — 5-minute talk (lmd apendise A #18).
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/index.md` + `talks/30min/.../outline.md` — 30-minute public talk (Outline 184).
+
+**Changed:**
+- `mkdocs.yml` — added nav entries: `Jeremias 13-15` (Hiyas, newest first), `Inihula ni Jesus ang mga Pangyayaring Nakikita Natin Ngayon` (5-min), `Kamatayan Ba ang Wakas ng Lahat?` and `Security Training — Blg. 2` (30-min).
+- `CLAUDE.md` — documented `reference/books/` (git-ignored, local-only copyrighted PDFs) with naming convention and stored-titles table, plus a note on `lmd apendise A` sample-presentation topics; added `reference/mahalin-ang-mga-tao.md` to the file list.
+
+---
+
 ## [4.11.0] - 2026-07-06
 
 ### New Espirituwal na Hiyas: Jeremias 11-12 + speaker notes for Outline 33
