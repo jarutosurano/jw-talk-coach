@@ -30,7 +30,7 @@ Alam n'yo po ba na **==hindi natutuwa si Jehova sa mga umaasa lang sa tao==**? T
 
 Ano ba ang sitwasyon noon? Magulo ang panahon. Nag-aagawan sa kapangyarihan ang malalakas na bansa sa paligid, at namemeligro ang bayan ng Diyos. Kaya nang matakot sila, saan sila tumakbo para sa proteksiyon? Hindi sa Diyos — kundi sa lakas ng ibang bansa, gaya ng **Ehipto** — na tao lang din. Paulit-ulit nila itong ginawa. At sa loob mismo ng bansa nila, bumaling ang mga puso nila sa mga **idolo** — sa mga bagay na gawa lang ng kamay ng tao.
 
-Pamilyar po ba? Iba lang ang mukha ngayon — hindi na Ehipto o rebulto, kundi ang cellphone at AI na **gawa rin lang ng tao**. Iba ang panahon, pero iisa ang puso: mas madaling sumandal sa nakikita kaysa sa Diyos na hindi nakikita.
+Pamilyar po ba? Iba lang ang mukha ngayon — hindi na Ehipto o rebulto, kundi ang cellphone, mga app, at AI na **gawa rin lang ng tao**. Mas madali kasing sumandal sa nakikita kaysa sa Diyos na hindi nakikita.
 
 Ano ang naramdaman ng Diyos dito? Buksan po natin ang Jeremias kabanata 17, bersikulo 5. Habang binabasa ko po, hanapin natin ang maliit na salitang susi — ang salitang *"lang."*
 
@@ -97,7 +97,7 @@ Kita natin po? Hindi inalis ng Diyos ang tag-init. Ang pinalitan — ang **pinag
 Pero ano po ba ang "batis" na iyon, at paano umaabot doon ang ugat natin? Ang batis po ay ang Diyos mismo — si Jehova, na siyang bukal ng buhay. At ang mga ugat na umaabot doon — hindi po iyan basta relihiyon, kundi ang paglalapit ng puso natin sa kanya sa tatlong simpleng paraan:
 
 - **Pakikipag-usap sa kanya sa panalangin** — araw-araw, hindi lang kapag may problema.
-- **Pagkilala sa kanya sa Bibliya** — regular na pagbabasa, at pagbubulay-bulay sa binasa araw at gabi.
+- **Pagkilala sa kanya sa Bibliya** — gawin itong araw-araw na ugali, kahit **isang kabanata bawat araw**, at bulay-bulayin ang binasa.
 - **Pakikisama sa mga nagmamahal sa kanya** — at pag-iwas naman sa mga impluwensiyang bumabaklas sa ugat mo.
 
 Iyan po ang gumagawa ng malalim na ugat. At ang taong may malalim na ugat, kahit tag-tuyot, *"hindi mababahala."* Kaya tanong sa sarili: ang ugat ko ba ay umaabot na sa batis — o mababaw pa, at madaling matuyo?
