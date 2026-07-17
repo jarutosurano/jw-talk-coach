@@ -6,7 +6,7 @@ Jul 17, 2026
 
 ---
 
-## INTRO [45 segundo]
+## INTRO [1 minuto]
 
 *[Itaas ang cellphone]*
 
@@ -18,7 +18,7 @@ Ngayon po — ilang beses naman natin hinawakan ito?
 
 *[ngiti]* Baka may magsabi: *"Wala na po — nasa app na rin po iyan!"* Tama naman.
 
-Pero hindi po iyon ang punto. Ang tanong po ay ito: **kanino ka nagtitiwala** kapag hirap na hirap ka na, kapag parang pasan mo na ang daigdig — sa social media influencers na sinusundan mo, sa AI, sa mga app na **gawa lang ng tao**... o sa **Diyos na gumawa sa'yo**?
+Pero hindi po iyon ang punto. Ang tanong po ay ito: **kanino ka nagtitiwala** kapag hirap na hirap ka na, kapag parang pasan mo na ang daigdig — sa social media influencers na sinusundan mo, sa AI, sa mga app na **gawa lang ng tao**... o sa **Diyos na lumikha sa'yo**?
 
 Kasi kung mali ang pipiliin, mahal ang kapalit. Kaya ang tema po natin ngayong gabi: **Piliing Mabuti Kung Kanino Ka Magtitiwala.**
 
@@ -51,7 +51,7 @@ Kaya tanong sa sarili, lalo na kayong kabataan: kapag may problema — sa school
 
 ---
 
-## 2 — Makakaranas sila ng maraming problema [2 minuto]
+## 2 — Makakaranas sila ng maraming problema [1.5 minuto]
 
 Kaya ano ang mangyayari sa taong sa tao lang umaasa? Ipinakita ni Jehova sa isang larawan: isang puno. Buksan po natin ang Jeremias 17:6 — pansinin kung *saan* ito nakatanim.
 
@@ -93,7 +93,7 @@ Kaya magandang itanong natin sa sarili: ang ugat ko ba ay umaabot na sa batis �
 
 ---
 
-## IMAGE [30 segundo]
+## IMAGE [45 segundo]
 
 Ngayon naman po, tingnan natin ang larawan.
 
@@ -108,7 +108,7 @@ Pareho po silang nakaranas ng init. Iisa ang nagpaiba: **kung saan sila nakaugat
 
 Ganoon din tayo. Ang sinasandalan ng puso mo — hindi nakikita ng iba, pero ito ang magpapasya pagdating ng tag-init.
 
-Kaya kung papipiliin ka ngayon — saan sa dalawa mo gustong maging katulad?
+Kaya kung papipiliin po tayo ngayon — saan sa dalawa?
 
 *Salamat po sa picture.*
 
