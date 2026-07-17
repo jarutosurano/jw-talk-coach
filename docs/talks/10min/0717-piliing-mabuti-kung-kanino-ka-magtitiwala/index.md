@@ -30,8 +30,6 @@ Alam n'yo po ba na **==hindi natutuwa si Jehova sa mga umaasa lang sa tao==**?
 
 Balikan po natin ang panahon ni Jeremias. Nang matakot ang bayan ng Diyos, saan sila tumakbo? Hindi kay Jehova — kundi sa Ehipto, at sa mga idolong gawa lang ng tao.
 
-Ngayon, iba na lang ang hinahawakan — cellphone, apps, AI. Pero ganoon pa rin tayo: mas madaling sumandal sa nakikita kaysa sa Diyos na hindi nakikita.
-
 So ano po ang naramdaman ni Jehova? Buksan po natin ang Jeremias 17:5 — hanapin ang maliit na salita: *"lang."*
 
 *[Basahin ang Jeremias 17:5]*
@@ -47,7 +45,11 @@ Sabi po dito sa teksto: **"Sa tao *lang* nagtitiwala."**
 
 Hindi po sinasabi ng Diyos na Jehova na masamang humingi ng tulong sa kapwa — ang mali ay kung *sa tao na lang tayo umaasa*, at, gaya ng sinabi dito sa last part, *"ang puso ay tumatalikod kay Jehova."*
 
-Kaya tanong sa sarili, lalo na kayong kabataan: kapag may problema — sa school, sa barkada, sa pamilya — saan ka *unang* tumatakbo? Sa phone? O nakausap mo na ba si Jehova — o siya lagi ang huli?
+Sa panahon natin, hindi na Ehipto o mga rebulto ang tinatakbuhan. Pero ganoon pa rin: mas madali tayong sumandal sa nakikita kaysa sa Diyos na hindi nakikita.
+
+Kaya itanong po natin sa sarili, lalo na sa mga kabataan: kapag may problema — sa school, sa barkada, sa pamilya — saan ka *unang* tumatakbo? Sa phone? O si Jehova? Nakausap mo na ba siya — o siya ang parating huli?
+
+Kaya — **piliing mabuti kung kanino ka magtitiwala.**
 
 ---
 
@@ -65,6 +67,8 @@ Ano po ba ang sabi ni Jehova dito? Sa madaling salita — **==makakaranas sila n
 At ito po ang realidad: darating ang tag-init sa ating lahat — sakit, kabiguan, kawalan. Anong klaseng ugat mayroon tayo pagdating n'yon?
 
 Para sa mga kabataan — ano ba ang sinasandalan ninyo ngayon? Ang likes? Ang followers? Ang grades? At para sa lagpas na sa kabataan — ang trabaho, ang pera, ang katayuan? Okay naman — pero parang ulan lang: pwedeng tumigil anumang oras. At kung iyan lang po ang kapit natin, matutuyo rin tayo — dahil mababaw kasi ang ugat.
+
+Kaya nga — **piliing mabuti kung kanino ka magtitiwala.**
 
 ---
 
@@ -89,7 +93,9 @@ Napansin po ba natin? Hindi inalis ni Jehova ang tag-init — ang pinalitan ay a
 
 Ano ang "batis" na iyon? Si Jehova mismo — at ang ugat na umaabot doon ay ang tunay na kaugnayan natin sa kaniya.
 
-Kaya magandang itanong natin sa sarili: ang ugat ko ba ay umaabot na sa batis — o mababaw pa, at madaling matuyo?
+Magandang itanong natin sa sarili: ang ugat ko ba ay umaabot na sa batis — o mababaw pa, at madaling matuyo?
+
+Kaya po — **piliing mabuti kung kanino ka magtitiwala.**
 
 ---
 
