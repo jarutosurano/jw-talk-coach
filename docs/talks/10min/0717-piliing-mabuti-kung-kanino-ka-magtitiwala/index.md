@@ -16,17 +16,21 @@ Ilang beses na po natin hinawakan ito ngayong araw? Umaga pa lang, ito na agad a
 
 Ngayon po — ilang beses naman natin hinawakan ito?
 
-Dalawang bagay po ito na parehong nag-aalok ng sagot sa buhay. Pero ito ang tanong ngayong gabi: sa dalawa, **alin ang talagang kaya kang hawakan kapag bumigat ang lahat?**
+*[ngiti]* Baka may magsabi: *"Wala na po — nasa app na 'yan!"* Tama naman — nandiyan na nga ang Salita ng Diyos sa loob mismo ng cellphone.
 
-Kasi bawat isa sa atin, may pinagkakatiwalaan — sa desisyon natin, sa kabuhayan natin, sa puso natin. Pero hindi lahat ng sinasandalan natin, matibay — at kung mali ang pipiliin, mahal ang kapalit. Kaya ang tema po natin ngayong gabi: **Piliing Mabuti Kung Kanino Ka Magtitiwala.** Tutulungan tayo ng isang simpleng larawan sa Bibliya — ang **dalawang puno**.
+Pero hindi po iyon ang punto. Ang totoong tanong: **kanino ka nagtitiwala** kapag bumigat ang buhay — sa cellphone, sa AI, sa mga app na **gawa lang ng tao**... o sa **Diyos na gumawa sa'yo**?
+
+Kasi bawat isa sa atin, may pinagkakatiwalaan — sa desisyon natin, sa kabuhayan natin, sa puso natin. Pero hindi lahat ng sinasandalan natin, matibay — at kung mali ang pipiliin, mahal ang kapalit. Kaya ang tema po natin ngayong gabi: **Piliing Mabuti Kung Kanino Ka Magtitiwala.** At may isang simpleng larawan sa Bibliya na tutulong sa atin na sagutin ito — **dalawang puno**, na magbabago ng tingin natin sa tiwala.
 
 ---
 
 ## 1 — Hindi natutuwa si Jehova sa mga umaasa lang sa tao [2.5 minuto]
 
-Hindi bago ang tukso na ito. Balikan po natin — mahigit 2,600 taon na ang nakalipas, sa bayan mismo ng Diyos.
+Alam n'yo po ba na **==hindi natutuwa si Jehova sa mga umaasa lang sa tao==**? Tingnan po natin ang nangyari noong panahon ni Jeremias — mahigit 2,600 taon na ang nakalipas — at pansinin natin ang pagkakatulad nito sa panahon natin ngayon.
 
-Magulo ang panahon noon. Nag-aagawan sa kapangyarihan ang malalakas na bansa sa paligid, at namemeligro ang bayan. Nang matakot sila, saan sila tumakbo para sa proteksiyon? Hindi sa Diyos — kundi sa **Ehipto**, isang bansa lang din ng tao. Paulit-ulit nila itong ginawa. At sa loob mismo ng bansa nila, bumaling ang mga puso nila sa mga **idolo** — sa mga bagay na gawa lang ng kamay ng tao.
+Ano ba ang sitwasyon noon? Magulo ang panahon. Nag-aagawan sa kapangyarihan ang malalakas na bansa sa paligid, at namemeligro ang bayan ng Diyos. Kaya nang matakot sila, saan sila tumakbo para sa proteksiyon? Hindi sa Diyos — kundi sa lakas ng ibang bansa, gaya ng **Ehipto** — na tao lang din. Paulit-ulit nila itong ginawa. At sa loob mismo ng bansa nila, bumaling ang mga puso nila sa mga **idolo** — sa mga bagay na gawa lang ng kamay ng tao.
+
+Pamilyar po ba? Iba lang ang mukha ngayon — hindi na Ehipto o rebulto, kundi ang cellphone at AI na **gawa rin lang ng tao**. Iba ang panahon, pero iisa ang puso: mas madaling sumandal sa nakikita kaysa sa Diyos na hindi nakikita.
 
 Ano ang naramdaman ng Diyos dito? Buksan po natin ang Jeremias kabanata 17, bersikulo 5. Habang binabasa ko po, hanapin natin ang maliit na salitang susi — ang salitang *"lang."*
 
@@ -35,7 +39,7 @@ Ano ang naramdaman ng Diyos dito? Buksan po natin ang Jeremias kabanata 17, bers
 !!! quote "Jeremias 17:5"
     "Ito ang sinabi ni Jehova: 'Sumpain ang sinuman na sa tao lang nagtitiwala, Na umaasa sa lakas ng tao, At na ang puso ay tumatalikod kay Jehova.'"
 
-Nakita natin po ba? **"Sa tao *lang* nagtitiwala."** Hindi po sinasabi ng Diyos na masamang humingi ng tulong sa kapwa — ang mali ay kung *tao na lang* ang kapit natin, at, gaya ng sinabi, *"ang puso ay tumatalikod kay Jehova."* Kaya usapin po pala ito ng puso, hindi lang ng isip. **==Hindi natutuwa si Jehova sa mga umaasa lang sa tao.==**
+Nakita natin po ba? **"Sa tao *lang* nagtitiwala."** Hindi po sinasabi ng Diyos na masamang humingi ng tulong sa kapwa — ang mali ay kung *tao na lang* ang kapit natin, at, gaya ng sinabi, *"ang puso ay tumatalikod kay Jehova."* Kaya usapin po pala ito ng puso, hindi lang ng isip. **Kaya nga, hindi natutuwa si Jehova sa mga umaasa lang sa tao.**
 
 At bakit? Hindi dahil galit ang Diyos. Isipin po natin ang isang magulang na nakatingin sa anak na sasandal sa isang upuang alam niyang bali-bali na. Ano ang gagawin niya? Sasabihan ang anak nang maaga — hindi para takutin, kundi dahil ayaw niyang mahulog ka at masaktan. Ganoon din ang salitang *"Sumpain"* — hindi ito panlalait; babala ito ng isang Amang nagmamahal.
 

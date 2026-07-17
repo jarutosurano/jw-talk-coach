@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - `docs/talks/10min/0717-piliing-mabuti-kung-kanino-ka-magtitiwala/index.md` — independent v2 rewrite based on the outline + `jr` book / Watchtower references (wp09 3/1, w03 3/1). New attention-grabbing intro built on the big **WHY** via a phone-vs-Bible object lesson ("alin ang talagang kaya kang hawakan kapag bumigat ang lahat?") leading into Jeremias 17:5-8; deeper REIA on all 3 points; before-vs-today contrast (Ehipto/idolo → tech/tao); Point 3 uses the "three roots" application (panalangin / Bibliya + pagbubulay-bulay / association). Written and accuracy-reviewed by independent agents.
 - **Bible-text accuracy fix:** Awit 146:3 now uses the current NWT 2019 main text **"mga pinuno"** (was the old/footnote wording "makapangyarihang mga tao"). Trimmed to a relaxed ~8.5-9 min; added `[45 segundo]` marker to the IMAGE section.
 - `talks/10min/0717-piliing-mabuti-kung-kanino-ka-magtitiwala/summary.md` — updated intro/refrain notes and Awit 146:3 wording to match v2.
+- Intro/transition polish: self-aware phone-vs-Bible bit ("nasa app na 'yan" → "kanino ka nagtitiwala... o sa Diyos na gumawa sa'yo?"); Point 1 now states the main point up front with the highlight ("Alam n'yo po ba na hindi natutuwa si Jehova...?") + a relate-line tying ancient idols to today's phone/AI ("gawa rin lang ng tao"); accuracy fix — Egypt framed as a representative example ("gaya ng Ehipto"), since Judah also leaned on Assyria/Babylon (Jer 2:18).
 
 ---
 
