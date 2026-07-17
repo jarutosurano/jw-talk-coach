@@ -43,14 +43,7 @@ Nakita natin po ba? **"Sa tao *lang* nagtitiwala."** Hindi po sinasabi ng Diyos 
 
 At bakit? Hindi dahil galit ang Diyos. Isipin po natin ang isang magulang na nakatingin sa anak na sasandal sa isang upuang alam niyang bali-bali na. Ano ang gagawin niya? Sasabihan ang anak nang maaga — hindi para takutin, kundi dahil ayaw niyang mahulog ka at masaktan. Ganoon din ang salitang *"Sumpain"* — hindi ito panlalait; babala ito ng isang Amang nagmamahal.
 
-At may dahilan siya. Pakinggan po natin kung bakit hindi tayo dapat sumandal nang buo sa tao. Buksan po natin ang Awit 146, bersikulo 3.
-
-*[Basahin ang Awit 146:3]*
-
-!!! quote "Awit 146:3"
-    "Huwag kayong umasa sa mga pinuno o sa anak ng tao, na hindi makapagliligtas."
-
-*"Hindi makapagliligtas."* Kahit ang pinakamagagaling na tao — ang mga lider, ang mga eksperto — may hangganan din. Nagkakamali sila, at sa bandang huli, mamamatay din. Hindi po natin sila hinahamak — ang punto lang: hindi natin dapat ilagay sa isang tao ang bigat na para lang talaga sa Diyos.
+At totoo nga — kahit ang pinakamagagaling na tao, ang mga lider, ang mga eksperto, ay may hangganan din. Nagkakamali sila, at sa bandang huli, mamamatay din. Hindi po natin sila hinahamak — ang punto lang: hindi natin dapat ilagay sa isang tao ang bigat na para lang talaga sa Diyos.
 
 Kaya tanong sa sarili, lalo na kayong mga kabataan: kapag may problema — sa school, sa barkada, sa pamilya — saan ka *unang* tumatakbo? Sa phone? Sa opinyon ng iba? Nakausap mo na ba ang Diyos tungkol dito — o siya na lagi ang huli?
 

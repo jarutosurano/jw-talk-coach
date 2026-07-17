@@ -31,7 +31,7 @@ Mga 2,600 taon na ang nakalipas, sa bayan ng Diyos. Magulong panahon — nag-aag
 
 | # | Punto | Teksto | Simpleng Ideya |
 |---|-------|--------|----------------|
-| 1 | Hindi natutuwa si Jehova sa mga umaasa lang sa tao | Jer 17:5 (+ Awit 146:3); Isa 30 = maikling banggit | Tumakbo sila sa Ehipto/idolo, hindi sa Diyos. Hindi galit ng hukom — parang magulang na ayaw makitang masaktan ang anak. "sa tao *lang*" = usapin ng puso. |
+| 1 | Hindi natutuwa si Jehova sa mga umaasa lang sa tao | Jer 17:5; Isa 30 = maikling banggit | Tumakbo sila sa Ehipto/idolo, hindi sa Diyos. Hindi galit ng hukom — parang magulang na ayaw makitang masaktan ang anak. "sa tao *lang*" = usapin ng puso. |
 | 2 | Makakaranas sila ng maraming problema | Jer 17:6 | Punong mababaw ang ugat = matutuyo pagdating ng tag-init. Ang mga inaasahan (likes, grades, relasyon) ay parang ulan — pwedeng tumigil. |
 | 3 | Pagpapalain ni Jehova ang mga nagtitiwala sa kaniya | Jer 17:7, 8 | Punong umaabot sa batis. Hindi inalis ang init — pinalitan ang pinagkukunan ng lakas. Nananatiling malago, patuloy na namumunga. |
 
@@ -42,7 +42,7 @@ Mga 2,600 taon na ang nakalipas, sa bayan ng Diyos. Magulong panahon — nag-aag
 - **Honest:** Hindi nangangako na "trust God = walang problema." Sinasabi: darating ang tag-init sa lahat — ang ugat ang magpapasya.
 - **Walang insider language:** "mga kaibigan," direktang "ikaw/mo," maluwag na ipinakilala ang pangalang "Jehova."
 - **Reframe ng Punto 1:** "Hindi natutuwa" = pag-aalala ng magulang, hindi kondena. Ang babala ay bunga ng pag-ibig.
-- **Relatable applications:** school, barkada, pamilya, likes/followers, hinaharap; mga lider/eksperto na minsan nabibigo (Awit 146:3).
+- **Relatable applications:** school, barkada, pamilya, likes/followers, hinaharap; mga lider/eksperto na minsan nabibigo.
 
 ---
 
@@ -54,7 +54,7 @@ INTRO [1 min] ─ Object lesson: itaas ang cellphone vs. Bibliya — "alin ang
 │                (may pinagkakatiwalaan tayo, pero hindi lahat matibay) → Tema
 │                + "dalawang puno"
 │
-├── PUNTO 1 [2.5-3 min] ─ Hindi natutuwa si Jehova (Jer 17:5 + Awit 146:3; Isa 30 = banggit)
+├── PUNTO 1 [2.5-3 min] ─ Hindi natutuwa si Jehova (Jer 17:5; Isa 30 = banggit)
 │                          Konteksto (Ehipto/idolo) → REIA: "lang" → puso → magulang → tanong
 │
 ├── PUNTO 2 [2 min] ─ Maraming problema (Jer 17:6)
@@ -75,7 +75,6 @@ INTRO [1 min] ─ Object lesson: itaas ang cellphone vs. Bibliya — "alin ang
 ## Mga Reference na Ginamit
 
 - **Jeremias 17:5** — "Sumpain ang sinuman na sa tao lang nagtitiwala"
-- **Awit 146:3** — "Huwag kayong umasa sa mga pinuno... na hindi makapagliligtas" (kasalukuyang NWT main text; second witness sa Punto 1)
 - **Jeremias 17:6** — punong nag-iisa sa disyerto (mababaw ang ugat)
 - **Jeremias 17:7, 8** — punong nasa tabi ng tubig (ugat sa batis)
 - **Isaias 30:1, 2** — Israel tumakbo sa Ehipto (maikling banggit lang)
