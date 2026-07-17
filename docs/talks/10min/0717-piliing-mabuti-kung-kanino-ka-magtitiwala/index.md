@@ -8,13 +8,17 @@ Jul 17, 2026
 
 ## INTRO [1 minuto]
 
-May problema ka. Hindi ka makatulog. Anong unang hahawakan mo?
+*[Itaas ang cellphone]*
 
-Para sa marami ngayon, ang sagot ay iisa — ang cellphone. May desisyon ka ba? "Tanungin ko muna si ChatGPT." Malungkot ka ba? May mga taong ibinubuhos na ang laman ng puso nila sa isang chatbot — sa isang makinang, kung tutuusin, walang puso. May pera ka ba? "Doble raw agad 'to sa apps na 'to" — at halos tatlo sa apat na Pilipino, na-scam na sa nakaraang taon.
+Ilang beses na po natin hinawakan ito ngayong araw? Umaga pa lang, ito na agad ang inaabot natin. May problema ka? Hindi ka makatulog? Dito tayo tumatakbo — sa desisyon, sa libangan, kahit sa pagbubuhos ng saloobin.
 
-Kita n'yo po? Bawat isa sa atin, may pinagkakatiwalaan — sa kabuhayan natin, sa mga desisyon natin, at sa puso natin. Walang taong hindi umaasa sa kahit ano. Pero ito po ang tanong ngayong gabi: *ang pinagkakatiwalaan mo ba — kaya ka bang hawakan kapag bumigat ang buhay?*
+*[Itaas naman ang Bibliya sa kabilang kamay]*
 
-Kasi hindi lahat ng sinasandalan natin, matibay. At kung mali ang pipiliin mo, mahal ang kapalit. Kaya ang tema po natin ngayong gabi: **Piliing Mabuti Kung Kanino Ka Magtitiwala.** At tutulungan tayo ng isang simpleng larawan sa Bibliya — ang **dalawang puno**.
+Ngayon po — ilang beses naman natin hinawakan ito?
+
+Dalawang bagay po ito na parehong nag-aalok ng sagot sa buhay. Pero ito ang tanong ngayong gabi: sa dalawa, **alin ang talagang kaya kang hawakan kapag bumigat ang lahat?**
+
+Kasi bawat isa sa atin, may pinagkakatiwalaan — sa desisyon natin, sa kabuhayan natin, sa puso natin. Pero hindi lahat ng sinasandalan natin, matibay — at kung mali ang pipiliin, mahal ang kapalit. Kaya ang tema po natin ngayong gabi: **Piliing Mabuti Kung Kanino Ka Magtitiwala.** Tutulungan tayo ng isang simpleng larawan sa Bibliya — ang **dalawang puno**.
 
 ---
 
@@ -24,14 +28,14 @@ Hindi bago ang tukso na ito. Balikan po natin — mahigit 2,600 taon na ang naka
 
 Magulo ang panahon noon. Nag-aagawan sa kapangyarihan ang malalakas na bansa sa paligid, at namemeligro ang bayan. Nang matakot sila, saan sila tumakbo para sa proteksiyon? Hindi sa Diyos — kundi sa **Ehipto**, isang bansa lang din ng tao. Paulit-ulit nila itong ginawa. At sa loob mismo ng bansa nila, bumaling ang mga puso nila sa mga **idolo** — sa mga bagay na gawa lang ng kamay ng tao.
 
-Ano ang naramdaman ng Diyos dito? Buksan po natin ang Jeremias kabanata 17, bersikulo 5. Habang binabasa ko po, hanapin ninyo ang maliit na salitang susi — ang salitang *"lang."*
+Ano ang naramdaman ng Diyos dito? Buksan po natin ang Jeremias kabanata 17, bersikulo 5. Habang binabasa ko po, hanapin natin ang maliit na salitang susi — ang salitang *"lang."*
 
 *[Basahin ang Jeremias 17:5]*
 
 !!! quote "Jeremias 17:5"
     "Ito ang sinabi ni Jehova: 'Sumpain ang sinuman na sa tao lang nagtitiwala, Na umaasa sa lakas ng tao, At na ang puso ay tumatalikod kay Jehova.'"
 
-Nakita n'yo po ba? **"Sa tao *lang* nagtitiwala."** Hindi po sinasabi ng Diyos na masamang humingi ng tulong sa kapwa — ang mali ay kung *tao na lang* ang kapit natin, at, gaya ng sinabi, *"ang puso ay tumatalikod kay Jehova."* Kaya usapin po pala ito ng puso, hindi lang ng isip. **==Hindi natutuwa si Jehova sa mga umaasa lang sa tao.==**
+Nakita natin po ba? **"Sa tao *lang* nagtitiwala."** Hindi po sinasabi ng Diyos na masamang humingi ng tulong sa kapwa — ang mali ay kung *tao na lang* ang kapit natin, at, gaya ng sinabi, *"ang puso ay tumatalikod kay Jehova."* Kaya usapin po pala ito ng puso, hindi lang ng isip. **==Hindi natutuwa si Jehova sa mga umaasa lang sa tao.==**
 
 At bakit? Hindi dahil galit ang Diyos. Isipin po natin ang isang magulang na nakatingin sa anak na sasandal sa isang upuang alam niyang bali-bali na. Ano ang gagawin niya? Sasabihan ang anak nang maaga — hindi para takutin, kundi dahil ayaw niyang mahulog ka at masaktan. Ganoon din ang salitang *"Sumpain"* — hindi ito panlalait; babala ito ng isang Amang nagmamahal.
 
@@ -53,7 +57,7 @@ Kaya tanong sa sarili, lalo na kayong mga kabataan: kapag may problema — sa sc
 
 ## 2 — Makakaranas sila ng maraming problema [2 minuto]
 
-Kaya ano ang kahihinatnan ng taong sa tao lang umaasa? Hindi tayo iniwan ng Diyos sa hula — binigyan niya tayo ng larawan. Balikan po natin ang Jeremias 17, ngayon ay bersikulo 6. Pansinin ninyo kung *saan* nakatanim ang punong ito.
+Kaya ano ang kahihinatnan ng taong sa tao lang umaasa? Hindi tayo iniwan ng Diyos sa hula — binigyan niya tayo ng larawan. Balikan po natin ang Jeremias 17, ngayon ay bersikulo 6. Pansinin natin kung *saan* nakatanim ang punong ito.
 
 *[Basahin ang Jeremias 17:6]*
 
@@ -75,16 +79,16 @@ Kayong mga kabataan, tanong sa sarili: ano ba ang inuugatan mo ngayon? Ang likes
 
 ## 3 — Pagpapalain ni Jehova ang mga nagtitiwala sa kaniya [2 minuto]
 
-Pero salamat sa Diyos — may pangalawang puno. At dito po nagbabago ang lahat. Buksan po natin ulit ang Jeremias 17, bersikulo 7 at 8. Pansinin naman ninyo ang *pinag-iba* nito sa una.
+Pero salamat sa Diyos — may pangalawang puno. At dito po nagbabago ang lahat. Buksan po natin ulit ang Jeremias 17, bersikulo 7 at 8. Pansinin naman natin ang *pinag-iba* nito sa una.
 
 *[Basahin ang Jeremias 17:7, 8]*
 
 !!! quote "Jeremias 17:7, 8"
     "Pinagpala ang taong kay Jehova nagtitiwala At kay Jehova umaasa. Magiging gaya siya ng punong nakatanim sa tabi ng tubig, Na ang mga ugat ay umaabot sa batis. Kapag uminit, hindi niya iyon mapapansin; Sa halip, ang mga dahon niya ay mananatiling malago. Sa taon ng tagtuyot ay hindi siya mababahala, At hindi siya titigil sa pamumunga."
 
-**==Pagpapalain ni Jehova ang mga nagtitiwala sa kaniya.==** Pansinin po ninyo — ang punong ito ay *"nakatanim sa tabi ng tubig,"* at ang ugat nito ay *"umaabot sa batis"* na hindi natutuyo. Ngayon, ito ang pinakamagandang bahagi, at madalas natin itong hindi napapansin: hindi sinabi ng Bibliya na hindi na iinit. *Iinit pa rin.* Pero *"hindi niya iyon mapapansin."*
+**==Pagpapalain ni Jehova ang mga nagtitiwala sa kaniya.==** Pansinin po natin — ang punong ito ay *"nakatanim sa tabi ng tubig,"* at ang ugat nito ay *"umaabot sa batis"* na hindi natutuyo. Ngayon, ito ang pinakamagandang bahagi, at madalas natin itong hindi napapansin: hindi sinabi ng Bibliya na hindi na iinit. *Iinit pa rin.* Pero *"hindi niya iyon mapapansin."*
 
-Kita n'yo po? Hindi inalis ng Diyos ang tag-init. Ang pinalitan — ang **pinagkukunan ng lakas.** Kahit dumating ang bagyo ng buhay, ang taong nakaugat sa Diyos ay hindi natitinag — nananatiling malago, patuloy na namumunga.
+Kita natin po? Hindi inalis ng Diyos ang tag-init. Ang pinalitan — ang **pinagkukunan ng lakas.** Kahit dumating ang bagyo ng buhay, ang taong nakaugat sa Diyos ay hindi natitinag — nananatiling malago, patuloy na namumunga.
 
 Pero ano po ba ang "batis" na iyon, at paano umaabot doon ang ugat natin? Ang batis po ay ang Diyos mismo — si Jehova, na siyang bukal ng buhay. At ang mga ugat na umaabot doon — hindi po iyan basta relihiyon, kundi ang paglalapit ng puso natin sa kanya sa tatlong simpleng paraan:
 
@@ -125,6 +129,8 @@ Ganoon din po tayo. Ang tunay na sinasandalan ng puso mo — hindi ito nakikita 
 Kaya po, balikan natin ang tanong sa simula: *ang pinagkakatiwalaan mo ba — kaya ka bang hawakan kapag bumigat ang buhay?*
 
 Alalahanin natin ang bayan noong panahon ni Jeremias. Binigyan sila ng babala nang maaga — dahil sa pag-ibig, hindi sa galit. Kaya lang, tumakbo pa rin sila sa Ehipto, sa tao, sa mga idolo — at dumating nga ang tag-init na hindi na nila kinaya. Ngayon naman, ikaw ang binibigyan ng parehong pagpili — habang maaga pa, habang hindi pa nagbabaga ang lupa.
+
+At darating po ang panahon na susubukin ang tiwala ng bawat isa — kung saan aasa ang mundo sa tao para iligtas sila. Pero ang taong nakaugat kay Jehova — kahit ang pinakamatinding tag-init, hindi siya matitinag.
 
 Hindi ka po nagtitiwala sa tao *lang* dahil masama ang tao — kundi dahil ang puso mo ay napakahalaga para ipagkatiwala sa isang bagay na pwedeng matuyo. May mas matibay na batis para sa iyo — ang Diyos na si Jehova.
 

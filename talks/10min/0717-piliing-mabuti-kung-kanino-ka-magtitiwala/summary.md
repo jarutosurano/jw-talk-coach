@@ -49,9 +49,10 @@ Mga 2,600 taon na ang nakalipas, sa bayan ng Diyos. Magulong panahon — nag-aag
 ## Visual na Structure ng Talk
 
 ```
-INTRO [1 min] ─ 3 modern na halimbawa (ChatGPT sa desisyon, AI chatbot sa puso,
-│                "double your money" scam) → BIG WHY: "kaya ka bang hawakan kapag
-│                bumigat ang buhay?" → Tema + "dalawang puno"
+INTRO [1 min] ─ Object lesson: itaas ang cellphone vs. Bibliya — "alin ang
+│                talagang kaya kang hawakan kapag bumigat ang lahat?" → BIG WHY
+│                (may pinagkakatiwalaan tayo, pero hindi lahat matibay) → Tema
+│                + "dalawang puno"
 │
 ├── PUNTO 1 [2.5-3 min] ─ Hindi natutuwa si Jehova (Jer 17:5 + Awit 146:3; Isa 30 = banggit)
 │                          Konteksto (Ehipto/idolo) → REIA: "lang" → puso → magulang → tanong
