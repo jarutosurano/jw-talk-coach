@@ -13,6 +13,8 @@ All notable changes to this project will be documented in this file.
 - **Outline fidelity:** removed the Awit 146:3 reading (not in the outline — Point 1's references are Isa 30:1,2 + Jer 17:5). Point 1 now reads Jer 17:5 as its sole key text, keeping the "even the best humans fail" reasoning as explanation, with Isa 30 honored as the Egypt allusion. Trimmed to a relaxed ~8.5-9 min; added `[45 segundo]` marker to the IMAGE section.
 - `talks/10min/0717-piliing-mabuti-kung-kanino-ka-magtitiwala/summary.md` — updated intro/refrain notes and Awit 146:3 wording to match v2.
 - Intro/transition polish: self-aware phone-vs-Bible bit ("nasa app na 'yan" → "kanino ka nagtitiwala... o sa Diyos na gumawa sa'yo?"); Point 1 now states the main point up front with the highlight ("Alam n'yo po ba na hindi natutuwa si Jehova...?") + a relate-line tying ancient idols to today's phone/AI ("gawa rin lang ng tao"); accuracy fix — Egypt framed as a representative example ("gaya ng Ehipto"), since Judah also leaned on Assyria/Babylon (Jer 2:18).
+- Final content pass synced to the speaker's reviewed draft: influencer/AI/apps hook with the "pasan mo na ang daigdig" burden image; Point 2 restated as REIA (enebro shrub, "survive lang, hindi thrive"); Point 3 roots recast as the memorable **tatlong P** (Panalangin, Pag-aaral, Pakikisama); IMAGE ends with a personal "saan ka gustong maging katulad?"; conclusion recaps the 3 points + refrain.
+- Passed two independent accuracy reviews (Bible-text + doctrinal/reference): all three scripture reads verbatim vs. current NWT, all historical/interpretive claims supported by the `jr` book and cited references. Fixed two woven partial quotes (removed an inserted "ito"; restored a dropped "siya").
 
 ---
 
