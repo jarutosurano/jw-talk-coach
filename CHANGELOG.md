@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.14.0] - 2026-08-14
+
+### New Espirituwal na Hiyas (Jeremias 24-25) — Intro + Tanong 1
+
+**Added:**
+- `docs/espirituwal-na-hiyas/0814-jeremias-24-25/index.md` — conductor script for the Aug 14 Hiyas (Jeremias 24-25). Intro hooks on the puzzle of Jehova calling a pagan king "lingkod ko" and then destroying that same nation; opening read is Jer 25:8, 9, 12 (exact NWT Tagalog from the speaker's Bible). **Tanong 1** (`it` "Kaharian ng Diyos" ¶36) answers the permission-vs-approval distinction: Jehova used Babylon as an instrument by *permitting* it — removing His protective "hand" the way He 'hardened' Pharaoh's heart — while Babylon acted on the ambitious greed already in its own heart, overstepped in cruelly destroying Jerusalem and the temple, and so had no "malilinis na kamay" and was held to account after 70 years (Jer 25:12). Includes 5 highlights, the "bakod at galit na aso" illustration (opening the gate ≠ commanding the dog; the dog is still held to account), 3 guided follow-ups with answers, and a 5-bullet reference summary. Lands on the upbuilding point: **makatarungan si Jehova** — He sees motive, not just deed.
+- `espirituwal-na-hiyas/0814-jeremias-24-25/outline.md` — non-published source outline (workbook question, Jer 25:8, 9, 12 text, full `it` ¶36 reference, tone/distinction notes).
+
+**Changed:**
+- `mkdocs.yml` — added nav entry `Jeremias 24-25` at the top of Espirituwal na Hiyas (newest first).
+- `docs/talks/10min/0717-piliing-mabuti-kung-kanino-ka-magtitiwala/index.md` — Point 1 application reworded to name today's actual substitutes: "Sa phone? Sa ibang tao na hindi ka kilala? Sa AI? O si Jehova?" (replaces the "o siya ang parating huli?" close).
+
+**Pending:**
+- Tanong 2 gems await the exact NWT Tagalog text of the full Jeremias 24-25; the published script carries a visible placeholder callout until then. Format will be DEEPER (kahulugan → "Para ilarawan" → aplikasyon), matching the Jeremias 13-15 script.
+
+---
+
 ## [4.13.0] - 2026-07-16
 
 ### Rewrote 10-min talk "Piliing Mabuti Kung Kanino Ka Magtitiwala" (v2, research-backed)

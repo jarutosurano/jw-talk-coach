@@ -47,7 +47,7 @@ Hindi po sinasabi ng Diyos na Jehova na masamang humingi ng tulong sa kapwa — 
 
 Sa panahon natin, hindi na Ehipto o mga rebulto ang tinatakbuhan. Pero ganoon pa rin: mas madali tayong sumandal sa nakikita kaysa sa Diyos na hindi nakikita.
 
-Kaya itanong po natin sa sarili, lalo na sa mga kabataan: kapag may problema — sa school, sa barkada, sa pamilya — saan ka *unang* tumatakbo? Sa phone? O si Jehova? Nakausap mo na ba siya — o siya ang parating huli?
+Kaya itanong po natin sa sarili, lalo na sa mga kabataan: kapag may problema — sa school, sa barkada, sa pamilya — saan ka *unang* tumatakbo? Sa phone? Sa ibang tao na hindi ka kilala? Sa AI? O si Jehova?
 
 Kaya — **piliing mabuti kung kanino ka magtitiwala.**
 
