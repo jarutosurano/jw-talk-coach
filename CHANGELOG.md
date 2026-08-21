@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.15.1] - 2026-08-21
+
+### Blg. 11 script completed with exact NWT texts + reference-backed enrichments
+
+**Changed:**
+- `docs/talks/30min/11-hindi-bahagi-ng-sanlibutan/index.md` — all 7 scripture placeholders filled with exact NWT Tagalog text provided by the speaker (Ju 17:16; Ju 6:15; Mat 6:31-33; 1Ju 2:15, 16; Ju 16:33; 1Ju 5:3, 4; 1Ju 2:17); "Pending" warning removed. **Accuracy fixes:** "Nadaig ko na ang sanlibutan" corrected to the exact NWT "Dinaig ko ang sanlibutan" (transcript was garbled); Juan 14:30 rephrased as indirect statement; Lucas 4 replies now use the w13 8/15 renderings. **Enrichments from provided references:** pain-ng-mangingisda/kawil illustration (w13 ¶14) after 1 Ju 2:15, 16; apostol Pablo prominence example (w12 12/15) in the pride section.
+- `talks/30min/11-hindi-bahagi-ng-sanlibutan/outline.md` — Bible Texts section filled with exact NWT text; References section filled with it-2 "Sanlibutan" excerpt, w13 8/15 ¶7-17, w03 3/15, and w12 12/15 excerpts. Still pending (optional): lv 52 kahon, w11 1/15 ¶5-10.
+
+---
+
 ## [4.15.0] - 2026-08-21
 
 ### Delivery learnings from a model speaker + new 30-min talk Blg. 11 + Blg. 184 enhancement

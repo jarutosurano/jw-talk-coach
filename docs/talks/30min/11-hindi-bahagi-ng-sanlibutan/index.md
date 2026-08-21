@@ -14,9 +14,6 @@ title: '"Hindi Bahagi ng Sanlibutan"—Bilang Pagtulad kay Kristo'
 !!! note "Delivery Reminders"
     Storytelling mode — immersive "tayo" scenarios, kausapin ang audience na parang magkakasama sa eksena. Ang mga **{pause}** ay bahagi ng pahayag. Target: ~27 minuto.
 
-!!! warning "Pending: Exact NWT Texts"
-    Ang mga scripture quote sa ibaba na may markang *(eksaktong NWT Tagalog text — ilalagay)* ay kailangan pang punan ng eksaktong teksto mula sa Bibliya ng tagapagsalita. Huwag ide-deliver hangga't hindi napupunan. I-verify din sa NWT ang mga naka-bold na key phrase na hango sa mga tekstong ito (hal. *"Nadaig ko na ang sanlibutan," "walang kapangyarihan sa akin,"* at ang mga sagot ni Jesus sa Lucas 4) bago i-deliver.
-
 ---
 
 ## INTRO [2 minuto]
@@ -110,7 +107,7 @@ ano raw ang gusto ni Jesus para sa mga tagasunod niya?
 *[Basahin ang Juan 17:16]*
 
 !!! quote "Juan 17:16"
-    *(Eksaktong NWT Tagalog text — ilalagay)*
+    "Hindi sila bahagi ng sanlibutan, kung paanong ako ay hindi bahagi ng sanlibutan."
 
 Bilang pagtulad kay Jesu-Kristo, ang mga Kristiyano ay dapat na
 **==hindi bahagi ng sanlibutan.==**
@@ -192,7 +189,7 @@ Ano kaya ang ginawa ni Jesus?
 *[Basahin ang Juan 6:15]*
 
 !!! quote "Juan 6:15"
-    *(Eksaktong NWT Tagalog text — ilalagay)*
+    "Kaya dahil alam ni Jesus na papalapit na sila para kunin siya at gawing hari, muli siyang umalis na nag-iisa papunta sa bundok."
 
 Imagine n'yo po —
 buong pulutong, handa siyang gawing hari.
@@ -263,7 +260,7 @@ at sino ang bahala sa lahat ng iba pa?
 *[Basahin ang Mateo 6:31-33]*
 
 !!! quote "Mateo 6:31-33"
-    *(Eksaktong NWT Tagalog text — ilalagay)*
+    "Kaya huwag kayong mag-alala at magsabing 'Ano ang kakainin namin?' o, 'Ano ang iinumin namin?' o, 'Ano ang isusuot namin?' Ang lahat ng ito ang pinagkakaabalahan ng mga bansa. Alam ng inyong Ama sa langit na kailangan ninyo ang lahat ng ito. Kaya patuloy ninyong unahin ang Kaharian at ang katuwiran niya, at ibibigay niya sa inyo ang lahat ng ito."
 
 **Hanapin muna ang Kaharian** —
 at si Jehova mismo ang magbibigay ng ating mga pangangailangan.
@@ -301,7 +298,7 @@ sa anumang paraan?
 
 Sabi niya mismo sa Juan 14:30 —
 ang tagapamahala ng sanlibutan ay
-**"walang kapangyarihan sa akin."**
+**walang kapangyarihan sa kaniya.**
 
 Walang kontrol si Satanas sa kaniya. Zero.
 
@@ -313,7 +310,7 @@ na nagmumula sa sanlibutan.
 *[Basahin ang 1 Juan 2:15, 16]*
 
 !!! quote "1 Juan 2:15, 16"
-    *(Eksaktong NWT Tagalog text — ilalagay)*
+    "Huwag ninyong ibigin ang sanlibutan o ang mga bagay na nasa sanlibutan. Kung iniibig ng sinuman ang sanlibutan, wala siyang pag-ibig sa Ama; dahil ang lahat ng bagay sa sanlibutan—ang pagnanasa ng laman at pagnanasa ng mga mata at pagyayabang ng mga pag-aari—ay hindi nagmumula sa Ama, kundi nagmumula sa sanlibutan."
 
 **Huwag ibigin ang sanlibutan o ang mga bagay na naroroon.**
 
@@ -322,6 +319,18 @@ At nakita n'yo po ang tatlo?
 Ang **pagnanasa ng laman.**
 Ang **pagnanasa ng mga mata.**
 Ang **pagyayabang ng mga pag-aari.**
+
+Base sa referensya natin — ang mga bagay na nasa sanlibutan
+ay parang **pain ng mangingisda.**
+
+Nakakaakit sa isda ang pain...
+pero may nakatagong **kawil** sa loob.
+
+Ganiyan ang mga alok ni Satanas:
+ginagamit niya ang normal nating mga pangangailangan
+para gumawa tayo ng labag sa kalooban ng Diyos.
+
+**{pause}**
 
 Sa tatlong ito mismo — nag-set ng halimbawa si Jesus.
 
@@ -356,7 +365,8 @@ magpadala... o tumanggi.
 Alam natin ang ginawa niya.
 
 Sabi niya: **"Nasusulat..."** —
-ang tao ay hindi nabubuhay sa tinapay lamang.
+*"Ang tao ay mabubuhay, hindi sa tinapay lamang,
+kundi sa bawat pananalitang lumalabas sa bibig ni Jehova."*
 
 **{pause}**
 
@@ -377,8 +387,9 @@ Isang kapalit lang: yumukod siya kay Satanas.
 
 Ano ang desisyon ni Jesus?
 
-**"Nasusulat..."** — si Jehova na iyong Diyos ang dapat mong sambahin,
-at siya lang ang dapat mong paglingkuran.
+**"Nasusulat..."** —
+*"Si Jehova na iyong Diyos ang sasambahin mo,
+at sa kaniya ka lamang mag-uukol ng sagradong paglilingkod."*
 
 Alam ni Jesus — ang lahat ng kinang na iyon ay panandalian lang.
 
@@ -391,8 +402,9 @@ Inakit siya ni Satanas na tumalon mula sa taluktok ng templo —
 
 May kapangyarihan si Jesus. Kaya niya iyon.
 
-Pero tumanggi siya: **"Nasusulat..."** —
-huwag mong susubukin si Jehova na iyong Diyos.
+Pero matatag siyang tumanggi —
+kasi ang gayong pagkilos ay pagmamataas:
+*"Huwag mong ilalagay sa pagsubok si Jehova na iyong Diyos."*
 
 Ano ang lesson para sa atin?
 Kung may kakaiba tayong kakayahan, o pag-aari na tayo lang ang mayroon —
@@ -444,13 +456,13 @@ Pakinggan po ninyo ang tatlong huling salita ni Jesus sa tekstong ito.
 *[Basahin ang Juan 16:33]*
 
 !!! quote "Juan 16:33"
-    *(Eksaktong NWT Tagalog text — ilalagay)*
+    "Sinabi ko sa inyo ang mga ito para magkaroon kayo ng kapayapaan sa pamamagitan ko. Daranas kayo ng kapighatian sa sanlibutan, pero lakasan ninyo ang inyong loob! Dinaig ko ang sanlibutan."
 
 Narinig n'yo po ang dulo?
 
-**"Nadaig ko na ang sanlibutan."**
+**"Dinaig ko ang sanlibutan."**
 
-Hindi *madadaig pa lang.* **Nadaig na.**
+Hindi *madadaig pa lang.* **Dinaig na.**
 
 At kung nagawa ni Jesus —
 tinitiyak niya sa atin na **posibleng madaig ang sanlibutan.**
@@ -483,6 +495,22 @@ kundi **maging handang maglingkod sa iba.**
 **{pause}**
 
 Kasama rin po sa pride ang hangaring **maging tanyag o prominente.**
+
+Naalala natin si apostol Pablo.
+Noong kabataan pa siya — prominente siya:
+estudyante ng respetadong gurong si Gamaliel,
+sumusulong sa Judaismo nang higit sa mga kasinggulang niya.
+Kung nagpatuloy siya, malamang na naging tanyag siya
+at umasenso sa buhay.
+
+Pero iniwan niya ang lahat ng iyon.
+Para saan?
+
+Para **maglingkod kay Jehova.**
+
+At iyon, mga kapatid — ang tunay na tagumpay.
+
+**{pause}**
 
 At heto ang isang silo na baka hindi natin namamalayan:
 ang gawing **idolo ang mga sikat** sa sports o entertainment.
@@ -555,7 +583,7 @@ Hanapin po natin: ano raw ang dumaraig sa sanlibutan?
 *[Basahin ang 1 Juan 5:3, 4]*
 
 !!! quote "1 Juan 5:3, 4"
-    *(Eksaktong NWT Tagalog text — ilalagay)*
+    "Dahil ito ang kahulugan ng pag-ibig sa Diyos: Sundin natin ang mga utos niya; at ang mga utos niya ay hindi pabigat, dahil ang lahat ng anak ng Diyos ay dumaraig sa sanlibutan. At nadaig natin ang sanlibutan dahil sa ating pananampalataya."
 
 **==Kailangan ang pananampalataya para madaig natin ang sanlibutan.==**
 
@@ -598,7 +626,7 @@ Buksan po natin ang huling susing teksto natin —
 *[Basahin ang 1 Juan 2:17]*
 
 !!! quote "1 Juan 2:17"
-    *(Eksaktong NWT Tagalog text — ilalagay)*
+    "Isa pa, ang sanlibutan ay lumilipas, pati ang pagnanasa nito, pero ang gumagawa ng kalooban ng Diyos ay mananatili magpakailanman."
 
 **Ang sanlibutan ay lumilipas — pati ang pagnanasa nito.**
 
@@ -630,7 +658,7 @@ sa bawat pang-akit ni Satanas:
 At hindi lang niya ipinakita kung paano —
 **pinatunayan niyang kaya:**
 
-*"Nadaig ko na ang sanlibutan."*
+*"Dinaig ko ang sanlibutan."*
 
 **{pause}**
 
@@ -665,7 +693,7 @@ Pero tayo, mga kapatid —
 | Intro | Klinik analogy — ang sistema ay nagpo-promote ng nakakasama; may ibang choice ba tayo? | — |
 | 1 — Bakit hindi bahagi? | Sanlibutan = di-matuwid na lipunang hiwalay sa Diyos; kontrolado ni Satanas; ipinanalangin ni Jesus na hindi tayo maging bahagi | Ju 17:16; 1Ju 5:19 |
 | 2 — Ipinakita ni Jesus kung paano | Politika (tumakas nang gagawing hari; social media/class president); materyalismo ("More" mindset vs kontento; pioneer observation); 3 pang-akit — Eva vs Jesus; "Nasusulat" ×3 | Ju 6:15; Mat 6:31-33; 1Ju 2:15, 16 |
-| 3 — Daigin ang sanlibutan | Kapopootan tayo, pero "nadaig ko na"; daigin ang pride (paghuhugas ng paa; sports/entertainment idols tuwing weekends) at poot (ibigin pati kaaway); kailangan ang pananampalataya | Ju 16:33; 1Ju 5:3, 4 |
+| 3 — Daigin ang sanlibutan | Kapopootan tayo, pero "dinaig ko ang sanlibutan"; daigin ang pride (paghuhugas ng paa; Pablo; sports/entertainment idols tuwing weekends) at poot (ibigin pati kaaway); kailangan ang pananampalataya | Ju 16:33; 1Ju 5:3, 4 |
 | 4 — Malapit nang magwakas | Hinatulan na si Satanas; may matitira — ang gumagawa ng kalooban ng Diyos | 1Ju 2:17 |
 
 **Formula:** Ang alok ng sistema — panandalian. Ang gumagawa ng kalooban ng Diyos — **mananatili magpakailanman.**
