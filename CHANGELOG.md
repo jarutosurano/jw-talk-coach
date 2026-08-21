@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.16.0] - 2026-08-21
+
+### Blg. 184 v2 — fresh 25-minute script on the Blg. 11 delivery model (v1 kept untouched)
+
+**Added:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/v2/index.md` — completely new script written from a blank page (v1 preserved as is at its original URL). Built strictly on the Blg. 11 delivery model / `reference/delivery-learnings.md` checklist: **alarm/pagtulog** immersive "tayo" intro whose mechanism IS the theme (sleep is only peaceful when waking is guaranteed), "mas mahalagang tanong" pivot, New York-vs-India contrast (w99 4/1), "ulitin natin" repetition on Ec 7:2, **palakpak** illustration for death as a stopped process (Gen 2:7 reversal), **sanla/pawnshop** illustration for the ransom (pan-TUBOS wordplay; Adan nagsanla → binary choice → Jesus tumubos), garantiya-hindi-lang-resibo bridge to Gaw 17:31, enemies-couldn't-deny-Lazaro evidence beat (w07 5/15), "Mananabik ka" (Job 14) + Dan 12:13 "babangon ka," curiosity question before the final text (isa pang "wakas" — Ro 6:22), conclusion loops back to the alarm. **~3,190 speakable words; timing markers sum to exactly 25 minutes** for breathing room in the 30-min slot. All scripture quotes use the exact NWT text from the existing outline.md.
+
+**Changed:**
+- `mkdocs.yml` — added the v2 nav entry under 30-Minute talks, below v1.
+
+---
+
 ## [4.15.1] - 2026-08-21
 
 ### Blg. 11 script completed with exact NWT texts + reference-backed enrichments
