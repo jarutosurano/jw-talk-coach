@@ -16,6 +16,8 @@ title: Kamatayan Ba ang Wakas ng Lahat?
 !!! note "Delivery Reminders"
     Storytelling mode — kausapin ang audience na parang non-believer. Huwag bilisan. Ang mga **{pause}** ay bahagi ng pahayag — hayaang tumagos ang mga salita. Target: ~25 minuto.
 
+    **Franz-style techniques na naka-weave dito** (tingnan ang `reference/delivery-learnings.md`): repetition ng key line ("ulitin natin"), contrast pair (Adan vs Jesus), binary choice framing ("dalawa lang ang choice niya"), question chains na "Alam natin ang sagot," at recap-signpost bago ang Punto 4.
+
 ---
 
 ## INTRO [2 minuto]
@@ -165,6 +167,10 @@ Napansin n'yo po?
 
 Inamin mismo ng Bibliya:
 ang kamatayan ay **==ang wakas ng lahat ng mga tao.==**
+
+Mahalaga po ito — ulitin natin:
+
+*ang wakas... ng lahat... ng mga tao.*
 
 Walang exempted.
 Mayaman man o mahirap.
@@ -386,6 +392,12 @@ ipapanganak na may pasan-pasan nang utang.
 Mga kapatid at mga kaibigan —
 'yan po ang sitwasyon nating lahat.
 
+At sa kuwentong ito — dalawang tao ang bida.
+Magkabaligtad na magkabaligtad.
+
+Ang isa — **nag-iwan sa atin ng utang.**
+Ang isa — **nagbayad nito.**
+
 Sabi ng Roma 6:23:
 
 !!! quote "Roma 6:23"
@@ -393,7 +405,8 @@ Sabi ng Roma 6:23:
 
 Ang **kabayaran ng kasalanan** ay kamatayan.
 
-Ang unang tao, si Adan — siya ang nangutang.
+Ang unang bida — ang unang tao, si Adan.
+**Siya ang nangutang.**
 Nang suwayin niya ang Diyos, nawala sa kaniya
 ang buhay na walang hanggan —
 at hindi na niya iyon maipapamana sa atin.
@@ -406,7 +419,8 @@ kaya tayo tumatanda, nagkakasakit, namamatay.
 
 **{pause}**
 
-Pero may isang tao na ipinanganak na **walang utang.**
+Pero ang ikalawang bida —
+isang tao na ipinanganak na **walang utang.**
 
 Si Jesus.
 
@@ -417,7 +431,12 @@ Ibig sabihin, ang kamatayan ay **walang karapatan sa kaniya.**
 Karapatan niyang mabuhay nang walang hanggan bilang tao.
 Sabi nga ng Bibliya, *"imposible"* na manaig sa kaniya ang kamatayan.
 
-Pero ano ang ginawa niya sa karapatang iyon?
+Ngayon — dalawa lang po ang choice niya:
+
+ingatan ang karapatang iyon para sa sarili niya...
+o ibigay ito — para sa atin.
+
+Alam natin ang pinili niya.
 
 **Ibinigay niya.**
 
@@ -542,6 +561,15 @@ Iyan ang garantiya.
 
 ## 4 — Ano ang Magiging Kahulugan ng "Wakas" Para sa Iyo? [5.5 minuto]
 
+Tingnan po natin kung saan na tayo nakarating.
+
+Natutuhan natin — prangka ang Bibliya:
+totoong wakas ang kamatayan.
+Natutuhan natin kung *ano* ito —
+parang mahimbing na pagtulog.
+At natutuhan natin ang **pantubos** —
+na bayad na ang utang.
+
 Kaya balik tayo sa tanong natin:
 
 <mark class="pink">**Kamatayan ba ang wakas ng lahat?**</mark>
@@ -560,8 +588,10 @@ Mga siyentipiko, mga teknolohiya, mga eksperimento.
 
 Ano po ang resulta?
 
-Wala ni isang tao ang napigilan nila sa pagtanda.
-Wala ni isang patay ang naibalik nila sa buhay.
+Napigilan ba nila ang pagtanda — kahit sa isang tao?
+Naibalik ba nila sa buhay — kahit isang patay?
+
+**Alam natin ang sagot.**
 
 **Si Jehova lamang ang makagagawa nito.**
 
@@ -837,3 +867,5 @@ Hanggang sa muli.
 **Formula:** Hindi *paalam* — kundi *hanggang sa muli.*
 
 **Mga bagong idinagdag pagkatapos ng listener review:** Gaw 24:15 (matuwid at di-matuwid — para sa mga bisitang nawalan ng hindi Saksi), Ec 3:19-20 (hayop), Ju 3:36 (pagsunod), Araw ng Paghuhukom, Dan 12:13 ("sa wakas ng mga araw, babangon ka"), "napakalapit na" (Kaharian urgency), 1 Pe 3:18 espiritu precision, permission line para sa mga umasa sa "nasa langit na siya."
+
+**Mga idinagdag mula sa delivery-learnings pass (Franz Trinidad model):** "ulitin natin" repetition sa Ec 7:2 key line, dalawang-bida framing (Adan nangutang vs Jesus nagbayad), binary choice bago ang "Ibinigay niya," question chain sa anti-aging research ("Alam natin ang sagot"), recap-signpost sa bungad ng Punto 4.

@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.15.0] - 2026-08-21
+
+### Delivery learnings from a model speaker + new 30-min talk Blg. 11 + Blg. 184 enhancement
+
+**Added:**
+- `reference/delivery-learnings.md` — reusable catalog of 14 delivery techniques extracted from Brother Franz Trinidad's delivery of Blg. 11 (Aug 9, 2026): immersive "tayo" intro scenarios, the "mas mahalagang tanong" pivot, question chains with "Alam natin ang sagot," verbatim repetition of key definitions, contrast pairs (Eva vs Jesus), binary choice framing, self-examination applications ("saan tayo nadadala nang hindi namamalayan?"), recap-signposts, curiosity question before the final text, and more. Includes a 9-point checklist for future 30-min scripts.
+- `talks/30min/11-hindi-bahagi-ng-sanlibutan/` — transcript of the model delivery (`transcript-franz-trinidad.txt`), official outline docx (`S-34_TG_011.docx`), and `outline.md` (S-34-TG Blg. 11 content + goals + pending Bible-text list).
+- `docs/talks/30min/11-hindi-bahagi-ng-sanlibutan/index.md` — full 30-min script (no date yet — future talk) modeled on the transcript and improved: clinic/lechon intro, "Nasusulat ×3" refrain, Eva-vs-Jesus contrast, weekends application for sports/entertainment idols, "may matitira — sino kaya?" curiosity close on 1 Ju 2:17. **Scripture quote bodies are visible placeholders pending exact NWT Tagalog text from the speaker.**
+- `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/S-34_TG_184.docx` — official outline copy.
+
+**Changed:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/index.md` — Franz-style delivery pass: "ulitin natin" repetition on the Ec 7:2 key line, two-bida contrast framing (Adan nangutang vs Jesus nagbayad), binary choice before "Ibinigay niya," question chain on anti-aging research, recap-signpost opening Point 4, delivery-reminders note updated.
+- `mkdocs.yml` — added Blg. 11 nav entry under 30-Minute talks.
+
+---
+
 ## [4.14.0] - 2026-08-14
 
 ### New Espirituwal na Hiyas (Jeremias 24-25) — Intro + Tanong 1
