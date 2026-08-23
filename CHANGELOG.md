@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.17.0] - 2026-08-23
+
+### Watchtower study — new answer format + Aug 17-23 article script
+
+**Added:**
+- `docs/watchtower/iingatan-ang-pakikipagkaibigan/index.md` — answer script for "Kung Paano Iingatan ang Pakikipagkaibigan sa mga Kapatid" (Ang Bantayan Hunyo 2026, study week Agosto 17-23) in the NEW format: per question — Mahahalagang punto (bullets), Direktang sagot (generalized, no ako/tayo), Sagot kapag binasa nang malakas (Bible-woven spoken answer; deeper versions on "Basahin" texts), Tanong para ikapit; review questions rendered as MGA ARAL NA NATUTUHAN (`!!! abstract "Aral"` boxes); FORMULA at top and bottom (`Kapakumbabaan + Pagtitiis + Kabaitan at Malasakit = Pagkakaibigang Naiingatan`).
+- `watchtower/iingatan-ang-pakikipagkaibigan/outline.md` — non-published paragraph-by-paragraph article summary.
+- `reference/books/w_TG_202606.pdf` — Hunyo 2026 Bantayan source PDF (git-ignored, local only).
+
+**Changed:**
+- `CLAUDE.md` — new "Watchtower Study (Pag-aaral sa Bantayan)" section documenting the folder structure and the mandatory answer format effective Aug 23, 2026 (applies to all future Watchtower scripts).
+- `mkdocs.yml` — new Watchtower nav entry (latest first).
+
+---
+
 ## [4.16.0] - 2026-08-21
 
 ### Blg. 184 v2 — fresh 25-minute script on the Blg. 11 delivery model (v1 kept untouched)
