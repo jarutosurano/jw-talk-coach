@@ -4,6 +4,35 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.18.0] - 2026-08-24
+
+### Blg. 184 v3 — nested Blg. 11 architecture + deeper application (v1, v2 kept untouched)
+
+**Added:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/v3/index.md` — third script for Blg. 184 (Aug 30, 2026, VTC), rebuilt on the structural model found in the Blg. 11 script.
+
+**Why v3:** v1 and v2 read as near-identical because both inherited the same flat skeleton — 4 top-level `##` sections, no internal sub-structure, timing spread evenly across the outline. Changing the writing model changes sentences, not architecture. v3 changes the architecture.
+
+**What changed vs. v1/v2:**
+- **Nested `###` sub-blocks per section** (the Blg. 11 pattern): each section is now 2-4 short blocks with their own arc, enumerated aloud and recapped before moving on, instead of one continuous flow.
+- **New intro** — the "dalawang klase ng paalam" frame from v1, rewritten: the Cabusas couple's Saturday move to the Kingston group (3 hrs away) as the first kind of goodbye — short, warm, with humor. The second kind is stated plainly instead of the elaborate funeral-parlour description v1 used. Cut the "hindi po ito tanong na pang-relihiyon lang" aside.
+- **Four preview questions now mirror the outline headings** — Q1 became "bakit tinatawag ng Bibliya na 'ang wakas ng lahat ng mga tao' ang kamatayan?" (was: "ano ba talaga ang inaamin ng Bibliya tungkol sa kamatayan?"), Q3 became "bakit hindi naging wakas ang kamatayan ni Jesus?"
+- **Bigger-picture pivot in Seksiyon 1** (the Blg. 11 "bakit ganoon ang sistema?" move): the YOLO / "you only live once" trend is presented as the direct consequence of believing kamatayan ang wakas ng lahat — two opposite reactions (sugarcoat at the wake, grab everything outside it) from one root belief.
+- **Ec 3:11 as the Seksiyon 2 twist** — "inilagay pa nga niya sa puso nila ang magpakailanman": the grief is design, not weakness; and the world's YOLO chase is that same longing squeezed into 70 years. Called back in Seksiyon 4 via Job 26:14.
+- **Memorial emphasis made explicit** (per the Paalaala sa tagapagsalita) — Seksiyon 3 ties the ransom directly to the Memorial and asks whether attendance matches belief.
+- **Escalating three-resurrection triad** in Seksiyon 4 (Nain → anak ni Jairo → Lazaro), the Blg. 184 counterpart to Blg. 11's "Nasusulat x3" refrain. v2 used only two accounts and did not number them.
+- **New formula:** `Kamatayan - Pantubos = Wakas ng lahat` / `Kamatayan + Pantubos = "Magkikita pa tayo."` — ties the doctrine back to the intro.
+- **New `## KAUGNAYAN NG BAWAT SEKSIYON` block** — ASCII spine showing how each section answers the question the previous one leaves open, plus a table tracking how the word "wakas" changes meaning across the four sections.
+- Re-uses the outline's own wording throughout (section headings, "ang wakas ng lahat ng mga tao," "kabaligtaran ng proseso," "garantiya sa lahat ng mga tao," "kailangan ang pagsunod," "si Jehova lamang ang makagagawa nito").
+- Timing rebalanced to 2 / 5 / 5 / 6.5 / 5 / 1.5 = ~25 min.
+
+**Verification:** all 13 scripture quotes checked character-for-character against the NWT Tagalog text in `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/outline.md`. Roma 6:22 is quoted in the current NWT wording ("umaakay ito sa buhay na walang hanggan"); the outline's phrase "ang wakas na buhay na walang hanggan" is spoken as outline language, not presented as the verse text.
+
+**Changed:**
+- `mkdocs.yml` — v3 nav entry under Talks -> 30-Minute.
+
+---
+
 ## [4.17.0] - 2026-08-23
 
 ### Watchtower study — new answer format + Aug 17-23 article script
