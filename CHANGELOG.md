@@ -4,6 +4,32 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.19.0] - 2026-08-24
+
+### Blg. 184 v3 — style revamp: out of storytelling mode, onto the 13 Aralin
+
+**Changed:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/v3/index.md` — full prose rewrite. The architecture from 4.18.0 (nested `###` sub-blocks, four outline-matching questions, section spine) is unchanged; the *writing style* is replaced.
+
+**Why:** v3 as first written was in storytelling mode — line-broken dramatic prose, ~25 `{pause}` markers, dramatized Bible scenes, and manufactured emotion ("baka pumatak," "sigaw ng puso natin," "hindi pa rin gaanong nahihilom"). Aralin 12 sets the limit directly: *"Maging natural sa pagpapakita ng emosyon—hindi pilít o sobra."* The result read as over-reacting and too touchy.
+
+**What changed:**
+- **Normal prose paragraphs** instead of one-thought-per-line dramatic layout. `{pause}` cut from 25 to 9 — now only at genuine transitions between main points (Aralin 14).
+- **Emotion pulled back** (Aralin 12) — the Cabusas illustration is stated plainly and makes its point without milking it; the second kind of paalam is three sentences, not a funeral-parlour scene. Other religions' beliefs are reported factually, with no ridicule.
+- **Bible accounts are now evidence, not drama** — the three resurrections are presented compactly as an escalating argument (how long dead → same result → public witnesses), not as narrated scenes.
+- **`"Ano po ang matututuhan natin dito, mga kapatid?"`** used as an explicit teaching bridge in five places (Aralin 18), assembly-style.
+- **Every scripture now has a stated reason before reading** ("bilangin po natin," "pansinin po ninyo ang salitang…") and a key-word callback after (Aralin 4, 6).
+- **Aralin 14 served explicitly** — main points stated in the intro and restated in the conclusion; theme words *wakas* / *pantubos* / *pagkabuhay-muli* repeated throughout.
+- **Aralin 19 without sermonizing** — self-examination questions include the speaker ("para po ito sa akin din"), and the focus is turned to Jehova's own feelings (Job 14:15, "mananabik ka").
+- **Aralin 16** — added the comfort point in Seksiyon 2 (the dead are not suffering), so the section lands positive.
+- **FORMULA box replaced** by a `TEMA AT PANGUNAHING MGA PUNTO` box (theme, purpose, the four points, the words to repeat) — this serves Aralin 14 directly, whereas the equation served nothing. The old equation (`Kamatayan - Pantubos = Wakas ng lahat`) was also doctrinally wrong: it implied the ransom alone is automatic, which is exactly what Seksiyon 3 refutes ("Hindi; kailangan ang pagsunod").
+- **New `## CHECKLIST NG ARALIN`** table mapping each of the 13 Aralin to where it is applied in the script.
+- Conclusion now restates all four main points before the call to action, adds no new material, and ends on the intro's phrase (Aralin 20).
+
+**Verification:** all 13 scripture quote blocks re-checked character-for-character against the NWT Tagalog text in the outline. Spoken body ~3,795 words (~25 min). `mkdocs build --strict` passes.
+
+---
+
 ## [4.18.0] - 2026-08-24
 
 ### Blg. 184 v3 — nested Blg. 11 architecture + deeper application (v1, v2 kept untouched)
