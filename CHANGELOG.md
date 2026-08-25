@@ -4,6 +4,34 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.20.0] - 2026-08-24
+
+### Blg. 184 v3 — intro rebuilt from the speaker's own draft; question 3 reframed
+
+**Changed:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/v3/index.md`
+
+**Intro — total revamp (Aralin 1, 3):**
+- Now **opens with a question** — "Alam n'yo po ba na may dalawang klaseng paalam?" — instead of opening with the Cabusas narration.
+- The Cabusas illustration is reframed **positively**: we can still see them at the circuit assembly, talk to them, ask if they're okay, and they're welcome to visit VTC (marked with a pause cue — the brothers will likely applaud). Previously it dwelt on the difficulty of the goodbye.
+- Second kind of paalam widened to everyone: kapatid, nanay, tatay, lola, lolo — and the aso/pusa beat kept ("Puwede po ba iyon? Puwede naman. Masakit din po iyon.").
+- **New bridge to the theme:** the pattern of human life — isinilang, bata, tatanda, mamatay — and its ending, kamatayan. That is *why* the system advertises "you only live once." YOLO now arrives as the consequence of the pattern rather than as a separate observation later in Seksiyon 1.
+
+**Question 3 reframed:**
+- Spoken preview changed from "bakit hindi naging wakas ang kamatayan ni Jesus?" to **"may kamatayan po bang hindi naging wakas?"** The old wording was a statement with a question mark — it handed over the answer before the section began, and asked a visitor to accept a premise not yet established. The new wording opens a genuine gap after questions 1 and 2 (everyone dies; the end is total) — is there even one exception? It keeps the outline's own words "hindi naging wakas."
+- The `##` section heading keeps the full official outline wording so an elder can still track it.
+
+**Knock-on updates:**
+- Seksiyon 1's `### Ang trend ngayon` replaced by `### Bakit ganoon ang sanlibutan?` — it no longer introduces YOLO (now in the intro) but deepens it: the two opposite reactions (sugarcoat inside the funeral parlour, grab everything outside) share one root belief.
+- Seksiyon 1 and 3 spoken green headings now restate their preview questions.
+- Conclusion recap aligned to the new question 3, and the closing now returns to the intro's two classes of paalam: "hindi po pangalawang klaseng paalam. Makikita pa po natin silang muli."
+- TEMA box table now shows both the outline heading and the spoken question for each point.
+- KAUGNAYAN diagram and CHECKLIST rows for Aralin 1 and 3 updated.
+
+**Verification:** all 13 scripture quote blocks re-checked against the outline's NWT text. Spoken body ~3,855 words (~25 min), 9 pause cues. `mkdocs build --strict` passes.
+
+---
+
 ## [4.19.0] - 2026-08-24
 
 ### Blg. 184 v3 — style revamp: out of storytelling mode, onto the 13 Aralin

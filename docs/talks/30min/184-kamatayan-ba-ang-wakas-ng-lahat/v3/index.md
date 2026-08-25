@@ -16,12 +16,12 @@ title: 'Kamatayan Ba ang Wakas ng Lahat? (v3)'
 
     **Layunin:** Mangumbinsi — na walang pag-asa ang tao kung wala ang pantubos at ang Kaharian, at na dapat tayong lubos na manampalataya rito.
 
-    | # | Pangunahing punto |
-    |---|---|
-    | 1 | Ang wakas ng lahat ng mga tao |
-    | 2 | Ano nga ba ang kamatayan? |
-    | 3 | Kung bakit hindi naging wakas ang kamatayan ni Jesus |
-    | 4 | Ano ang magiging kahulugan ng "wakas" para sa iyo? |
+    | # | Ulo sa outline | Ang tanong na binibigkas |
+    |---|---|---|
+    | 1 | Ang wakas ng lahat ng mga tao | Talaga nga bang kamatayan ang wakas ng lahat ng bagay? |
+    | 2 | Ano nga ba ang kamatayan? | Ano nga ba ang kamatayan? |
+    | 3 | Kung bakit hindi naging wakas ang kamatayan ni Jesus | May kamatayan po bang hindi naging wakas? |
+    | 4 | Ano ang magiging kahulugan ng "wakas" para sa iyo? | Ano ang magiging kahulugan ng "wakas" para sa iyo? |
 
     **Susing salita na uulit-ulitin:** *wakas* · *pantubos* · *pagkabuhay-muli*
 
@@ -32,29 +32,39 @@ title: 'Kamatayan Ba ang Wakas ng Lahat? (v3)'
 
 ## INTRO [2 minuto]
 
-May dalawang klase po ng paalam.
+Alam n'yo po ba na may dalawang klaseng paalam?
 
-Kahapon, Sabado, umalis na sina Brother at Sister Cabusas. Lumipat na po sila sa Kingston group. Tatlong oras ang biyahe mula rito — hindi naman po ibang bansa. May kotse tayo, may Zoom, at siguradong magkikita tayo sa assembly. Pero kahit alam natin iyon, mahirap pa rin ang paalam, di po ba?
+Ang una po, iyong paalam na posible pang magkita muli.
 
-Pansinin po natin kung bakit natin ito kayang tiisin. Dahil may masasabi tayo sa kanila: **"Magkikita pa naman tayo."**
+Halimbawa, kahapon lang po ay tuluyan nang nagpaalam ang mag-asawang Cabusas — lumipat na po sila sa Kingston. Pero puwede pa naman po natin silang makita sa susunod na linggo, sa circuit assembly. Puwede natin silang kausapin at tanungin kung okay lang sila. At kung gusto po nilang dumalaw dito, welcome na welcome po sila dito sa VTC.
+
+**{pause — malamang na papalakpak ang mga kapatid}**
+
+Iyong pangalawang klaseng paalam po, iyong wala na talaga. Tapos na.
+
+At sigurado po ako, lahat tayo rito ay nakaranas na nito. Nawalan tayo ng mahal sa buhay. May nawalan ng kapatid. Ng nanay. Ng tatay. Ng lola. Ng lolo.
+
+Ang iba naman po, nawalan ng aso. O ng pusa. Puwede po ba iyon? Puwede naman. Masakit din po iyon.
 
 **{pause}**
 
-May pangalawang klase po ng paalam — iyong walang makapagsabi ng ganoon.
+Kung palalimin po natin, ito po ang pattern ng buhay ng tao. Isinilang. Bata. Tatanda. Mamatay.
 
-Halos bawat isa po sa atin dito ay may kamag-anak o kaibigan na namatay. Ang iba, matagal na. Pero may tanong pa ring naiiwan sa isip natin: *magkikita pa kaya kami ulit?*
+Alam n'yo po ba ang ending sa buhay ng tao? **Kamatayan.**
 
-Iyan po ang tema natin ngayong umaga: **Kamatayan Ba ang Wakas ng Lahat?**
+At iyan po ang dahilan kung bakit ganito ang ini-advertise ng sanlibutang ito. Gawin mo ang gusto mo — kasi *you only live once.* Mag-enjoy ka, deserve mo iyan — kasi isang beses ka lang mabubuhay.
 
-Mahalaga po ito sa bawat isa sa atin. Hindi lang dahil lahat tayo ay may namatayan, kundi dahil — gaya ng makikita natin mamaya — ang sagot sa tanong na ito ang humuhubog kung paano tayo mamumuhay araw-araw.
+**{pause}**
+
+Kaya po ito ang malaking tanong, at ito rin po ang tema natin ngayong umaga: **Kamatayan Ba ang Wakas ng Lahat?**
 
 Apat na tanong po ang sasagutin natin mula sa Bibliya.
 
-**Una** — bakit tinatawag ng Bibliya na "ang wakas ng lahat ng mga tao" ang kamatayan?
+**Una** — talaga nga bang kamatayan ang wakas ng lahat ng bagay?
 
 **Ikalawa** — ano nga ba ang kamatayan?
 
-**Ikatlo** — bakit hindi naging wakas ang kamatayan ni Jesus?
+**Ikatlo** — may kamatayan po bang hindi naging wakas?
 
 **At panghuli** — ano ang magiging kahulugan ng "wakas" para sa iyo?
 
@@ -62,7 +72,7 @@ Apat na tanong po ang sasagutin natin mula sa Bibliya.
 
 ## 1 — "Ang Wakas ng Lahat ng mga Tao" [5 minuto]
 
-<mark class="green">**Tingnan po muna natin kung bakit tinatawag ng Bibliya na "ang wakas ng lahat ng mga tao" ang kamatayan.**</mark>
+<mark class="green">**Ang unang tanong po natin: talaga nga bang kamatayan ang wakas ng lahat ng bagay?**</mark>
 
 ### Ang sinasabi ng tao
 
@@ -78,21 +88,23 @@ At meron din po namang mga taong sasabihin sa inyo na bahagi lang naman ng buhay
 
 Ano po ang ipinapakita nito? Na **hindi matanggap kahit ng mga nagsasabing bahagi na ng buhay ang kamatayan na ito ang wakas.**
 
-### Ang trend ngayon
+### Bakit ganoon ang sanlibutan?
 
 **{pause}**
 
-Ngayon po, may mas malalim pa tayong dapat pag-isipan. Kasi hindi lang po sa punerarya nakikita ang paniniwalang ito.
+Ngayon po, may mas malalim pa tayong dapat pag-isipan.
 
-Ano po ba ang trend ngayon sa mundo? *"You only live once."* *"Deserve mo 'yan."* *"Sulitin mo, isang beses ka lang mabubuhay."* Nagtatrabaho ang marami nang sobra-sobra para lang sa maikling bakasyon. Nangungutang para sa bagay na hindi naman kailangan. Namumuhay ang mga tao na parang walang bukas.
+Binanggit po natin kanina ang ini-a-advertise ng sanlibutan — ang *"you only live once."* Pero pansinin po natin ang isang bagay.
 
-Ang tanong po: bakit ganoon?
+Sa loob ng punerarya, pinapalamutian ng mga tao ang kamatayan para gumaan ang loob. Sa labas naman ng punerarya, sinusunggaban nila ang buhay para hindi masayang. Magkasalungat po ang dalawang reaksiyong iyan.
 
-Isipin po natin ito. Kung 70 o 80 taon lang ang lahat ng meron ka, at pagkatapos ay wala na — hindi po ba makatuwiran nga na sunggaban mo na ang lahat ngayon?
+Pero iisa lang po ang pinagmumulan ng dalawa: ang paniniwalang **ang kamatayan ang wakas ng lahat.**
 
-Kaya po heto ang gusto kong pansinin ninyo. Dalawang magkaibang reaksiyon ang nakikita natin: ang isa, pinapalamutian ang kamatayan para gumaan ang loob; ang isa, sinusunggaban ang buhay para hindi masayang. Magkaiba sila. Pero iisa lang po ang pinagmumulan ng dalawa — ang paniniwalang **ang kamatayan ang wakas ng lahat.**
+At kung iisipin po natin, may lohika nga naman ang sanlibutan. Kung 70 o 80 taon lang ang lahat ng meron ka, at pagkatapos ay wala na — hindi po ba makatuwiran ngang sunggaban mo na ang lahat ngayon?
 
-Kaya hindi po ito basta tanong na para lang sa punerarya. Ang paniniwala ng isang tao tungkol sa kamatayan ang nagdidikta kung paano siya mamumuhay araw-araw.
+Ano po ang matututuhan natin dito, mga kapatid? Na hindi po ito basta tanong para sa punerarya. Ang paniniwala ng isang tao tungkol sa kamatayan ang nagdidikta kung paano siya mamumuhay araw-araw — kung ano ang inuuna niya, at para saan siya nagtatrabaho.
+
+Kaya mahalaga pong makuha natin ang tamang sagot.
 
 ### Ang sinasabi ng Bibliya
 
@@ -194,9 +206,9 @@ Meron po. At iyan mismo ang tinalakay natin noong Memoryal. Kasi po may isang ka
 
 ## 3 — Kung Bakit Hindi Naging Wakas ang Kamatayan ni Jesus [6.5 minuto]
 
-<mark class="green">**Tingnan po natin kung bakit hindi naging wakas ang kamatayan ni Jesus.**</mark>
+<mark class="green">**Ang ikatlong tanong po natin: may kamatayan po bang hindi naging wakas?**</mark>
 
-Tatlong tanong po ang sasagutin natin dito.
+Meron po. At para maunawaan natin kung bakit, tatlong tanong po ang sasagutin natin dito.
 
 ### Una — bakit tayo namamatay?
 
@@ -349,7 +361,7 @@ Magkakaroon po tayo ng **walang-hanggang pagkakataon na matuto nang higit tungko
 
 Mga kapatid at mga kaibigan, apat na tanong po ang sinagot natin ngayong umaga.
 
-Nakita po natin na **ang kamatayan nga ang wakas ng lahat ng mga tao** — tapat ang Bibliya tungkol dito. Nakita rin natin **kung ano ang kamatayan** — na wala pong natitira, pero inilagay ni Jehova sa puso natin ang magpakailanman. Tapos nakita natin **kung bakit hindi naging wakas ang kamatayan ni Jesus** — dahil sa pantubos, bayad na ang utang natin, at iyan ang garantiya sa lahat ng mga tao. At nakita natin **kung ano ang magiging kahulugan ng "wakas" para sa atin** — dahil gusto at kaya ni Jehova na buhaying-muli ang mga patay.
+Nakita po natin na **ang kamatayan nga ang wakas ng lahat ng mga tao** — tapat ang Bibliya tungkol dito. Nakita rin natin **kung ano ang kamatayan** — na wala pong natitira, pero inilagay ni Jehova sa puso natin ang magpakailanman. Tapos nakita natin na **may isang kamatayan na hindi naging wakas** — dahil walang utang si Jesus, kaya nagawa niyang bayaran ang atin, at iyan ang garantiya sa lahat ng mga tao. At nakita natin **kung ano ang magiging kahulugan ng "wakas" para sa atin** — dahil gusto at kaya ni Jehova na buhaying-muli ang mga patay.
 
 **{pause}**
 
@@ -364,7 +376,7 @@ Tanggapin po natin ang saganang pagpapala ngayon, at ang wakas na buhay na walan
 
 Kaya po sa tanong natin ngayong umaga — kamatayan ba ang wakas ng lahat? Kung wala ang pantubos, oo po. Pero may pantubos.
 
-Kaya sa mga mahal natin sa buhay na natutulog ngayon, hindi po tayo nagsabi ng huling paalam. Ang sinabi lang po natin ay, **"Magkikita pa tayo."**
+Kaya balikan po natin ang dalawang klaseng paalam na pinagsimulan natin. Dahil sa inilaan ni Jehova, ang mga mahal natin sa buhay na natutulog ngayon ay **hindi po pangalawang klaseng paalam.** Makikita pa po natin silang muli.
 
 ---
 
@@ -373,18 +385,19 @@ Kaya sa mga mahal natin sa buhay na natutulog ngayon, hindi po tayo nagsabi ng h
 Bawat seksiyon ay sumasagot sa tanong na iniwan ng nauna (Aralin 14 — malinaw ang paglipat mula sa isang punto papunta sa kasunod):
 
 ```
-INTRO      Dalawang klase ng paalam
-           → Alin ang sa mahal natin sa buhay?
+INTRO      Dalawang klaseng paalam. Ang pattern ng buhay ng tao:
+           isinilang, bata, tatanda, mamatay — kaya "you only live once."
+           → Talaga nga bang kamatayan ang wakas ng lahat ng bagay?
                     ↓
 SEKSIYON 1 ANG WAKAS NG LAHAT NG MGA TAO
            Totoo ang problema — walang exception.
-           At ang pananaw ng mundo sa buhay ay nakatayo rito.
+           At ang dalawang reaksiyon ng sanlibutan ay iisa ang ugat.
            → Pero ano nga ba talaga ang kamatayan?
                     ↓
 SEKSIYON 2 ANO NGA BA ANG KAMATAYAN?
            Kabaligtaran ng Genesis 2:7 — walang natitira.
            Pero inilagay ni Jehova sa puso natin ang magpakailanman.
-           → May sagot ba siya sa pananabik na iyan?
+           → May kamatayan po bang hindi naging wakas?
                     ↓
 SEKSIYON 3 KUNG BAKIT HINDI NAGING WAKAS ANG KAMATAYAN NI JESUS
            Meron. Bayad na ang utang. Garantiya na ito sa lahat.
@@ -396,7 +409,7 @@ SEKSIYON 4 ANO ANG MAGIGING KAHULUGAN NG "WAKAS" PARA SA IYO?
            na niya nang tatlong beses. Nananabik siyang gawin ito.
                     ↓
 CONCLUSION Balikan ang apat na punto. Maglingkod nang tapat.
-           "Magkikita pa tayo."
+           Ang sa kanila ay hindi pangalawang klaseng paalam.
 ```
 
 **Ang salitang "wakas" ang nag-uugnay sa lahat** (Aralin 14 — ulit-ulitin ang mahahalagang salita ng tema):
@@ -414,8 +427,8 @@ CONCLUSION Balikan ang apat na punto. Maglingkod nang tapat.
 
 | Aralin | Saan ito ginamit sa script |
 |---|---|
-| **1** — Epektibong Introduksiyon | Totoong karanasan (paglipat ng mag-asawang Cabusas) bilang panimula; malinaw ang tema at ang apat na punto sa intro; sinabi kung bakit mahalaga ito sa bawat tagapakinig |
-| **3** — Paggamit ng mga Tanong | Ang apat na pangunahing punto ay nakabalangkas bilang tanong; magkakasunod na tanong sa "Ang trend ngayon" at sa "Bakit ayaw nating tanggapin"; tanong pang-repaso bago ang bawat teksto |
+| **1** — Epektibong Introduksiyon | Nagbubukas sa tanong ("Alam n'yo po ba na may dalawang klaseng paalam?"); totoong karanasan (paglipat ng mag-asawang Cabusas); malinaw ang tema at ang apat na punto; ipinakita kung bakit mahalaga — ang pattern ng buhay ng tao at ang "you only live once" ng sanlibutan |
+| **3** — Paggamit ng mga Tanong | Tanong ang panimula ng buong pahayag; ang apat na pangunahing punto ay nakabalangkas bilang tanong (kasama ang ikatlo, na muling binuo bilang "may kamatayan po bang hindi naging wakas?" para tunay na magtaka ang tagapakinig); magkakasunod na tanong sa "Bakit ganoon ang sanlibutan?" at sa "Bakit ayaw nating tanggapin"; tanong pang-repaso bago ang bawat teksto |
 | **4** — Angkop na Introduksiyon sa Teksto | Bawat teksto ay may panimula na nagsasabi kung ano ang hahanapin ("bilangin po natin," "pansinin po ninyo ang salitang…") |
 | **6** — Ipakita ang Kahalagahan ng Teksto | Pagkatapos ng bawat teksto, inuulit ang susing salita at iniuugnay sa punto — hindi basta lumilipat sa susunod |
 | **8** — Mga Ilustrasyong Nakapagtuturo | Dalawang simpleng ilustrasyon lang: ang utang na binayaran ng iba (pantubos) at ang warranty ng appliance (garantiya). Walang detalyeng walang kaugnayan |
