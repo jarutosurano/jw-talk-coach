@@ -4,6 +4,44 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.22.0] - 2026-08-27
+
+### Blg. 184 v4 — Seksiyon 3 at 4 rebuilt from the jw.org research; line-by-line outline analysis
+
+**Added:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/v4/index.md` — new version so v3 stays intact for comparison. Seksiyon 1, 2 and the header are carried over unchanged; Seksiyon 3, 4 and the conclusion are new.
+- `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/outline-analysis.md` — every outline line mapped to its key point, why it is there, and how it connects to the lines around it.
+- Nav entry in `mkdocs.yml`.
+
+**Seksiyon 3 — rebuilt around the missing link:**
+- The outline jumps from "walang nagawang kasalanan si Jesus" straight to "bayad na ang utang natin" without ever saying **why a perfect human life was the required price**. That gap is why the section did not make sense read aloud. A new block supplies it: what Adam actually lost, why justice requires an exact equivalent, and the collapsed-building illustration — the man is alive but cannot self-rescue, and nobody blames him for it.
+- Restructured into six named beats, each one a question: **Ang utang → Ang problema → Ang tao → Ang bayad → Ang kondisyon → Ang resibo.**
+- **"Legal na karapatan" now gets explained rather than asserted.** Research could not verify that phrase anywhere on www.jw.org, so the weight moves onto Juan 10:18 ("Walang taong kumukuha nito sa akin") and the Gawa 2:24 study note — death had no power over him, so holding him would have been a violation. Illustrated with ₱1,000 in your pocket that you already owe: you are holding it, but it is not yours to give.
+- **"Iniharap" now has an answer to "why?"** — a payment has to be handed to the one owed. Hebreo 9:12 uses the outline's own verb, and the high-priest contrast carries it: the priest brought blood that was not his own, year after year; Jesus brought his own, once. The once-ness is the proof it worked.
+- **"Saligan" translated into plain language** — a legal basis, so forgiveness is not Jehovah waiving justice or playing favourites. Two of the ransom's three benefits are available *now*, which is why the outline says "ngayon": we can be Jehovah's friends while still imperfect.
+- **Juan 3:36 now argues from its own grammar** — the opposite of "nananampalataya" is not "hindi naniniwala" but "sumusuway," so faith is visible in obedience. The speaker does not have to assert it; the sentence structure does. Paired with the doctor's free medicine that still has a dosage.
+- **Juan 17:3** — two things to know, and "makilala" is in a continuous form: a relationship, not a set of facts. That is exactly the outline's "Patuloy… at kumilos."
+- **"Garantiya" = "patunay."** The study note makes the resurrection evidence rather than encouragement. And the Araw ng Paghuhukom is a thousand years of education where people are judged on what they do then, not on their past — because "kapag namatay na ang isang tao, napawalang-sala na siya," which is the same verse the section opened with.
+
+**Seksiyon 4 — reweighted, not just rewritten:**
+- Eight main points in seven minutes is a list, not a talk. Three points now carry the section and the rest are kept tight.
+- **Job 14:15 is the new emotional centre, and the direction is corrected: Jehovah is the one yearning, not Job.** The Hebrew is among the strongest words in the language for longing, and it describes God's feeling toward his dead servant.
+- **Daniel 12:13 replaces Roma 6:22 as the theme-word payoff**, since it carries "wakas" twice in the current Tagalog. Job reasoned his way to the hope; Daniel was told it to his face, by name.
+- **Two resurrections told well instead of three told thinly.** Nain keeps what makes it unique — nobody asked for a miracle, and Jesus handed the son back to his mother rather than presenting him to the crowd. Lazarus keeps the tears: Jesus wept knowing he was about to raise him, which means grief is not weak faith. Jairus is one line, and the private nature of that account (Luc 8:51, 56) is respected.
+- **Mateo 22:31, 32 kept and sharpened with the arithmetic** — Abraham 329 years dead, Isaac 224, Jacob 197, and "Ako ANG Diyos ni Abraham" in the present tense.
+- Job 26:14's own whisper-versus-thunder contrast answers the unspoken "won't eternity get boring," with the article's best move: don't speculate — look at the busiest publisher you know.
+
+**Conclusion rebuilt** to recap the new sections, and Roma 6:22 now leans on **"umaakay"** — two roads, two destinations — instead of a word the 2019 revision no longer contains.
+
+**Timing, stated honestly:**
+- The full text is **5,229 spoken words ≈ 35 minutes** at 150 wpm. That does not fit a 30-minute slot, and the header says so.
+- The full text is deliberately the **preparation document**. Every block that can be dropped is marked `{OPTIONAL}` — skipping all of them leaves **4,157 words ≈ 27.7 minutes**, which is the delivery path.
+- The header instructs the speaker to time a run-through first, and names what to cut next if the real rate is slower than 150 wpm.
+
+**Also corrected in v4:** the "wakas" table in KAUGNAYAN now shows the verified texts per section and flags that Roma 6:22 no longer carries the word; the flow diagram documents the six beats of Seksiyon 3 and the reweighted Seksiyon 4.
+
+---
+
 ## [4.21.0] - 2026-08-27
 
 ### Blg. 184 v3 — intro folded into Seksiyon 1; jw.org research on every outline line; two accuracy corrections
