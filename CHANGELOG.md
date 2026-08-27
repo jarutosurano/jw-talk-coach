@@ -4,6 +4,42 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.23.0] - 2026-08-27
+
+### Blg. 184 v4 Seksiyon 3 — the two unverifiable claims are now sourced verbatim
+
+The speaker supplied the full text of the three older articles that the web research could
+only see as search snippets. Everything the outline leans on and the publications had never
+been shown to say in one place is in them.
+
+**Added:**
+- `reference/articles/` — new git-ignored folder for full article texts, with `reference/articles/` added to `.gitignore` and the folder documented in `CLAUDE.md`. Same reasoning as `reference/books/`: the repo is public, so full copyrighted article text stays local and only short cited excerpts are committed.
+- `reference/articles/w91-isang-katumbas-na-pantubos-para-sa-lahat.md`
+- `reference/articles/w91-kayoy-binili-sa-halaga.md`
+- `reference/articles/w90-ano-ba-ang-kabuluhan-sa-iyo-ng-kamatayan-ni-jesus.md`
+
+**Gaps closed — every one of these was previously flagged "do not build a point on this":**
+- **"Legal na karapatan" exists verbatim** — *"Hindi iniwala ni Kristo ang legal na karapatan sa buhay na iyan dahilan sa di-kasakdalan"* (w91, "Kayo'y Binili sa Halaga" ¶4). The outline's phrase is the publication's phrase after all; the earlier research simply could not reach the article.
+- **Why not an angel, and why not a "Diyos-tao"** — *"Ang isang espiritung nilalang o isang 'Diyos-tao' ay hindi maaaring makatimbang bilang pag-ayon sa katarungan"* (w91 ¶12), plus *"Hindi isang anghel ang sinugo ng Diyos upang sumagip sa sangkatauhan"* (¶15).
+- **Why the value had to be presented at all** — *"upang ang haing iyon ay maging legal at mabisa, si Kristo'y kinailangan na humarap nang personal sa Diyos mismo"* (¶1), and the Day of Atonement parallel turns out to be the publication's own framing, not an illustration we invented (¶2).
+- **Why "binuhay bilang espiritu" is in the outline at all** — the ransom was *"hindi kailanman binawi, sapagkat siya'y hindi binuhay-muli bilang isang taong may laman at dugo"* (w90). Had he been raised human, he would have taken back what he paid.
+- **Why God cannot simply forgive** — stated far more sharply than our paraphrase: *"ipagwawalang-bahala ng Diyos ang kaniyang sariling matuwid na mga pamantayan, upang mapawalang-bisa ang kaniyang sariling legal na katarungan!"* (¶3).
+- **The ransom is a legal transaction, not a physical swap** — *"para bang ang isa'y dumukot ng salapi sa kaniyang bulsa at inilagay sa bulsa ng iba"* (¶17).
+
+**Changed — `docs/talks/30min/184-.../v4/index.md`, Seksiyon 3:**
+- "Legal na karapatan" is now stated with the publication's own wording behind it instead of being asserted and then propped up with substitutes.
+- Added the reason no angel could serve, since it is now sourced.
+- Added the ark-cover illustration for exact equivalence — *"may hugis na katulad na katulad ng kaban mismo"* — which is concrete where our "eksakto" was abstract.
+- "Bakit kailangang iharap" now opens with the published answer before the debt analogy.
+- Added why "binuhay bilang espiritu" matters, which finally gives 1 Pedro 3:18 a reason to be in the section.
+- Added the pocket-to-pocket line and "legal na transaksiyon" as an `{OPTIONAL}` beat.
+- Timing after the additions: full text **5,477 words ≈ 36.5 min**; delivery path (all `{OPTIONAL}` skipped) **4,243 words ≈ 28.3 min**.
+
+**Changed — `talks/30min/184-.../research/pantubos-seksiyon-3.md`:**
+- Header now records which gaps closed and quotes each source. Adds four illustrations not yet used in the script and says so plainly: the factory manager (inherited sin, ransom, and why Adam is excluded — one illustration, three points), the 22,000-versus-22,273 Levite arithmetic from Bilang 3, Noah's pitch for *ka·pharʹ*, and Pentecost 33 C.E. as a second receipt alongside Gawa 17:31.
+
+---
+
 ## [4.22.1] - 2026-08-27
 
 ### Blg. 184 — Bantayan Agosto 2020 read from the PDF; research gap #1 closed

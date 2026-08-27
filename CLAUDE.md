@@ -54,6 +54,22 @@ Full copyrighted JW publication PDFs are stored here for research/citation. This
 | w | Ang Bantayan (Pag-aaral) Hunyo 2026 | `w_TG_202606.pdf` |
 | w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
 
+### Article Texts (`reference/articles/`)
+
+Full text of individual articles the speaker supplies (pasted from JW Library, typed up, or
+copied from a publication). This folder is **git-ignored** (`.gitignore`: `reference/articles/`)
+for the same reason as `reference/books/` — the repo is public, so full copyrighted article
+text stays local. Only short cited excerpts go into committed research/outline files.
+
+**Naming:** `[publication-symbol][year]-[title-slug].md` (e.g. `w91-kayoy-binili-sa-halaga.md`).
+
+**Currently stored:**
+| Symbol | Title | Why |
+|--------|-------|-----|
+| w91 | Isang Katumbas na Pantubos Para sa Lahat | Blg. 184 Sek. 3 — "bakit hindi anghel," katumbas na pantubos, ilustrasyon ng pabrika |
+| w91 | "Kayo'y Binili sa Halaga" | Blg. 184 Sek. 3 — **the verbatim "legal na karapatan sa buhay"**, and why the value had to be presented in heaven |
+| w90 | Ano ba ang Kabuluhan sa Iyo ng Kamatayan ni Jesus? | Blg. 184 Sek. 3 — the rights attached to the life Adam lost; why "binuhay bilang espiritu" matters |
+
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 
 **IMPORTANT: All published markdown files (in `docs/`) need YAML frontmatter:**

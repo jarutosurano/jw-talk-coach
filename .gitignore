@@ -27,3 +27,6 @@ reference/books/
 .env*
 secrets/
 .clickup-session-context.json
+
+# Full article texts (copyrighted, local-only, never published)
+reference/articles/

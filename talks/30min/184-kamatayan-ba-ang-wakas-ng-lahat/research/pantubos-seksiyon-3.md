@@ -1,5 +1,73 @@
 # Research: Mekanismo ng Pantubos (Seksiyon 3) — jw.org lamang
 
+> ## ✅✅ UPDATE (Ago 27) — SARADO NA ANG DALAWANG PINAKAMALAKING BUTAS
+>
+> Ibinigay ng tagapagsalita ang buong teksto ng tatlong artikulo. Naka-save sa
+> **`reference/articles/`** (git-ignored, lokal lang):
+> `w91-isang-katumbas-na-pantubos-para-sa-lahat.md` ·
+> `w91-kayoy-binili-sa-halaga.md` · `w90-ano-ba-ang-kabuluhan-sa-iyo-ng-kamatayan-ni-jesus.md`
+>
+> **Nasa loob ang lahat ng hindi ma-verify sa www.jw.org:**
+>
+> **1. "LEGAL NA KARAPATAN" — NAKITA, VERBATIM** (*"Kayo'y Binili sa Halaga"* ¶4):
+> > "**Hindi iniwala ni Kristo ang legal na karapatan sa buhay na iyan dahilan sa
+> > di-kasakdalan**, kaya't ang kaniyang ibinuhos na dugo ay may napakalaking halaga at
+> > maaaring ihandog nga sa harap ng Diyos."
+>
+> **2. BAKIT HINDI ANGHEL, BAKIT HINDI "DIYOS-TAO" — NAKITA, VERBATIM**
+> (*"Isang Katumbas na Pantubos"* ¶12):
+> > "Ang taong maaaring maging pantubos ay kailangang isang sakdal na taong laman at dugo—ang
+> > eksaktong katumbas ni Adan. **Ang isang espiritung nilalang o isang 'Diyos-tao' ay hindi
+> > maaaring makatimbang bilang pag-ayon sa katarungan.**"
+>
+> At ¶15: "**Hindi isang anghel ang sinugo ng Diyos upang sumagip sa sangkatauhan.**"
+>
+> **3. BAKIT KAILANGANG IHARAP — NAKITA, VERBATIM** (*"Kayo'y Binili"* ¶1-2):
+> > "**Ngunit upang ang haing iyon ay maging legal at mabisa, si Kristo'y kinailangan na
+> > humarap nang personal sa Diyos mismo.** Ito'y inilarawan noong Araw ng Pagtubos na ang
+> > mataas na saserdote ay pumapasok sa Kabanal-banalan."
+>
+> → **Ang paghahambing sa mataas na saserdote ay hindi atin — sa publikasyon mismo galing.**
+>
+> **4. "LEGAL NA TRANSAKSIYON," HINDI PISIKAL NA PALITAN** (*"Isang Katumbas"* ¶17):
+> > "ang pagtubos ay hindi napapauwi sa isang walang-saysay, automatikong palitan, **na para
+> > bang ang isa'y dumukot ng salapi sa kaniyang bulsa at inilagay sa bulsa ng iba. Ang
+> > pagtubos ay hindi gaanong isang pisikal na palitan kundi isang LEGAL NA TRANSAKSIYON.**"
+>
+> **5. BAKIT MAHALAGA ANG "BINUHAY BILANG ESPIRITU" (1 Pe 3:18)** — w90:
+> > "Ang sakdal na buhay-tao ni Jesus, taglay ang lahat ng karapatan at mga pag-asa niyaon,
+> > ay inihandog sa kamatayan **at hindi kailanman binawi, sapagkat siya'y hindi binuhay-muli
+> > bilang isang taong may laman at dugo kundi isang walang-kamatayang espiritung nilikha.**"
+>
+> → **Kung tao siyang binuhay-muli, binabawi niya ang ibinayad.** Iyan ang dahilan kung bakit
+> nasa outline ang 1 Pedro 3:18.
+>
+> **6. BAKIT HINDI NA LANG BASTA MAGPATAWAD — verbatim, mas malakas sa paraphrase natin** (¶3):
+> > "**Kung basta lamang patatawarin ang kasalanan ng tao, ipagwawalang-bahala ng Diyos ang
+> > kaniyang sariling matuwid na mga pamantayan, upang mapawalang-bisa ang kaniyang sariling
+> > legal na katarungan!** … Ang anumang paglihis niya sa matuwid ay lalo lamang magpapatibay-
+> > loob sa kaninuman ukol sa paglabag sa kautusan at **sisirain ang kaniyang posisyon bilang
+> > Pansansinukob na Soberano.**"
+>
+> ### Mga BAGONG ilustrasyon mula sa mga artikulo
+>
+> | Ilustrasyon | Saan | Bakit gumagana |
+> |---|---|---|
+> | ⭐ **Ang takip ng kaban** — *"may hugis na katulad ng kaban mismo"* (kap·poʹreth) | w91 ¶8 | Larawan ng **eksaktong katumbas** — kongkreto, hindi abstraktong "eksakto" |
+> | ⭐ **22,000 laban sa 22,273** — Bilang 3:39-51; **273 ang sobra**, tinubos sa 5 siklo bawat isa; *"ang palitan ay kailangang eksakto"* | w91 ¶9 | **Aritmetika, hindi teorya.** Pinatunayan ng Diyos mismo na eksakto ang hinihingi niya |
+> | ⭐⭐ **Ang mandarayang manedyer ng pabrika** — bumagsak ang negosyo dahil sa isang tao; daan-daang empleyado, pamilya, at pinagkakautangan ang naghirap; may mayamang tagapagpalang nagbayad ng utang at muling binuksan ang pabrika — **pero nakabilanggo ang manedyer** | w91 ¶14 | Minanang kasalanan **at** pantubos **at** bakit hindi kasama si Adan — **isang ilustrasyon, tatlong punto** |
+> | **Ang sahing ng daong ni Noe** (ka·pharʹ = "takpan") | w91 ¶7 | Ang salitang "pantubos" ay literal na **"pantakip"** |
+> | **Pentecostes 33 C.E.** — napuspos ng espiritu ang 120 | w91 ¶5 (Binili) | **Ikalawang resibo** kasama ng Gawa 17:31 — nakita ang pagtanggap |
+>
+> ### Naipasok na sa v4 Seksiyon 3
+> ✅ bakit hindi anghel · ✅ legal na karapatan (verbatim) · ✅ takip ng kaban ·
+> ✅ bakit kailangang humarap nang personal · ✅ legal na transaksiyon ·
+> ✅ bakit "binuhay bilang espiritu"
+>
+> **Hindi pa naipasok** (walang oras): ang pabrika, ang 22,000/22,273, ang sahing ni Noe,
+> ang Pentecostes. Nasa `reference/articles/` kung magkakaroon ng lugar.
+
+
 > Ang mga sipi ay dumaan sa summarizer. **I-verify ang pananalita** bago gawing quotation.
 > Tanging ang mga tekstong nasa outline ang binabasa nang malakas.
 

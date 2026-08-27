@@ -300,7 +300,11 @@ Ito po ang bahaging madalas nating nalalaktawan. At ito po ang susi sa lahat.
 
 Ano ba talaga ang **nawala** kay Adan? **Sakdal na buhay ng tao.** Hindi anghel, hindi espiritu — sakdal na buhay ng tao.
 
-Ngayon po, kung may nasira ka at babayaran mo, magkano? Hindi kulang, hindi sobra — **eksakto.** Iyan po ang katarungan. Kaya kung **sakdal na buhay ng tao** ang nawala, **sakdal na buhay ng tao rin ang kailangan.**
+Ngayon po, kung may nasira ka at babayaran mo, magkano? Hindi kulang, hindi sobra — **eksakto.** Iyan po ang katarungan.
+
+`{OPTIONAL}` At may larawan po nito sa Bibliya. Base sa referensya natin, ang takip ng kaban ng tipan ay **may hugis na katulad na katulad ng kaban mismo** — tugmang-tugma. Ganoon po ang hinihingi ng katarungan.
+
+Kaya kung **sakdal na buhay ng tao** ang nawala, **sakdal na buhay ng tao rin ang kailangan.** Kaya nga po, hindi anghel ang isinugo ni Jehova. Base sa referensya natin: ang isang espiritung nilalang, o kahit ang tinatawag ng iba na "Diyos-tao," ay **hindi makakatimbang** bilang pag-ayon sa katarungan. **Tao po ang nawala; tao rin ang kailangan.**
 
 At heto po ang problema. Lahat po tayo ay ipinanganak nang kulang na — kaya sabi sa Awit 49, **walang taong makatutubos sa kapatid niya.**
 
@@ -328,6 +332,8 @@ Mabigat pong pakinggan — pero simple lang po ito.
 
 Ganoon po ang buhay natin: hawak natin, pero **may utang na kamatayan.** Si Jesus po — walang utang. Kaya ang buhay niya ay **talagang kaniya. Siya lang po ang may maibibigay.**
 
+Ganito po ito sinasabi ng referensya natin: **hindi iniwala ni Kristo ang legal na karapatan sa buhay na iyan dahil sa di-kasakdalan** — kaya napakalaki po ang halaga ng iniharap niya.
+
 Sinabi po niya mismo sa **Juan 10:18:** *"Walang taong kumukuha nito sa akin, kundi ibinibigay ko ito sa sarili kong pagkukusa."* **Walang kumuha. Walang inutang. Iniabot po niya.**
 
 Kaya ganito inilarawan ng **Gawa 2:24** ang nangyari:
@@ -354,15 +360,19 @@ Buksan po natin ang **1 Pedro kabanata 3, bersikulo 18.** Pansinin po ang huling
 !!! quote "1 Pedro 3:18"
     "Dahil si Kristo ay namatay nang minsanan para sa mga kasalanan, isang taong matuwid para sa mga di-matuwid, para maakay kayo sa Diyos. Pinatay siya na laman pero binuhay bilang espiritu."
 
+Pansinin po ang huling parirala: *"binuhay bilang espiritu."* Mahalaga po iyan. Base sa referensya natin, ang sakdal na buhay-tao ni Jesus ay inihandog sa kamatayan **at hindi na kailanman binawi** — dahil hindi po siya binuhay-muli bilang taong may laman at dugo. `{OPTIONAL}` Kung tao po siyang binuhay-muli, **binabawi po niya ang ibinayad niya.**
+
 **==Nang buhaying-muli si Jesus bilang espiritung nilalang, iniharap niya kay Jehova ang halaga ng kaniyang sakdal na buhay bilang tao.==**
 
-Bakit po kailangang **iharap**? Kasi kung may utang ka at may nagbayad para sa iyo, hindi sapat na **may pera** siya — kailangan pong **maiabot** iyon sa pinagkakautangan.
+Bakit po kailangang **iharap**? Ganito ang sagot ng referensya natin: **para maging legal at mabisa ang hain na iyon, kinailangan ni Kristo na humarap nang personal sa Diyos mismo.** Kasi po kung may utang ka at may nagbayad para sa iyo, hindi sapat na **may pera** siya — kailangan pong **maiabot** iyon sa pinagkakautangan.
 
 At may paghahambing na po ang Bibliya dito. Noong panahon ng Kautusan, minsan sa isang taon, pumapasok ang mataas na saserdote sa pinakabanal na silid na may dalang dugo. Pero pansinin po: ang dugong dala niya ay **hindi kaniya**, at kailangan itong gawin **taon-taon** — dahil walang natatapos.
 
 Si Jesus po? **Ang sarili niyang dugo. At minsanan lang.** At ang pagka-minsanan po ang patunay na tumagos.
 
-Kaya po, **==sa gayon ang pagkakautang natin kay Jehova dahil sa pagiging mga makasalanan ay bayad na.==** Hindi hulugan, hindi may discount — **bayad na.** At **==may saligan na ngayon para patawarin ang ating minanang kasalanan.==**
+Kaya po, **==sa gayon ang pagkakautang natin kay Jehova dahil sa pagiging mga makasalanan ay bayad na.==** Hindi hulugan, hindi may discount — **bayad na.**
+
+`{OPTIONAL}` At hindi po ito basta automatikong palitan — parang dumukot lang ng pera sa isang bulsa at inilagay sa kabila. Base sa referensya natin, **ang pagtubos ay hindi gaanong pisikal na palitan kundi isang legal na transaksiyon.** Sa halip na ipaubaya ang katarungan, **binayaran mismo ni Jehova ang malaking halaga** — at sa gayon **muli niyang pinatunayan na hindi siya lumilihis sa tama.** At **==may saligan na ngayon para patawarin ang ating minanang kasalanan.==**
 
 Ano po ang **"saligan"**? **Legal na batayan** po iyon. **Hindi po ipinapaubaya ni Jehova ang katarungan kapag pinapatawad niya tayo** — ipinapatupad po niya ang bayad na talagang nabayaran. Kaya hindi po paboritismo ang kapatawaran.
 
