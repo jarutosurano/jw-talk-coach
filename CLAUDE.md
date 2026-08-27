@@ -51,6 +51,8 @@ Full copyrighted JW publication PDFs are stored here for research/citation. This
 |--------|-------|------|
 | lmd | Mahalin ang mga Tao—Gumawa ng mga Alagad (Love People, Make Disciples) | `lmd-mahalin-ang-mga-tao-gumawa-ng-mga-alagad.pdf` |
 | jr | Mensahe ng Diyos sa Pamamagitan ni Jeremias | `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf` |
+| w | Ang Bantayan (Pag-aaral) Hunyo 2026 | `w_TG_202606.pdf` |
+| w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 

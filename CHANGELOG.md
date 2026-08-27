@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.22.1] - 2026-08-27
+
+### Blg. 184 — Bantayan Agosto 2020 read from the PDF; research gap #1 closed
+
+**Added:**
+- `reference/books/w_TG_202008.pdf` (git-ignored, local only) — the speaker downloaded the August 2020 Tagalog Watchtower, which is the issue the web fetcher refused on copyright grounds. Logged in `CLAUDE.md` under Reference Books.
+
+**Changed:**
+- `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/research/pagkabuhay-muli-seksiyon-4.md` — the article (Araling Artikulo 33, Okt 12-18, p. 14-18) is now quoted from the PDF directly rather than through a summarizer, so these quotes are reliable.
+
+**What the article supplies that the research could not reach before:**
+- **"MAKIKILALA KAYA NATIN ANG MGA BUBUHAYING MULI?"** — Lazarus is the proof, and the four-day detail turns out to do double duty: *"Apat na araw na siyang patay kaya nagsisimula nang maagnas ang katawan niya. Pero noong buhayin siya ni Jesus, nakilala agad siya ng mga kapatid niya."* The detail is not only about the magnitude of the miracle; it answers the question every bereaved person actually carries — will I still recognise them?
+- The tender second reason: the resurrected will not be made perfect immediately, *"Dahil kung perpekto na sila, baka hindi sila makilala ng mga mahal nila sa buhay."*
+- **"MARUNONG SI JEHOVA"** — a new angle that serves the talk's stated goal directly: the fear of death is a weapon (*"Ang pagkatakot sa kamatayan ay isang mabisang sandata"*), and the resurrection hope disarms it — *"nawalan ng saysay ang isa sa pinakamabisang sandata ni Satanas."* This closes the talk's arc: in Seksiyon 1 the fear of death dictates how people live ("you only live once"); here that fear loses its grip.
+- **"MATIISIN SI JEHOVA"** — confirms verbatim the line the earlier research had only in fragment: *"Magtitiis siya hanggang sa panahong iyon kahit gustong-gusto na niyang buhayin ang mga patay."* Plus a line that supports Seksiyon 3's "saligan… ngayon": *"handang palampasin ni Jehova ang ating mga kasalanan."*
+- **"MAHAL TAYO NI JEHOVA"** — *"tinatandaan niya ang lahat ng iyong iniisip, nararamdaman, sinasabi, at ginagawa"* and *"Tinatandaan niya ang mga karanasang humuhubog sa ating pagkatao."*
+
+**Still outstanding:** the "legal na karapatang mabuhay" reasoning. The outline cites w09 9/15 ¶15 (obtained, but it is about presenting the value in heaven, not the legal right) and w81 1/15 ¶25 (not reachable). The reasoning itself appears in three older Tagalog articles that exist only in Watchtower Online Library / JW Library, not as jw.org downloads: *"Isang Katumbas na Pantubos Para sa Lahat"* (w91), *"Kayo'y Binili sa Halaga"* (w91), and *"Ano ba ang Kabuluhan sa Iyo ng Kamatayan ni Jesus?"* (w90). v4 does not depend on them — it carries the point on Juan 10:18 and the Gawa 2:24 study note instead.
+
+---
+
 ## [4.22.0] - 2026-08-27
 
 ### Blg. 184 v4 — Seksiyon 3 at 4 rebuilt from the jw.org research; line-by-line outline analysis

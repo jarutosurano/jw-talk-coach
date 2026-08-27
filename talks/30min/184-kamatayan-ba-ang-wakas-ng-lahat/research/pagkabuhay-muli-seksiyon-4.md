@@ -456,3 +456,99 @@ Na-verify na slug: `job` `daniel` `mateo` `lucas` `juan` `roma` `eclesiastes` `a
 
 Iba: `/tl/library/aklat/` · `/tl/library/magasin/` · `/tl/turo-ng-bibliya/mga-tanong/` ·
 `/tl/turo-ng-bibliya/teksto-sa-bibliya/`
+
+---
+
+# ✅ NASARAAN NA ANG BUTAS #1 — buong Bantayan Agosto 2020 (mula sa PDF)
+
+**Pinagmulan:** `reference/books/w_TG_202008.pdf` (git-ignored) — Araling Artikulo 33,
+Okt 12-18, p. 14-18. **Direkta sa PDF, hindi dumaan sa summarizer — mapagkakatiwalaan ang
+mga sipi sa ibaba.**
+
+## ★★★ "MAKIKILALA KAYA NATIN ANG MGA BUBUHAYING MULI?" — ang sagot
+
+Dalawang dahilan ang ibinigay, at **ang una ay may patunay mula sa Bibliya:**
+
+> "batay sa mga pagkabuhay-muli noon, lumilitaw na **muling lalalangin ni Jehova ang mga
+> tao para ibalik ang kanilang hitsura at paraan ng pagsasalita at pag-iisip na gaya rin
+> noong bago sila mamatay.** Tandaan, itinulad ni Jesus ang kamatayan sa pagtulog at ang
+> pagkabuhay-muli sa paggising. **Kapag nagising ang mga tao, ang kanilang hitsura,
+> pagsasalita, at pag-iisip ay katulad din noong bago sila matulog.**"
+
+★★★ **AT ITO ANG PINAKAMALAKING REGALO PARA SA SEKSIYON 4:**
+
+> "Tingnan ang nangyari kay Lazaro. **Apat na araw na siyang patay kaya nagsisimula nang
+> maagnas ang katawan niya. Pero noong buhayin siya ni Jesus, nakilala agad siya ng mga
+> kapatid niya, at tiyak na nakilala rin sila ni Lazaro.**"
+
+→ **Ang detalyeng "apat na araw" ay hindi lang tungkol sa kalakhan ng himala — PATUNAY ITO
+NG PAGKAKAKILALA.** Apat na araw nang nagsisimulang maagnas — **at nakilala pa rin agad.**
+Iyan ang direktang sagot sa tahimik na tanong ng bawat namatayan: *"makikilala ko pa kaya siya?"*
+
+**Ikalawang dahilan — at napakalambing:**
+
+> "ang mga bubuhaying muli ay magkakaroon ng malusog na katawan. **Pero hindi agad sila
+> magiging perpekto. Dahil kung perpekto na sila, baka hindi sila makilala ng mga mahal
+> nila sa buhay.**"
+
+→ **Sinasadya ni Jehova na huwag agad gawing perpekto ang mga binuhay-muli — para makilala
+sila.** Iyan po ang lalim ng pag-iisip niya sa muling pagkikita.
+
+## "ANONG KAGALAKAN ANG IBIBIGAY SA ATIN NG PAGKABUHAY-MULI?"
+
+> "**Isipin ang mararamdaman mo kapag nakita mo ulit ang iyong mga mahal sa buhay.
+> Mapapatalon ka ba sa tuwa o maiiyak? Mapapaawit ka ba para kay Jehova?**"
+
+## "PAANO KAYA MANGYAYARI ANG PAGKABUHAY-MULI?"
+
+> "makatuwiran lang na isiping **hindi niya sila bubuhayin nang sabay-sabay.** Bakit? Dahil
+> kung biglang dadami ang tao sa lupa, malamang na magdulot ito ng kaguluhan."
+> "ang mga bubuhaying muli ay **tuturuan ng mga makakaligtas sa Armagedon** tungkol sa
+> Kaharian ng Diyos at sa mga kahilingan ni Jehova. Bakit? Dahil **karamihan sa mga
+> bubuhaying muli ay kabilang sa mga 'di-matuwid.'**" (Gawa 24:15)
+
+**Caption ng larawan sa p. 15:** *"Isang lalaking American Indian na namatay daan-daang taon
+na ang nakakaraan ang binuhay-muli sa Paraiso. Isang brother na nakaligtas sa Armagedon ang
+masayang nagtuturo sa binuhay-muling lalaki tungkol sa mga kailangan niyang gawin para
+makinabang sa pantubos ni Kristo."*
+
+## "MAHAL TAYO NI JEHOVA" — ang memorya
+
+> "kapag binuhay ni Jehova ang mga tao, **ibabalik niya ang memorya nila at personalidad.**
+> Ano ang ipinapakita nito? Ipinapakita nitong mahal na mahal ka ni Jehova at **tinatandaan
+> niya ang lahat ng iyong iniisip, nararamdaman, sinasabi, at ginagawa.**"
+> "**Tinatandaan niya ang mga karanasang humuhubog sa ating pagkatao.**" (+ Awit 139:1-4)
+
+## ★★★ "MARUNONG SI JEHOVA" — BAGONG ANGGULO, at direkta sa layunin ng pahayag
+
+> "**Ang pagkatakot sa kamatayan ay isang mabisang sandata.** Ginagamit ito ng mga kampon ni
+> Satanas para pilitin ang mga tao na magtaksil sa kanilang mga kaibigan o makipagkompromiso.
+> **Pero hindi nila tayo mapipilit.** Alam natin na patayin man tayo ng mga kaaway, bubuhayin
+> naman tayo ni Jehova."
+
+> "Talagang marunong si Jehova sa pagbibigay sa atin ng pag-asang pagkabuhay-muli! Dahil dito,
+> **nawalan ng saysay ang isa sa pinakamabisang sandata ni Satanas** at nagkaroon tayo ng
+> lakas ng loob na manatiling tapat kay Jehova."
+
+→ **Hindi lang pang-aliw ang pag-asa sa pagkabuhay-muli — sandata ito.** Inaalis nito ang
+hawak ng takot sa kamatayan. Ikonekta sa Seksiyon 1: doon, ang takot sa kamatayan ang
+nagdidikta kung paano mamumuhay ang tao (*you only live once*). Dito, **nawawalan ng
+kapangyarihan ang takot na iyon.** Iyan ang pinakamalinis na pagsasara ng arko ng pahayag.
+
+## "MATIISIN SI JEHOVA" — kumpirmado, verbatim
+
+> "**Magtitiis siya hanggang sa panahong iyon kahit gustong-gusto na niyang buhayin ang mga
+> patay.** (Job 14:14, 15) **Hinihintay niya ang takdang panahon ng pagbuhay-muli sa kanila.**"
+> "**Gusto ni Jehova na hangga't maaari, maraming tao ang magkaroon ng pagkakataong mabuhay
+> nang walang hanggan.**"
+
+★ **At may linyang nakakatulong sa Seksiyon 3** (ang "saligan… ngayon"):
+> "Matiyagang maghihintay si Jehova hanggang sa matapos ang isang libong taon bago niya
+> asahang maging perpekto tayo. **Hangga't hindi pa dumarating ang panahong iyon, handang
+> palampasin ni Jehova ang ating mga kasalanan.**"
+
+## Mga ulo ng seksiyon (kumpirmado)
+
+PAANO KAYA MANGYAYARI ANG PAGKABUHAY-MULI? · MAKIKILALA KAYA NATIN ANG MGA BUBUHAYING MULI? ·
+ANONG KAGALAKAN ANG IBIBIGAY SA ATIN NG PAGKABUHAY-MULI? · MAHAL TAYO NI JEHOVA ·
+MARUNONG SI JEHOVA · MATIISIN SI JEHOVA
