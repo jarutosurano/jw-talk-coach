@@ -4,6 +4,52 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.21.0] - 2026-08-27
+
+### Blg. 184 v3 — intro folded into Seksiyon 1; jw.org research on every outline line; two accuracy corrections
+
+**Changed:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/v3/index.md`
+
+**Added (non-published, repo only):**
+- `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/outline-structure.md`
+- `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/research/pantubos-seksiyon-3.md`
+- `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/research/pagkabuhay-muli-seksiyon-4.md`
+- `talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/research/hope-bigger-picture.md`
+
+**Intro folded into Seksiyon 1 (Aralin 1):**
+- The standalone `## INTRO` section is gone. The whole of Seksiyon 1 is now the introduction, per the speaker's request. Theme is spoken at ~minute 2; the roadmap of questions moved to the end of the section.
+- **Four questions became three.** Seksiyon 1 no longer previews itself, so Seksiyon 2/3/4 are now "ang unang tanong / ikalawang tanong / huling tanong." TEMA table, green headings, conclusion recap, KAUGNAYAN diagram, Aralin checklist and SUMMARY all realigned.
+- New sub-blocks: `### Gaano po kadami?` (deaths per second, plus what the moment of loss actually feels like), `### Ano ang sinasabi ng mga tao?` (the three most common things said, all phrased in parallel), `### Ano ang sinasabi ng sanlibutan?`, `### Ano ang sinasabi ng Bibliya?`, `### Tatlong tanong po ang sasagutin natin`.
+- Ec 7:2 now explained plainly — handaan makes us forget, lamay makes us remember; and *why* "dapat itong isapuso ng mga buháy": a person who forgets he will die lives without direction.
+- Two `{OPTIONAL}` cut markers added so the section can run 6 minutes instead of 7 without damage.
+- Deu 2:15 / Jos 10:20 deliberately **not** read aloud — the current NWT Tagalog renders those "nalipol"/"naubos"; the outline's "sumasapit sa kaniyang kawakasan" is the pre-2019 wording, so it is spoken as explanation only.
+
+**Seksiyon 2 — expanded where the outline was vague:**
+- Added a `!!! tip "FORMULA"` box: **Alabok ng lupa + Hininga ng buhay = Buháy na tao**, and its reverse.
+- The kaluluwa point now turns on one word — ***naging***, not *nagkaroon*. Older Tagalog renderings read "naging isang kaluluwang buháy"; the person *is* the soul, so the right question is "ano ang nangyari sa tao?" not "saan napunta ang kaluluwa?"
+- Death as absence, with the light-bulb illustration (bulb + current = light; kill the switch and no light flies off anywhere) — then kadiliman = absent ng liwanag, lamig = absent ng init, kamatayan = absent ng hininga. The bulb stays intact, which is a deliberate hook forward to Seksiyon 3-4.
+- **Ec 3:19, 20 (hayop) now has a stated purpose** — it closes the last escape hatch: if something inside a human survived death, humans would have an advantage over animals in dying, and the Bible says they do not. Reasoned with the audience's own logic (nobody says a dead dog's soul went to heaven).
+- **Ec 9:5, 6, 10 now has two concrete applications** — the "nagpaparamdam si tatay" belief (walang alam ang mga patay, so it is not them), and the guilt a bereaved person carries ("baka nalulungkot si nanay dahil hindi ko siya naalagaan") answered with the Bible's comfort.
+- Ec 3:11 connected explicitly: Jehovah himself put the longing there, so he has a plan to fill it — and the world is chasing the same "magpakailanman", only trying to squeeze it into 70 years.
+
+**Accuracy corrections:**
+- **Removed the claim that Jesus' three resurrections form a deliberately escalating sequence** (same-day → same-day → four days). Research found no jw.org support for a designed progression; four-day significance is stated for Lazarus only, and the other two accounts give no elapsed time. Replaced with the verified version, and public verifiability now rests on Nain and Lazarus — **Jairus's daughter was the private one** (only four people admitted, Luc 8:51, with instructions afterward not to tell, v. 56).
+- **Roma 6:22 no longer contains "wakas" in the 2019 Tagalog revision.** It reads "…at umaakay ito sa buhay na walang hanggan," with no footnote offering the older word. The outline reflects the pre-2019 rendering. `outline-structure.md` carries the correction and moves the theme-word payoff to **Daniel 12:13**, which is already in the outline and contains "wakas" twice: "manatili kang matatag hanggang sa wakas… sa wakas ng mga araw, babangon ka." In Ec 7:2 the wakas is a boundary; in Dan 12:13 it is a door.
+
+**`outline-structure.md` — the outline's real skeleton:**
+- Indent levels extracted from `w:ind w:left` in `S-34_TG_184.docx`, so main points (142) are distinguishable from sub-points (425) and detail (709).
+- Main-point counts per section: **2 / 4 / 5 / 8**. Seksiyon 4 is the densest — eight main points in seven minutes.
+- Establishes that the "garantiya sa lahat ng mga tao" line is a **main point (142), not the section's conclusion** — its job is the bridge into Seksiyon 4.
+
+**Research files (jw.org only, non-published):**
+- `pantubos-seksiyon-3.md` — the ransom mechanism. Documents that **"legal na karapatang mabuhay" cannot be verified anywhere on www.jw.org** (the reasoning survives only in 1990-91 articles reachable through wol, which does not fetch), and likewise the "why not an angel / why not Jehovah himself" argument. Supplies verified substitutes: Juan 10:18 ("Walang taong kumukuha nito sa akin"), the Gawa 2:24 study note (death had no power over him), Awit 49:7-9 verbatim, the Enero 2026 collapsed-building illustration, the "isang tao… isang tao rin" line, and Hebreo 9 — which uses the outline's own verb "iharap" and contrasts taon-taon vs minsanan, "may dugong hindi sa kaniya" vs "ang sarili niyang dugo."
+- `pagkabuhay-muli-seksiyon-4.md` — the resurrection section, with a tiered weighting recommendation for fitting eight main points into seven minutes, the Job 14:15 finding (the Hebrew for "mananabik" is among the strongest words for longing, and the direction is **God yearning for the dead man**), the Mateo 22:31, 32 arithmetic (Abraham 329 years dead, Isaac 224, Jacob 197 — present tense), and the located `w11 5/1 p.27` boredom article.
+- `hope-bigger-picture.md` — hope for children who lost a parent, for widows, and for everyone; Awit 68:5 ("Ama ng mga batang walang ama at tagapagtanggol ng mga biyuda"); the 2019 rendering of Juan 11:33, "parang kinurot ang puso niya"; the keys pairing (grief locks the door and takes the keys / Jesus holds "ang mga susi ng kamatayan"); and Filipino experiences including Sheryl, 13, who lost her parents and three siblings in Yolanda.
+- All three files carry explicit gap lists. Quotes passed through a fetch summarizer and are marked for verification; pre-2019 article quotations are flagged so no superseded Bible wording is read aloud.
+
+---
+
 ## [4.20.0] - 2026-08-24
 
 ### Blg. 184 v3 — intro rebuilt from the speaker's own draft; question 3 reframed

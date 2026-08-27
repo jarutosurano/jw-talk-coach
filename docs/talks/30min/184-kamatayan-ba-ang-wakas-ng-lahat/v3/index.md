@@ -16,21 +16,27 @@ title: 'Kamatayan Ba ang Wakas ng Lahat? (v3)'
 
     **Layunin:** Mangumbinsi — na walang pag-asa ang tao kung wala ang pantubos at ang Kaharian, at na dapat tayong lubos na manampalataya rito.
 
-    | # | Ulo sa outline | Ang tanong na binibigkas |
+    | # | Ulo sa outline | Papel sa pahayag |
     |---|---|---|
-    | 1 | Ang wakas ng lahat ng mga tao | Talaga nga bang kamatayan ang wakas ng lahat ng bagay? |
-    | 2 | Ano nga ba ang kamatayan? | Ano nga ba ang kamatayan? |
-    | 3 | Kung bakit hindi naging wakas ang kamatayan ni Jesus | May kamatayan po bang hindi naging wakas? |
-    | 4 | Ano ang magiging kahulugan ng "wakas" para sa iyo? | Ano ang magiging kahulugan ng "wakas" para sa iyo? |
+    | 1 | Ang wakas ng lahat ng mga tao | **Introduksiyon + paglalatag ng problema.** Nagtatapos sa: *"Paano natin ito uunawain? Talaga nga bang kamatayan ang wakas ng lahat ng bagay?"* — at sa roadmap ng tatlong tanong |
+    | 2 | Ano nga ba ang kamatayan? | **Unang tanong:** ano nga ba ang kamatayan? |
+    | 3 | Kung bakit hindi naging wakas ang kamatayan ni Jesus | **Ikalawang tanong:** may kamatayan po bang hindi naging wakas? |
+    | 4 | Ano ang magiging kahulugan ng "wakas" para sa iyo? | **Panghuling tanong:** ano ang magiging kahulugan ng "wakas" para sa iyo? |
 
     **Susing salita na uulit-ulitin:** *wakas* · *pantubos* · *pagkabuhay-muli*
 
 !!! note "Delivery Reminders"
-    Normal na pagsasalita — hindi pagkukuwento at hindi padrama. Natural ang emosyon, hindi pilít (**Aralin 12**). Bawat teksto: sabihin muna kung bakit babasahin, saka basahin, saka itampok ang susing salita (**Aralin 4, 6**). Pagkatapos ng bawat halimbawa: *"Ano ang matututuhan natin dito, mga kapatid?"* (**Aralin 18**). Huminto sandali bago lumipat sa bagong punto (**Aralin 14**). Target: ~25 minuto.
+    Normal na pagsasalita — hindi pagkukuwento at hindi padrama. Natural ang emosyon, hindi pilít (**Aralin 12**). Bawat teksto: sabihin muna kung bakit babasahin, saka basahin, saka itampok ang susing salita (**Aralin 4, 6**). Pagkatapos ng bawat halimbawa: *"Ano ang matututuhan natin dito, mga kapatid?"* (**Aralin 18**). Huminto sandali bago lumipat sa bagong punto (**Aralin 14**). **Oras:** 4,150 salita ang bibigkasin — mga 28 minuto kung mabilis, mga 31 kung normal ang bilis. Timingin ang run-through; kung kailangang paikliin, sa Seksiyon 3 at 4 ang bawas (hindi pa naaayos ang dalawang ito sa bagong balangkas).
+
+    **Estadistika (Aralin 7):** ang "mahigit 60 milyon kada taon / 170,000 kada araw / halos 2 kada segundo" ay galing sa pampublikong tantiya ng UN, hindi sa publikasyon natin. Kaya "mahigit," "mga," at "halos" ang gamit — huwag itong sabihing eksaktong bilang.
 
 ---
 
-## INTRO [2 minuto]
+## 1 — "ANG WAKAS NG LAHAT NG MGA TAO" [7 minuto]
+
+!!! note "Nasa loob na ng seksiyong ito ang introduksiyon"
+    Sinunod ang **Aralin 1**: (1) kunin ang interes — ang dalawang klaseng paalam; (2) linawin ang paksa — ang tema ay binibigkas sa minuto 2; (3) ipakita kung bakit mahalaga — ang paniniwala sa kamatayan ang nagdidikta kung paano mamumuhay ang isa. Ang tatlong tanong (roadmap) ay nasa dulo ng seksiyon, dahil ang buong seksiyon ang introduksiyon.
+    **Oras:** 7 minuto — tugma sa inilaan ng outline sa seksiyong ito. Kung laktawan ang dalawang bahaging may markang `{OPTIONAL}`, mga 6 minuto. Hindi po kasya sa 5 minuto ang introduksiyon at ang paliwanag sa Ec 7:2 nang sabay — kaya 6 minuto ang pinakamaikli.
 
 Alam n'yo po ba na may dalawang klaseng paalam?
 
@@ -40,102 +46,112 @@ Halimbawa, kahapon lang po ay tuluyan nang nagpaalam ang mag-asawang Cabusas —
 
 **{pause — malamang na papalakpak ang mga kapatid}**
 
-Iyong pangalawang klaseng paalam po, iyong wala na talaga. Tapos na.
+Iyong pangalawang klaseng paalam po, iyong wala nang balikan. Tapos na. **Iyon na ang wakas.**
 
-At sigurado po ako, lahat tayo rito ay nakaranas na nito. Nawalan tayo ng mahal sa buhay. May nawalan ng kapatid. Ng nanay. Ng tatay. Ng lola. Ng lolo.
-
-Ang iba naman po, nawalan ng aso. O ng pusa. Puwede po ba iyon? Puwede naman. Masakit din po iyon.
+At sigurado po ako, lahat tayo rito ay nakaranas na nito. May nawalan ng kapatid. Ng nanay. Ng tatay. Ng lola. Ng lolo. Ang iba naman po, nawalan ng aso o ng pusa — puwede po ba iyon? Puwede naman po. Masakit din po iyon.
 
 **{pause}**
 
-Kung palalimin po natin, ito po ang pattern ng buhay ng tao. Isinilang. Bata. Tatanda. Mamatay.
+Opo — ang pangalawang klaseng paalam ay ang **kamatayan.** At iyan po ang tinatawag ng Bibliya na **==ang wakas ng lahat ng mga tao.==**
 
-Alam n'yo po ba ang ending sa buhay ng tao? **Kamatayan.**
-
-At iyan po ang dahilan kung bakit ganito ang ini-advertise ng sanlibutang ito. Gawin mo ang gusto mo — kasi *you only live once.* Mag-enjoy ka, deserve mo iyan — kasi isang beses ka lang mabubuhay.
-
-**{pause}**
-
-Kaya po ito ang malaking tanong, at ito rin po ang tema natin ngayong umaga: **Kamatayan Ba ang Wakas ng Lahat?**
-
-Apat na tanong po ang sasagutin natin mula sa Bibliya.
-
-**Una** — talaga nga bang kamatayan ang wakas ng lahat ng bagay?
-
-**Ikalawa** — ano nga ba ang kamatayan?
-
-**Ikatlo** — may kamatayan po bang hindi naging wakas?
-
-**At panghuli** — ano ang magiging kahulugan ng "wakas" para sa iyo?
+Kaya po ito ang tema natin ngayong umaga: **Kamatayan Ba ang Wakas ng Lahat?**
 
 ---
 
-## 1 — "Ang Wakas ng Lahat ng mga Tao" [5 minuto]
+### Gaano po kadami?
 
-<mark class="green">**Ang unang tanong po natin: talaga nga bang kamatayan ang wakas ng lahat ng bagay?**</mark>
+**==Milyun-milyong tao ang namamatay taun-taon sa buong lupa.==** Mahigit animnapung milyon po — mga 170,000 kada araw, o halos **dalawang tao kada segundo.**
 
-### Ang sinasabi ng tao
-
-Milyun-milyong tao po ang namamatay taun-taon sa buong lupa. Hindi po iyan estadistika lang — bawat isa riyan ay may pamilyang naiwan.
-
-At napansin n'yo po ba na sa tuwing may namamatay, laging may sinasabi ang mga tao para aliwin ang mga nagdadalamhati? Karaniwan na pong sinasabi na ang mga namatay ay kasama na ng Diyos.
-
-Pero base sa referensya natin, kapag tiningnan mo ang buong mundo, **iba-iba po ang paniniwala tungkol dito.** Sa Amerika, may inang nagsabi sa harap ng kabaong ng anak niya na mas maligaya na ito ngayon dahil gusto ng Diyos na makasama ito sa langit. Sa India, may pamilyang naniniwalang ang kaluluwa ay patuloy na naglalakbay. Sa Sri Lanka, iniiwang bukás ang mga pinto at bintana kapag may namatay. Sa Kanlurang Aprika, tinatakpan ang mga salamin.
-
-Iba-ibang bansa. Iba-ibang paniniwala. Pero pansinin po natin ang pinagkakaisahan nila: lahat sila ay may sinasabing **may natitira pa.**
-
-At meron din po namang mga taong sasabihin sa inyo na bahagi lang naman ng buhay ang kamatayan at tanggap na nila ito. Pero kapag pinakinggan natin sila sa mismong burol, madalas ay may sinasabi rin silang parang nabubuhay pa ang namatay.
-
-Ano po ang ipinapakita nito? Na **hindi matanggap kahit ng mga nagsasabing bahagi na ng buhay ang kamatayan na ito ang wakas.**
-
-### Bakit ganoon ang sanlibutan?
+Ibig sabihin po, sa mga minutong nagsasalita ako sa harap ninyo ngayon, mahigit limang daang tao na ang namatay sa buong mundo.
 
 **{pause}**
 
-Ngayon po, may mas malalim pa tayong dapat pag-isipan.
+Pero hindi po numero ang kamatayan kapag ikaw na ang nangyarihan.
 
-Binanggit po natin kanina ang ini-a-advertise ng sanlibutan — ang *"you only live once."* Pero pansinin po natin ang isang bagay.
+Ganito po iyon. May tumawag sa telepono. O may kumatok sa pinto. Kaunting salita lang po ang sinabi — pero pagkatapos ng mga salitang iyon, hindi na pareho ang lahat.
 
-Sa loob ng punerarya, pinapalamutian ng mga tao ang kamatayan para gumaan ang loob. Sa labas naman ng punerarya, sinusunggaban nila ang buhay para hindi masayang. Magkasalungat po ang dalawang reaksiyong iyan.
+Kinabukasan po, gigising ka pa rin. Kakain pa rin. Papasok pa rin sa trabaho. Pero may kulang na — at alam mo po, sa kaloob-looban mo, na hindi na iyon babalik.
 
-Pero iisa lang po ang pinagmumulan ng dalawa: ang paniniwalang **ang kamatayan ang wakas ng lahat.**
+Iyan po ang pangalawang klaseng paalam.
 
-At kung iisipin po natin, may lohika nga naman ang sanlibutan. Kung 70 o 80 taon lang ang lahat ng meron ka, at pagkatapos ay wala na — hindi po ba makatuwiran ngang sunggaban mo na ang lahat ngayon?
+---
 
-Ano po ang matututuhan natin dito, mga kapatid? Na hindi po ito basta tanong para sa punerarya. Ang paniniwala ng isang tao tungkol sa kamatayan ang nagdidikta kung paano siya mamumuhay araw-araw — kung ano ang inuuna niya, at para saan siya nagtatrabaho.
-
-Kaya mahalaga pong makuha natin ang tamang sagot.
-
-### Ang sinasabi ng Bibliya
+### Ano ang sinasabi ng mga tao?
 
 **{pause}**
 
-Ngayon naman po, ano ang sinasabi ng Salita ng Diyos?
+Napansin n'yo po ba na sa tuwing may namamatay, laging may sinasabi ang mga tao para aliwin ang mga nagdadalamhati? Tatlo po ang pinakakaraniwan.
 
-Baka isipin natin na palalambutin nito ang bagay na ito. Pero hindi po. Sa Bibliya, tuwirang binabanggit na kapag namatay ang isa, siya ay sumasapit sa kaniyang kawakasan.
+**Ang una** — na kasama na ng Diyos ang namatay. `{OPTIONAL}` May guro po ako noon na may sinabi tungkol sa isang sanggol na babae na namatay. Sabi po niya, namatay ang bata dahil kailangan ng Diyos ng isa pang anghel. Alam ko pong mabuti ang intensiyon niya — iyon po ang naituro sa kaniya.
 
-Buksan po natin ang **Eclesiastes kabanata 7, bersikulo 2.** Habang hinahanap n'yo, ganito po ang tanong natin: aling lugar ang sinasabi ng Bibliya na mas makabubuti para sa atin — ang bahay ng namatayan, o ang bahay na may handaan?
+**Ang ikalawa** — na may bahagi sa loob ng tao, kaluluwa ang tawag nila, na hindi namamatay; at kapag namatay ang katawan, patuloy pa itong naglalakbay.
+
+**Ang ikatlo** — na bahagi na lang naman ng buhay ang kamatayan, kaya tanggapin na lang natin.
+
+Base po sa referensya natin, iba-iba ang paniniwala tungkol dito sa buong mundo. Iba-ibang bansa, iba-ibang kaugalian. Pero pansinin po natin kung saan sila nagkakaisa: lahat po sila ay may sinasabing **may natitira pa.**
+
+At kahit po iyong pangatlo — iyong mga nagsasabing tanggap na nila — sa mismong burol, may sinasabi rin silang parang nasa ibang lugar lang ang namatay.
+
+Ano po ang matututuhan natin dito, mga kapatid? Na **==hindi matanggap kahit na ng mga nagsasabing bahagi na ng buhay ang kamatayan na ito ang wakas.==**
+
+---
+
+### Ano ang sinasabi ng sanlibutan?
+
+Iisa lang po ang paniniwala, pero dalawa ang naging reaksiyon. Sa loob ng punerarya, pinapaganda ng tao ang kamatayan para gumaan ang loob. Sa labas naman, sinusunggaban nila ang buhay para hindi masayang.
+
+Kaya po ito ang ini-advertise ng sanlibutan: *live life to the fullest.* Gawin mo na ngayon ang gusto mo habang may buhay ka pa — kasi *you only live once.*
+
+At kung tutuusin po, may lohika naman iyon. Kung 70 o 80 taon lang ang lahat ng meron ka, at pagkatapos ay wala na — bakit hindi mo nga sunggaban ang lahat ngayon?
+
+Ano po ang matututuhan natin dito? Na hindi po ito basta tanong para sa punerarya. **Ang paniniwala ng isang tao tungkol sa kamatayan ang nagdidikta kung paano siya mamumuhay araw-araw** — kung ano ang inuuna niya, at para saan siya nagtatrabaho. Kaya po mahalagang makuha natin ang tamang sagot.
+
+---
+
+### Ano ang sinasabi ng Bibliya?
+
+**{pause}**
+
+Baka po isipin natin na palalambutin ito ng Bibliya. Hindi po. **==Binabanggit ng Bibliya na kapag namatay ang isa, siya ay 'sumasapit sa kaniyang kawakasan.'==** Wala nang susunod.
+
+Buksan po natin ang **Eclesiastes kabanata 7, bersikulo 2.** Habang hinahanap n'yo po, ito ang tanong natin: aling lugar ang sinasabi ng Bibliya na mas makabubuti para sa atin — ang bahay ng namatayan, o ang bahay na may handaan?
 
 *[Basahin ang Eclesiastes 7:2]*
 
 !!! quote "Eclesiastes 7:2"
     "Mas mabuting pumunta sa bahay ng namatayan kaysa sa bahay na may handaan, dahil iyon ang wakas ng lahat ng tao, at dapat itong isapuso ng mga buháy."
 
-Napansin n'yo po ang dahilan na ibinigay ng teksto? *"Dahil iyon ang wakas ng lahat ng tao."*
+Ano po ang ibig sabihin nito?
 
-Sa handaan po, nalilimutan natin ang katotohanang ito. Sa burol, naaalala natin. At sinasabi ng teksto na **dapat itong isapuso ng mga buháy** — hindi para malungkot tayo, kundi para maging tama ang pananaw natin sa buhay.
+Simple lang po. Sa handaan, nakakalimutan natin na mamamatay tayo. Sa lamay, naaalala natin. Hindi po sinasabi ng teksto na masaya sa lamay — ang sinasabi po, mas **makabubuti** sa atin doon, dahil doon tayo nagiging tapat sa sarili natin.
 
-Tuwiran po ang sinasabi ng Bibliya: ang kamatayan ay **==ang wakas ng lahat ng mga tao.==** Walang exempted — mayaman o mahirap, bata o matanda.
+At pansinin po natin ang huling parirala: **dapat itong isapuso ng mga buháy.** Bakit po? Dahil ang taong nakalimot nang mamamatay siya ay nabubuhay nang walang direksiyon — basta na lang. Pero ang taong laging tanda ito ay maingat sa paggamit ng buhay niya.
 
-Kaya heto po ang tanong natin: **paano natin ito uunawain? Talaga nga bang kamatayan ang wakas ng lahat ng bagay?**
+`{OPTIONAL}` Para po ilarawan: parang bakasyon pong may return ticket. Kapag alam mo ang petsa ng alis, hindi mo sinasayang ang mga araw — pinaplano mo ang mahalaga. Pero kung aakalain mong walang katapusan ang bakasyon, palipas-oras lang po ang gagawin mo.
 
-Para po masagot iyan, kailangan muna nating malaman kung ano nga ba talaga ang kamatayan.
+Kaya po tuwiran ang sagot ng Bibliya: ang kamatayan ay **ang wakas ng lahat ng mga tao.** Walang exempted — mayaman o mahirap, bata o matanda.
 
 ---
 
-## 2 — Ano Nga Ba ang Kamatayan? [5 minuto]
+### Tatlong tanong po ang sasagutin natin
 
-<mark class="green">**Kaya ang ikalawang tanong po natin: ano nga ba ang kamatayan?**</mark>
+**{pause}**
+
+**==Paano natin ito uunawain? Talaga nga bang kamatayan ang wakas ng lahat ng bagay?==**
+
+Para po masagot iyan, tatlong bagay ang aalamin natin mula sa Bibliya.
+
+**Una** — ano nga ba talaga ang kamatayan?
+
+**Ikalawa** — may isa po palang kamatayan sa kasaysayan na hindi naging wakas. Alamin po natin kung bakit.
+
+**At panghuli** — kapag naikonekta na natin ang dalawang iyon: ano ang magiging kahulugan ng "wakas" para sa iyo?
+
+---
+
+## 2 — ANO NGA BA ANG KAMATAYAN? [8 minuto]
+
+<mark class="green">**Ang unang tanong po natin: ano nga ba ang kamatayan?**</mark>
 
 ### Ang formula ng buhay
 
@@ -148,17 +164,58 @@ Buksan po natin ang **Genesis kabanata 2, bersikulo 7.** Bilangin po natin haban
 !!! quote "Genesis 2:7"
     "At inanyuan ng Diyos na Jehova ang tao mula sa alabok ng lupa at inihihip sa mga butas ng ilong nito ang hininga ng buhay, at ang tao ay nagkaroon ng buhay."
 
-Dalawa lang po: **alabok ng lupa** at **hininga ng buhay.**
+Dalawa lang po: **alabok ng lupa** at **hininga ng buhay.** Kaya po ganito ang formula:
 
-At pansinin po natin ang huling parirala. Hindi po sinabi na binigyan ng Diyos ang tao ng kaluluwa. Ang sinabi: *"ang tao ay nagkaroon ng buhay."* Ang tao mismo ang naging buháy.
+!!! tip "FORMULA"
+    **Alabok ng lupa + Hininga ng buhay = Buháy na tao**
 
-Ano po ang matututuhan natin dito, mga kapatid? Kung iyan ang formula ng buhay, ang kamatayan po ay **==ang kabaligtaran ng proseso==** na iyon. Kapag nawala ang hininga at bumalik ang katawan sa lupa, wala pong natitirang bahagi na patuloy na nabubuhay.
+    Kaya ang kamatayan ay ang kabaligtaran nito:
 
-Iyan din po ang sinasabi ng Awit 146:4. Ang hininga niya ay nawawala, bumabalik siya sa lupa, at — pansinin po ang eksaktong pananalita — **sa araw ding iyon ay naglalaho ang pag-iisip niya.** Hindi po pagkalipas ng 40 araw. Sa araw ding iyon.
+    **Buháy na tao − Hininga ng buhay = Alabok**
 
-### Tatlong bagay na winawakasan nito
+Ngayon po, pansinin natin ang huling parirala. Hindi po sinabi na *binigyan* ng Diyos ang tao ng kaluluwa. Ang sinabi: *"ang tao ay nagkaroon ng buhay."* Sa mga dating salin po ng Bibliya, ganito ang mababasa: ang tao ay *"naging isang kaluluwang buháy."*
 
-Gaano po kalalim ang wakas na iyon? Sinasabi po ito nang malinaw ng isa pang teksto.
+Pansinin po ang salita: **naging.** Hindi *nagkaroon* — **naging.** Kung *nagkaroon,* may bagay pong nailagay sa loob ng tao na puwedeng ilipat sa ibang lugar. Pero kung *naging* — **ang tao mismo po ang kaluluwa.**
+
+Kaya po ang tamang tanong ay hindi *"saan napunta ang kaluluwa?"* Ang tanong po ay *"ano ang nangyari sa tao?"*
+
+---
+
+### Ang kamatayan ay ang kabaligtaran ng prosesong iyon
+
+Ano po ang matututuhan natin dito, mga kapatid? Kung iyan ang formula ng buhay, ang kamatayan po ay **==ang kabaligtaran ng proseso==** na iyon.
+
+Base po sa referensya natin, kapag huminto ang paghinga, unti-unting naglalaho ang puwersa ng buhay sa katawan. Hindi po ito lumalabas at pumupunta sa ibang lugar — **tumitigil po lang ito.**
+
+Iyan din po ang sinasabi ng Awit 146:4. **==Humihinto ang paghinga; nauubos ang puwersa ng buhay; naglalaho ang pag-iisip.==** At pansinin po ang eksaktong pananalita: *"sa araw ding iyon."* Hindi po pagkalipas ng 40 araw.
+
+Para po ilarawan. Bumbilya kasama ang kuryente — iyon po ang ilaw. Ngayon po, patayin natin ang switch. Saan napunta ang ilaw? Lumabas po ba ito at lumipad sa ibang lugar? Wala po. Hindi po lumipat ang ilaw — **tumigil lang po ito.**
+
+Ganiyan po rin ang ibang bagay. Ano ang kadiliman? **Absent ng liwanag.** Ano ang lamig? **Absent ng init.** At ano po ang kamatayan? **Absent ng hininga. Absent ng puwersa ng buhay.**
+
+Pero may isang bagay pong dapat nating pansinin sa bumbilya. Kahit patay ang ilaw, **buo pa naman po ang bumbilya.** May makapagsasauli po ng ilaw — basta may kuryente siya. Tandaan po natin iyan; babalikan po natin mamaya.
+
+---
+
+### Kaya nga walang kahigitan ang tao sa hayop
+
+Baka po may magtanong: pero hindi ba may kaluluwa ang tao na wala sa hayop?
+
+Sinasabi po ng Eclesiastes 3:19 at 20 na sa bagay na ito, **==walang kahigitan ang kamatayan ng tao sa kamatayan ng hayop; sila ay magkatulad.==** Iisa po ang puwersa ng buhay nila. Lahat po ay galing sa alabok, at lahat ay babalik sa alabok.
+
+Bakit po kaya isinama iyan ng Bibliya? Isipin po natin. Kapag namatay ang alaga nating aso, wala pong nagsasabi na umakyat ang kaluluwa nito sa langit. Pero kapag tao ang namatay, iyon po agad ang sinasabi. Bakit magkaiba, kung pareho naman ang proseso?
+
+Iyan po ang punto. Kung may bahagi sa loob ng tao na hindi namamatay, dapat po ay may kahigitan siya sa hayop pagdating sa kamatayan. Pero sabi ng Bibliya, **wala.**
+
+Ano po ang matututuhan natin dito? Na wala pong nakatagong parte sa loob natin na magliligtas sa atin. Kaya kung may pag-asa po tayo, hindi po iyon dahil sa may hawak tayo. **Dahil po iyon sa gagawin ni Jehova.**
+
+---
+
+### Apat na bagay na winawakasan ng kamatayan
+
+**{pause}**
+
+Gaano po kalalim ang wakas na iyon? Malinaw po itong sinasabi ng isa pang teksto.
 
 Buksan po natin ang **Eclesiastes kabanata 9, bersikulo 5, 6, at 10.** Habang binabasa, bilangin po natin kung ilang bagay ang winawakasan ng kamatayan.
 
@@ -167,25 +224,25 @@ Buksan po natin ang **Eclesiastes kabanata 9, bersikulo 5, 6, at 10.** Habang bi
 !!! quote "Eclesiastes 9:5, 6, 10"
     "Dahil alam ng mga buháy na mamamatay sila, pero walang alam ang mga patay; wala na rin silang tatanggaping gantimpala, dahil lubusan na silang nalimutan. Naglaho na rin ang kanilang pag-ibig, poot, at inggit, at wala na silang bahagi sa anumang gawain sa ilalim ng araw. … Anuman ang puwede mong gawin, gawin mo nang buong makakaya, dahil wala nang gawain, pagpaplano, kaalaman, o karunungan sa Libingan, kung saan ka pupunta."
 
-Nabilang n'yo po ba? Tatlo. Ang **pag-iisip** — *"walang alam ang mga patay."* Ang **emosyon** — *"naglaho na rin ang kanilang pag-ibig, poot, at inggit."* At ang **gawain** — *"wala nang gawain, pagpaplano, kaalaman, o karunungan sa Libingan."*
+Apat po. **==Winawakasan ng kamatayan ang lahat ng komunikasyon, emosyon, pag-iisip, at pag-iral.==** Pansinin po ang mismong pananalita: *"walang alam"* — pag-iisip. *"Naglaho na rin ang kanilang pag-ibig, poot, at inggit"* — emosyon. *"Wala na silang bahagi sa anumang gawain"* — gawain at komunikasyon.
 
-Sinasabi rin po sa Eclesiastes 3:19 at 20 na sa bagay na ito, ang tao ay walang kahigitan sa hayop. Lahat po ay galing sa alabok, at lahat ay babalik sa alabok.
+Ikapit po natin ito sa dalawang totoong sitwasyon.
 
-Ano po ang matututuhan natin dito? Dalawang bagay.
+**Una.** May naniniwala pong kapag namatay ang isang tao, may lumalabas sa kaniya at nagpaparamdam. Kaya may nagsasabi: *"nagpaparamdam si tatay."* Ano po ang sagot ng Bibliya? **Walang alam ang mga patay,** at wala na silang bahagi sa anumang gawain. Kaya kung may nagpaparamdam po, **hindi po sila iyon.**
 
-Una, may kaaliwan po dito. Ang mga mahal natin sa buhay na namatay ay **hindi nagdurusa.** Hindi po sila nasasaktan, hindi nalulungkot, at hindi nababahala para sa atin. Kung nag-alala po tayo dati tungkol dito, mapapanatag na po tayo ngayon.
+**Ikalawa** — at ito po ang mas malapit sa puso. May mga naiwan pong nagdadala ng pagsisisi. *"Baka nalulungkot si nanay dahil hindi ko siya naalagaan nang maayos."* O, *"Baka hinihintay pa niya ako."* Mga kapatid, heto po ang kaaliwan ng Bibliya: **hindi po siya nalulungkot. Hindi po siya nasasaktan. Hindi po siya nababahala para sa atin.** Ang mga mahal natin sa buhay na namatay ay **hindi nagdurusa.** Para po silang natutulog nang mahimbing na walang panaginip.
 
-Ikalawa, ito po ang dahilan kung bakit importante ang mensahe natin ngayong umaga. Kung ganito po kalalim ang kamatayan, wala pong tao ang makakaahon dito sa sarili niyang lakas.
+Pero pansinin din po natin ang kabilang panig. Kung ganito po kalalim ang kamatayan, wala pong tao ang makakaahon dito sa sarili niyang lakas.
+
+---
 
 ### Pero bakit ayaw nating tanggapin?
 
 **{pause}**
 
-Ngayon po, may isang bagay na kakaiba, at gusto kong pag-isipan natin ito.
+Balikan po natin ang hayop. Kung magkatulad naman po sila ng tao pagdating sa kamatayan, bakit tayo nababahala tungkol dito at sila hindi? Bakit tayo lang ang nagtatanong?
 
-Kung ang tao po ay walang kahigitan sa hayop pagdating sa kamatayan, bakit tayo nababahala tungkol dito? Nakakita na po ba kayo ng hayop na nagtatanong kung ano ang mangyayari sa kaniya pagkamatay? Wala po. Tayo lang ang nagtatanong. Bakit kaya?
-
-Buksan po natin ang **Eclesiastes kabanata 3, bersikulo 11.** May isang pananalita po rito na sasagot sa tanong na iyan. Pakinggan po natin kung ano ang inilagay ng Diyos sa puso ng tao.
+Buksan po natin ang **Eclesiastes kabanata 3, bersikulo 11.** Pakinggan po natin kung ano ang inilagay ng Diyos sa puso ng tao.
 
 *[Basahin ang Eclesiastes 3:11]*
 
@@ -194,19 +251,25 @@ Buksan po natin ang **Eclesiastes kabanata 3, bersikulo 11.** May isang pananali
 
 *"Inilagay pa nga niya sa puso nila ang magpakailanman."*
 
-Ano po ang ibig sabihin niyan, mga kapatid? Na **nilalang po tayo para mabuhay magpakailanman.** Kaya po kapag may namatay sa atin, alam ng puso natin na may mali — dahil mali nga. Hindi po iyon kahinaan ng pananampalataya. Iyan po ang disenyo ni Jehova sa atin.
+**==Nakababahala po ito sa atin dahil nilalang tayo para mabuhay magpakailanman.==** Kaya po kapag may namatay sa atin, alam ng puso natin na may mali — **dahil mali nga.** Hindi po iyon kahinaan ng pananampalataya; iyan po ang disenyo ni Jehova sa atin.
 
-At pansinin po natin kung paano ito nagpapaliwanag sa napag-usapan natin kanina. Ang mundo po pala ay habol din ang magpakailanman — kaya lang, sinusubukan nilang isiksik ito sa loob ng 70 taon. Kaya kahit gaano karaming karanasan at ari-arian ang ipunin nila, hindi po ito sapat. Hindi po kasi kasya ang magpakailanman sa 70 taon.
+At si Jehova mismo po ang naglagay ng pananabik na iyan. Hindi po siya nanunukso. **Kung may naglagay ng pananabik sa puso mo, may plano po siyang punan ito.**
 
-Kaya po ang tanong: may sagot ba si Jehova sa pananabik na inilagay niya mismo sa puso natin?
+At heto po ang nagpapaliwanag sa napag-usapan natin kanina. Ang sanlibutan po pala ay habol din ang magpakailanman — sinusubukan lang nilang isiksik ito sa loob ng 70 taon. **Hindi po kasi kasya ang magpakailanman sa 70 taon.**
 
-Meron po. At iyan mismo ang tinalakay natin noong Memoryal. Kasi po may isang kamatayan sa kasaysayan na hindi naging wakas.
+---
+
+### Saan galing ang pag-asa?
+
+Kaya po dalawang tao, pareho ang alam na kamatayan ang wakas — pero magkaiba ang tinatakbo. Ang isa po ay sinusunggaban ang buhay ngayon dahil wala siyang ibang pag-asa. Ang isa naman po ay **may pag-asa.**
+
+Saan galing ang pag-asang iyon? **==Ang mga katotohanang tinalakay sa taunang pag-alaala sa kamatayan ni Kristo ay nagbibigay sa atin ng pag-asa.==** Dumalo po tayong lahat doon. Kasi po may isang kamatayan sa kasaysayan na hindi naging wakas.
 
 ---
 
 ## 3 — Kung Bakit Hindi Naging Wakas ang Kamatayan ni Jesus [6.5 minuto]
 
-<mark class="green">**Ang ikatlong tanong po natin: may kamatayan po bang hindi naging wakas?**</mark>
+<mark class="green">**Ang ikalawang tanong po natin: may kamatayan po bang hindi naging wakas?**</mark>
 
 Meron po. At para maunawaan natin kung bakit, tatlong tanong po ang sasagutin natin dito.
 
@@ -324,9 +387,9 @@ Tatlong ulat po ang nakatala sa Ebanghelyo, at pansinin po natin na tumataas ang
 
 **Ang ikatlo** ang pinakamahirap. Si Lazaro po ay apat na araw nang patay. Sabi mismo ng kapatid niyang si Marta: *"Panginoon, malamang na nangangamoy na siya dahil apat na araw na siyang patay."* Sa paningin po ng tao, wala nang pag-asa. Pero sumigaw si Jesus: *"Lazaro, lumabas ka!"* At lumabas po ang taong namatay.
 
-Ano po ang matututuhan natin dito, mga kapatid? Pansinin po ang pagkakasunod-sunod: kararaan pa lang, nasa loob na ng bahay, at apat na araw nang nakalibing. **Tumataas ang hirap, pero pareho ang resulta.**
+Ano po ang matututuhan natin dito, mga kapatid? Sa kaso po ni Lazaro, apat na araw na siyang patay — kaya sabi mismo ng kapatid niya na nangangamoy na siya. Sa paningin ng tao, wala nang pag-asa. Pero pareho po ang resulta.
 
-At hindi po ito ginawa nang palihim. Napakarami ang nakakita, kaya kahit ang mga kaaway ni Jesus ay hindi maikaila na nangyari ito.
+At hindi po ito ginawa nang palihim. Sa Nain, dalawang grupo ng tao ang nagtagpo sa pintuang-daan ng lunsod. Sa libingan ni Lazaro, napakarami ang nakakita. Kaya nga po, hindi itinanggi ng mga kaaway ni Jesus na nangyari ito — sinubukan pa nga nila siyang patayin dahil doon.
 
 Kaya po dalawang bagay ang **ipinakita sa atin ni Jesus: gusto at kaya ni Jehova na buhaying-muli ang mga patay.**
 
@@ -359,7 +422,7 @@ Magkakaroon po tayo ng **walang-hanggang pagkakataon na matuto nang higit tungko
 
 ## CONCLUSION [1.5 minuto]
 
-Mga kapatid at mga kaibigan, apat na tanong po ang sinagot natin ngayong umaga.
+Mga kapatid at mga kaibigan, balikan po natin ang tinalakay natin ngayong umaga.
 
 Nakita po natin na **ang kamatayan nga ang wakas ng lahat ng mga tao** — tapat ang Bibliya tungkol dito. Nakita rin natin **kung ano ang kamatayan** — na wala pong natitira, pero inilagay ni Jehova sa puso natin ang magpakailanman. Tapos nakita natin na **may isang kamatayan na hindi naging wakas** — dahil walang utang si Jesus, kaya nagawa niyang bayaran ang atin, at iyan ang garantiya sa lahat ng mga tao. At nakita natin **kung ano ang magiging kahulugan ng "wakas" para sa atin** — dahil gusto at kaya ni Jehova na buhaying-muli ang mga patay.
 
@@ -385,14 +448,13 @@ Kaya balikan po natin ang dalawang klaseng paalam na pinagsimulan natin. Dahil s
 Bawat seksiyon ay sumasagot sa tanong na iniwan ng nauna (Aralin 14 — malinaw ang paglipat mula sa isang punto papunta sa kasunod):
 
 ```
-INTRO      Dalawang klaseng paalam. Ang pattern ng buhay ng tao:
-           isinilang, bata, tatanda, mamatay — kaya "you only live once."
-           → Talaga nga bang kamatayan ang wakas ng lahat ng bagay?
-                    ↓
-SEKSIYON 1 ANG WAKAS NG LAHAT NG MGA TAO
-           Totoo ang problema — walang exception.
-           At ang dalawang reaksiyon ng sanlibutan ay iisa ang ugat.
-           → Pero ano nga ba talaga ang kamatayan?
+SEKSIYON 1 ANG WAKAS NG LAHAT NG MGA TAO  (kasama na ang INTRO)
+           Dalawang klaseng paalam → pinangalanan: kamatayan → ang tema.
+           Gaano kadami (2 kada segundo) at ano ang pakiramdam nito.
+           Tatlong sinasabi ng mga tao — pare-parehong "may natitira pa."
+           Kaya "you only live once" — iisa ang ugat ng dalawang reaksiyon.
+           Ec 7:2 — tuwiran ang Bibliya; isapuso ito ng mga buháy.
+           → Paano natin ito uunawain? Tatlong tanong ang sasagutin.
                     ↓
 SEKSIYON 2 ANO NGA BA ANG KAMATAYAN?
            Kabaligtaran ng Genesis 2:7 — walang natitira.
@@ -427,7 +489,7 @@ CONCLUSION Balikan ang apat na punto. Maglingkod nang tapat.
 
 | Aralin | Saan ito ginamit sa script |
 |---|---|
-| **1** — Epektibong Introduksiyon | Nagbubukas sa tanong ("Alam n'yo po ba na may dalawang klaseng paalam?"); totoong karanasan (paglipat ng mag-asawang Cabusas); malinaw ang tema at ang apat na punto; ipinakita kung bakit mahalaga — ang pattern ng buhay ng tao at ang "you only live once" ng sanlibutan |
+| **1** — Epektibong Introduksiyon | **Ang buong Seksiyon 1 ang introduksiyon.** Nagbubukas sa tanong ("Alam n'yo po ba na may dalawang klaseng paalam?"); totoong karanasan (paglipat ng mag-asawang Cabusas); binibigkas ang tema sa minuto 2; ipinakita kung bakit mahalaga — ang paniniwala sa kamatayan ang nagdidikta kung paano mamumuhay ang isa; nagtatapos sa roadmap ng tatlong tanong |
 | **3** — Paggamit ng mga Tanong | Tanong ang panimula ng buong pahayag; ang apat na pangunahing punto ay nakabalangkas bilang tanong (kasama ang ikatlo, na muling binuo bilang "may kamatayan po bang hindi naging wakas?" para tunay na magtaka ang tagapakinig); magkakasunod na tanong sa "Bakit ganoon ang sanlibutan?" at sa "Bakit ayaw nating tanggapin"; tanong pang-repaso bago ang bawat teksto |
 | **4** — Angkop na Introduksiyon sa Teksto | Bawat teksto ay may panimula na nagsasabi kung ano ang hahanapin ("bilangin po natin," "pansinin po ninyo ang salitang…") |
 | **6** — Ipakita ang Kahalagahan ng Teksto | Pagkatapos ng bawat teksto, inuulit ang susing salita at iniuugnay sa punto — hindi basta lumilipat sa susunod |
@@ -447,8 +509,7 @@ CONCLUSION Balikan ang apat na punto. Maglingkod nang tapat.
 
 | Punto | Susing Ideya | Susing Teksto |
 |-------|--------------|----------------|
-| Intro | Dalawang klase ng paalam — ang may "magkikita pa tayo" at ang wala | — |
-| 1 — Ang wakas ng lahat ng mga tao | Iba-iba ang paniniwala ng tao pero walang makatanggap; ang pananaw ng mundo sa buhay ay bunga ng paniniwalang kamatayan ang wakas; tapat ang Bibliya | Ec 7:2 |
-| 2 — Ano nga ba ang kamatayan? | Kabaligtaran ng Gen 2:7; tatlong bagay na winawakasan; hindi sila nagdurusa; pero inilagay ni Jehova sa puso natin ang magpakailanman | Gen 2:7; Aw 146:4; Ec 9:5, 6, 10; Ec 3:11 |
+| 1 — Ang wakas ng lahat ng mga tao (kasama ang intro) | Dalawang klase ng paalam → pinangalanan: kamatayan; 2 kada segundo; tatlong sinasabi ng mga tao pero pare-parehong "may natitira pa"; kaya "you only live once"; tuwiran ang Bibliya at dapat itong isapuso ng mga buháy | Ec 7:2 |
+| 2 — Ano nga ba ang kamatayan? | FORMULA: alabok + hininga = buháy na tao; *naging* hindi *nagkaroon* ng kaluluwa; absent ng puwersa ng buhay (bumbilya); walang kahigitan sa hayop — kaya walang nakatagong parte na magliligtas sa atin; apat na winawakasan (hindi sila nagdurusa, at hindi sila ang nagpaparamdam); pero inilagay ni Jehova sa puso natin ang magpakailanman | Gen 2:7; Aw 146:4; Ec 3:19, 20; Ec 9:5, 6, 10; Ec 3:11 |
 | 3 — Bakit hindi naging wakas | Kamatayan ang kabayaran ng kasalanan; walang utang si Jesus kaya "imposible" siyang manaigan; bayad na ang utang natin; pero kailangan ang kaalaman at pagsunod; garantiya sa lahat | Ro 6:23; Gaw 2:24; 1Pe 3:18; Ju 3:36; Ju 17:3; Gaw 17:31 |
 | 4 — Ano ang wakas para sa iyo? | Hindi kayang magsauli ng buhay ng tao — si Jehova lang; tatlong beses pinatunayan (Nain → anak ni Jairo → Lazaro); nananabik si Jehova; buháy sila sa kaniya | Job 14:14, 15; Mat 22:31, 32; Job 26:14; Ro 6:22 |
