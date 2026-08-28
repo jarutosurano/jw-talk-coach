@@ -53,6 +53,44 @@ Full copyrighted JW publication PDFs are stored here for research/citation. This
 | jr | Mensahe ng Diyos sa Pamamagitan ni Jeremias | `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf` |
 | w | Ang Bantayan (Pag-aaral) Hunyo 2026 | `w_TG_202606.pdf` |
 | w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
+| wcg | Lakas-Loob na Lumakad Kasama ng Diyos (Walk Courageously With God) — **current CBS book**, 54 kabanata | `wcg-lakas-loob-na-lumakad-kasama-ng-diyos.pdf` |
+| nwt | Bagong Sanlibutang Salin ng Banal na Kasulatan (makabagong-wika) — source for exact NWT Tagalog Bible text | `nwt-bagong-sanlibutang-salin.pdf` |
+
+### Reading Exact Bible Text (`nwt-bagong-sanlibutang-salin.pdf`)
+
+**The full NWT Tagalog Bible is stored locally, so exact Bible text can be READ directly —
+no need to ask the user for it, and never paraphrase from memory.**
+
+File: `reference/books/nwt-bagong-sanlibutang-salin.pdf` (git-ignored, local only).
+Edition: **makabagong-wika** — the same edition the wcg book and current publications quote.
+Verified: Gen. 22:2 matches the wcg book word-for-word.
+
+**IMPORTANT — this PDF needs column-cropped extraction.** The page layout is three columns
+(text | cross-references | text). A plain `pdftotext` or `pdftotext -layout` interleaves the
+verse text with cross-reference fragments and produces unusable output. Crop by column
+geometry instead:
+
+```bash
+# Left text column
+pdftotext -f PAGE -l PAGE -x 8   -y 0 -W 128 -H 520 reference/books/nwt-bagong-sanlibutang-salin.pdf -
+# Right text column
+pdftotext -f PAGE -l PAGE -x 164 -y 0 -W 145 -H 520 reference/books/nwt-bagong-sanlibutang-salin.pdf -
+```
+
+Read the left column first, then the right, then concatenate. Printed page number == PDF page
+number, so to find a passage: `pdftotext -layout` the whole file once, grep for a distinctive
+phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`).
+
+**Known page locations** (add to this as they are found):
+
+| Passage | Page(s) |
+|---------|---------|
+| Genesis 22:1-19 | 71-72 |
+| Hebreo 11 (v. 8-25) | 1847 |
+
+**Always still strip footnote markers** — single lowercase letters trailing a word
+(`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
+leak into the crop. Keep every actual word exact.
 
 ### Article Texts (`reference/articles/`)
 
@@ -69,6 +107,7 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | w91 | Isang Katumbas na Pantubos Para sa Lahat | Blg. 184 Sek. 3 — "bakit hindi anghel," katumbas na pantubos, ilustrasyon ng pabrika |
 | w91 | "Kayo'y Binili sa Halaga" | Blg. 184 Sek. 3 — **the verbatim "legal na karapatan sa buhay"**, and why the value had to be presented in heaven |
 | w90 | Ano ba ang Kabuluhan sa Iyo ng Kamatayan ni Jesus? | Blg. 184 Sek. 3 — the rights attached to the life Adam lost; why "binuhay bilang espiritu" matters |
+| wcg05 | wcg Kabanata 5 (Abraham) — "Alamin" references (g 5/12, it "Abraham", ia 26, rr 20, g88 4/8) | CBS Aug 24-30, 2026 — the four Alamin research answers |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 
@@ -179,7 +218,7 @@ When creating a new `outline.md` file for any talk type (5, 10, 30 min), ALWAYS 
 
 - `## Outline` — what to paste (workbook text, main points, scriptures)
 - `## References` — format for each reference (publication code + full paragraph text)
-- `## Bible Texts` — reminder to paste EXACT NWT Tagalog text (never paraphrase)
+- `## Bible Texts` — reminder to paste EXACT NWT Tagalog text (never paraphrase). If left blank, Claude reads it from `reference/books/nwt-bagong-sanlibutang-salin.pdf`.
 - `## Image` — what to include (URL, description, caption) or note if none
 - `## Notes` — suggestions for what to write (struggles, goals, audience type)
 
@@ -529,7 +568,7 @@ espirituwal-na-hiyas/
 - **NEVER** paraphrase, assume, or search for Bible text
 - **ALWAYS** use the EXACT words from the user's `outline.md` (which contains NWT Tagalog text copied from their Bible)
 - Strip footnote markers (single lowercase letters appearing as superscripts after words: e.g., `bisiga` → `bisig`, `kami.c` → `kami.`) but keep every word exact
-- If Bible text is not in the outline, **ASK the user** to provide it — do not guess
+- If Bible text is not in the outline, **read it from `reference/books/nwt-bagong-sanlibutang-salin.pdf`** — see "Reading Exact Bible Text" above for the required column-crop commands. Only ask the user if that fails; never guess.
 - All publications and references should use jw.org data
 - This applies to ALL Bible quotes: Intro scripture, Tanong 1 scripture, and Tanong 2 personal gems
 
@@ -991,6 +1030,6 @@ Organize content in tabbed sections:
 - **No formal greetings**: Skip "Mga kapatid at mga kaibigan, magandang gabi po sa inyong lahat" — jump straight into the hook
 - **Generic reference citations**: Use "Base sa referensya natin" instead of specific publication names (e.g., "Ayon sa Bantayan") — sounds more natural and less like reading from a script
 - **Memorable formula (optional)**: When possible, create a simple equation or phrase that captures the main point (e.g., "Labi + Puso = Tunay na Pagsamba"). Introduce it in the intro, reinforce at key moments, and drive it home in the conclusion. This helps the message stick.
-- **MANDATORY — Bible text accuracy**: NEVER paraphrase, assume, or search for Bible text. ALWAYS use the EXACT words from the user's `outline.md` (NWT Tagalog). Strip footnote markers only. If Bible text is unavailable, ASK the user — do not guess.
+- **MANDATORY — Bible text accuracy**: NEVER paraphrase, assume, or search for Bible text. ALWAYS use the EXACT words from the user's `outline.md` (NWT Tagalog). If the text is not in the outline, **read it from `reference/books/nwt-bagong-sanlibutang-salin.pdf`** (the full NWT Tagalog Bible is stored locally — see "Reading Exact Bible Text" for the required column-crop `pdftotext` commands). Strip footnote markers only. Ask the user only if reading the PDF fails — never guess.
 - **MANDATORY — Dual reference for talks**: When preparing any talk script (5, 10, 30 min), ALWAYS consult BOTH `reference/guidelines.md` (S-141-TG: delivery guidelines) AND `reference/public-talk-aralin.md` (Pagtuturo book: teaching techniques). Never rely on just one.
 

@@ -4,6 +4,34 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.24.0] - 2026-08-28
+
+### New CBS book (wcg) + Kabanata 5 script in Watchtower answer format
+
+The congregation moved to the new CBS book, *Lakas-Loob na Lumakad Kasama ng Diyos* (wcg,
+54 kabanata, one chapter per week). The speaker asked for the chapter reviewed and its
+questions answered, but in the **Watchtower answer format** rather than the older CBS
+guided-question format — so this week's script blends the two: a CBS conductor intro and
+weekly nav label, with Watchtower-style answer blocks for the body.
+
+**Added:**
+- `cbs/0824-wcg-kabanata-05/outline.md` — chapter questions, key excerpts, exact NWT text, reference index, image inventory
+- `docs/cbs/0824-wcg-kabanata-05/index.md` — the published script, 12 questions across the book's four sections (Talakayin, Alamin, Gawin ang mga Natutuhan Mo, Mahalagang Pag-isipan)
+- `reference/articles/wcg05-abraham-alamin-references.md` — the four "Alamin" sources the speaker supplied (g 5/12 18 kahon; it "Abraham" ¶22-23; ia 26 ¶4-5; rr 20 ¶18; g88 4/8 25). Git-ignored.
+- `reference/books/wcg-lakas-loob-na-lumakad-kasama-ng-diyos.pdf` — the new CBS book. Git-ignored.
+- `reference/books/nwt-bagong-sanlibutang-salin.pdf` — full NWT Tagalog Bible (makabagong-wika edition, the same edition the wcg book quotes). Git-ignored.
+- `mkdocs.yml` nav: `CBS` → `Aug 24-30`, latest first.
+
+**Changed:**
+- `CLAUDE.md` — wcg and nwt added to the Reference Books table; wcg05 added to the Article Texts table.
+- `CLAUDE.md` — **new section "Reading Exact Bible Text"**, and the Bible-text accuracy rules updated in three places (Hiyas MANDATORY block, Key Guidelines one-liner, outline-template reminder). Previously every rule ended in "ASK the user — do not guess". Now that the full NWT Tagalog Bible is stored locally, exact Bible text is **read from the PDF**, and the user is asked only if that fails. The section documents the required column-crop `pdftotext` commands, since plain extraction on this 3-column PDF is unusable, plus a growing table of known page locations.
+
+**Notes:**
+- **Bible text is exact, not paraphrased.** `nwt_TG.pdf` is a 3-column layout (text | cross-references | text), which interleaves badly under plain `pdftotext`. Extracting it cleanly requires cropping by column geometry:
+  `pdftotext -f PAGE -l PAGE -x 8 -y 0 -W 128 -H 520` for the left column and `-x 164 -y 0 -W 145 -H 520` for the right. Genesis 22:1-19 spans printed pages 71-72; Hebreo 11 is on page 1847. Reuse this for any future exact-NWT need.
+- Formula for this chapter: **Aral sa Nakaraan + Pag-asa sa Hinaharap = Lakas ng Loob na Sumunod Ngayon**.
+- Larawan B and C captions were not recoverable from the PDF text layer — still blank in the outline.
+
 ## [4.23.0] - 2026-08-27
 
 ### Blg. 184 v4 Seksiyon 3 — the two unverifiable claims are now sourced verbatim
