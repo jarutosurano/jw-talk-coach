@@ -4,6 +4,31 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.25.0] - 2026-08-29
+
+### Blg. 184 v5 — final na script para sa Aug 30 (25–28 min, mas simple, tumatagos sa puso)
+
+Finalized the public talk from v4 with three inputs: the Pagtuturo aralin + S-141-TG review
+checklist, learnings mined from v1–v3, and the speaker's five goals (reach the heart, simple
+words, explain the outline simply, stress "walang kapag-a-pag-asa kung wala ang pantubos AT
+Kaharian" + Memorial faith, and land 25–28 minutes). v4 kept untouched for comparison.
+
+**Added:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/v5/index.md` — the final script (~4,400 spoken words ≈ 26–28 min including Bible-finding pauses; 9 read texts; 3 marked in-flight skips worth ~1.5 min in the header note)
+- Heart restorations from earlier versions, in normal prose (no storytelling mode): the v1 "walang masama sa inyo" permission line; "isang lumang litrato, isang kanta, isang putaheng paborito" at Ec 3:11; 2 Corinto 5:14 love motive (outline-cited, text verified from outline.md); v2's pan-TUBOS word-teaching; the Nain "yakap" line; the "hanggang sa muli" close
+- **Kaharian ng Diyos** named in Seksiyon 4 and the conclusion binary — it appeared zero times in v4's spoken body despite being half of the outline's stated goal
+- v3's Memorial follow-through ("May pagkakaiba ang pag-alam sa pantubos at ang pamumuhay na parang totoo ito") + "tinapay at alak ay hindi basta seremonya"
+- Speaker's personal request: the song thought (ipadama ang pag-ibig habang may panahon pa) woven into Ec 7:2's "isapuso ng mga buháy" and echoed in the conclusion — phrased forward-looking so it comforts, never wounds, the grieving
+- Song pick in header: Awit 151 "Tatawag Siya" (Job 14:13-15)
+- `mkdocs.yml` nav: v5 entry under 30-Minute
+
+**Changed:**
+- Seksiyon 3 slimmed by ~900 words of doctrine-machinery (ark-cover, angel/"Diyos-tao" argument, high-priest comparison, "legal na transaksiyon" paragraph, collapsed-building illustration, Juan 3:36 grammar lecture); Juan 17:3 now cited inline instead of a tenth Bible opening
+- All ~14 "Base sa referensya natin" citations removed — warmer, less like reading a report
+- Section timings rebalanced: 5.5 / 7 / 7.5 / 6 / 2; KAUGNAYAN diagram, CHECKLIST, and SUMMARY tables updated to match v5
+
+---
+
 ## [4.24.0] - 2026-08-28
 
 ### New CBS book (wcg) + Kabanata 5 script in Watchtower answer format
