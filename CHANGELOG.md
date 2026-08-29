@@ -4,6 +4,32 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.25.1] - 2026-08-29
+
+### Blg. 184 v5 — Seksiyon 1 at 2 rewritten sa sariling salita ng tagapagsalita
+
+Workshopped line-by-line with the speaker the night before delivery. Both sections are
+now his own words (guidelines #7/#12), verified against the outline and jw.org.
+
+**Changed:**
+- **Seksiyon 1 (5.5 min, kasama ang intro):** structure ngayon ay *sagot ng tao → sagot ng
+  Bibliya → sagot ng sanlibutan → tema*; tatlong belief snapshots (langit / lumilipat na
+  kaluluwa / bukas na pinto't bintana, mula sa w99 4/1); ang Ec 7:2 "isapuso" application
+  ay ang song thought + social media contrast ("Minsan po… wala") + bulaklak-sa-burol +
+  "Isang tawag lang po iyon"; YOLO na may 3 realistic samples; tema at roadmap sa dulo,
+  na may hope tease sa ikalawang tanong
+- **Seksiyon 2 (5.5 min):** Gen 2:7 formula ("Hindi tatlo… ang tao mismo ang kaluluwa,"
+  verified sa jw.org Reasoning book); i-REVERSE ang formula (buháy − hininga = alabok);
+  Ec 3:19-20 binabasa na mismo (tinanggal ang aso analogy); Ec 9:5, 6 (apat na
+  winawakasan + hindi sila nagdurusa); Ec 3:11 bilang DESIGN; bridge: ang Memoryal ang
+  "bahay ng namatayan" ng Ec 7:2
+- Tinanggal sa Sek 2: naging/nagkaroon word study, permission line, "buo pa ang bumbilya"
+  seed, Ec 9:10, 40-araw na detalye
+- `reference/articles/w99-iba-iba-ang-paniniwala-sa-kamatayan.md` — w99 4/1 full text
+  na ibinigay ng speaker (git-ignored)
+
+---
+
 ## [4.25.0] - 2026-08-29
 
 ### Blg. 184 v5 — final na script para sa Aug 30 (25–28 min, mas simple, tumatagos sa puso)
