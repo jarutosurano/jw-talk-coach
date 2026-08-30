@@ -1,0 +1,2994 @@
+
+<!doctype html>
+<html lang="tl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://jarutosurano.github.io/jw-talk-coach/talks/30min/s289-security-training-blg2/">
+      
+      
+        <link rel="prev" href="../33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/">
+      
+      
+        <link rel="next" href="../../../watchtower/grupo-sa-paglilingkod/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.7">
+    
+    
+      
+        <title>Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad - JW Talk Coach</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.ec1eaa64.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+  
+  
+    
+      
+      
+    
+  
+  
+  <style>:root{--md-admonition-icon--quote:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22m19%202-5%204.5v11l5-4.5zM6.5%205C4.55%205%202.45%205.4%201%206.5v14.66c0%20.25.25.5.5.5.1%200%20.15-.07.25-.07%201.35-.65%203.3-1.09%204.75-1.09%201.95%200%204.05.4%205.5%201.5%201.35-.85%203.8-1.5%205.5-1.5%201.65%200%203.35.31%204.75%201.06.1.05.15.03.25.03.25%200%20.5-.25.5-.5V6.5c-.6-.45-1.25-.75-2-1V19c-1.1-.35-2.3-.5-3.5-.5-1.7%200-4.15.65-5.5%201.5V6.5C10.55%205.4%208.45%205%206.5%205%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#intro-2-min-000" class="md-skip">
+          I-skip tungo sa nilalaman
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Pamuhatan">
+    <a href="../../.." title="JW Talk Coach" class="md-header__button md-logo" aria-label="JW Talk Coach" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3 3 3 0 0 1-3-3V5a3 3 0 0 1 3-3m7 9c0 3.53-2.61 6.44-6 6.93V21h-2v-3.07c-3.39-.49-6-3.4-6-6.93h2a5 5 0 0 0 5 5 5 5 0 0 0 5-5z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            JW Talk Coach
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Hanapin" placeholder="Hanapin" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Hanapin">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Tanggalin" aria-label="Tanggalin" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Sinisimulan ang paghahanap
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/jarutosurano/jw-talk-coach" title="Pumunta sa repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    jarutosurano/jw-talk-coach
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Mga tala" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../5min/0710-inihula-ni-jesus-ang-mga-pangyayari/" class="md-tabs__link">
+          
+  
+  
+  Talks
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../watchtower/grupo-sa-paglilingkod/" class="md-tabs__link">
+          
+  
+  
+  Watchtower
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../field-ministry/0428-colosas-4-6-zoom/" class="md-tabs__link">
+          
+  
+  
+  Field Ministry
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../espirituwal-na-hiyas/0814-jeremias-24-25/" class="md-tabs__link">
+          
+  
+  
+  Espirituwal na Hiyas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../cbs/0824-wcg-kabanata-05/" class="md-tabs__link">
+          
+  
+  
+  CBS
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Nabigasyon" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="JW Talk Coach" class="md-nav__button md-logo" aria-label="JW Talk Coach" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a3 3 0 0 1 3 3v6a3 3 0 0 1-3 3 3 3 0 0 1-3-3V5a3 3 0 0 1 3-3m7 9c0 3.53-2.61 6.44-6 6.93V21h-2v-3.07c-3.39-.49-6-3.4-6-6.93h2a5 5 0 0 0 5 5 5 5 0 0 0 5-5z"/></svg>
+
+    </a>
+    JW Talk Coach
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/jarutosurano/jw-talk-coach" title="Pumunta sa repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.1.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    jarutosurano/jw-talk-coach
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Talks
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Talks
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    5-Minute
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    5-Minute
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5min/0710-inihula-ni-jesus-ang-mga-pangyayari/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Inihula ni Jesus ang mga Pangyayaring Nakikita Natin Ngayon
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5min/0424-kung-paano-mag-aaral/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kung Paano Mag-aaral
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../5min/0213-kung-paano-mananalangin/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kung Paano Mananalangin
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    10-Minute
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    10-Minute
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../10min/0717-piliing-mabuti-kung-kanino-ka-magtitiwala/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Piliing Mabuti Kung Kanino Ka Magtitiwala
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../10min/0619-hinamak-nila-ang-templo-ni-jehova/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hinamak Nila ang Templo ni Jehova
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../10min/0227-gaya-ng-isang-pastol/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gaya ng Isang Pastol
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../10min/0213-siya-ang-magpapatatag-sa-iyo/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Siya ang Magpapatatag sa Iyo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../10min/0130-parangalan-si-Jehova/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Parangalan si Jehova
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../10min/0124-siya-ang-ating-diyos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Siya ang Ating Diyos!
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+          
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    30-Minute
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    30-Minute
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../184-kamatayan-ba-ang-wakas-ng-lahat/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kamatayan Ba ang Wakas ng Lahat?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../11-hindi-bahagi-ng-sanlibutan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    "Hindi Bahagi ng Sanlibutan"—Bilang Pagtulad kay Kristo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Makakamit Pa Kaya Natin ang Tunay na Katarungan?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Talaan ng nilalaman">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Talaan ng nilalaman
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#intro-2-min-000" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INTRO [~2 min | ⏱ 0:00]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-pagharap-sa-pursigidong-mga-sumasalansang-2-min-200" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1 — Pagharap sa Pursigidong mga Sumasalansang [2 min | ⏱ 2:00]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-pagharap-sa-mararahas-na-indibidwal-12-min-400" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2 — Pagharap sa Mararahas na Indibidwal [12 min | ⏱ 4:00]
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2 — Pagharap sa Mararahas na Indibidwal [12 min | ⏱ 4:00]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tanong-1-ano-po-ang-dapat-na-gawin-agad-kapag-nakaharap-ang-isang-marahas-na-indibidwal-400" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 1: Ano po ang dapat na gawin agad kapag nakaharap ang isang marahas na indibidwal? [⏱ 4:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-2-paano-po-natin-mapipigilang-pumasok-sa-gusali-ang-indibidwal-ano-ang-karagdagang-tagubilin-sa-attendant-sa-pasukan-600" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 2: Paano po natin mapipigilang pumasok sa gusali ang indibidwal? Ano ang karagdagang tagubilin sa attendant sa pasukan? [⏱ 6:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-3-ano-po-ang-dapat-nating-gawin-at-itagubilin-sa-mga-dumalo-800" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 3: Ano po ang dapat nating gawin at itagubilin sa mga dumalo? [⏱ 8:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-4-kung-nakapasok-po-ang-indibidwal-sa-gusali-ano-ang-dapat-gawin-900" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 4: Kung nakapasok po ang indibidwal sa gusali, ano ang dapat gawin? [⏱ 9:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-5-anong-tagubilin-po-ang-dapat-ibigay-sa-mga-dumalo-para-tulungan-silang-makatakas-1100" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 5: Anong tagubilin po ang dapat ibigay sa mga dumalo para tulungan silang makatakas? [⏱ 11:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-6-kung-hindi-posibleng-mag-evacuate-tatagubilinan-ng-mga-attendant-ang-mga-dumalo-na-magtago-sa-kingdom-hall-natin-saan-puwedeng-magtago-ano-pa-ang-puwedeng-gawin-ng-mga-attendant-para-protektahan-ang-mga-dumalo-1300" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 6: Kung hindi posibleng mag-evacuate, tatagubilinan ng mga attendant ang mga dumalo na magtago. Sa Kingdom Hall natin, saan puwedeng magtago? Ano pa ang puwedeng gawin ng mga attendant para protektahan ang mga dumalo? [⏱ 13:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#summary-protect" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary: PROTECT
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-pagharap-sa-iba-pang-sitwasyon-3-min-1600" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3 — Pagharap sa Iba Pang Sitwasyon [3 min | ⏱ 16:00]
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3 — Pagharap sa Iba Pang Sitwasyon [3 min | ⏱ 16:00]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bomb-threat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bomb Threat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pananatili-para-magkubli-shelter-in-place-1800" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pananatili para Magkubli (Shelter in Place) [⏱ 18:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-pag-iinspeksiyon-sa-palibot-10-min-1900" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4 — Pag-iinspeksiyon sa Palibot [10 min | ⏱ 19:00]
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4 — Pag-iinspeksiyon sa Palibot [10 min | ⏱ 19:00]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pangunahing-impormasyon-1900" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pangunahing Impormasyon [⏱ 19:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mga-atas-ng-attendant-2100" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mga Atas ng Attendant [⏱ 21:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#evacuation-plan-2400" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evacuation Plan [⏱ 24:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pananatili-sa-kingdom-hall-para-magkubli-2600" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pananatili sa Kingdom Hall para Magkubli [⏱ 26:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#konklusyon-3-min-2700" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Konklusyon [3 min | ⏱ 27:00]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quick-reference" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quick Reference
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Quick Reference">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ano-ang-service-department" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ano ang Service Department?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vtc-kingdom-hall-security-plan-s-288-section-reference-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        VTC Kingdom Hall Security Plan (S-288) — Section Reference Guide
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kingdom-hall-equipment-emergency-info" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kingdom Hall Equipment &amp; Emergency Info
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Watchtower
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Watchtower
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../watchtower/grupo-sa-paglilingkod/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Makinabang sa Pagiging Bahagi ng Grupo sa Paglilingkod sa Larangan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../watchtower/iingatan-ang-pakikipagkaibigan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Iingatan ang Pakikipagkaibigan sa mga Kapatid
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../watchtower/tamang-pananaw-sa-mga-problema/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Panatilihin ang Tamang Pananaw sa mga Problema
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../watchtower/salamat-sa-pantubos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Paano Mo Ipapakita ang Pasasalamat Mo sa Pantubos?
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Field Ministry
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Field Ministry
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../field-ministry/0428-colosas-4-6-zoom/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Colosas 4:6 — Zoom Ministry
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../field-ministry/0311-roma-12-11-zoom/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Roma 12:11 — Zoom Ministry
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../field-ministry/guidelines/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guidelines
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Espirituwal na Hiyas
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Espirituwal na Hiyas
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../espirituwal-na-hiyas/0814-jeremias-24-25/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jeremias 24-25
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../espirituwal-na-hiyas/0710-jeremias-13-15/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jeremias 13-15
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../espirituwal-na-hiyas/0703-jeremias-11-12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Jeremias 11-12
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../espirituwal-na-hiyas/0227-isaias-38-40/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Isaias 38-40
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../espirituwal-na-hiyas/0213-isaias-33-35/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Isaias 33-35
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    CBS
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    CBS
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cbs/0824-wcg-kabanata-05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aug 24-30
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../cbs/0209-lfb-aral-60-61/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Feb 9-15
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Talaan ng nilalaman">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Talaan ng nilalaman
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#intro-2-min-000" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        INTRO [~2 min | ⏱ 0:00]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-pagharap-sa-pursigidong-mga-sumasalansang-2-min-200" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1 — Pagharap sa Pursigidong mga Sumasalansang [2 min | ⏱ 2:00]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-pagharap-sa-mararahas-na-indibidwal-12-min-400" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2 — Pagharap sa Mararahas na Indibidwal [12 min | ⏱ 4:00]
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2 — Pagharap sa Mararahas na Indibidwal [12 min | ⏱ 4:00]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tanong-1-ano-po-ang-dapat-na-gawin-agad-kapag-nakaharap-ang-isang-marahas-na-indibidwal-400" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 1: Ano po ang dapat na gawin agad kapag nakaharap ang isang marahas na indibidwal? [⏱ 4:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-2-paano-po-natin-mapipigilang-pumasok-sa-gusali-ang-indibidwal-ano-ang-karagdagang-tagubilin-sa-attendant-sa-pasukan-600" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 2: Paano po natin mapipigilang pumasok sa gusali ang indibidwal? Ano ang karagdagang tagubilin sa attendant sa pasukan? [⏱ 6:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-3-ano-po-ang-dapat-nating-gawin-at-itagubilin-sa-mga-dumalo-800" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 3: Ano po ang dapat nating gawin at itagubilin sa mga dumalo? [⏱ 8:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-4-kung-nakapasok-po-ang-indibidwal-sa-gusali-ano-ang-dapat-gawin-900" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 4: Kung nakapasok po ang indibidwal sa gusali, ano ang dapat gawin? [⏱ 9:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-5-anong-tagubilin-po-ang-dapat-ibigay-sa-mga-dumalo-para-tulungan-silang-makatakas-1100" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 5: Anong tagubilin po ang dapat ibigay sa mga dumalo para tulungan silang makatakas? [⏱ 11:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tanong-6-kung-hindi-posibleng-mag-evacuate-tatagubilinan-ng-mga-attendant-ang-mga-dumalo-na-magtago-sa-kingdom-hall-natin-saan-puwedeng-magtago-ano-pa-ang-puwedeng-gawin-ng-mga-attendant-para-protektahan-ang-mga-dumalo-1300" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tanong 6: Kung hindi posibleng mag-evacuate, tatagubilinan ng mga attendant ang mga dumalo na magtago. Sa Kingdom Hall natin, saan puwedeng magtago? Ano pa ang puwedeng gawin ng mga attendant para protektahan ang mga dumalo? [⏱ 13:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#summary-protect" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Summary: PROTECT
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-pagharap-sa-iba-pang-sitwasyon-3-min-1600" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3 — Pagharap sa Iba Pang Sitwasyon [3 min | ⏱ 16:00]
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3 — Pagharap sa Iba Pang Sitwasyon [3 min | ⏱ 16:00]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bomb-threat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bomb Threat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pananatili-para-magkubli-shelter-in-place-1800" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pananatili para Magkubli (Shelter in Place) [⏱ 18:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-pag-iinspeksiyon-sa-palibot-10-min-1900" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4 — Pag-iinspeksiyon sa Palibot [10 min | ⏱ 19:00]
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4 — Pag-iinspeksiyon sa Palibot [10 min | ⏱ 19:00]">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#pangunahing-impormasyon-1900" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pangunahing Impormasyon [⏱ 19:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mga-atas-ng-attendant-2100" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mga Atas ng Attendant [⏱ 21:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#evacuation-plan-2400" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evacuation Plan [⏱ 24:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pananatili-sa-kingdom-hall-para-magkubli-2600" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Pananatili sa Kingdom Hall para Magkubli [⏱ 26:00]
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#konklusyon-3-min-2700" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Konklusyon [3 min | ⏱ 27:00]
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#quick-reference" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Quick Reference
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Quick Reference">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ano-ang-service-department" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Ano ang Service Department?
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vtc-kingdom-hall-security-plan-s-288-section-reference-guide" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        VTC Kingdom Hall Security Plan (S-288) — Section Reference Guide
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kingdom-hall-equipment-emergency-info" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Kingdom Hall Equipment &amp; Emergency Info
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+  <h1>Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad</h1>
+
+<p>Mar 15, 2026</p>
+<hr />
+<h2 id="intro-2-min-000">INTRO [~2 min | ⏱ 0:00]</h2>
+<ul>
+<li>Salamat po, Brother Santiso.</li>
+<li>Mga kapatid, papasok na tayo sa mas seryosong bahagi —<ul>
+<li><mark class="pink"><strong>Pagharap sa mga Seryosong Banta sa Seguridad (Handling Serious Security Concerns)</strong></mark>.</li>
+</ul>
+</li>
+<li>Hindi natin gustong isipin na mangyayari ito sa atin.<ul>
+<li>Pero totoong nangyayari na ito sa ibang kongregasyon.</li>
+<li>May mga pamamaril na sa mga Kingdom Hall.</li>
+<li>May mga banta na natanggap.</li>
+</ul>
+</li>
+<li>At dahil mahal ni Jehova ang bawat isa sa mga kapatid natin —<ul>
+<li>kailangan nating maging handa.</li>
+</ul>
+</li>
+<li>May isang teksto po na gusto kong basahin —<ul>
+<li>para maging gabay natin sa buong talakayan.</li>
+</ul>
+</li>
+<li>Buksan po natin ang Mateo kabanata 10, bersikulo 16.</li>
+</ul>
+<p><em>[Basahin ang Mateo 10:16]</em></p>
+<div class="admonition quote">
+<p class="admonition-title">Mateo 10:16</p>
+<p>"Isinusugo ko kayong gaya ng mga tupa sa gitna ng mga lobo; kaya maging maingat kayong gaya ng ahas pero walang muwang na gaya ng kalapati."</p>
+</div>
+<ul>
+<li>Pansin po ba natin ang sinabi dito?</li>
+<li>Sabi dito — <strong>"Tupa sa gitna ng mga lobo."</strong><ul>
+<li>Mga kapatid, iyan tayo.</li>
+<li>Hindi tayo malakas.</li>
+<li>Hindi tayo ang mga taong may armas.</li>
+</ul>
+</li>
+<li>Pero may responsibilidad po tayo.<ul>
+<li>Ano po 'yon? — ang <strong>protektahan ang kawan.</strong></li>
+</ul>
+</li>
+<li>At paano?<ul>
+<li>Sabi ni Jesus — <strong>"maingat gaya ng ahas."</strong><ul>
+<li>Ang ahas ay hindi umaatake agad.</li>
+<li>Nakamasid muna.</li>
+<li>Nararamdaman ang panganib bago pa dumating.</li>
+</ul>
+</li>
+<li>At ano pa? Sabi dito — <strong>"walang muwang gaya ng kalapati."</strong><ul>
+<li>Hindi po tayo marahas.</li>
+<li>Hindi rin po tayo naghahanap ng gulo.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Ang goal po natin — <strong>protektahan</strong>, hindi makipag-away.</li>
+<li>Kaya kailangan natin ng <strong>discernment — kaunawaan.</strong><ul>
+<li>Ibig sabihin —<ul>
+<li>suriin muna ang sitwasyon,</li>
+<li>mag-isip bago kumilos, at</li>
+<li>kumilos nang <strong>maingat pero mahinahon</strong>.</li>
+</ul>
+</li>
+<li>Hindi pabigla-bigla.</li>
+<li>Hindi rin walang aksyon.</li>
+</ul>
+</li>
+<li>Kaya simulan po natin: <mark class="green"><strong>Pagharap sa Pursigidong mga Sumasalansang (Handling Persistent Opposers).</strong></mark></li>
+</ul>
+<hr />
+<h2 id="1-pagharap-sa-pursigidong-mga-sumasalansang-2-min-200">1 — Pagharap sa Pursigidong mga Sumasalansang [2 min | ⏱ 2:00]</h2>
+<ul>
+<li>Kanina po, napag-aralan natin kung paano haharapin ang mga nanggugulo.</li>
+<li>Pero ito naman po ay iba —<ul>
+<li>ang pag-uusapan natin ngayon ay mga <strong>opposer o sumasalansang</strong>.</li>
+<li>Mga taong <strong>sadyang laban sa gawain natin</strong></li>
+<li>at gustong pumasok sa pulong natin na may <strong>masamang intensiyon</strong>. (Mat 10:16)</li>
+</ul>
+</li>
+<li>
+<p>Paano natin sila makikilala?</p>
+<ul>
+<li>Usually po, ang mga elder ang mag-i-inform sa atin.</li>
+<li>So far naman, wala pa tayong ganoon — at maganda po iyan.</li>
+<li>Pero bilang attendant — laging alerto tayo.</li>
+</ul>
+</li>
+<li>
+<p>Kaya ano po ang gagawin natin kung may sumasalansang?</p>
+</li>
+<li>
+<p><strong>Una — Huwag magpa-provoke.</strong></p>
+<ul>
+<li><strong><mark>Maaaring manggalit ang isang sumasalansang para tuksuhin tayong gumawa ng pagkilos na puwedeng maging basehan ng legal na aksiyon.</mark></strong></li>
+</ul>
+</li>
+<li>
+<p><strong>Pangalawa — Kilalanin at kausapin bago payagang pumasok.</strong></p>
+<ul>
+<li><strong><mark>Pinakamagandang makilala at makausap ang isang sumasalansang bago siya payagang pumasok sa awditoryum.</mark></strong></li>
+</ul>
+</li>
+<li>
+<p><strong>Pangatlo — Sabihin na hindi siya welcome at tatawag ng pulis.</strong></p>
+<ul>
+<li><strong><mark>Kung malinaw na gusto niyang manggulo sa pulong, sabihin sa kaniya na hindi natin siya papapasukin sa pasilidad at tatawag tayo ng pulis kung hindi siya aalis.</mark></strong></li>
+</ul>
+</li>
+<li>
+<p><strong>Pang-apat at pinaka-importanteng tandaan —</strong></p>
+<ul>
+<li><strong><mark>Huwag matuksong pisikal na alisin sa bakuran ng Kingdom Hall ang sumasalansang.</mark></strong></li>
+<li>Huwag hawakan, huwag itulak, huwag hilain.</li>
+<li>Baka iyan mismo ang gusto niya — para kasuhan tayo.</li>
+<li>Pulis lang po ang sagot. Tumawag na lang.</li>
+</ul>
+</li>
+<li>
+<p>Ngayon, paano po kung mas grabe ang sitwasyon?</p>
+<ul>
+<li>Hindi lang sumasalansang,</li>
+<li>kundi isang taong marahas — gustong manakit?</li>
+</ul>
+</li>
+<li><mark class="green"><strong>Pagharap sa Mararahas na Indibidwal (Handling Violent Individuals).</strong></mark></li>
+</ul>
+<hr />
+<h2 id="2-pagharap-sa-mararahas-na-indibidwal-12-min-400">2 — Pagharap sa Mararahas na Indibidwal [12 min | ⏱ 4:00]</h2>
+<ul>
+<li>Now, ito po ang pinakaseryosong bahagi ng talakayan natin.</li>
+<li>Sana ay hindi natin kailanganin itong gawin.</li>
+<li>Pero kung mangyari man —<ul>
+<li>kailangan nating malaman kung ano ang gagawin.</li>
+<li>Dahil sa sandaling iyon, walang oras mag-isip.</li>
+<li>Kailangan alam na natin.</li>
+</ul>
+</li>
+<li>Tingnan po natin ang <strong>VTC Kingdom Hall Security Plan 2026 (S-288)</strong><ul>
+<li>sa seksyon na <strong>"Violent Individuals."</strong></li>
+</ul>
+</li>
+<li>Itatanong ko po ang mga punto isa-isa.<ul>
+<li>Pakisagot po base sa nabasa ninyo sa plan.</li>
+</ul>
+</li>
+</ul>
+<p><em>[Itampok kung paano nakakatulong sa mga attendant ang mga hakbang na ito para maiwasan ang mapanganib na mga sitwasyon, pigilang makapanakit ang marahas na indibidwal, o ipagtanggol ang iba mula sa karahasan]</em></p>
+<hr />
+<h3 id="tanong-1-ano-po-ang-dapat-na-gawin-agad-kapag-nakaharap-ang-isang-marahas-na-indibidwal-400">Tanong 1: Ano po ang dapat na gawin agad kapag nakaharap ang isang marahas na indibidwal? [⏱ 4:00]</h3>
+<p>...</p>
+<ol>
+<li><strong><mark>Tumawag agad sa pulis</mark></strong> — gamit ang landline kung posible</li>
+<li>Huwag nang balaan pa ang indibidwal</li>
+<li>Habang mas mabilis dumating ang pulis, mas kaunti ang pinsala</li>
+</ol>
+<p><em>[Pansinin: Puwedeng tumawag sa pulis ang kahit sino. Dapat kumpirmahin ng attendant sa awditoryum na nagawa na ito. Bukod diyan, kung malaki ang posibilidad na maging marahas ang isang tao, makakabuting isa pang indibidwal ang presente para maging saksi at para makatulong]</em></p>
+<p>Follow-up: <strong>Sino lang po ba ang puwedeng tumawag?</strong></p>
+<ul>
+<li><em>{Kahit sino po. Hindi lang ang auditorium attendant. Pero kailangan niyang kumpirmahin na may tumawag na.}</em></li>
+</ul>
+<p>Follow-up: <strong>Sino po ang mag-take the lead sa ganitong sitwasyon?</strong></p>
+<ul>
+<li><em>{Ang auditorium attendant po. Siya ang mag-take the lead in providing direction.}</em></li>
+</ul>
+<p>Follow-up: <strong>Kung malaki ang posibilidad na maging marahas ang isang tao, ano pa po ang dapat gawin?</strong></p>
+<ul>
+<li><em>{Makakabuting isa pang indibidwal ang presente — para maging saksi at para makatulong.}</em></li>
+</ul>
+<hr />
+<h3 id="tanong-2-paano-po-natin-mapipigilang-pumasok-sa-gusali-ang-indibidwal-ano-ang-karagdagang-tagubilin-sa-attendant-sa-pasukan-600">Tanong 2: Paano po natin mapipigilang pumasok sa gusali ang indibidwal? Ano ang karagdagang tagubilin sa attendant sa pasukan? [⏱ 6:00]</h3>
+<p>...</p>
+<ol>
+<li><strong><mark>I-lock at i-barricade ang mga pinto</mark></strong> — kahit may mga kapatid pa sa labas</li>
+<li>Entrance attendant — <strong><mark>agad na ipapaalam sa lahat ng nasa loob na may banta</mark></strong></li>
+</ol>
+<p>Follow-up: <strong>Bakit po kahit may kapatid pa sa labas?</strong></p>
+<ul>
+<li><em>{Para protektahan ang pinakamaraming dumalo sa loob. Kung 100 ang nasa loob at 5 ang nasa labas — mas marami ang mapoprotektahan kung ise-secure natin ang gusali. Iyan po ang discernment.}</em></li>
+</ul>
+<hr />
+<h3 id="tanong-3-ano-po-ang-dapat-nating-gawin-at-itagubilin-sa-mga-dumalo-800">Tanong 3: Ano po ang dapat nating gawin at itagubilin sa mga dumalo? [⏱ 8:00]</h3>
+<p>...</p>
+<ol>
+<li><strong><mark>Manatiling kalmado</mark></strong> — turuan ang lahat na manatiling tahimik</li>
+<li><strong>I-silent ang mga cellphone</strong> at iba pang electronic device</li>
+</ol>
+<p>Follow-up: <strong>Bakit po importante ang silence?</strong></p>
+<ul>
+<li><em>{Dahil ang ingay ay nagbibigay ng lokasyon. Kalmado na kapaligiran — malinaw na pag-iisip.}</em></li>
+</ul>
+<hr />
+<h3 id="tanong-4-kung-nakapasok-po-ang-indibidwal-sa-gusali-ano-ang-dapat-gawin-900">Tanong 4: Kung nakapasok po ang indibidwal sa gusali, ano ang dapat gawin? [⏱ 9:00]</h3>
+<p><em>[Tingnan ang mga bullet point sa plan]</em></p>
+<p>...</p>
+<ol>
+<li><strong><mark>Gumamit ng maraming kapatid para pigilan ang indibidwal</mark></strong> — hanggang sa dumating ang pulis</li>
+<li>Kung hindi makatakbo ang mga inaatake — <strong><mark>magtulungan at gumamit ng anumang bagay na puwedeng panlaban</mark></strong> — para protektahan ang sarili o ang iba</li>
+<li><strong><mark>Hindi pinapayagan ang mga attendant na magdala ng armas</mark></strong> bilang paghahanda sa active shooter</li>
+</ol>
+<p>Follow-up: <strong>Ano po ang ibig sabihin ng "subdue" o "pigilan"?</strong></p>
+<ul>
+<li><em>{Maraming kapatid ang magtutulungan para kontrolin ang indibidwal. Pipigilin siya hanggang dumating ang pulis.}</em></li>
+</ul>
+<p>Pansinin po — sa sumasalansang kanina, sabi natin huwag hawakan. Pero dito, iba na po. <strong>May buhay na nakataya.</strong> Kaya puwede na po tayong kumilos physically para protektahan ang iba.</p>
+<hr />
+<h3 id="tanong-5-anong-tagubilin-po-ang-dapat-ibigay-sa-mga-dumalo-para-tulungan-silang-makatakas-1100">Tanong 5: Anong tagubilin po ang dapat ibigay sa mga dumalo para tulungan silang makatakas? [⏱ 11:00]</h3>
+<p>...</p>
+<ol>
+<li><strong><mark>Ituro ang escape route palayo sa karahasan</mark></strong> — tulungan ang iba, <strong>iwanan ang lahat ng gamit</strong></li>
+<li><strong>Huwag galawin ang mga sugatan</strong> — maliban kung may panganib sa buhay</li>
+<li><strong><mark>Huwag i-activate ang fire alarm</mark></strong> — baka ituro nito ang mga tao papunta sa umaatake</li>
+<li><strong>Lumabas sa direksiyong papasok ang pulis</strong> — pinakaligtas na ruta</li>
+</ol>
+<hr />
+<h3 id="tanong-6-kung-hindi-posibleng-mag-evacuate-tatagubilinan-ng-mga-attendant-ang-mga-dumalo-na-magtago-sa-kingdom-hall-natin-saan-puwedeng-magtago-ano-pa-ang-puwedeng-gawin-ng-mga-attendant-para-protektahan-ang-mga-dumalo-1300">Tanong 6: Kung hindi posibleng mag-evacuate, tatagubilinan ng mga attendant ang mga dumalo na magtago. Sa Kingdom Hall natin, saan puwedeng magtago? Ano pa ang puwedeng gawin ng mga attendant para protektahan ang mga dumalo? [⏱ 13:00]</h3>
+<p>Sabi sa plan:</p>
+<ol>
+<li>Magtago sa naka-lock na kuwarto</li>
+<li>I-block ang pinto gamit ang malalaking bagay — gawin nang tahimik</li>
+<li>Magbigay ng proteksyon kung may barilin</li>
+</ol>
+<p><strong>Pero ang tanong ko po sa inyo — sa Kingdom Hall natin, saan po specifically ang puwedeng pagtaguan? Ano po ang puwede nating gamitin para i-block ang pinto?</strong></p>
+<p>...</p>
+<p><em>{Open discussion — hayaan ang mga kapatid na mag-share based sa kanilang knowledge ng KH layout.}</em></p>
+<p>Follow-up: <strong>Pagkatapos ng insidente, ano po ang susunod?</strong></p>
+<ul>
+<li><em>{I-inform agad ang Service Department tungkol sa sitwasyon at sa mga hakbang na ginawa.}</em></li>
+</ul>
+<hr />
+<h3 id="summary-protect">Summary: PROTECT</h3>
+<ul>
+<li>Mga kapatid, para madaling matandaan —<ul>
+<li>ito po ang buong daloy kung may marahas na indibidwal.</li>
+</ul>
+</li>
+<li>
+<p><strong>PROTECT</strong> — dahil iyan po ang ginagawa natin — <strong>pinoprotektahan ang kawan.</strong></p>
+</li>
+<li>
+<p><strong>P — Pulis</strong> — Tumawag agad (landline kung posible)</p>
+</li>
+<li><strong>R — Restrict</strong> — I-lock at i-barricade ang mga pinto</li>
+<li><strong>O — Order</strong> — Manatiling kalmado, i-silent ang devices</li>
+<li><strong>T — Take action</strong> — Pigilan ang indibidwal kung nakapasok</li>
+<li><strong>E — Escape</strong> — Palayo sa karahasan, huwag i-activate ang fire alarm, sundin ang pulis</li>
+<li><strong>C — Cover</strong> — Magtago, i-lock ang pinto, i-block gamit ang malalaking bagay</li>
+<li><strong>T — Tell</strong> — I-inform ang Service Department</li>
+</ul>
+<p><strong>P-R-O-T-E-C-T.</strong> Madali lang po tandaan, mga kapatid.</p>
+<ul>
+<li>Ngayon po, may iba pang sitwasyon na puwedeng mangyari:</li>
+<li><mark class="green"><strong>Pagharap sa Iba Pang Sitwasyon (Handling Other Situations).</strong></mark></li>
+</ul>
+<hr />
+<h2 id="3-pagharap-sa-iba-pang-sitwasyon-3-min-1600">3 — Pagharap sa Iba Pang Sitwasyon [3 min | ⏱ 16:00]</h2>
+<p><em>[Ang sumusunod na tanong ay base sa mga punto sa parapo na may pamagat na "Bomb Threat" at "Kaguluhan sa Lugar, Masamang Panahon, o Sakuna sa Kapaligiran" sa Plano sa Seguridad ng Kingdom Hall]</em></p>
+<h3 id="bomb-threat">Bomb Threat</h3>
+<p>📖 <em>Sa plan natin, tingnan po ang seksyon na </em><em>"Bomb Threats"</em><em> under "Handling Serious Security Concerns."</em></p>
+<p><strong><mark>Dapat na seryosohin ang mga bomb threat.</mark></strong></p>
+<p><strong>Tanong: Ano po ang gagawin natin kapag may natanggap tayong bomb threat habang nagpupulong?</strong></p>
+<p>...</p>
+<ol>
+<li><strong>Auditorium attendant</strong> — aakyat sa stage</li>
+<li>Hihilingin sa lahat na <strong>mag-evacuate nang mabilis at maayos</strong> — dala ang mga gamit nila</li>
+<li>Siya o designate niya — <strong>tatawag sa pulis</strong></li>
+<li>Susundin ang <strong>Evacuation Plan</strong></li>
+</ol>
+<p>Follow-up: <strong>Matapos mag-evacuate, anong mga hakbang ang dapat gawin?</strong></p>
+<ol>
+<li><strong><mark>Walang papasok ulit sa gusali</mark></strong> — hangga't hindi nakukumpirma ng pulis na ligtas na</li>
+<li><strong>I-inform agad ang Service Department</strong></li>
+</ol>
+<hr />
+<h3 id="pananatili-para-magkubli-shelter-in-place-1800">Pananatili para Magkubli (Shelter in Place) [⏱ 18:00]</h3>
+<p>📖 <em>Sa plan natin, tingnan po ang seksyon na </em><em>"Civil Disturbances, Severe Weather, or Environmental Emergencies"</em><em> under "Handling Serious Security Concerns."</em></p>
+<p><strong><mark>May mga pagkakataong baka kailangang manatili sa Kingdom Hall para magkubli.</mark></strong></p>
+<p><strong>Tanong: Kung nagpasiya po ang mga elder na manatili para magkubli, anong mga hakbang ang dapat gawin?</strong></p>
+<p>...</p>
+<ol>
+<li><strong><mark>I-secure ang lahat ng pasukan at bintana</mark></strong></li>
+<li>Ilayo ang mga tao sa lahat ng bintana</li>
+<li>Kung kailangan — <strong><mark>pumunta sa mas maliliit na kuwarto o dumikit sa ilalim ng mga upuan</mark></strong></li>
+<li>
+<p>Mga elder ang mag-mo-monitor ng mga ulat mula sa mga awtoridad</p>
+</li>
+<li>
+<p>Mga kapatid, ngayon naman ay ilapat natin ang lahat ng napag-aralan natin.</p>
+</li>
+<li>Libutin natin ang Kingdom Hall:</li>
+<li><mark class="green"><strong>Pag-iinspeksiyon sa Palibot (Facility Inspection).</strong></mark></li>
+</ol>
+<hr />
+<h2 id="4-pag-iinspeksiyon-sa-palibot-10-min-1900">4 — Pag-iinspeksiyon sa Palibot [10 min | ⏱ 19:00]</h2>
+<ul>
+<li>Mga kapatid, ito po ang praktikal na bahagi.</li>
+<li>Titingnan natin mismo ang Kingdom Hall natin —<ul>
+<li>kung saan ang mga exit,</li>
+<li>kung saan ang mga equipment,</li>
+<li>at kung saan puwedeng magtago kung kinakailangan.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="pangunahing-impormasyon-1900">Pangunahing Impormasyon [⏱ 19:00]</h3>
+<p><em>[Repasuhin ang mahahalagang punto mula sa nabuong Plano sa Seguridad ng Kingdom Hall at libutin ang Kingdom Hall kasama ang mga dumalo sa miting]</em></p>
+<p><strong><mark>Ituro ang lokasyon ng mga fire extinguisher, first-aid kit, at katulad na mga item</mark></strong></p>
+<ul>
+<li><strong>Fire extinguisher</strong> — Saan po ito nakalagay? Alam ba ng lahat?</li>
+<li><strong>First-aid kit</strong> — Saan po ito?</li>
+</ul>
+<p><strong><mark>Repasuhin kung paano i-operate ang mga ilaw, HVAC system, lock ng pinto, at alarm system</mark></strong></p>
+<ul>
+<li>Alam ba natin kung paano i-operate ang mga ito?</li>
+</ul>
+<p><strong><mark>Kumpirmahin kung may numero ng mga emergency service ang mga attendant</mark></strong></p>
+<ul>
+<li>Naka-save na po ba sa phone ng lahat ng attendant?</li>
+</ul>
+<hr />
+<h3 id="mga-atas-ng-attendant-2100">Mga Atas ng Attendant [⏱ 21:00]</h3>
+<p>📖 <em>Sa plan natin, tingnan po ang seksyon na </em><em>"Attendant Roles"</em><em> — "Entrance Attendant" at "Auditorium Attendant."</em></p>
+<p><strong><mark>Repasuhin ang espesipikong mga atas, kung kailan dapat nandoon ang mga attendant para sa atas nila, at kung paano sila makakakuha ng karagdagang tulong</mark></strong></p>
+<p><strong>Entrance Attendant</strong> <em>(Plan: "Entrance Attendant" items 1-9)</em></p>
+<ul>
+<li>Nagsisimula <strong>30 minuto bago</strong> ang pulong hanggang <strong>umalis ang huling dumalo</strong></li>
+<li>Monitoring ng entrance at mga papasok — item 1</li>
+<li>Locking/unlocking ng doors — items 2, 4, 5</li>
+<li>Security cameras at communication sa auditorium attendant — item 6</li>
+<li>Assisting sa coatroom, foyer, elevators — item 7</li>
+<li>Assisting sa evacuation — item 8</li>
+<li>Sidewalk ice check (winter) — item 9</li>
+</ul>
+<p><strong>Auditorium Attendant</strong> <em>(Plan: "Auditorium Attendant" items 1-5)</em></p>
+<ul>
+<li>Nagsisimula <strong>30 minuto bago</strong> ang pulong hanggang <strong>umalis ang huling dumalo</strong></li>
+<li>Welcoming at arranging seating for newcomers — item 1</li>
+<li>Positioning ng trained brothers malapit sa mga hindi kilala — item 2</li>
+<li>Direction during emergencies — item 3</li>
+<li>Monitoring ng auditorium, stage, heating/ventilation — item 4</li>
+<li>Handling disruptions at serious security concerns — item 5</li>
+</ul>
+<p><strong>Karagdagang tulong</strong> — koordinasyon sa isa't isa, laging may communication</p>
+<p><strong><mark>Repasuhin ang mga kaayusan sa pagla-lock ng mga pinto sa lahat ng pulong, kasama ang pagtitipon para sa paglilingkod sa larangan</mark></strong></p>
+<p>📖 <em>Plan: "Entrance Attendant" items 2, 4, 5 at "General Security Measures" paragraph 2</em></p>
+<ul>
+<li><strong>5 minuto</strong> pagkatapos magsimula ang pulong — i-lock ang mga pinto — item 2</li>
+<li>I-unlock pagkatapos ng concluding prayer — item 4</li>
+<li>I-lock ulit kapag umalis na ang lahat — item 5</li>
+<li>Sa field service group, Bible study, elders' meeting, cleaning — <strong>naka-lock ang mga pinto sa lahat ng oras</strong> — General Security Measures</li>
+</ul>
+<p><strong><mark>Repasuhin kung paano at kung kailan dapat gawin ang pag-iinspeksiyon para sa seguridad sa labas ng gusali</mark></strong></p>
+<p>📖 <em>Plan: "Entrance Attendant" item 3</em></p>
+<ul>
+<li><strong>30 minuto</strong> pagkatapos magsimula ang pulong — unang inspection</li>
+<li><strong>15 minuto</strong> bago matapos — pangalawang inspection</li>
+<li>Laging <strong>may kasama</strong> — isa pang trained attendant</li>
+<li>May <strong>flashlight</strong></li>
+<li>I-verify na naka-lock ang mga exterior na pinto</li>
+</ul>
+<blockquote>
+<p><strong><mark>Sa panahon ng mga inspeksiyong ito, dapat na bantayan ng attendant sa awditoryum ang lahat ng pasukan ng Kingdom Hall.</mark></strong></p>
+</blockquote>
+<hr />
+<h3 id="evacuation-plan-2400">Evacuation Plan [⏱ 24:00]</h3>
+<p><strong><mark>Repasuhin ang mga dapat sundin kung kailangang mag-evacuate sa Kingdom Hall</mark></strong></p>
+<ul>
+<li>Attendants — dapat familiar sa lahat ng evacuation routes</li>
+<li>I-direct ang lahat sa mga exit</li>
+<li>Tulungan ang mga may espesyal na pangangailangan</li>
+<li>Final check — awditoryum, restroom, lobby — lahat ba ay nakalabas na?</li>
+<li>Walang babalik sa loob ng gusali</li>
+<li>Kung may nakulong sa loob — ibigay ang info sa emergency responders</li>
+<li><strong>Auditorium attendant</strong> — siya ang primary contact sa mga emergency responder</li>
+</ul>
+<p><strong><mark>Tukuyin ang mga labasan at ang mga lugar na pagtitipunan sakaling mag-evacuate</mark></strong></p>
+<ul>
+<li><strong>Saan po ang mga exit ng Kingdom Hall natin?</strong> <em>(ituro during walkthrough)</em></li>
+<li><strong>Saan po ang pagtitipunan?</strong> <em>(tukuyin ang safe location sa labas)</em></li>
+</ul>
+<hr />
+<h3 id="pananatili-sa-kingdom-hall-para-magkubli-2600">Pananatili sa Kingdom Hall para Magkubli [⏱ 26:00]</h3>
+<p><strong><mark>Repasuhin ang papel ng bawat attendant</mark></strong></p>
+<ul>
+<li>Sino ang nag-a-assign ng mga grupo?</li>
+<li>Sino ang nag-se-secure ng pinto at bintana?</li>
+<li>Sino ang nag-mo-monitor ng reports mula sa mga awtoridad?</li>
+</ul>
+<p><strong><mark>Tukuyin ang posibleng lugar na puwedeng pagkublihan sa loob ng gusali</mark></strong></p>
+<ul>
+<li><strong>Sa Kingdom Hall natin — saan po ang puwedeng pagtaguan?</strong> <em>(tukuyin during walkthrough)</em></li>
+<li>I-secure ang pasukan at bintana</li>
+<li>Ilayo ang mga tao sa bintana</li>
+<li>Kung kailangan — pumunta sa maliliit na kuwarto o dumikit sa ilalim ng mga upuan</li>
+</ul>
+<hr />
+<h2 id="konklusyon-3-min-2700">Konklusyon [3 min | ⏱ 27:00]</h2>
+<ul>
+<li>
+<p>Mga kapatid, bumalik po tayo sa upuan natin.</p>
+</li>
+<li>
+<p>Buksan po natin ang 2 Timoteo kabanata 3, bersikulo 16 at 17.</p>
+</li>
+</ul>
+<p><em>[Basahin ang 2 Timoteo 3:16, 17]</em></p>
+<div class="admonition quote">
+<p class="admonition-title">2 Timoteo 3:16, 17</p>
+<p>"Ang buong Kasulatan ay mula sa Diyos at kapaki-pakinabang sa pagtuturo, pagsaway, pagtutuwid, at pagdidisiplina ayon sa katuwiran, para ang lingkod ng Diyos ay maging lubos na may kakayahan, na handang-handa para sa bawat mabuting gawa."</p>
+</div>
+<ul>
+<li><strong><mark>Tinutulungan tayo ng Salita ng Diyos na "maging lubos na may kakayahan" sa pag-aasikaso ng mahalagang atas na protektahan ang mahahalagang tupa niya.</mark></strong></li>
+<li>Iyan po ang napag-aralan natin ngayong umaga —<ul>
+<li>kung paano haharapin ang mga sumasalansang,</li>
+<li>ang mararahas na indibidwal,</li>
+<li>ang bomb threat,</li>
+<li>ang pananatili para magkubli,</li>
+<li>at kung paano i-inspect ang Kingdom Hall natin.</li>
+</ul>
+</li>
+<li>
+<p>Tandaan po natin ang <strong>PROTECT</strong> — at ang prinsipyo sa Mateo 10:16:</p>
+<ul>
+<li><strong>Maingat gaya ng ahas, walang muwang gaya ng kalapati.</strong></li>
+<li>May <strong>discernment</strong> tayo — <strong>maingat pero mahinahon.</strong></li>
+</ul>
+</li>
+<li>
+<p>Dalawang bagay po ang hihilingin ko sa inyo:</p>
+</li>
+<li>
+<p><strong><mark>Dapat regular na repasuhin ng mga elder at attendant ang Plano sa Seguridad ng Kingdom Hall.</mark></strong></p>
+<ul>
+<li>Huwag po itong kalimutan pagkatapos ng miting na ito.</li>
+<li>Basahin ulit. Pag-aralan.</li>
+</ul>
+</li>
+<li>
+<p><strong><mark>Kilalanin ang sagradong pribilehiyo ninyo na protektahan ang mga kapananampalataya ninyo.</mark></strong></p>
+<ul>
+<li>Pinagkatiwala sa inyo ni Jehova ang kaniyang mga tupa.</li>
+<li>Iyan po ay hindi basta atas lang — iyan ay <strong>karangalan.</strong></li>
+</ul>
+</li>
+<li>
+<p>Ipanalangin po natin na patuloy tayong gabayan ni Jehova sa atas na ito.</p>
+</li>
+</ul>
+<p><em>[Panalangin]</em></p>
+<hr />
+<h2 id="quick-reference">Quick Reference</h2>
+<h3 id="ano-ang-service-department">Ano ang Service Department?</h3>
+<ul>
+<li>Ang <strong>Service Department</strong> ay ang departamento sa branch office ng mga Saksi ni Jehova na tumutulong sa mga kongregasyon sa mga bagay na may kinalaman sa organisasyon, legal na usapin, at seguridad.</li>
+<li>Kapag may seryosong insidente (violent individual, bomb threat, etc.) — kailangan i-inform agad ang Service Department pagkatapos ng insidente.</li>
+<li>Para sa seryoso o ongoing na security issue — tumawag agad sa <strong>Legal Department</strong> (base sa Risk Incident Report Instructions, TO-5i).</li>
+</ul>
+<h3 id="vtc-kingdom-hall-security-plan-s-288-section-reference-guide">VTC Kingdom Hall Security Plan (S-288) — Section Reference Guide</h3>
+<table>
+<thead>
+<tr>
+<th>Tagalog (sa script)</th>
+<th>English (sa plan)</th>
+<th>Section</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pagharap sa Pursigidong mga Sumasalansang</td>
+<td><em>(Not in S-288 — from S-289 outline)</em></td>
+<td>S-289 Blg. 2</td>
+</tr>
+<tr>
+<td>Pagharap sa Mararahas na Indibidwal</td>
+<td>Violent Individuals</td>
+<td>Handling Serious Security Concerns</td>
+</tr>
+<tr>
+<td>Bomb Threat</td>
+<td>Bomb Threats</td>
+<td>Handling Serious Security Concerns</td>
+</tr>
+<tr>
+<td>Pananatili para Magkubli</td>
+<td>Civil Disturbances, Severe Weather, or Environmental Emergencies</td>
+<td>Handling Serious Security Concerns</td>
+</tr>
+<tr>
+<td>Mga Atas ng Attendant</td>
+<td>Entrance Attendant / Auditorium Attendant</td>
+<td>Attendant Roles</td>
+</tr>
+<tr>
+<td>Evacuation Plan</td>
+<td>Evacuation Plan</td>
+<td>Evacuation Plan</td>
+</tr>
+<tr>
+<td>Pag-iinspeksiyon sa Palibot</td>
+<td><em>(From S-289 outline — walkthrough)</em></td>
+<td>S-289 Blg. 2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="kingdom-hall-equipment-emergency-info">Kingdom Hall Equipment &amp; Emergency Info</h3>
+<table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Lokasyon sa Kingdom Hall</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Fire extinguisher</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Alam ba ng lahat kung saan?</td>
+</tr>
+<tr>
+<td><strong>First-aid kit</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Mga ilaw (light switches)</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Paano i-on/off?</td>
+</tr>
+<tr>
+<td><strong>HVAC system</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Paano i-operate?</td>
+</tr>
+<tr>
+<td><strong>Lock ng pinto</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Lahat ba ng pinto — alam kung paano i-lock?</td>
+</tr>
+<tr>
+<td><strong>Alarm system</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Paano i-activate/deactivate?</td>
+</tr>
+<tr>
+<td><strong>Emergency service numbers</strong></td>
+<td><em>(i-save sa phone ng lahat ng attendant)</em></td>
+<td>Police, Fire, Ambulance</td>
+</tr>
+<tr>
+<td><strong>Evacuation exits</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Saan ang mga labasan?</td>
+</tr>
+<tr>
+<td><strong>Evacuation assembly point</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Saan ang pagtitipunan?</td>
+</tr>
+<tr>
+<td><strong>Hiding locations</strong></td>
+<td><em>(tukuyin during walkthrough)</em></td>
+<td>Saan puwedeng magtago?</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Lagdang Pangwakas" >
+        
+          
+          <a href="../33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/" class="md-footer__link md-footer__link--prev" aria-label="Nakaraan: Makakamit Pa Kaya Natin ang Tunay na Katarungan?">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Nakaraan
+              </span>
+              <div class="md-ellipsis">
+                Makakamit Pa Kaya Natin ang Tunay na Katarungan?
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../../watchtower/grupo-sa-paglilingkod/" class="md-footer__link md-footer__link--next" aria-label="Susunod: Makinabang sa Pagiging Bahagi ng Grupo sa Paglilingkod sa Larangan">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Susunod
+              </span>
+              <div class="md-ellipsis">
+                Makinabang sa Pagiging Bahagi ng Grupo sa Paglilingkod sa Larangan
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.tabs", "navigation.footer", "navigation.sections", "search.suggest", "search.highlight", "content.code.copy"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Nakopya mula sa clipboard", "clipboard.copy": "Kopyahin sa clipboard", "search.result.more.one": "1 meron sa pahina na ito", "search.result.more.other": "# meron sa pahina na ito", "search.result.none": "Walang nahanap na dokumento", "search.result.one": "1 magkatugmang dokumento", "search.result.other": "# magkatugmang mga dokumento", "search.result.placeholder": "Mag-type upang simulan ang paghahanap", "search.result.term.missing": "Nawawala", "select.version": "Pumili ng bersyon"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.d7400e89.min.js"></script>
+      
+        <script src="../../../javascripts/fix-search.js"></script>
+      
+    
+  </body>
+</html>
