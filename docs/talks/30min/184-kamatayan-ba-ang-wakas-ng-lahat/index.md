@@ -582,8 +582,7 @@ Ganiyan po ang nadarama ni Jehova at ni Jesus kapag namatayan tayo ng mahal sa b
 
 Mula nang magkasala si Adan, hinayaan muna ni Jehova na lumipas ang panahon. 
 
-Bakit po? 
-**==Sapat na ang panahon para makita ng mga tao ang resulta ng kanilang pagsuway==** — kung ano ang nangyayari kapag hiwalay sa Diyos ang tao.
+At ngayon po — **==sapat na ang panahon para makita ng mga tao ang resulta ng kanilang pagsuway==**: kung ano ang nangyayari kapag hiwalay sa Diyos ang tao.
 
 **==Napakalapit na ng itinakdang panahon ng Diyos para ituwid ang mga bagay-bagay dito sa lupa==** 
 — sa pamamagitan po ng **Kaharian ng Diyos** 
