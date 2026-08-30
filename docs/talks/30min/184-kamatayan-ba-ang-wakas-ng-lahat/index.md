@@ -415,21 +415,23 @@ Na-trap tayo sa minanang kasalanan
 
 Pero may dumating pong tulong.
 
-May isa pong naiba: **==walang nagawang kasalanan si Jesus.==**
+May isa pong naiba: **walang nagawang kasalanan si Jesus.**
 
-Kaya **==naingatan niya ang legal na karapatang mabuhay nang walang hanggan bilang tao.==**
+Ibig sabihin po: sa lahat ng tao, siya lang ang **walang utang na kamatayan.**
 
-Ibig sabihin po, walang utang na kamatayan si Jesus.
+Ang buhay niya — talagang kaniya. **May maibabayad siya.**
 
-Pero ano po ang ginawa niya?
+At iyon nga po ang ginawa niya: **ibinigay niya ang buhay niya para bayaran ang utang natin.**
 
-**Ibinigay niya ang buhay niya — para bayaran ang utang natin.**
+Pero paano po umabot ang bayad kay Jehova?
 
-At **==nang buhaying-muli si Jesus bilang espiritung nilalang, iniharap niya kay Jehova ang halaga ng kaniyang sakdal na buhay bilang tao.==**
+Kapag may nagbayad ng utang mo, kailangang maiabot ang pera sa pinagkakautangan, hindi po ba?
 
-Sa gayon, **ang pagkakautang natin kay Jehova dahil sa pagiging makasalanan — bayad na.**
+Ganiyan din po: **nang buhaying-muli si Jesus bilang espiritu, umakyat siya sa langit at iniharap niya kay Jehova ang halaga ng sakdal niyang buhay bilang tao** — para bang iniabot ang bayad sa pinagkakautangan.
 
-Kaya naman **may saligan na ngayon — may basehan na — para patawarin ang ating minanang kasalanan.**
+Kaya po: **ang utang natin — bayad na.**
+
+At dahil bayad na, **may basehan na si Jehova para patawarin ang minana nating kasalanan.**
 
 At iyan po ang tinatawag ng Bibliya na **pantubos** — ang halagang ibinabayad para mapalaya ang isa mula sa pagkabihag.
 
