@@ -643,7 +643,7 @@ Kaya ang paalam po natin sa mga mahal nating namatay — hindi na iyong "wala na
 
 **Makikita pa natin silang muli.**
 
-**Hindi po paalam magpakailanman — kundi hanggang sa muli.**
+**Hindi po paalam magpakailanman — kundi hanggang sa muling pagkikitaan.**
 
 ---
 

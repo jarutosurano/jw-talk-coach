@@ -4,6 +4,25 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.26.1] - 2026-08-29
+
+### Blg. 184 final polish + Watchtower "Pasasalamat sa Pantubos" answer script
+
+**Changed:**
+- Blg. 184: Lazaro beat sa eksaktong Juan 11:33/35 na pananalita at tamang narrative
+  order; "At ngayon po" pivot kapalit ng self-question; "kapag ang tao mismo ang
+  namamahala" gloss; final closing line: "Hindi po paalam magpakailanman — kundi
+  hanggang sa muling pagkikitaan."
+
+**Added:**
+- `docs/watchtower/salamat-sa-pantubos/index.md` — answer-prep script para sa "Paano Mo
+  Ipapakita ang Pasasalamat Mo sa Pantubos?" (Enero 2026, study week Marso 23-29, 2026);
+  FORMULA: Sumulong + Manatiling Masigasig + Manumbalik = Pasasalamat sa Pantubos
+- `watchtower/salamat-sa-pantubos/outline.md` — article notes + prayer gist (root-level)
+- `mkdocs.yml` nav: Watchtower entry, latest first
+
+---
+
 ## [4.26.0] - 2026-08-29
 
 ### Blg. 184 — FINAL na script; v1–v5 folders pinagsama sa iisang index.md
