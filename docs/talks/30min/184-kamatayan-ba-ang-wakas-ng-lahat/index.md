@@ -465,14 +465,9 @@ Kaya kung sasabihin sa iyo ni Jehova: **may pag-asa kang makitang muli ang namat
 
 Ano nga ba ang requirements para magkaroon ng buhay na walang hanggan?
 
-Buksan po natin ang **Juan kabanata 17, bersikulo 3.**
+Sabi po sa **Juan 17:3:** *"Para magkaroon sila ng buhay na walang hanggan, kailangan nilang makilala ka, ang tanging tunay na Diyos, at ang isinugo mo, si Jesu-Kristo."*
 
-*[Basahin ang Juan 17:3]*
-
-!!! quote "Juan 17:3"
-    "Para magkaroon sila ng buhay na walang hanggan, kailangan nilang makilala ka, ang tanging tunay na Diyos, at ang isinugo mo, si Jesu-Kristo."
-
-Sabi po sa teksto, dalawa lang ang requirements:
+Dalawa lang po ang requirements:
 
 Una — **makilala natin ang tanging tunay na Diyos,** si Jehova.
 
@@ -536,19 +531,14 @@ At hindi po bago ang pag-asang ito.
 Nawalan po si Job ng sampung anak. 
 At sa matinding hinagpis niya, may sinabi siyang tumatagos sa puso.
 
-Buksan po natin ang **Job kabanata 14, bersikulo 13 hanggang 15.** 
+Sa Job kabanata 14, bersikulo 14, itinanong ni Job:
 
-*[Basahin ang Job 14:13-15]*
-
-!!! quote "Job 14:13-15"
-    "O itago mo nawa ako sa Libingan; Itago mo ako hanggang sa mawala ang galit mo; Magtakda ka nawa ng panahon at alalahanin mo ako! Kung mamatay ang isang tao, mabubuhay pa ba siyang muli? Sa lahat ng araw ng aking sapilitang pagtatrabaho, maghihintay ako Hanggang sa dumating ang kaginhawahan ko. Tatawag ka, at sasagot ako. Mananabik ka sa gawa ng iyong mga kamay."
-
-Nakita n'yo po ba ang tanong ni Job sa bersikulo 14?
-"Kung mamatay ang isang tao, mabubuhay pa ba siyang muli?"
+**"Kung mamatay ang isang tao, mabubuhay pa ba siyang muli?"**
 
 **Ang mismong tanong natin ngayong umaga.**
 
-At pansinin po ang sagot sa bersikulo 15: 
+At heto po ang sagot sa bersikulo 15:
+
 **"Tatawag ka, at sasagot ako. Mananabik ka sa gawa ng iyong mga kamay."**
 
 Sino po ang mananabik?
