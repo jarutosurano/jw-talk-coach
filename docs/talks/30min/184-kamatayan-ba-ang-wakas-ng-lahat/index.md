@@ -571,8 +571,9 @@ At si Lazaro — apat na araw nang patay.
 
 At may detalye po sa ulat ni Lazaro na huwag nating palampasin.
 Bago buhayin ni Jesus si Lazaro — **lumuha si Jesus.**
+Iyan po ang Juan 11:35 — ang pinakamaikling bersikulo sa buong Bibliya.
 Alam niyang bubuhayin niya ito, ilang minuto na lang. 
-Pero nang makita niya ang mga namatayan — **umiyak siya.**
+Pero nang makita niya ang mga namatayan — sabi ng bersikulo 33, **parang kinurot ang puso niya at nalungkot siya nang husto.**
 
 Ganiyan po ang nadarama ni Jehova at ni Jesus sa tuwing may namamatay sa atin.
 
