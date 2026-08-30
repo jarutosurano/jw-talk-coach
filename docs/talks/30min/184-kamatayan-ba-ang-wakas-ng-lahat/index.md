@@ -561,20 +561,22 @@ Hindi lang po pala tayo ang nangungulila sa mga mahal natin sa buhay.
 
 **{pause}**
 
-At noong nandito si Jesus sa lupa, **==ipinakita niya na gusto at kaya ni Jehova na buhaying-muli ang mga patay.==**
+At noong nandito si Jesus sa lupa, **ipinakita niya na gusto at kaya ni Jehova na buhaying-muli ang mga patay.**
 
 Binuhay niya ang kaisa-isang anak ng biyuda sa Nain.
 
 Binuhay niya ang anak ni Jairo.
 
-At si Lazaro — apat na araw nang patay.
+At si Lazaro na apat na araw nang patay.
 
-Nang makita ni Jesus na umiiyak ang mga namatayan — sabi ng Juan 11:33, **parang kinurot ang puso niya.**
-At sabi ng bersikulo 35: **"Lumuha si Jesus."**
+Nang makita ni Jesus na umiiyak ang mga namatayan — sabi ng Juan 11:33, **parang kinurot ang puso niya at nalungkot siya nang husto.**
+
+At pagkatapos, sabi ng bersikulo 35: **"Lumuha si Jesus."**
+
 Alam niyang bubuhayin niya si Lazaro.
 **Pero lumuha pa rin siya.**
 
-Ganiyan po ang nadarama ni Jehova at ni Jesus sa tuwing may namamatay sa atin.
+Ganiyan po ang nadarama ni Jehova at ni Jesus kapag namatayan tayo ng mahal sa buhay.
 
 **{pause}**
 
