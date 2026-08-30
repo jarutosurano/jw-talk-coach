@@ -204,16 +204,18 @@ At doon nakasalalay ang pag-asa nating lahat.
 
 ## 2 — ANO NGA BA ANG KAMATAYAN? [5.5 minuto]
 
-!!! note "Rebuilt Aug 29 — sariling salita ng tagapagsalita"
-    ~640 salita + ~200 salitang binabasa ≈ 5 min pagsasalita + 3 pagbuklat. Tinanggal: naging/nagkaroon word study, aso analogy (binabasa na mismo ang Ec 3:19-20), "buo pa ang bumbilya" seed, permission line, Ec 9:10, "40 araw" na detalye.
-
-### Ang formula ng buhay (Genesis 2:7)
+!!! note "FINAL — sariling salita ng tagapagsalita (Aug 29, gabi)"
+    ~550 salita + ~250 binabasa = 5.5-6 min. Dalawang pagbuklat lang (Gen 2:7 at Ec 9); ang Ec 3:19-20 ay babasahin mismo ng tagapagsalita; ang Ec 3:11 ay cited lang. Ang formula-callback ("sino ang gumawa ng formula noong una... makakagawa nito ULIT") ay NAKATABI PARA SA SEKSIYON 4.
 
 **Ang unang tanong po natin:**
 
 **ano nga ba ang kamatayan?**
 
-Para po masagot natin iyan, balikan natin ang pinakasimula — kung paano nagkaroon ng buhay ang unang tao.
+**Ang kamatayan ay kabaligtaran lang ng proseso kung paano nagsimula ang buhay.**
+
+Ano po ang ibig sabihin niyan?
+
+Para po mas maintindihan natin ito, balikan natin kung paano nagkaroon ng buhay ang unang tao.
 
 Buksan po natin ang **Genesis kabanata 2, bersikulo 7.**
 
@@ -226,7 +228,9 @@ Ano po ang napansin natin dito?
 
 Sa teksto, sinasabi dito na may dalawang sangkap na ginamit ni Jehova para magkaroon ng buhay ang tao.
 
-**Hindi tatlo.** Walang binanggit na hiwalay na bahagi na inilagay sa loob ng tao.
+**Hindi tatlo.**
+
+Walang binanggit na hiwalay na bahagi na inilagay sa loob ng tao.
 
 Ano po iyon?
 
@@ -234,104 +238,131 @@ Una, **alabok ng lupa** at
 
 **Pangalawa, hininga ng buhay.**
 
-Sa madaling salita: hindi po *binigyan* ng kaluluwa ang tao — **ang tao mismo ang kaluluwa.**
+Sa madaling salita:
 
-Kaya gawin po natin itong formula:
+hindi po *binigyan* ng kaluluwa ang tao — **ang tao mismo ang kaluluwa.**
+
+Kaya kung gawin po natin itong formula:
 
 !!! tip "FORMULA"
     **Alabok ng lupa + Hininga ng buhay = Buháy na tao**
 
----
-
-### Ang koneksiyon — i-reverse natin ang formula
+**{pause}**
 
 So ano po ang koneksiyon nito sa kamatayan?
 
-**==Ang kamatayan po ay kabaligtaran ng prosesong iyan.==** I-reverse lang po natin ang formula:
+**==Ang kamatayan po ay kabaligtaran ng prosesong iyan.==**
+
+At kung i-reverse lang po natin ang formula:
 
 !!! tip "FORMULA (baligtad)"
-    **Buháy na tao − Hininga ng buhay = Alabok ng lupa**
+    **Buháy na tao minus Hininga ng buhay = Alabok ng lupa**
 
-Kaya nga po kapag namatay ang tao, sinasabi nating "babalik sa alabok."
+Iyan po ang kamatayan. Kaya nga sinasabi nating kapag namatay ang tao ay "babalik sa alabok."
 
-Iyan din po ang sinasabi ng Awit 146:4: **==humihinto ang paghinga, nauubos ang puwersa ng buhay, naglalaho ang pag-iisip.==**
+At ganiyan din po ang paglalarawan ng Awit 146:4:
 
-Para po ilarawan: bumbilya kasama ang kuryente — iyon po ang ilaw. Patayin natin ang switch. Saan napunta ang ilaw? Lumipad ba sa ibang lugar? Hindi po — **tumigil lang.**
+**==Humihinto ang paghinga;==**
 
-Ganiyan po ang kamatayan: **absent ng hininga — absent ng puwersa ng buhay.**
+**==nauubos ang puwersa ng buhay;==**
 
----
+at sa araw ding iyon, **==naglalaho ang pag-iisip.==**
 
-### Pero baka may magtanong: "e ang hayop?"
+Pansinin po: kapag binawi ang hininga — walang lumabas na kung ano. Walang pumunta sa ibang lugar. **Bumalik lang po sa alabok.**
 
-Baka po sabihin ng iba: "Iba ang tao — may kaluluwa tayo na wala sa hayop."
+**{pause}**
 
-Ano po ang sagot ng Bibliya? Buksan po natin ang **Eclesiastes kabanata 3, bersikulo 19 at 20.**
+Pero baka po may magtanong: paano naman ang hayop? May kaibahan ba?
 
-*[Basahin ang Eclesiastes 3:19, 20]*
+Basahin po natin ang **Eclesiastes 3:19 at 20.** Sabi dito:
 
 !!! quote "Eclesiastes 3:19, 20"
     "Dahil ang mangyayari sa hayop ay mangyayari din sa tao; pareho sila ng kahihinatnan. Kung paanong namamatay ang hayop, namamatay rin ang tao; at lahat sila ay may iisang puwersa ng buhay. Kaya ang tao ay walang kahigitan sa hayop, dahil ang lahat ng bagay ay walang kabuluhan. Iisa lang ang kapupuntahan ng lahat. Lahat sila ay galing sa alabok, at lahat sila ay babalik sa alabok."
 
-Malinaw po ang sagot: **==walang kahigitan ang kamatayan ng tao sa kamatayan ng hayop; sila ay magkatulad.==**
+Sa madaling salita:
 
-Kaya wala pong nakatagong parte sa loob natin na magliligtas sa atin. Kung may pag-asa po tayo — **kay Jehova lang iyon manggagaling.**
+**==walang kahigitan ang kamatayan ng tao sa kamatayan ng hayop==**
 
----
+**==— sila ay magkatulad.==**
 
-### Gaano kalalim ang wakas na ito?
+Kaya hindi po totoo na may bahagi ng tao na hindi namamatay.
 
-Buksan po natin ang **Eclesiastes kabanata 9, bersikulo 5 at 6.** Habang binabasa, bilangin po natin: ilang bagay ang winawakasan ng kamatayan?
+**{pause}**
 
-*[Basahin ang Eclesiastes 9:5, 6]*
+Kaya ano naman ang kalagayan ng mga namatay?
 
-!!! quote "Eclesiastes 9:5, 6"
-    "Dahil alam ng mga buháy na mamamatay sila, pero walang alam ang mga patay; wala na rin silang tatanggaping gantimpala, dahil lubusan na silang nalimutan. Naglaho na rin ang kanilang pag-ibig, poot, at inggit, at wala na silang bahagi sa anumang gawain sa ilalim ng araw."
+Buksan po natin ang **Eclesiastes kabanata 9, bersikulo 5, 6, at 10.**
 
-Ano pong natutuhan natin dito?
+*[Basahin ang Eclesiastes 9:5, 6, 10]*
 
-Apat po. **==Winawakasan ng kamatayan ang lahat ng komunikasyon, emosyon, pag-iisip, at pag-iral.==**
+!!! quote "Eclesiastes 9:5, 6, 10"
+    "Dahil alam ng mga buháy na mamamatay sila, pero walang alam ang mga patay; wala na rin silang tatanggaping gantimpala, dahil lubusan na silang nalimutan. Naglaho na rin ang kanilang pag-ibig, poot, at inggit, at wala na silang bahagi sa anumang gawain sa ilalim ng araw. … Anuman ang puwede mong gawin, gawin mo nang buong makakaya, dahil wala nang gawain, pagpaplano, kaalaman, o karunungan sa Libingan, kung saan ka pupunta."
 
-Dalawang bagay po ang ibig sabihin niyan sa atin.
+Ano nga po ang kalagayan ng mga namatay?
 
-**Una** — may nagsasabi pong *"nagpaparamdam si tatay."* Ano po ang sagot ng Bibliya? **Walang alam ang mga patay.** Kaya kung may nagpaparamdam po — **hindi po sila iyon.**
+Sabi ng teksto: **==winawakasan ng kamatayan ang lahat ng komunikasyon, emosyon, pag-iisip, at pag-iral.==**
 
-**Ikalawa** — at ito po ang kaaliwan. Baka iniisip natin: *"baka nalulungkot si nanay,"* o *"baka hinihintay pa niya ako."* Hindi po. **Hindi siya nalulungkot. Hindi siya nasasaktan. Hindi siya nagdurusa.** Para po silang natutulog nang mahimbing na walang panaginip.
+At ano naman ang natutuhan natin dito?
 
----
+Halimbawa: kapag may namatayan ng mahal sa buhay, may nagsasabing *"nagpaparamdam si tatay."*
 
-### Pero bakit ayaw nating tanggapin? (ang DESIGN)
+Pero **walang alam ang mga patay,** at wala na silang bahagi sa anumang gawain.
 
-Pero kung magkatulad po ang tao at hayop sa kamatayan — bakit tayo nababahala tungkol dito, at sila hindi?
+Kaya kung may nagpaparamdam po — **hindi po sila iyon.**
 
-Buksan po natin ang **Eclesiastes kabanata 3, bersikulo 11.** Pakinggan po natin kung ano ang inilagay ng Diyos sa puso ng tao.
+At isa pa po. Baka iniisip natin: *"baka nalulungkot si nanay dahil hindi ko siya naalagaan nang maayos."* O, *"baka hinihintay pa niya ako."*
 
-*[Basahin ang Eclesiastes 3:11]*
+Hindi po. **Hindi siya nalulungkot. Hindi siya nasasaktan. Hindi siya nagdurusa.**
 
-!!! quote "Eclesiastes 3:11"
-    "Ginawa niyang maganda ang lahat ng bagay sa tamang panahon nito. Inilagay pa nga niya sa puso nila ang magpakailanman; pero hinding-hindi mauunawaan ng sangkatauhan ang lahat ng gawa ng tunay na Diyos mula pasimula hanggang wakas."
+Para po silang natutulog nang mahimbing na walang panaginip.
 
-*"Inilagay pa nga niya sa puso nila ang magpakailanman."*
+**{pause}**
 
-Ibig sabihin po: **==dinisenyo tayo para mabuhay magpakailanman.==** Design po natin iyan.
+Ngayon po, may isang kakaiba.
 
-Kaya kapag may namatay sa atin, alam ng puso natin na may mali — **dahil mali nga.** Kaya nga po kahit ilang taon na ang nakalipas, bigla pa rin tayong napapaluha sa isang lumang litrato, isang kanta, isang putaheng paborito nila. **Hindi po tayo dinisenyo para mawalan.**
+Ang hayop — hindi nag-aalala na mamamatay siya.
+
+Pero ang tao?
+
+Iniisip natin ito. Kinakatakutan. Hindi natin matanggap.
+
+**Bakit po kaya, kung pareho naman ang kamatayan natin?**
+
+Sinasagot po iyan ng Eclesiastes 3:11. Ayon po sa teksto, inilagay ni Jehova *"sa puso nila (ng tao) ang magpakailanman."*
+
+Anong ibig sabihin po nito?
+
+Ibig sabihin po: **==nilalang tayo para mabuhay magpakailanman.==** Design po natin iyan.
+
+Kaya kapag may namatay sa atin, hindi ito matanggap ng puso natin — kasi hindi po talaga ito ang disenyo ni Jehova para sa atin.
+
+Kaya nga po kahit ilang taon na ang nakalipas, may mga sandaling bigla na lang tayong malulungkot — sa isang lumang litrato, sa isang kanta, sa paborito nilang pagkain. Normal po iyon. **Hindi kasi tayo dinisenyo para mawalan.**
 
 At kung si Jehova mismo ang naglagay ng pananabik na iyan sa puso natin — **may plano po siyang punan ito.**
 
-Kaya nga po ganiyan ang sanlibutan — *you only live once.* Habol din po pala nila ang magpakailanman; isiniksik lang nila ito sa 70 taon. **Hindi po kasi kasya.**
+**{pause}**
 
----
+Kaya ano nga ba ang kamatayan?
 
-### Saan galing ang pag-asa?
+**Binawi ang hininga — babalik sa alabok. The end.**
+
+**Pero hindi tayo dinisenyo para dito.**
+
+Nilikha po tayo ni Jehova para mabuhay magpakailanman.
+
+Kaya saan po tayo kukuha ng pag-asa?
 
 Naaalala n'yo po ang binasa natin kanina — *"mas mabuting pumunta sa bahay ng namatayan"?*
 
-Alam n'yo po ba, minsan sa isang taon, milyun-milyong tao sa buong mundo ang nagtitipon para alalahanin ang **isang kamatayan** — ang Memoryal.
+Minsan po sa isang taon, milyun-milyong tao sa buong mundo ang nagtitipon para alalahanin ang **isang kamatayan** — ang Memoryal sa kamatayan ni Jesus.
 
 **==Ang mga katotohanang tinalakay doon ang nagbibigay sa atin ng pag-asa.==**
 
-Bakit po? Kasi ang kamatayang iyon — **hindi naging wakas.**
+Bakit po?
+
+Kasi ang kamatayang iyon ay **hindi naging wakas.**
+
+**Kasi ang kamatayang iyon ang naging daan para magkaroon tayo ng pag-asang mabuhay magpakailanman.**
 
 ---
 
