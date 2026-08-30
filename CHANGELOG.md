@@ -4,6 +4,32 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.26.0] - 2026-08-29
+
+### Blg. 184 — FINAL na script; v1–v5 folders pinagsama sa iisang index.md
+
+The night-before workshop finished all four sections in the speaker's own words.
+v5 promoted to the folder root; v1–v4 snapshots deleted; nav now has a single entry.
+
+**Changed:**
+- `docs/talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/index.md` — ang final na buong
+  script: Sek 1 (paalam intro + Ec 7:2 isapuso/song thought + YOLO + tema), Sek 2 (formula
+  + reverse + hayop + Ec 9 babala/kaaliwan + DESIGN + Memoryal bridge), Sek 3 (building
+  illustration ng Enero 2026 Bantayan — na-trap → na-rescue → safety protocol; Ju 17:3
+  dalawang requirements; garantiya), Sek 4 + Konklusyon (ChatGPT/AI, formula-callback,
+  Job 14:13-15 "si Jehova ang nananabik," lumuha si Jesus, Kaharian ng Diyos gloss,
+  3-tanong recap, "Ang pantubos ang nagbayad. Ang Kaharian ang magsasauli. Ang atin na
+  lang po — ang tumanggap," hanggang sa muli). ~3,900 salita ≈ 25–26 min, 5 pagbuklat.
+- Non-witness comprehension review (fresh-ears agent) applied: pagsuway bridge, Kaharian
+  gloss + "Ama Namin" hook, "sa lupa" design callback, Q3 recap na-deduplicate.
+- `mkdocs.yml` — isang nav entry na lang para sa Blg. 184.
+
+**Removed:**
+- `docs/talks/30min/184-.../v2/`, `v3/`, `v4/`, `v5/` — mga snapshot; ang kasaysayan ay
+  nasa git history.
+
+---
+
 ## [4.25.1] - 2026-08-29
 
 ### Blg. 184 v5 — Seksiyon 1 at 2 rewritten sa sariling salita ng tagapagsalita

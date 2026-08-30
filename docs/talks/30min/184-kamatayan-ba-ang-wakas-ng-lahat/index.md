@@ -1,11 +1,9 @@
 ---
-title: Kamatayan Ba ang Wakas ng Lahat?
+title: 'Kamatayan Ba ang Wakas ng Lahat?'
 ---
 
-<!-- Song number TBD -->
-
 <div style="font-size: 0.85em; opacity: 0.7;" markdown="span">
-:material-calendar: August 30, 2026 (Sunday) · Outline Blg. 184
+:material-calendar: Aug 30, 2026 (Linggo) · Outline Blg. 184 · VTC · **FINAL** · Awit 151 — "Tatawag Siya" (Job 14:13-15)
 </div>
 
 ---
@@ -13,859 +11,646 @@ title: Kamatayan Ba ang Wakas ng Lahat?
 !!! success "Paalaala sa Tagapagsalita"
     Tulungan ang mga tagapakinig na maunawaang talagang walang kapag-a-pag-asa ang sangkatauhan kung hindi dahil sa inilaan ni Jehova na pantubos at Kaharian. Idiin ang pangangailangang lubos na manampalataya sa mga katotohanang tinalakay sa Memoryal.
 
+!!! abstract "TEMA AT PANGUNAHING MGA PUNTO"
+    **Tema:** Kamatayan Ba ang Wakas ng Lahat?
+
+    **Layunin:** Mangumbinsi — na walang pag-asa ang tao kung wala ang pantubos at ang Kaharian, at na dapat tayong lubos na manampalataya rito.
+
+    | # | Ulo sa outline | Papel sa pahayag |
+    |---|---|---|
+    | 1 | Ang wakas ng lahat ng mga tao | **Introduksiyon + paglalatag ng problema.** Nagtatapos sa: *"Paano natin ito uunawain? Talaga nga bang kamatayan ang wakas ng lahat ng bagay?"* — at sa roadmap ng tatlong tanong |
+    | 2 | Ano nga ba ang kamatayan? | **Unang tanong:** ano nga ba ang kamatayan? |
+    | 3 | Kung bakit hindi naging wakas ang kamatayan ni Jesus | **Ikalawang tanong:** may kamatayan po bang hindi naging wakas? |
+    | 4 | Ano ang magiging kahulugan ng "wakas" para sa iyo? | **Panghuling tanong:** ano ang magiging kahulugan ng "wakas" para sa iyo? |
+
+    **Susing salita na uulit-ulitin:** *wakas* · *pantubos* · *pagkabuhay-muli*
+
 !!! note "Delivery Reminders"
-    Storytelling mode — kausapin ang audience na parang non-believer. Huwag bilisan. Ang mga **{pause}** ay bahagi ng pahayag — hayaang tumagos ang mga salita. Target: ~25 minuto.
+    Normal na pagsasalita — hindi pagkukuwento at hindi padrama. Natural ang emosyon, hindi pilít (**Aralin 12**). Bawat teksto: sabihin muna kung bakit babasahin, saka basahin, saka itampok ang susing salita (**Aralin 4, 6**). Pagkatapos ng bawat halimbawa: *"Ano ang matututuhan natin dito, mga kapatid?"* (**Aralin 18**). Huminto sandali bago lumipat sa bagong punto (**Aralin 14**). **Oras:** ~4,400 salita ang bibigkasin — **mga 26–28 minuto** kasama na ang paghihintay habang binubuksan ng mga kapatid ang Bibliya nila (9 na tekstong bubuksan). **Timingin ang run-through** — kung lumampas, ito ang mga puwedeng laktawan nang walang masisira (~1 minuto): (1) ang *"Kaya nga po ganiyan ang sanlibutan…"* na parapo sa Ec 3:11 (Seksiyon 2), (2) ang *"Isipin n'yo po ang eksena…"* na pares sa Seksiyon 4.
 
-    **Franz-style techniques na naka-weave dito** (tingnan ang `reference/delivery-learnings.md`): repetition ng key line ("ulitin natin"), contrast pair (Adan vs Jesus), binary choice framing ("dalawa lang ang choice niya"), question chains na "Alam natin ang sagot," at recap-signpost bago ang Punto 4.
-
----
-
-## INTRO [2 minuto]
-
-May dalawang klase po ng paalam sa mundo.
-
-**{pause}**
-
-Ang una — nakita n'yo na siguro ito sa airport.
-
-Isang nanay, aalis papuntang ibang bansa
-para magtrabaho.
-Nakayakap sa kaniya ang mga anak niya.
-Umiiyak ang lahat.
-
-Pero sa gitna ng iyakan na 'yon —
-may isang pangungusap na nagpapagaan ng lahat:
-
-*"Anak, babalik ako."*
-
-Masakit ang paalam...
-pero may **pagkikitang muli.**
-
-**{pause}**
-
-Ang pangalawang klase ng paalam —
-mas tahimik.
-
-Sa isang punerarya.
-Walang nagsasabi ng *"babalik ako."*
-
-Baka naranasan n'yo na po ito.
-Baka matagal na — ilang taon na ang nakalipas.
-Pero hindi n'yo pa rin nakakalimutan ang sandaling iyon:
-
-nakatingin ka sa salamin ng kabaong,
-at ang tanong na hindi mo masabi nang malakas,
-pero sigaw ng puso mo:
-
-*"Makikita pa ba kita ulit?"*
-
-**{pause}**
-
-'Yan po ang tanong natin ngayong umaga:
-
-<mark class="pink">**Kamatayan ba ang wakas ng lahat?**</mark>
-
-Hindi po ito tanong na pang-relihiyon lang.
-Tanong ito ng bawat taong nagmahal —
-at nawalan.
-
-Para masagot natin 'yan, apat na bagay ang titingnan natin sa Bibliya:
-
-**Una** — Ano ba talaga ang inaamin ng Bibliya tungkol sa kamatayan?
-
-**Pangalawa** — Ano nga ba ang kamatayan?
-
-**Pangatlo** — Bakit may isang kamatayan na hindi naging wakas?
-
-**At panghuli** — Ano ang magiging kahulugan ng "wakas" para sa *iyo*?
+    **Estadistika (Aralin 7):** ang "mahigit 60 milyon kada taon / 170,000 kada araw / halos 2 kada segundo" ay galing sa pampublikong tantiya ng UN, hindi sa publikasyon natin. Kaya "mahigit," "mga," at "halos" ang gamit — huwag itong sabihing eksaktong bilang.
 
 ---
 
-## 1 — "Ang Wakas ng Lahat ng mga Tao" [4 minuto]
+## 1 — "ANG WAKAS NG LAHAT NG MGA TAO" [5.5 minuto]
 
-Simulan natin sa isang eksenang pamilyar sa ating lahat.
-Lahat po tayo, nakadalo na nito —
-kung hindi man kamakailan, noong mga nakaraang taon.
+!!! note "Nasa loob na ng seksiyong ito ang introduksiyon"
+    Sinunod ang **Aralin 1**: (1) kunin ang interes — ang dalawang klaseng paalam; (2) ipakita kung bakit mahalaga — ang Ec 7:2 mismo: *isapuso ito ng mga buháy* — ipadama ang pag-ibig habang may panahon; (3) ang tema at ang tatlong tanong (roadmap) ay nasa dulo ng seksiyon, dahil ang buong seksiyon ang introduksiyon. **Sariling salita ng tagapagsalita ang buong seksiyong ito (final, Aug 29).**
 
-Isang **lamay.**
+Alam n'yo po ba na may dalawang klaseng paalam?
 
-Sa labas ng bahay — may mga mesa.
-May kape, may biskwit.
-May naglalaro pa nga ng baraha.
-May tawanan paminsan-minsan.
+Ang una po, iyong paalam na posible pang magkita muli.
 
-Pero sa loob —
-sa tabi ng kabaong —
-nandoon ang asawa.
-Ang nanay.
-Ang anak.
+Halimbawa, kahapon lang po ay tuluyan nang nagpaalam ang mag-asawang Cabusas — lumipat na po sila sa Kingston.
 
-At ano po ang karaniwang naririnig natin sa mga lamay?
-Para aliwin ang mga nagdadalamhati, sinasabi ng mga tao:
+Pero puwede pa naman po natin silang makita sa susunod na linggo, sa circuit assembly. Puwede natin silang kausapin at tanungin kung okay lang sila.
 
-*"Nasa mabuti na siyang lugar."*
+At kung gusto po nilang bumalik dito sa atin ay welcome na welcome po sila dito sa VTC.
 
-*"Kasama na siya ng Diyos."*
+**{pause — malamang na papalakpak ang mga kapatid}**
 
-*"May plano ang Diyos."*
+Iyong pangalawang klaseng paalam po, iyong wala nang balikan.
 
-**{pause}**
+Tapos na. **Finish na.**
 
-Mabuti ang intensiyon nila.
-Pero pansinin n'yo —
-iba-iba ang paniniwala ng mga tao tungkol sa kamatayan.
+**Iyon na ang wakas.**
 
-Ang iba, sinasabing pumupunta agad sa langit ang namatay.
-Ang iba, naniniwala sa reinkarnasyon —
-babalik ka raw bilang ibang tao, o ibang nilalang.
-Ang iba naman, apatnapung araw daw munang naglalakbay ang kaluluwa.
+At sigurado po ako, lahat tayo rito ay nakaranas na nito.
 
-Iba-iba ang sagot.
-Pero iisa ang kirot.
+Na mawalan ng mahal sa buhay…
 
-Kasi kahit anong sabihin natin —
-kahit sabihin pa nating *"bahagi ng buhay ang kamatayan"* —
-sa loob-loob natin...
-**hindi natin ito matanggap.**
+Ng asawa.
+
+Ng magulang.
+
+Ng kapatid.
+
+At alam na alam po natin kung gaano kasakit po iyon.
 
 **{pause}**
 
-At hindi lang po tayo ang may ganitong tanong.
+Opo — kamatayan po ang pangalawang klaseng paalam — **==ang wakas ng lahat ng mga tao.==**
 
-Milyun-milyong tao ang namamatay taun-taon sa buong lupa.
-Ibig sabihin — milyun-milyong pamilya, taun-taon,
-ang nakaupo sa tabi ng kabaong,
-tinatanong ang parehong tanong.
+---
+
+### Ang sagot ng mga tao
+
+**==Milyun-milyong tao po ang namamatay taun-taon sa buong lupa.==**
+
+At para aliwin ang mga nagdadalamhati, karaniwan nang sinasabi na **ang mga namatay ay kasama na ng Diyos.**
+
+Iba-iba po ang paniniwala tungkol dito sa buong mundo.
+
+Sa isang bansa, sasabihin nila: "nasa langit na siya."
+
+Sa iba, may kaluluwa raw na lumilipat sa ibang katawan.
+
+Sa iba naman po, binubuksan pa ang mga pinto at bintana ng bahay — para raw makalabas ang espiritu ng namatay.
+
+Magkakaiba man po ang paniniwala, iisa ang sinasabi nila:
+
+**may bahagi raw ng tao na hindi namamatay.**
+
+At kahit po iyong mga nagsasabing bahagi na lang ng buhay ang kamatayan — **==hindi rin nila matanggap na ito ang wakas.==**
 
 **{pause}**
 
-Ngayon, eto po ang nakakagulat.
+---
 
-Alam n'yo ba kung ano ang sinasabi ng Bibliya tungkol sa kamatayan?
-Hindi ito nagbobola.
-Hindi ito nagpapalubag-loob gamit ang mga kuwentong hindi sigurado.
+### Ang sagot ng Bibliya
 
-Prangka ito.
+**Pero ano po ang sabi ng Bibliya tungkol dito?**
 
-Sa Bibliya, kapag namatay ang isang tao,
-sinasabing *"sumapit na siya sa kaniyang kawakasan."*
+Binabanggit ng Bibliya na kapag namatay ang isa, siya ay **=="sumasapit sa kaniyang kawakasan."==**
 
 Buksan po natin ang **Eclesiastes kabanata 7, bersikulo 2.**
-
-At kung wala po kayong dalang Bibliya ngayong umaga —
-okay lang po 'yan. Pakinggan n'yo lang itong isang linya.
-
-Habang hinahanap n'yo po, pakinggan ang tanong na ito:
-Ano raw ang kamatayan para sa *lahat* ng tao?
 
 *[Basahin ang Eclesiastes 7:2]*
 
 !!! quote "Eclesiastes 7:2"
     "Mas mabuting pumunta sa bahay ng namatayan kaysa sa bahay na may handaan, dahil iyon ang wakas ng lahat ng tao, at dapat itong isapuso ng mga buháy."
 
-Napansin n'yo po?
+Ano po ang sabi dito?
 
-Inamin mismo ng Bibliya:
-ang kamatayan ay **==ang wakas ng lahat ng mga tao.==**
+Mas mabuting pumunta sa bahay ng namatayan kaysa sa bahay na may handaan… dahil? **Iyon ang wakas ng lahat ng tao.**
 
-Mahalaga po ito — ulitin natin:
+Ano po ang natutuhan natin dito?
 
-*ang wakas... ng lahat... ng mga tao.*
+Natutunan po natin dito na ang kamatayan — **"ang wakas ng lahat ng tao."**
 
-Walang exempted.
-Mayaman man o mahirap.
-Sikat man o simpleng tao.
+Kapag sinabing **wakas** — walang continuation. Walang sequel. **The end.**
 
-Pero teka — may kakaiba sa tekstong ito.
+At pansinin din po natin ang dulo:
 
-Bakit sinabi nitong *"mas mabuting"* pumunta sa bahay ng namatayan
-kaysa sa bahay na may handaan?
+*"dapat itong isapuso ng mga buháy."*
 
-Di ba dapat baligtad?
+Anong ibig sabihin po niyan?
+
+Ang mga buháy — tayo po — dapat nating isapuso ito:
+
+**na ang buhay ay kay daling maglaho, at wala ring katiyakan.**
+
+Hindi po natin alam kung hanggang kailan tayo — o hanggang kailan sila.
+
+Kaya habang narito pa ang mga mahal natin — mga magulang, mga anak, mga kapatid — **ngayon na po natin ipadama ang pag-ibig natin.**
+
+Ngayon po kasi, ang pagpapadama ng pagmamahal ay madalas isang post na lang sa social media.
+
+Isang beses sa isang taon — kapag may okasyon.
+
+Minsan po… wala.
+
+At napansin n'yo po ba?
+
+Ang pinakamagagandang salita, ang pinakamagagandang bulaklak — madalas, sa burol na ibinibigay.
+
+Kung kailan hindi na naririnig.
+
+Hindi na nadarama.
+
+Kailan po ba tayo huling nakipagkuwentuhan sa kanila?
+
+Kailan tayo huling nagsabi ng "I love you"?
+
+Isang tawag lang po iyon. **Iyan po ang pagsasapuso nito.**
 
 **{pause}**
 
-Eto po ang dahilan:
-Sa handaan — nakakalimot tayo.
-Pero sa lamay — doon tayo *nag-iisip.*
+---
 
-Doon natin naitatanong ang mga tanong na talagang mahalaga:
-*Ano ba ang buhay? Ano ang mangyayari sa akin? May pag-asa ba?*
+### Ang sagot ng sanlibutan
 
-Kaya sabi ng teksto — *"dapat itong isapuso ng mga buháy."*
+At dahil iniisip ng maraming tao na ito na nga ang wakas, ganito na po ang ipinapakita ng sanlibutan ngayon:
 
-At 'yan mismo ang gagawin natin ngayong umaga.
+**sulitin na natin ang buhay** — *live life to the fullest.*
 
-Pero para masagot kung ang kamatayan nga ang wakas ng lahat ng *bagay* —
-kailangan muna nating malaman:
+Kaya ang iba po, ginagastos ang lahat — mamasyal, bilhin ang bawat gusto.
+
+Ang iba, gumagawa ng bucket list — lahat ng pangarap, hahabulin bago maging huli ang lahat.
+
+At ang iba naman po, kahit alam nilang masama — sige lang. *Live life as if there's no tomorrow.* Kasi nga, *"you only live once."*
+
+**{pause}**
 
 ---
 
-## 2 — Ano Nga Ba ang Kamatayan? [5.5 minuto]
+### Ang tema at ang tatlong tanong
 
-<mark class="green">**Ano nga ba ang kamatayan?**</mark>
+Pero sandali po.
 
-Para maintindihan natin ang kamatayan,
-intindihin muna natin ang **buhay.**
+**==Paano ba natin ito uunawain?==**
 
-Paano ba nagsimula ang buhay ng tao?
-May sagot ang Bibliya — sa pinakaunang aklat nito.
+**==Talaga nga bang kamatayan ang wakas ng lahat ng bagay?==**
+
+Wala na ba talagang pag-asa?
+
+Iyan po mismo ang sasagutin natin ngayong umaga. Ang tema po natin:
+
+**Kamatayan Ba ang Wakas ng Lahat?**
+
+Tatlong bagay po ang aalamin natin mula sa Bibliya.
+
+**Una** — ano nga ba talaga ang kamatayan?
+
+**Ikalawa** — may isa po palang kamatayan sa kasaysayan na hindi naging wakas.
+
+Isa lang po.
+
+At doon nakasalalay ang pag-asa nating lahat.
+
+**At panghuli** — ano ang magiging kahulugan ng "wakas" para sa iyo?
+
+---
+
+## 2 — ANO NGA BA ANG KAMATAYAN? [5.5 minuto]
+
+!!! note "FINAL — sariling salita ng tagapagsalita (Aug 29, gabi)"
+    ~550 salita + ~250 binabasa = 5.5-6 min. Dalawang pagbuklat lang (Gen 2:7 at Ec 9); ang Ec 3:19-20 ay babasahin mismo ng tagapagsalita; ang Ec 3:11 ay cited lang. Ang formula-callback ("sino ang gumawa ng formula noong una... makakagawa nito ULIT") ay NAKATABI PARA SA SEKSIYON 4.
+
+**Ang unang tanong po natin:**
+
+**ano nga ba ang kamatayan?**
+
+**Ang kamatayan ay kabaligtaran lang ng proseso kung paano nagsimula ang buhay.**
+
+Ano po ang ibig sabihin niyan?
+
+Para po mas maintindihan natin ito, balikan natin kung paano nagkaroon ng buhay ang unang tao.
 
 Buksan po natin ang **Genesis kabanata 2, bersikulo 7.**
-Pansinin po ninyo: dalawang sangkap lang ang ginamit ng Diyos.
 
 *[Basahin ang Genesis 2:7]*
 
 !!! quote "Genesis 2:7"
     "At inanyuan ng Diyos na Jehova ang tao mula sa alabok ng lupa at inihihip sa mga butas ng ilong nito ang hininga ng buhay, at ang tao ay nagkaroon ng buhay."
 
-Nakita n'yo po ang dalawang sangkap?
+Ano po ang napansin natin dito?
 
-**Alabok** — ang katawan.
-**Hininga ng buhay** — ang puwersang nagpapaandar dito.
+Sa teksto, sinasabi dito na may dalawang sangkap na ginamit ni Jehova para magkaroon ng buhay ang tao.
 
-Alabok, *plus* hininga ng buhay —
-*equals* buhay na tao.
+**Hindi tatlo.**
 
-Ang kamatayan?
-Ito ang **==kabaligtaran ng proseso==** na iyon.
+Walang binanggit na hiwalay na bahagi na inilagay sa loob ng tao.
 
-**{pause}**
+Ano po iyon?
 
-Para po ilarawan:
+Una, **alabok ng lupa** at
 
-Isipin n'yo ang isang bumbilya.
+**Pangalawa, hininga ng buhay.**
 
-Bumbilya, *plus* kuryente — *equals* ilaw.
+Sa madaling salita:
 
-Ngayon, patayin natin ang switch.
+hindi po *binigyan* ng kaluluwa ang tao — **ang tao mismo ang kaluluwa.**
 
-Saan pumunta ang ilaw?
+Kaya kung gawin po natin itong formula:
 
-**{pause}**
-
-Wala.
-
-Hindi ito lumipat sa kabilang kuwarto.
-Hindi ito umakyat sa bubong.
-
-**Tumigil lang.**
-
-Kasi ang ilaw ay hindi isang "bagay" na hiwalay —
-ito ay *resulta* ng pagsasama ng bumbilya at kuryente.
-
-Ganiyan din po ang buhay ayon sa Bibliya.
-
-Sabi ng Awit 146:4 tungkol sa taong namamatay:
-
-!!! quote "Awit 146:4"
-    "Ang hininga niya ay nawawala, bumabalik siya sa lupa; Sa araw ding iyon ay naglalaho ang pag-iisip niya."
-
-At sabi naman ng Eclesiastes 9:5 —
-*"alam ng mga buháy na mamamatay sila, pero walang alam ang mga patay."*
-
-Humihinto ang paghinga.
-Nauubos ang puwersa ng buhay.
-Naglalaho ang pag-iisip.
-
-Ganito po ka-prangka ang Bibliya —
-sabi pa nga sa Eclesiastes 3:19 at 20,
-pagdating sa kamatayan, **walang kahigitan ang tao sa hayop.**
-Pareho tayong hihinto ng paghinga.
-Pareho tayong babalik sa alabok.
-Walang lihim na bahagi ng tao
-na patuloy na nabubuhay at lumilipat lang ng lugar.
+!!! tip "FORMULA"
+    **Alabok ng lupa + Hininga ng buhay = Buháy na tao**
 
 **{pause}**
 
-Alam ko po...
-mabigat itong marinig.
+So ano po ang koneksiyon nito sa kamatayan?
 
-At kung may nagsabi po sa inyo noon na
-*"nasa langit na siya"* —
-at nakahinga kayo dahil doon —
-**walang masama sa inyo.**
-Kumapit kayo sa pinakamagandang alam n'yo noong panahong iyon.
+**==Ang kamatayan po ay kabaligtaran ng prosesong iyan.==**
 
-Pero manatili po kayo sa akin —
-dahil makikita natin mamaya
-na may inilaan pala ang Diyos na mas maganda pa.
+At kung i-reverse lang po natin ang formula:
 
-**{pause}**
+!!! tip "FORMULA (baligtad)"
+    **Buháy na tao minus Hininga ng buhay = Alabok ng lupa**
 
-At pansinin n'yo — may kaaliwan pala kahit sa mabigat na katotohanang ito.
+Iyan po ang kamatayan. Kaya nga sinasabi nating kapag namatay ang tao ay "babalik sa alabok."
 
-Kung ang mga patay ay walang alam...
-ibig sabihin, **hindi sila nagdurusa.**
+At ganiyan din po ang paglalarawan ng Awit 146:4:
 
-Isipin n'yo po ang mahal n'yo sa buhay na pumanaw na —
-baka lolo o lola, baka magulang, baka kaibigan.
-Baka ilang taon na silang wala.
+**==Humihinto ang paghinga;==**
 
-Hindi sila naghihirap sa kung saan mang lugar.
-Hindi sila nasusunog sa apoy.
-Hindi sila naliligaw.
-Hindi sila nilalamig.
+**==nauubos ang puwersa ng buhay;==**
 
-Para silang... **natutulog.**
+at sa araw ding iyon, **==naglalaho ang pag-iisip.==**
 
-Tahimik. Payapa. Walang sakit.
+Pansinin po: kapag binawi ang hininga — walang lumabas na kung ano. Walang pumunta sa ibang lugar. **Bumalik lang po sa alabok.**
 
 **{pause}**
 
-Pero may isa pa tayong dapat sagutin.
+Pero baka po may magtanong: paano naman ang hayop? May kaibahan ba?
 
-Kung ganoon lang kasimple ang kamatayan —
-bakit ang sakit-sakit pa rin?
+Basahin po natin ang **Eclesiastes 3:19 at 20.** Sabi dito:
 
-Bakit hindi natin matanggap?
+!!! quote "Eclesiastes 3:19, 20"
+    "Dahil ang mangyayari sa hayop ay mangyayari din sa tao; pareho sila ng kahihinatnan. Kung paanong namamatay ang hayop, namamatay rin ang tao; at lahat sila ay may iisang puwersa ng buhay. Kaya ang tao ay walang kahigitan sa hayop, dahil ang lahat ng bagay ay walang kabuluhan. Iisa lang ang kapupuntahan ng lahat. Lahat sila ay galing sa alabok, at lahat sila ay babalik sa alabok."
 
-May sagot ang Bibliya — at napakaganda nito.
-Sabi ng Eclesiastes 3:11, inilagay ng Diyos
-**sa puso natin** ang *magpakailanman.*
+Sa madaling salita:
 
-Ibig sabihin — dinisenyo tayo, nilalang tayo,
-para mabuhay **nang walang hanggan.**
+**==walang kahigitan ang kamatayan ng tao sa kamatayan ng hayop==**
 
-Kaya kapag may namatay,
-parang may mali.
+**==— sila ay magkatulad.==**
 
-Kasi *mali nga talaga.*
-
-Kaya nga po kahit ilang taon na ang nakalipas,
-may mga sandali pa ring bigla tayong napapaluha —
-
-isang lumang litrato.
-Isang kanta.
-Isang putaheng paborito nila.
-
-**Hindi tayo dinisenyo para mawalan.**
-
-Hindi ito ang orihinal na plano ng Diyos para sa atin.
-Tinatawag pa nga ng Bibliya ang kamatayan na **kaaway.** (1 Corinto 15:26)
+Kaya hindi po totoo na may bahagi ng tao na hindi namamatay.
 
 **{pause}**
 
-Ngayon — may sasabihin po ako sa inyo.
+Kaya ano naman ang kalagayan ng mga namatay?
 
-Minsan sa isang taon, milyun-milyong tao sa buong mundo
-ang nagtitipon sa isang gabi —
-hindi para sa isang kaarawan o pista...
+Buksan po natin ang **Eclesiastes kabanata 9, bersikulo 5, 6, at 10.**
 
-kundi para **alalahanin ang isang kamatayan.**
+*[Basahin ang Eclesiastes 9:5, 6, 10]*
 
-Tinatawag po itong **Memoryal** —
-ang taunang pag-alaala sa kamatayan ni Jesus.
+!!! quote "Eclesiastes 9:5, 6, 10"
+    "Dahil alam ng mga buháy na mamamatay sila, pero walang alam ang mga patay; wala na rin silang tatanggaping gantimpala, dahil lubusan na silang nalimutan. Naglaho na rin ang kanilang pag-ibig, poot, at inggit, at wala na silang bahagi sa anumang gawain sa ilalim ng araw. … Anuman ang puwede mong gawin, gawin mo nang buong makakaya, dahil wala nang gawain, pagpaplano, kaalaman, o karunungan sa Libingan, kung saan ka pupunta."
 
-Kakaiba, di ba? Bakit aalalahanin ang isang *kamatayan*?
+Ano nga po ang kalagayan ng mga namatay?
+
+Sabi ng teksto: **==winawakasan ng kamatayan ang lahat ng komunikasyon, emosyon, pag-iisip, at pag-iral.==**
+
+At ano naman ang natutuhan natin dito?
+
+Halimbawa: kapag may namatayan ng mahal sa buhay, may nagsasabing *"nagpaparamdam si tatay."*
+
+Pero **walang alam ang mga patay,** at wala na silang bahagi sa anumang gawain.
+
+Kaya kung may nagpaparamdam po — **hindi po sila iyon.**
+
+At isa pa po. Baka iniisip natin: *"baka nalulungkot si nanay dahil hindi ko siya naalagaan nang maayos."* O, *"baka hinihintay pa niya ako."*
+
+Hindi po. **Hindi siya nalulungkot. Hindi siya nasasaktan. Hindi siya nagdurusa.**
+
+Para po silang natutulog nang mahimbing na walang panaginip.
 
 **{pause}**
 
-Dahil ang kamatayang iyon —
-hindi lang basta hindi naging wakas.
+Ngayon po, may isang kakaiba.
 
-Ito ang naging **daan para wakasan ang kamatayan mismo.**
+Ang hayop — hindi nag-aalala na mamamatay siya.
 
-Paano?
+Pero ang tao?
+
+Iniisip natin ito. Kinakatakutan. Hindi natin matanggap.
+
+**Bakit po kaya, kung pareho naman ang kamatayan natin?**
+
+Sinasagot po iyan ng Eclesiastes 3:11. Ayon po sa teksto, inilagay ni Jehova *"sa puso nila (ng tao) ang magpakailanman."*
+
+Anong ibig sabihin po nito?
+
+Ibig sabihin po: **==nilalang tayo para mabuhay magpakailanman.==** Design po natin iyan.
+
+Kaya kapag may namatay sa atin, hindi ito matanggap ng puso natin — kasi hindi po talaga ito ang disenyo ni Jehova para sa atin.
+
+Kaya nga po kahit ilang taon na ang nakalipas, may mga sandaling bigla na lang tayong malulungkot — sa isang lumang litrato, sa isang kanta, sa paborito nilang pagkain. Normal po iyon. **Hindi kasi tayo dinisenyo para mawalan.**
+
+At kung si Jehova mismo ang naglagay ng pananabik na iyan sa puso natin — **may plano po siyang punan ito.**
+
+**{pause}**
+
+Kaya ano nga ba ang kamatayan?
+
+**Binawi ang hininga — babalik sa alabok. The end.**
+
+**Pero hindi tayo dinisenyo para dito.**
+
+Nilikha po tayo ni Jehova para mabuhay magpakailanman.
+
+Kaya saan po tayo kukuha ng pag-asa?
+
+Naaalala n'yo po ang binasa natin kanina — *"mas mabuting pumunta sa bahay ng namatayan"?*
+
+Minsan po sa isang taon, milyun-milyong tao sa buong mundo ang nagtitipon para alalahanin ang **isang kamatayan** — ang Memoryal sa kamatayan ni Jesus.
+
+**==Ang mga katotohanang tinalakay doon ang nagbibigay sa atin ng pag-asa.==**
+
+Bakit po?
+
+Kasi ang kamatayang iyon ay **hindi naging wakas.**
+
+**Kasi ang kamatayang iyon ang naging daan para magkaroon tayo ng pag-asang mabuhay magpakailanman.**
 
 ---
 
-## 3 — Kung Bakit Hindi Naging Wakas ang Kamatayan ni Jesus [6.5 minuto]
+## 3 — KUNG BAKIT HINDI NAGING WAKAS ANG KAMATAYAN NI JESUS [5.5 minuto]
 
-<mark class="green">**Bakit hindi naging wakas ang kamatayan ni Jesus?**</mark>
+!!! note "FINAL — sariling salita ng tagapagsalita (Aug 29, gabi)"
+    Ang building illustration (na-trap → na-rescue → safety protocol) = Enero 2026 Bantayan, araling artikulo noong Marso 2026. Isang ilustrasyon, tatlong trabaho. Isang pagbuklat lang (Ju 17:3).
 
-Para maintindihan natin ito, magkuwento muna ako.
+Ngayon naman po, tingnan natin ang pangalawang tanong:
 
-Isipin n'yo ang isang pamilya na nabaon sa utang.
+**Kung bakit hindi naging wakas ang kamatayan ni Jesus.**
 
-Hindi basta utang —
-utang na minana pa sa magulang.
-Lumaki na sa interes.
-Kahit magtrabaho sila nang magtrabaho buong buhay nila,
-**hinding-hindi nila kayang bayaran.**
+Bago po natin iyan sagutin at para mas maintindihan natin ito — alamin muna natin ito:
 
-At ang masaklap — pati ang mga anak nila,
-ipapanganak na may pasan-pasan nang utang.
+**bakit ba namamatay ang tao?**
 
-**{pause}**
+Sagot po, Roma 6:23:
 
-Mga kapatid at mga kaibigan —
-'yan po ang sitwasyon nating lahat.
+**==Kamatayan ang kabayaran ng kasalanan.==**
 
-At sa kuwentong ito — dalawang tao ang bida.
-Magkabaligtad na magkabaligtad.
+Nagkasala si Adan, kaya namatay siya.
 
-Ang isa — **nag-iwan sa atin ng utang.**
-Ang isa — **nagbayad nito.**
+At tayong lahat na nagmula sa kaniya — minana natin ang kasalanang iyon.
 
-Sabi ng Roma 6:23:
-
-!!! quote "Roma 6:23"
-    "Dahil ang kabayaran para sa kasalanan ay kamatayan, pero ang regalo ng Diyos ay buhay na walang hanggan sa pamamagitan ni Kristo Jesus na ating Panginoon."
-
-Ang **kabayaran ng kasalanan** ay kamatayan.
-
-Ang unang bida — ang unang tao, si Adan.
-**Siya ang nangutang.**
-Nang suwayin niya ang Diyos, nawala sa kaniya
-ang buhay na walang hanggan —
-at hindi na niya iyon maipapamana sa atin.
-
-Ang naipamana na lang niya — ang utang.
-
-Hindi natin ginusto. Hindi natin pinili.
-Pero ipinanganak tayong pasan-pasan ito —
-kaya tayo tumatanda, nagkakasakit, namamatay.
+Kaya lahat po tayo, may utang na kamatayan.
 
 **{pause}**
 
-Pero ang ikalawang bida —
-isang tao na ipinanganak na **walang utang.**
+Para po ilarawan, isipin po natin ito:
 
-Si Jesus.
+Bumagsak ang isang building, at na-trap sa mga guho nito ang isang lalaki.
 
-Buong buhay niya — walang nagawang kasalanan.
-Ni isa.
+Buhay pa naman siya — pero hindi siya makakaalis doon nang walang tulong mula sa iba.
 
-Ibig sabihin, ang kamatayan ay **walang karapatan sa kaniya.**
-Karapatan niyang mabuhay nang walang hanggan bilang tao.
-Sabi nga ng Bibliya, *"imposible"* na manaig sa kaniya ang kamatayan.
+Ang magagawa lang niya:
 
-Ngayon — dalawa lang po ang choice niya:
+sumigaw, humingi ng tulong, at umasang may magliligtas sa kaniya.
 
-ingatan ang karapatang iyon para sa sarili niya...
-o ibigay ito — para sa atin.
+**Parang ganiyan po ang sitwasyon ng bawat isa sa atin.**
 
-Alam natin ang pinili niya.
+Na-trap tayo sa minanang kasalanan
 
-**Ibinigay niya.**
-
-Kusang-loob. Walang pumilit sa kaniya.
-
-Sabi niya mismo —
-*"Walang taong kumukuha nito sa akin,
-kundi ibinibigay ko ito sa sarili kong pagkukusa."*
-
-Bakit niya gagawin 'yon?
-
-Sabi ng 2 Corinto 5:14 —
-**"Ang pag-ibig ng Kristo ang nagpapakilos sa amin."**
-
-Namatay siya *para sa atin.*
+— at hindi natin ito matatakasan nang walang tulong mula sa iba.
 
 **{pause}**
 
-Balikan natin ang pamilyang baon sa utang.
+Pero may dumating pong tulong.
 
-Isipin n'yo — isang araw, may kumatok sa pinto nila.
-Isang kaibigan.
+May isa pong naiba: **==walang nagawang kasalanan si Jesus.==**
 
-At sinabi niya: *"Bayad na. Lahat. Ako na ang nagbayad."*
+Kaya **==naingatan niya ang legal na karapatang mabuhay nang walang hanggan bilang tao.==**
 
-Hindi dahil obligado siya.
-Kundi dahil **mahal niya sila.**
+Ibig sabihin po, walang utang na kamatayan si Jesus.
 
-**{pause}**
+Pero ano po ang ginawa niya?
 
-'Yan po ang tinatawag ng Bibliya na **==pantubos==** —
-ang pambayad para *matubos* tayo.
+**Ibinigay niya ang buhay niya — para bayaran ang utang natin.**
 
-Nang buhaying-muli si Jesus —
-hindi na bilang tao, kundi bilang **espiritu** sa langit —
-iniharap niya sa Diyos ang halaga
-ng kaniyang sakdal na buhay —
-ibig sabihin, ang buhay niyang *perpekto,* walang kasalanan.
+At **==nang buhaying-muli si Jesus bilang espiritung nilalang, iniharap niya kay Jehova ang halaga ng kaniyang sakdal na buhay bilang tao.==**
 
-At ang utang natin...
+Sa gayon, **ang pagkakautang natin kay Jehova dahil sa pagiging makasalanan — bayad na.**
 
-**bayad na.**
+Kaya naman **may saligan na ngayon — may basehan na — para patawarin ang ating minanang kasalanan.**
 
-May basehan na ngayon para patawarin
-ang minana nating kasalanan.
-Nabuksan na ang daan pabalik
-sa buhay na walang hanggan.
+At iyan po ang tinatawag ng Bibliya na **pantubos** — ang halagang ibinabayad para mapalaya ang isa mula sa pagkabihag.
+
+Kagaya sa illustration kanina, para bang **iniahon tayo ni Jehova mula sa guho — sa pamamagitan ng buhay ng kaniyang Anak.**
 
 **{pause}**
 
-Pero isipin n'yo ito.
+Ngayon po, balikan natin ang lalaking iyon sa guho.
 
-Kapag may nagbayad ng ganoon kalaking utang para sa iyo —
-ano kaya ang nararapat?
+Kung ikaw po iyon — ikaw po ay na-rescue — **ano ang mararamdaman mo sa nagligtas sa iyo?**
 
-Siyempre — makikilala mo siya.
-Magpapasalamat ka.
-At hindi ka na babalik sa lumang paraan ng pamumuhay
-na nagbaon sa iyo sa utang.
+Siguradong napakalaking utang na loob.
 
-Ganiyan din po ang sinasabi ng Bibliya.
-Ang benepisyo ng pantubos ay hindi automatic —
-**kailangan ang pagsunod.**
-Sabi sa Juan 3:36, ang nananampalataya sa Anak
-ay may buhay na walang hanggan;
-pero ang sumusuway — hindi.
+Gugustuhin mong ipakita ang pasasalamat mo sa nag-rescue sa iyo.
 
-Hindi dahil mahigpit ang Diyos.
-Kundi dahil ang regalong ganito kahalaga —
-tinatanggap nang buong puso, hindi binabalewala.
+Ganiyan din po ang sinasabi ng Bibliya tungkol sa pantubos: **"Ang pag-ibig ng Kristo ang nagpapakilos sa amin."**
 
-Paano natin ito tinatanggap? Sabi sa Juan 17:3:
+**{pause}**
+
+Kaya heto po ang tanong: **==basta na lang ba pinatatawad ni Jehova ang lahat ng kasalanan salig sa pantubos?==**
+
+**==Sagot: Hindi po; kasi kailangan ang pagsunod.==**
+
+Kagaya kanina — kapag nire-rescue ka, hindi ka agad-agad ligtas. Kailangan mong sumunod sa mga tagubilin ng rescuer:
+
+"Huwag kang gagalaw."
+
+"Dito ka dumaan."
+
+"Kumapit ka nang mahigpit."
+
+Kapag hindi ka sumunod — baka hindi ka pa rin maligtas.
+
+**{pause}**
+
+Kaya kung sasabihin sa iyo ni Jehova: **may pag-asa kang makitang muli ang namatay mong mahal sa buhay** — at hindi lang iyan: **puwede pa kayong mabuhay magpakailanman** — hindi po ba't gugustuhin mong malaman kung ano ang kailangan?
+
+Ano nga ba ang requirements para magkaroon ng buhay na walang hanggan?
+
+Buksan po natin ang **Juan kabanata 17, bersikulo 3.**
+
+*[Basahin ang Juan 17:3]*
 
 !!! quote "Juan 17:3"
     "Para magkaroon sila ng buhay na walang hanggan, kailangan nilang makilala ka, ang tanging tunay na Diyos, at ang isinugo mo, si Jesu-Kristo."
 
-**Makilala** ang tunay na Diyos — ang pangalan niya po, ayon sa Bibliya, ay **Jehova** —
-at ang isinugo niya, si Jesus.
-At kumilos ayon sa natututuhan.
+Sabi po sa teksto, dalawa lang ang requirements:
+
+Una — **makilala natin ang tanging tunay na Diyos,** si Jehova.
+
+At pangalawa — **makilala ang isinugo niya, si Jesu-Kristo.**
+
+At ang "makilala" po ay hindi basta alamin ang pangalan. Tuloy-tuloy po itong pagkakakilala.
+
+Kaya **==patuloy tayong kumuha ng kaalaman tungkol sa Diyos na Jehova at kay Jesu-Kristo — at kumilos ayon dito.==**
+
+Iyan din po ang mga katotohanang tinatalakay natin tuwing Memoryal.
+
+At ang tanong — para sa ating lahat: **lubos ba tayong naniniwala sa mga katotohanang ito?**
 
 **{pause}**
 
-Ngayon, baka may nagtatanong sa inyo:
+Ano po ang natutuhan natin dito?
 
-*"Paano ko naman sisiguraduhin na totoo ang lahat ng ito?"*
+Ayon sa Gawa 17:31, maliwanag na ang pagbuhay-muli ni Jehova kay Jesus ay **=="garantiya sa lahat ng mga tao"==** — garantiya tungkol sa darating na Araw ng Paghuhukom ng Diyos,
 
-Magandang tanong po 'yan.
-At may sagot ang Bibliya — hindi lang pangako,
-kundi **garantiya.**
-
-Buksan po natin ang **Gawa kabanata 17, bersikulo 31.**
-Hanapin po ninyo: ano raw ang ibinigay ng Diyos
-bilang garantiya sa *lahat* ng tao?
-
-*[Basahin ang Gawa 17:31]*
-
-!!! quote "Gawa 17:31"
-    "Dahil nagtakda siya ng isang araw kung kailan hahatulan niya ang lupa ayon sa katuwiran sa pamamagitan ng lalaking inatasan niya, at bilang garantiya sa lahat ng tao, binuhay niya siyang muli."
-
-Dalawang bagay po ang nasa tekstong ito.
-
-**Una** — may itinakda ang Diyos na araw,
-isang **Araw ng Paghuhukom**,
-kung kailan aayusin niya ang lahat dito sa lupa
-sa pamamagitan ni Jesus.
-
-**At ikalawa** — ang patunay na mangyayari ito:
-
-ang pagbuhay-muli kay Jesus ay
-**==garantiya sa lahat ng mga tao.==**
-
-Nagpakita si Jesus sa mga alagad niya
-pagkatapos siyang buhaying-muli —
-at binago ng nakita nila ang buong buhay nila.
-
-Kung binuhay-muli ni Jehova si Jesus —
-**kaya rin niyang buhaying-muli ang mga mahal natin sa buhay.**
-
-Iyan ang garantiya.
+at **katiyakan na magkakaroon ng pagkabuhay-muli** ang mga namatay nating mahal sa buhay.
 
 ---
 
-## 4 — Ano ang Magiging Kahulugan ng "Wakas" Para sa Iyo? [5.5 minuto]
+## 4 — ANO ANG MAGIGING KAHULUGAN NG "WAKAS" PARA SA IYO? [5 minuto]
 
-Tingnan po natin kung saan na tayo nakarating.
+!!! note "FINAL — sariling salita ng tagapagsalita (Aug 29, gabi)"
+    Formula-callback mula Seksiyon 2; Job 14:15 ang climax (tugma sa Awit 151 — "Tatawag Siya"); may Kaharian gloss para sa mga bisita. Isang pagbuklat (Job 14). Kung kailangang mag-trim habang nagsasalita: ang ChatGPT line at ang "anak ni Jairo" ang unang laktawan.
 
-Natutuhan natin — prangka ang Bibliya:
-totoong wakas ang kamatayan.
-Natutuhan natin kung *ano* ito —
-parang mahimbing na pagtulog.
-At natutuhan natin ang **pantubos** —
-na bayad na ang utang.
+Ngayon naman po, para sa panghuling tanong:
 
-Kaya balik tayo sa tanong natin:
+**Ano ang magiging kahulugan ng "wakas" para sa iyo?**
 
-<mark class="pink">**Kamatayan ba ang wakas ng lahat?**</mark>
+Kamatayan pa rin ba ang wakas ng lahat?
 
-Ang totoo pong sagot?
-
-**Oo** — *kung wala ang pantubos.*
-
-Kung wala ang inilaan ng Diyos,
-talagang walang kapag-a-pag-asa ang sangkatauhan.
-
-Tingnan n'yo po ang mundo.
-Bilyun-bilyong dolyar ang ginagastos
-ng pinakamayayamang tao sa anti-aging research.
-Mga siyentipiko, mga teknolohiya, mga eksperimento.
-
-Ano po ang resulta?
-
-Napigilan ba nila ang pagtanda — kahit sa isang tao?
-Naibalik ba nila sa buhay — kahit isang patay?
-
-**Alam natin ang sagot.**
-
-**Si Jehova lamang ang makagagawa nito.**
-
-At ipinakita na niya ito.
+**==Gayon nga: kung wala ang pantubos ni Kristo na inilaan ng Diyos.==**
 
 **{pause}**
 
-Dalhin ko po kayo sa isang umaga,
-mga dalawang libong taon na ang nakararaan.
+Sa kabila po ng pagsulong ng teknolohiya — kahit ChatGPT version 20 pa iyan, o kahit gaano ka-high-end ang AI — ito po ang sigurado:
 
-Sa may pintuang-daan ng maliit na lunsod ng **Nain.**
+**==hindi kaya ng tao na lumikha at magsauli ng buhay.==**
 
-May prusisyon ng libing na palabas.
+**==Si Jehova lamang ang makagagawa nito.==**
 
-Ang namatay — isang binata.
-**Kaisa-isang anak** ng isang babae.
-At ang babae — **biyuda na.**
+Bakit po tayo nakakasiguro? 
 
-Isipin n'yo po ang babaeng ito.
-Naunang namatay ang asawa niya.
-Ngayon, ang nag-iisa niyang anak.
+Balikan po natin ang formula natin kanina:
 
-Wala na siyang sinuman.
+**Alabok ng lupa + Hininga ng buhay = Buháy na tao.**
 
-**{pause}**
+Sino po ang gumawa niyan noong una? 
+**Si Jehova.**
 
-Pero papalapit sa lunsod — si Jesus.
-
-At sabi ng ulat sa Lucas kabanata 7 —
-nang makita niya ang biyuda...
-
-**naawa siya.**
-
-Lumapit siya at sinabi:
-
-*"Huwag ka nang umiyak."*
-
-Hinipo niya ang hinihigaan ng patay,
-at sinabi:
-
-*"Lalaki, inuutusan kita, bumangon ka!"*
+Kaya si Jehova lang din po ang makakagawa nito — **ulit.**
 
 **{pause}**
 
-At bumangon ang binata.
-Nagsalita.
+At hindi po bago ang pag-asang ito. 
+**==Naniniwala sa pagkabuhay-muli ang mga sinaunang lingkod ng Diyos==** — gaya ni Job.
 
-At sabi ng ulat —
-*"ibinigay siya ni Jesus sa kaniyang ina."*
+Nawalan po si Job ng sampung anak. 
+At sa matinding hinagpis niya, may sinabi siyang tumatagos sa puso.
 
-**{pause}**
+Buksan po natin ang **Job kabanata 14, bersikulo 13 hanggang 15.** 
 
-Isipin n'yo po ang yakap na iyon.
+*[Basahin ang Job 14:13-15]*
 
-**{pause}**
+!!! quote "Job 14:13-15"
+    "O itago mo nawa ako sa Libingan; Itago mo ako hanggang sa mawala ang galit mo; Magtakda ka nawa ng panahon at alalahanin mo ako! Kung mamatay ang isang tao, mabubuhay pa ba siyang muli? Sa lahat ng araw ng aking sapilitang pagtatrabaho, maghihintay ako Hanggang sa dumating ang kaginhawahan ko. Tatawag ka, at sasagot ako. Mananabik ka sa gawa ng iyong mga kamay."
 
-Nangyari po ito sa harap ng maraming tao —
-at kumalat ang balita sa buong Judea.
+Nakita n'yo po ba ang tanong ni Job sa bersikulo 14?
+"Kung mamatay ang isang tao, mabubuhay pa ba siyang muli?"
 
-At hindi lang ito minsan.
-Ang anak na babae ni Jairo — *"Anak, bumangon ka!"*
-Si Lazaro — apat na araw nang patay — *"Lazaro, lumabas ka!"*
+**Ang mismong tanong natin ngayong umaga.**
 
-Bakit ito ginawa ni Jesus nang hayagan, sa harap ng mga saksi?
+At pansinin po ang sagot sa bersikulo 15: 
+**"Tatawag ka, at sasagot ako. Mananabik ka sa gawa ng iyong mga kamay."**
 
-Para ipakita sa atin ang dalawang bagay:
+Sino po ang mananabik?
+Hindi po si Job kundi **si Jehova.**
 
-na **gusto** ni Jehova...
-at **kaya** ni Jehova...
-na buhaying-muli ang mga patay.
+Kaya ano po ang natutuhan natin dito?
+Hindi lang po pala tayo ang nangungulila sa mga mahal natin sa buhay.
 
-**{pause}**
-
-Pero baka may nagtatanong po ngayon sa puso niya —
-at ito siguro ang pinakamahalagang tanong ngayong umaga:
-
-*"Paano naman ang mahal ko sa buhay?
-Hindi naman siya ganoon karelihiyoso.
-Kasama ba siya?"*
+**Si Jehova mismo ay sabik na sabik na buhayin silang muli.**
 
 **{pause}**
 
-Pakinggan n'yo po ang sagot ng Bibliya, sa Gawa 24:15 —
-bubuhaying muli ng Diyos
+At noong nandito si Jesus sa lupa, **==ipinakita niya na gusto at kaya ni Jehova na buhaying-muli ang mga patay.==**
 
-**"ang mga matuwid at di-matuwid."**
+Binuhay niya ang kaisa-isang anak ng biyuda sa Nain.
 
-*Kapuwa.* Ang matuwid — **at** ang di-matuwid.
+Binuhay niya ang anak ni Jairo.
 
-Ang pagkabuhay-muli ay hindi lang para sa mga "banal."
-Ang awa ni Jehova ay mas malawak
-kaysa sa iniisip natin.
+At si Lazaro — apat na araw nang patay.
 
-**{pause}**
+At may detalye po sa ulat ni Lazaro na huwag nating palampasin.
+Bago buhayin ni Jesus si Lazaro — **lumuha si Jesus.**
+Alam niyang bubuhayin niya ito, ilang minuto na lang. 
+Pero nang makita niya ang mga namatayan — **umiyak siya.**
 
-At alam po ito ng matatapat na lingkod ng Diyos noon pa man —
-**naniniwala sa pagkabuhay-muli ang mga sinaunang lingkod ng Diyos.**
-
-Si Job — isang tapat na lalaki na sinubok nang matindi —
-nagtanong ng tanong na tanong din nating lahat.
-
-Buksan po natin ang **Job kabanata 14, bersikulo 14 at 15.**
-Pakinggan po ninyo ang tanong niya — at ang sagot niya.
-
-*[Basahin ang Job 14:14, 15]*
-
-!!! quote "Job 14:14, 15"
-    "Kung mamatay ang isang tao, mabubuhay pa ba siyang muli? Sa lahat ng araw ng aking sapilitang pagtatrabaho, maghihintay ako Hanggang sa dumating ang kaginhawahan ko. Tatawag ka, at sasagot ako. Mananabik ka sa gawa ng iyong mga kamay."
-
-Pansinin n'yo po ang huling pangungusap.
-
-*"**Mananabik** ka sa gawa ng iyong mga kamay."*
-
-Alam n'yo ba ang ibig sabihin niyan?
-
-Si Jehova mismo —
-**sabik** na buhaying-muli ang mga namatay.
-
-Hindi lang niya *kayang* gawin.
-Hindi lang niya *gustong* gawin.
-
-**Nasasabik siya.**
-
-Na parang isang ama na hindi makapaghintay
-na makita ulit ang anak niya.
-
-Ganiyan din ang ipinangako sa propetang si Daniel:
-*"Magpapahinga ka, pero sa wakas ng mga araw, babangon ka."*
-
-Pansinin n'yo — kahit ang salitang **"wakas"** —
-ginamit hindi para sa katapusan...
-kundi para sa isang **bagong simula.**
+Ganiyan po ang nadarama ni Jehova at ni Jesus sa tuwing may namamatay sa atin.
 
 **{pause}**
 
-Kaya nga po sinabi ni Jesus ang isang napakagandang bagay
-tungkol kina Abraham, Isaac, at Jacob —
-mga taong daan-daang taon nang patay noon.
+Mula nang magkasala si Adan, hinayaan muna ni Jehova na lumipas ang panahon. 
 
-Sabi niya sa Mateo 22:32 —
-ang Diyos ay *"Diyos, hindi ng mga patay, kundi ng mga buháy."*
+Bakit po? 
+**==Sapat na ang panahon para makita ng mga tao ang resulta ng kanilang pagsuway==** — kung ano ang nangyayari kapag hiwalay sa Diyos ang tao.
 
-Para kay Jehova, ang mga namatay ay...
+**==Napakalapit na ng itinakdang panahon ng Diyos para ituwid ang mga bagay-bagay dito sa lupa==** 
+— sa pamamagitan po ng **Kaharian ng Diyos** 
+— ang gobyerno ng Diyos na pamamahalaan ni Jesus.
+At iyan po iyong ipinagdarasal natin sa "Ama Namin": *"dumating nawa ang Kaharian mo."*
 
-**buháy.**
+Sa ilalim nito, **==bubuhayin niyang muli ang mga patay at aakayin ang sangkatauhan tungo sa buhay na walang hanggan sa lupa.==**
 
-Ligtas sa perpekto niyang memorya.
-Kumpleto. Buo.
-Hinihintay lang ang umaga ng pagkabuhay-muli —
-dito mismo sa lupa, na gagawing paraiso ng Kaharian ng Diyos.
+Opo — dito mismo sa lupa. Iyan po ang orihinal na disenyo ni Jehova: **nilalang tayo para mabuhay magpakailanman.**
 
-At mga kapatid, mga kaibigan — hindi na po ito matagal.
-
-Sapat na ang panahong ibinigay ng Diyos
-para makita ng lahat ang resulta
-ng pamumuhay nang hiwalay sa kaniya.
-
-**Napakalapit na ng itinakdang panahon ng Diyos
-para ituwid ang mga bagay-bagay dito sa lupa.**
-
-At kapag dumating iyon —
-magkakaroon tayo ng buhay na **walang hanggan**
-para makilala pa nang lubos ang Diyos na lumalang sa atin,
-kasama ang mga mahal natin sa buhay.
+At **==magkakaroon tayo ng walang-hanggang pagkakataon na matuto tungkol sa Diyos na Jehova — kasama ang lahat ng umiibig sa kaniya.==**
 
 ---
 
 ## CONCLUSION [1.5 minuto]
 
-Mga kapatid, mga kaibigan —
+!!! note "Aralin 20"
+    HUWAG madaliin kahit lampas sa oras. Ang "Tapos na — finish na" ay bigkasin nang mabigat, hindi pabiro. Ang huling mga linya ("hanggang sa muli"), dahan-dahan, sa tonong magtatapos na.
 
-sinimulan natin ang umagang ito sa dalawang klase ng paalam.
 
-Ang paalam sa airport —
-masakit, pero may *"babalik ako."*
+Kaya mga kapatid at mga kaibigan, sinagot po natin ang tatlong tanong ngayong umaga.
 
-At ang paalam sa punerarya —
-na akala natin ay wakas na.
+**Ano nga ba ang kamatayan?** 
+Ang kamatayan ay ang kabaligtaran ng proseso ng buhay. 
+Binawi ang hininga at babalik sa alabok.
 
-**{pause}**
+**May kamatayan bang hindi naging wakas?** 
+Meron po — ang kay Jesus. 
+Binuhay siyang muli ni Jehova, at ang kamatayan niya ang naging pantubos natin.
 
-Pero natutuhan natin ngayong umaga:
+**At ano ang magiging kahulugan ng "wakas" para sa iyo?**
+Ano sa tingin n'yo? *{ngiti}*
 
-Ang kamatayan nga ay **ang wakas ng lahat ng mga tao** — totoo iyan.
-Parang mahimbing na pagtulog — walang sakit, walang pagdurusa.
+**Kamatayan pa rin ba ang wakas ng lahat?**
 
-Pero dahil sa **pantubos** ni Kristo Jesus —
-na ginarantiyahan ng Diyos nang buhayin niya itong muli —
+Kung wala ang pantubos at ang Kaharian na inilaan ni Jehova — **oo po. 
+Talagang walang pag-asa.** 
+Tapos na — finish na!
 
-ang paalam sa punerarya...
-ay hindi na *"paalam magpakailanman."*
+**Pero inilaan po niya ang mga ito.**
 
-Ito na ngayon ay —
+**Kaya para sa atin — hindi na po katapusan ang kamatayan. 
+May pagkabuhay-muli.**
 
-*"Hanggang sa muli."*
+Kaya po ang paanyaya sa ating lahat — lalo na sa mga bisita natin:
 
-**{pause}**
+**==Patuloy po tayong kumuha ng kaalaman tungkol sa Diyos na Jehova at kay Jesu-Kristo 
+— at kumilos ayon dito. 
+Maglingkod po tayo nang tapat kay Jehova — at tanggapin natin ang saganang pagpapala ngayon.==**
 
-Kaya, <mark class="pink">**kamatayan ba ang wakas ng lahat?**</mark>
+Sabi ng Roma 6:22, ito po ang daan na **"umaakay sa buhay na walang hanggan."**
 
-Kung wala ang pantubos — oo.
-
-Pero dahil sa pag-ibig ni Jehova...
-
-**hindi.**
-
-Ang kamatayan ay naging **paghihintay** na lang.
-
-**{pause}**
-
-At may huling teksto po ako sa inyo.
-Pakinggan n'yo kung saan **umaakay** ang landas
-ng mga naglilingkod sa Diyos —
-kung ano ang nasa *dulo* ng daan.
-
-!!! quote "Roma 6:22"
-    "Pero ngayong pinalaya na kayo mula sa kasalanan at naging alipin ng Diyos, ang bunga ng mga gawa ninyo ay kabanalan, at umaakay ito sa buhay na walang hanggan."
-
-Ang nasa dulo ng landas na iyan —
-ang *wakas* —
-ay hindi kamatayan.
-
-Kundi **buhay na walang hanggan.**
-
-Ang parehong salita — pero ibang-iba na ang kahulugan.
+**Ang pantubos ang nagbayad. Ang Kaharian ang magsasauli. Ang atin na lang po — ang tumanggap.**
 
 **{pause}**
 
-Kaya ano ang gagawin natin?
+Kaya ang paalam po natin sa mga mahal nating namatay — hindi na iyong "wala nang balikan."
 
-Sa mga bisita po natin ngayong umaga —
-huwag n'yo pong itigil ang pag-alam sa Diyos na ito.
-Kilalanin n'yo siya. Karapat-dapat siyang makilala.
+**Makikita pa natin silang muli.**
 
-At sa ating mga kapatid —
-ang mga katotohanang ito, na inaalaala natin tuwing Memoryal,
-ay hindi lang mga salita sa libro.
-
-Ito ang dahilan kung bakit
-hindi na natin kailangang magdalamhati
-nang walang pag-asa.
-
-Patuloy po tayong **maglingkod nang tapat kay Jehova** —
-
-at ang naghihintay sa atin ay hindi wakas...
-
-kundi isang umaga —
-
-kung saan ang boses na akala nating
-hindi na natin maririnig kailanman —
-kahit unti-unti na nating nakakalimutan
-ang eksaktong tunog nito —
-
-**tatawagin tayo sa ating pangalan.**
-
-**{pause}**
-
-Hindi paalam, mga kapatid.
-
-Hanggang sa muli.
+**Hindi po paalam magpakailanman — kundi hanggang sa muli.**
 
 ---
 
 ## SUMMARY
 
-| Punto | Susing Ideya | Susing Teksto |
-|-------|--------------|----------------|
-| 1 — Ang wakas ng lahat ng mga tao | Inaamin ng Bibliya: totoong wakas ang kamatayan — prangka ito, hindi nagbobola | Ec 7:2 |
-| 2 — Ano nga ba ang kamatayan? | Kabaligtaran ng Genesis 2:7 — parang ilaw na pinatay; walang malay, hindi nagdurusa (walang kahigitan sa hayop); pero nilalang tayo para sa magpakailanman; Memoryal bridge | Gen 2:7; Aw 146:4; Ec 3:19, 20; Ec 3:11 |
-| 3 — Bakit hindi naging wakas ang kamatayan ni Jesus | Minanang utang; si Jesus walang utang; ibinigay ang buhay bilang pantubos (binuhay bilang espiritu); kailangan ang pagsunod; Araw ng Paghuhukom + garantiya | Ro 6:23; Ju 3:36; Ju 17:3; Gaw 17:31 |
-| 4 — Ano ang kahulugan ng "wakas" para sa iyo? | Tanging si Jehova ang makapagsasauli ng buhay — at sabik siya; kasama ang "matuwid at di-matuwid"; napakalapit na; ang "wakas" ay buhay na walang hanggan | Gaw 24:15; Job 14:14, 15; Mat 22:32; Ro 6:22 |
-
-**Formula:** Hindi *paalam* — kundi *hanggang sa muli.*
-
-**Mga bagong idinagdag pagkatapos ng listener review:** Gaw 24:15 (matuwid at di-matuwid — para sa mga bisitang nawalan ng hindi Saksi), Ec 3:19-20 (hayop), Ju 3:36 (pagsunod), Araw ng Paghuhukom, Dan 12:13 ("sa wakas ng mga araw, babangon ka"), "napakalapit na" (Kaharian urgency), 1 Pe 3:18 espiritu precision, permission line para sa mga umasa sa "nasa langit na siya."
-
-**Mga idinagdag mula sa delivery-learnings pass (Franz Trinidad model):** "ulitin natin" repetition sa Ec 7:2 key line, dalawang-bida framing (Adan nangutang vs Jesus nagbayad), binary choice bago ang "Ibinigay niya," question chain sa anti-aging research ("Alam natin ang sagot"), recap-signpost sa bungad ng Punto 4.
+| Bahagi | Susing Ideya | Teksto |
+|--------|--------------|--------|
+| 1 — Ang wakas ng lahat ng mga tao (intro) | Dalawang klaseng paalam → sagot ng tao (may bahagi raw na hindi namamatay) vs sagot ng Bibliya (Ec 7:2 — isapuso: ipadama ang pag-ibig habang may panahon) → YOLO → tema + 3 tanong | Ec 7:2 [Basahin] |
+| 2 — Ano nga ba ang kamatayan? | FORMULA: alabok + hininga = buháy na tao (hindi tatlo — ang tao mismo ang kaluluwa); i-reverse: babalik sa alabok; walang kahigitan sa hayop; apat na winawakasan (hindi sila nagdurusa; hindi sila ang nagpaparamdam); Ec 3:11 = DESIGN; bridge: ang Memoryal ang "bahay ng namatayan" | Gen 2:7 [Basahin]; Aw 146:4; Ec 3:19, 20; Ec 9:5, 6, 10 [Basahin]; Ec 3:11 |
+| 3 — Bakit hindi naging wakas | Ro 6:23 utang → building: na-trap (kailangan ng tulong) → walang kasalanan si Jesus → iniharap → bayad na → pantubos → na-rescue (utang na loob, 2Co 5:14) → safety protocol (pagsunod) → Ju 17:3 dalawang requirements → Memoryal question → garantiya (Gaw 17:31) | Ro 6:23; 2Co 5:14; Ju 17:3 [Basahin]; Gaw 17:31 |
+| 4 + Konklusyon | ChatGPT/AI — hindi kaya ng tao; formula-callback (si Jehova ULIT); Job 14:13-15 — SI JEHOVA ANG NANANABIK; Nain/Jairo/Lazaro (lumuha si Jesus); Kaharian ng Diyos (Ama Namin); sa lupa (design callback); 3-tanong recap; "Ang pantubos ang nagbayad. Ang Kaharian ang magsasauli. Ang atin na lang po — ang tumanggap."; hanggang sa muli | Job 14:13-15 [Basahin]; Ro 6:22 |
