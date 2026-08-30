@@ -547,13 +547,9 @@ At heto po ang sagot sa bersikulo 15:
 
 **"Tatawag ka, at sasagot ako. Mananabik ka sa gawa ng iyong mga kamay."**
 
-Sino po ang mananabik?
-Hindi po si Job kundi **si Jehova.**
+Sino po ang mananabik? Hindi po si Job — **si Jehova.**
 
-Kaya ano po ang natutuhan natin dito?
-Hindi lang po pala tayo ang nangungulila sa mga mahal natin sa buhay.
-
-**Si Jehova mismo ay sabik na sabik na buhayin silang muli.**
+Hindi lang po tayo ang nangungulila. **Si Jehova mismo — sabik na buhayin silang muli.**
 
 **{pause}**
 
