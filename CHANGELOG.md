@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.27.0] - 2026-08-29
+
+### Watchtower Aug 24-30 answer script (double-pass review) + nav sorted by date
+
+**Added:**
+- `docs/watchtower/grupo-sa-paglilingkod/index.md` — "Makinabang sa Pagiging Bahagi ng
+  Grupo sa Paglilingkod sa Larangan" (Hunyo 2026, study week Agosto 24-30, 2026; Awit
+  111:1). Full answer script: 13 question blocks, 4 "Basahin" texts with (mas malalim)
+  answers, FORMULA: Pangangalaga + Pagtulong = Pakinabang. Reviewed TWICE — pass 2
+  independently re-extracted pp. 14-19 and verified every question heading and Bible
+  quote; caught and fixed one attribution error (Awit 111 is anonymous, not David's).
+- `watchtower/grupo-sa-paglilingkod/outline.md` — prayer gist at top, structure table,
+  verbatim captions/tips box, exact NWT Basahin texts (column-cropped from local nwt PDF)
+
+**Changed:**
+- `mkdocs.yml` Watchtower nav now sorted by study week, latest first (grupo Aug 24-30 →
+  iingatan Aug 17-23 → tamang-pananaw → salamat-sa-pantubos Marso 23-29)
+
+---
+
 ## [4.26.1] - 2026-08-29
 
 ### Blg. 184 final polish + Watchtower "Pasasalamat sa Pantubos" answer script
