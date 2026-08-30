@@ -389,9 +389,13 @@ At tayong lahat na nagmula sa kaniya — minana natin ang kasalanang iyon.
 
 Kaya lahat po tayo, may utang na kamatayan.
 
+At heto po ang problema: kaya ba nating bayaran ang utang na iyan?
+
+Hindi po. **Walang tao ang makakatakas sa kamatayan sa sarili niyang lakas.**
+
 **{pause}**
 
-Para po ilarawan, isipin po natin ito:
+Para po ilarawan kung gaano tayo ka-helpless, isipin po natin ito:
 
 Bumagsak ang isang building, at na-trap sa mga guho nito ang isang lalaki.
 
