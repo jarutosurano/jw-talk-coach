@@ -570,10 +570,11 @@ Binuhay niya ang anak ni Jairo.
 At si Lazaro — apat na araw nang patay.
 
 At may detalye po sa ulat ni Lazaro na huwag nating palampasin.
-Bago buhayin ni Jesus si Lazaro — **lumuha si Jesus.**
-Iyan po ang Juan 11:35 — ang pinakamaikling bersikulo sa buong Bibliya.
-Alam niyang bubuhayin niya ito, ilang minuto na lang. 
-Pero nang makita niya ang mga namatayan — sabi ng bersikulo 33, **parang kinurot ang puso niya at nalungkot siya nang husto.**
+Nang makita ni Jesus na umiiyak ang mga namatayan — sabi ng Juan 11:33, **parang kinurot ang puso niya at nalungkot siya nang husto.**
+At pagkatapos, sabi ng bersikulo 35 — ang pinakamaikling bersikulo sa buong Bibliya:
+**"Lumuha si Jesus."**
+Isipin po ninyo: alam niyang bubuhayin niya si Lazaro, ilang minuto na lang.
+**Pero lumuha pa rin siya.**
 
 Ganiyan po ang nadarama ni Jehova at ni Jesus sa tuwing may namamatay sa atin.
 
