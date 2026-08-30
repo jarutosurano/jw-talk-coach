@@ -497,10 +497,10 @@ at **katiyakan na magkakaroon ng pagkabuhay-muli** ang mga namatay nating mahal 
 
 ---
 
-## 4 — ANO ANG MAGIGING KAHULUGAN NG "WAKAS" PARA SA IYO? [5 minuto]
+## 4 — ANO ANG MAGIGING KAHULUGAN NG "WAKAS" PARA SA IYO? [4 minuto]
 
-!!! note "FINAL — sariling salita ng tagapagsalita (Aug 29, gabi)"
-    Formula-callback mula Seksiyon 2; Job 14:15 ang climax (tugma sa Awit 151 — "Tatawag Siya"); may Kaharian gloss para sa mga bisita. Isang pagbuklat (Job 14). Kung kailangang mag-trim habang nagsasalita: ang ChatGPT line at ang "anak ni Jairo" ang unang laktawan.
+!!! note "TRIMMED — pagkatapos ng rehearsal (lampas 30 min)"
+    Tinanggal: lumuha-si-Jesus beat, binary sa konklusyon, Ro 6:22, capper. Job 14:14, 15 ay binibigkas nang tuwiran (walang pagbuklat).
 
 Ngayon naman po, para sa panghuling tanong:
 
@@ -508,48 +508,49 @@ Ngayon naman po, para sa panghuling tanong:
 
 Kamatayan pa rin ba ang wakas ng lahat?
 
-**==Gayon nga: kung wala ang pantubos ni Kristo na inilaan ng Diyos.==**
+**Gayon nga: kung wala ang pantubos ni Kristo na inilaan ng Diyos.**
 
 **{pause}**
 
 Sa kabila po ng pagsulong ng teknolohiya — kahit ChatGPT version 20 pa iyan, o kahit gaano ka-high-end ang AI — ito po ang sigurado:
 
-**==hindi kaya ng tao na lumikha at magsauli ng buhay.==**
+**hindi kaya ng tao na lumikha at magsauli ng buhay.**
 
-**==Si Jehova lamang ang makagagawa nito.==**
+**Si Jehova lamang ang makagagawa nito.**
 
-Bakit po tayo nakakasiguro? 
+Bakit po tayo nakakasiguro?
 
 Balikan po natin ang formula natin kanina:
 
-**Alabok ng lupa + Hininga ng buhay = Buháy na tao.**
+Alabok ng lupa + Hininga ng buhay = Buháy na tao.
 
-Sino po ang gumawa niyan noong una? 
-**Si Jehova.**
+Sino po ang gumawa niyan noong una?
+
+**Ang sagot: si Jehova.**
 
 Kaya si Jehova lang din po ang makakagawa nito — **ulit.**
 
 **{pause}**
 
-At hindi po bago ang pag-asang ito. 
-**==Naniniwala sa pagkabuhay-muli ang mga sinaunang lingkod ng Diyos==** — gaya ni Job.
+At hindi po bago ang pag-asang ito.
 
-Nawalan po si Job ng sampung anak. 
+**Naniniwala sa pagkabuhay-muli ang mga sinaunang lingkod ng Diyos** — gaya ni Job.
+
+Nawalan po si Job ng sampung anak.
+
 At sa matinding hinagpis niya, may sinabi siyang tumatagos sa puso.
 
 Sa Job kabanata 14, bersikulo 14, itinanong ni Job:
 
 **"Kung mamatay ang isang tao, mabubuhay pa ba siyang muli?"**
 
-**Ang mismong tanong natin ngayong umaga.**
+At pansinin po ang sagot sa bersikulo 15:
 
-At heto po ang sagot sa bersikulo 15:
+**"Tatawag ka, at sasagot ako.**
 
-**"Tatawag ka, at sasagot ako. Mananabik ka sa gawa ng iyong mga kamay."**
+**Mananabik ka sa gawa ng iyong mga kamay."**
 
 Sino po ang mananabik? Hindi po si Job — **si Jehova.**
-
-Hindi lang po tayo ang nangungulila. **Si Jehova mismo — sabik na buhayin silang muli.**
 
 **{pause}**
 
@@ -561,81 +562,69 @@ Binuhay niya ang anak ni Jairo.
 
 At si Lazaro na apat na araw nang patay.
 
-Nang makita ni Jesus na umiiyak ang mga namatayan — sabi ng Juan 11:33, **parang kinurot ang puso niya at nalungkot siya nang husto.**
-
-At pagkatapos, sabi ng bersikulo 35: **"Lumuha si Jesus."**
-
-Alam niyang bubuhayin niya si Lazaro.
-**Pero lumuha pa rin siya.**
-
-Ganiyan po ang nadarama ni Jehova at ni Jesus kapag namatayan tayo ng mahal sa buhay.
-
 **{pause}**
 
-Mula nang magkasala si Adan, hinayaan muna ni Jehova na lumipas ang panahon. 
+Mula nang magkasala si Adan, hinayaan muna ni Jehova na lumipas ang panahon.
 
-At ngayon po — **==sapat na ang panahon para makita ng mga tao ang resulta ng kanilang pagsuway==**: kung ano ang nangyayari kapag ang tao mismo ang namamahala, at hindi ang Diyos.
+At ngayon po — **sapat na ang panahon para makita ng mga tao ang resulta ng kanilang pagsuway**:
 
-**==Napakalapit na ng itinakdang panahon ng Diyos para ituwid ang mga bagay-bagay dito sa lupa==** 
-— sa pamamagitan po ng **Kaharian ng Diyos** 
+kung ano ang nangyayari kapag ang tao mismo ang namamahala, at hindi ang Diyos.
+
+**Napakalapit na ng itinakdang panahon ng Diyos para ituwid ang mga bagay-bagay dito sa lupa**
+
+— sa pamamagitan po ng **Kaharian ng Diyos**
+
 — ang gobyerno ng Diyos na pamamahalaan ni Jesus.
-At iyan po iyong ipinagdarasal natin sa "Ama Namin": *"dumating nawa ang Kaharian mo."*
 
-Sa ilalim nito, **==bubuhayin niyang muli ang mga patay at aakayin ang sangkatauhan tungo sa buhay na walang hanggan sa lupa.==**
+Sa ilalim po nito,
 
-Opo — dito mismo sa lupa. Iyan po ang orihinal na disenyo ni Jehova: **nilalang tayo para mabuhay magpakailanman.**
+**bubuhayin niyang muli ang mga patay**
 
-At **==magkakaroon tayo ng walang-hanggang pagkakataon na matuto tungkol sa Diyos na Jehova — kasama ang lahat ng umiibig sa kaniya.==**
+**at aakayin ang sangkatauhan tungo sa buhay na walang hanggan sa lupa.**
+
+At **magkakaroon tayo ng walang-hanggang pagkakataon na matuto tungkol sa Diyos na Jehova — kasama ang lahat ng umiibig sa kaniya.**
 
 ---
 
 ## CONCLUSION [1.5 minuto]
 
-!!! note "Aralin 20"
-    HUWAG madaliin kahit lampas sa oras. Ang "Tapos na — finish na" ay bigkasin nang mabigat, hindi pabiro. Ang huling mga linya ("hanggang sa muli"), dahan-dahan, sa tonong magtatapos na.
-
-
 Kaya mga kapatid at mga kaibigan, sinagot po natin ang tatlong tanong ngayong umaga.
 
-**Ano nga ba ang kamatayan?** 
-Ang kamatayan ay ang kabaligtaran ng proseso ng buhay. 
+**Ano nga ba ang kamatayan?**
+
+Ang kamatayan ay ang kabaligtaran ng proseso ng buhay.
+
 Binawi ang hininga at babalik sa alabok.
 
-**May kamatayan bang hindi naging wakas?** 
-Meron po — ang kay Jesus. 
+**May kamatayan bang hindi naging wakas?**
+
+Meron po — ang kay Jesus.
+
 Binuhay siyang muli ni Jehova, at ang kamatayan niya ang naging pantubos natin.
 
 **At ano ang magiging kahulugan ng "wakas" para sa iyo?**
+
 Ano sa tingin n'yo? *{ngiti}*
 
 **Kamatayan pa rin ba ang wakas ng lahat?**
 
-Kung wala ang pantubos at ang Kaharian na inilaan ni Jehova — **oo po. 
-Talagang walang pag-asa.** 
-Tapos na — finish na!
+**Para sa atin — hindi na po katapusan ang kamatayan.**
 
-**Pero inilaan po niya ang mga ito.**
-
-**Kaya para sa atin — hindi na po katapusan ang kamatayan. 
-May pagkabuhay-muli.**
+**Dahil may pagkabuhay-muli.**
 
 Kaya po ang paanyaya sa ating lahat — lalo na sa mga bisita natin:
 
-**==Patuloy po tayong kumuha ng kaalaman tungkol sa Diyos na Jehova at kay Jesu-Kristo 
-— at kumilos ayon dito. 
-Maglingkod po tayo nang tapat kay Jehova — at tanggapin natin ang saganang pagpapala ngayon.==**
+**Patuloy po tayong kumuha ng kaalaman tungkol sa Diyos na Jehova at kay Jesu-Kristo — at kumilos ayon dito.**
 
-Sabi ng Roma 6:22, ito po ang daan na **"umaakay sa buhay na walang hanggan."**
-
-**Ang pantubos ang nagbayad. Ang Kaharian ang magsasauli. Ang atin na lang po — ang tumanggap.**
+**Maglingkod po tayo nang tapat kay Jehova.**
 
 **{pause}**
 
-Kaya ang paalam po natin sa mga mahal nating namatay — hindi na iyong "wala nang balikan."
+Kaya ang paalam po natin sa mga mahal nating namatay —
 
-**Makikita pa natin silang muli.**
+hindi na iyong "wala nang balikan" —
 
-**Hindi po paalam magpakailanman — kundi hanggang sa muling pagkikitaan.**
+**kundi hanggang sa muling pagkikitaan.**
 
 ---
 
