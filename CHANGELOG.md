@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.29.0] - 2026-09-11
+
+### CBS — wcg Kabanata 7 (Jacob), Setyembre 7-13, 2026
+
+**Added:**
+- `docs/cbs/0911-wcg-kabanata-07/index.md` — conductor script for "Hinarap Niya ang
+  Panganib Para Protektahan ang Pamilya Niya." 12 question blocks covering Talakayin,
+  Alamin, Gawin ang mga Natutuhan Mo, and Mahalagang Pag-isipan, plus MGA ARAL NA
+  NATUTUHAN and SUMMARY. FORMULA: Panalangin + Paghahanda + Pagpapakumbaba = Lakas ng
+  Loob na Harapin ang Panganib.
+- `cbs/0911-wcg-kabanata-07/outline.md` — chapter questions, key excerpts from wcg
+  pp. 40-43, and exact NWT text for Gen. 28:12-15; 31:29, 38-40; 32:6-12, 24-28;
+  33:3, 4; 35:2-4; 47:9; Os. 12:4; Luc. 20:37, 38 (column-cropped from the local PDF).
+- `mkdocs.yml` — nav entry "Sep 7-13" at the top of CBS.
+
+**Note:**
+- The four Alamin references (w03 10/15 pp. 28-31; w95 9/15 p. 21) are not in
+  `reference/articles/`. Those answers are built from the Bible record and the wcg
+  chapter itself; the outline flags question 3 as the one to verify.
+
+---
+
 ## [4.28.0] - 2026-09-11
 
 ### Espirituwal na Hiyas — Jeremias 32-33 (Setyembre 7-13, 2026)
