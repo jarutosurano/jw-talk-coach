@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.28.0] - 2026-09-11
+
+### Espirituwal na Hiyas — Jeremias 32-33 (Setyembre 7-13, 2026)
+
+**Added:**
+- `docs/espirituwal-na-hiyas/0911-jeremias-32-33/index.md` — conductor script. Intro
+  framed on the "bumili ng bukid habang kinukubkob" theme, Tanong 1 (Jer 33:23, 24 —
+  ang "dalawang pamilya," w07 3/15 11 ¶4) with simplified answer, highlights, tuod/sibol
+  illustration, 4 guided follow-ups, and buod ng reference. Tanong 2 carries 10 DEEPER
+  gems (Jer 32:15, 17, 27, 33, 35, 39, 41; 33:3, 8, 11).
+- `espirituwal-na-hiyas/0911-jeremias-32-33/outline.md` — filled from the placeholder:
+  workbook question, w07 reference paragraph, and the exact NWT texts used in the answer.
+- `mkdocs.yml` — nav entry "Jeremias 32-33" at the top of Espirituwal na Hiyas.
+
+**Changed:**
+- All Bible text read directly from `reference/books/nwt-bagong-sanlibutang-salin.pdf`
+  (pp. 1236-1240, column-cropped) instead of waiting on a paste.
+
+---
+
 ## [4.27.0] - 2026-08-29
 
 ### Watchtower Aug 24-30 answer script (double-pass review) + nav sorted by date
