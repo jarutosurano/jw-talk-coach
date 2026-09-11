@@ -12,7 +12,7 @@ Magandang gabi po sa inyong lahat — mga kapatid at mga bisita.
 
 Dumako na po tayo sa ating bahagi na "Espirituwal na Hiyas" mula sa pagbabasa ng Bibliya sa aklat ng Jeremias kabanata 32 at 33.
 
-Kakaiba po ang mga kabanatang ito. Habang kinukubkob ng Babilonya ang Jerusalem, at habang nakakulong pa si Jeremias sa Looban ng Bantay, inutusan siya ni Jehova na bumili ng bukid. Bumili ng lupa sa bansang malapit nang mawasak. Bakit po? Dahil ang mensahe ni Jehova sa dalawang kabanatang ito ay hindi pagkawasak — kundi **pag-asa**. May kinabukasan pa pagkatapos ng hatol.
+Kakaiba po ang mga kabanatang ito. Habang kinukubkob ng Babilonya ang Jerusalem — ibig sabihin, nakapaligid na ang hukbo sa lunsod at walang makalabas — at habang nakakulong pa si Jeremias sa Looban ng Bantay, inutusan siya ni Jehova na bumili ng bukid. Bumili ng lupa sa bansang malapit nang mawasak. Bakit po? Dahil ang mensahe ni Jehova sa dalawang kabanatang ito ay hindi pagkawasak — kundi **pag-asa**. May kinabukasan pa pagkatapos ng hatol.
 
 Pero may mga tao noon na hindi na makapaniwala roon. Para sa kanila, tapos na ang lahat. Iyan po ang tinutukoy ng ating unang tanong.
 
@@ -68,7 +68,7 @@ Kung ganoon po ang Diyos na pinaglilingkuran natin, may tatlong bagay tayong mad
 
 - **Huwag nating husgahan ang layunin ni Jehova base sa nakikita natin ngayon.** May matibay na ebidensiya ang bayan noon — wasak ang templo, wala nang hari, bihag sila. Makatuwiran ang naging konklusyon nila. Mali lang. Ang tinitingnan nila ay ang tuod; ang tinitingnan ni Jehova ay ang ugat na buháy pa.
 - **Ang pangako Niya ay hindi nakasalalay sa kung karapat-dapat tayo.** Hindi nangako si Jehova kay David dahil mabuti ang bayan — nangako Siya dahil iyon ang uri Niya. Kaya kapag pakiramdam natin ay hindi tayo sapat, hindi iyon ang tanong. Ang tanong ay kung magsisinungaling ba si Jehova. Hindi po.
-- **Kaya namumuhunan tayo sa bagay na hindi pa nakikita.** Iyan po ang ginawa ni Jeremias sa kabanata 32. Habang kinukubkob ang lunsod at nakakulong siya, bumili siya ng bukid, nagpatatak, kumuha ng mga saksi, at itinago ang kasulatan sa sisidlang luwad. Sayang na pera sa mata ng kahit sino noon. Pero hindi siya bumili base sa kalagayan noon — bumili siya base sa pangako. Ganoon din ang oras na inilalaan natin sa pag-aaral, sa ministeryo, at sa pagpapalaki ng mga anak sa katotohanan. Mukhang walang agad na kapalit, pero may hawak tayong kasulatan.
+- **Kaya namumuhunan tayo sa bagay na hindi pa nakikita.** Iyan po ang ginawa ni Jeremias sa kabanata 32. Habang nakapaligid na ang hukbo sa lunsod at nakakulong siya, bumili siya ng bukid, nagpatatak, kumuha ng mga saksi, at itinago ang kasulatan sa sisidlang luwad. Sayang na pera sa mata ng kahit sino noon. Pero hindi siya bumili base sa kalagayan noon — bumili siya base sa pangako. Ganoon din ang oras na inilalaan natin sa pag-aaral, sa ministeryo, at sa pagpapalaki ng mga anak sa katotohanan. Mukhang walang agad na kapalit, pero may hawak tayong kasulatan.
 
 Kaya kung isang pangungusap lang po ang dadalhin natin pauwi ngayong gabi: **ang hatol ni Jehova ay may katapusan, pero ang tapat na pag-ibig Niya ay wala.**
 
@@ -88,7 +88,7 @@ Kaya kung isang pangungusap lang po ang dadalhin natin pauwi ngayong gabi: **ang
 
 **Jeremias 32:15** — "Dahil ito ang sinabi ni Jehova ng mga hukbo, ang Diyos ng Israel, 'Ang mga bahay, mga bukid, at mga ubasan ay muling mabibili sa lupaing ito.'"
 
-- **Mas malalim na kahulugan:** Habang kinukubkob ang lunsod, pinabili ni Jehova si Jeremias ng bukid — at may tatak pa, may saksi, may kasulatan. Hindi iyon basta pag-asa sa salita lang; may dokumentong itinago sa sisidlang luwad "para maingatan nang mahabang panahon." Ang pag-asa kay Jehova ay may katibayan, hindi haka-haka.
+- **Mas malalim na kahulugan:** Habang nakapaligid na ang hukbo sa lunsod, pinabili ni Jehova si Jeremias ng bukid — at may tatak pa, may saksi, may kasulatan. Hindi iyon basta pag-asa sa salita lang; may dokumentong itinago sa sisidlang luwad "para maingatan nang mahabang panahon." Ang pag-asa kay Jehova ay may katibayan, hindi haka-haka.
 - **Para ilarawan:** Parang taong bumili ng lote sa lugar na binaha nang malala. Sa mata ng iba, sayang ang pera. Pero kung alam mong may gagawing dike at tatagal ka roon nang matagal, ang bayad mo ay hindi sa kalagayan ngayon — sa kinabukasan.
 - **Mas malalim na aplikasyon:** May mga desisyon akong ginagawa ngayon na mukhang walang saysay sa mata ng mundo — ang paglalaan ng oras sa ministeryo, ang pagtanggi sa mga oportunidad na makakasira sa espirituwalidad ko. Namumuhunan ako sa isang bagay na hindi pa nakikita. Pero gaya ni Jeremias, nakabatay ito sa pangako ni Jehova, hindi sa kutob.
 

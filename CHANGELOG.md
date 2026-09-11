@@ -22,6 +22,8 @@ All notable changes to this project will be documented in this file.
   the promise doesn't rest on our worthiness, so we invest in what isn't visible yet
   (Jeremias buying the field). Closes on "ang hatol ni Jehova ay may katapusan, pero
   ang tapat na pag-ibig Niya ay wala."
+- Intro now glosses "kinukubkob" in plain Tagalog ("nakapaligid na ang hukbo sa
+  lunsod at walang makalabas"); the two later mentions use the plain wording.
 
 **Changed:**
 - All Bible text read directly from `reference/books/nwt-bagong-sanlibutang-salin.pdf`
