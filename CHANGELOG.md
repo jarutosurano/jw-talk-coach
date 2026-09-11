@@ -17,6 +17,11 @@ All notable changes to this project will be documented in this file.
 - `espirituwal-na-hiyas/0911-jeremias-32-33/outline.md` — filled from the placeholder:
   workbook question, w07 reference paragraph, and the exact NWT texts used in the answer.
 - `mkdocs.yml` — nav entry "Jeremias 32-33" at the top of Espirituwal na Hiyas.
+- "Ang ikakapit natin" block at the end of Tanong 1 (after the last guided
+  follow-up): three takeaways — don't judge Jehovah's purpose by what we see now,
+  the promise doesn't rest on our worthiness, so we invest in what isn't visible yet
+  (Jeremias buying the field). Closes on "ang hatol ni Jehova ay may katapusan, pero
+  ang tapat na pag-ibig Niya ay wala."
 
 **Changed:**
 - All Bible text read directly from `reference/books/nwt-bagong-sanlibutang-salin.pdf`

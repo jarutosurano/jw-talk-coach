@@ -62,6 +62,16 @@ Ganoon po ang dalawang pamilya. Ang nakita ng mga tao ay ang pagputol: wasak ang
 - **Ano ang natututuhan natin kay Jehova mula rito?**
   Sagot: Na hindi Siya sumisira ng pangako. Kahit mukhang imposible na sa paningin ng tao, hindi Niya binibitawan ang sinabi Niya. Kasingtibay ng pagsikat ng araw bukas ang salita ni Jehova.
 
+**Ang ikakapit natin:**
+
+Kung ganoon po ang Diyos na pinaglilingkuran natin, may tatlong bagay tayong madadala ngayong gabi.
+
+- **Huwag nating husgahan ang layunin ni Jehova base sa nakikita natin ngayon.** May matibay na ebidensiya ang bayan noon — wasak ang templo, wala nang hari, bihag sila. Makatuwiran ang naging konklusyon nila. Mali lang. Ang tinitingnan nila ay ang tuod; ang tinitingnan ni Jehova ay ang ugat na buháy pa.
+- **Ang pangako Niya ay hindi nakasalalay sa kung karapat-dapat tayo.** Hindi nangako si Jehova kay David dahil mabuti ang bayan — nangako Siya dahil iyon ang uri Niya. Kaya kapag pakiramdam natin ay hindi tayo sapat, hindi iyon ang tanong. Ang tanong ay kung magsisinungaling ba si Jehova. Hindi po.
+- **Kaya namumuhunan tayo sa bagay na hindi pa nakikita.** Iyan po ang ginawa ni Jeremias sa kabanata 32. Habang kinukubkob ang lunsod at nakakulong siya, bumili siya ng bukid, nagpatatak, kumuha ng mga saksi, at itinago ang kasulatan sa sisidlang luwad. Sayang na pera sa mata ng kahit sino noon. Pero hindi siya bumili base sa kalagayan noon — bumili siya base sa pangako. Ganoon din ang oras na inilalaan natin sa pag-aaral, sa ministeryo, at sa pagpapalaki ng mga anak sa katotohanan. Mukhang walang agad na kapalit, pero may hawak tayong kasulatan.
+
+Kaya kung isang pangungusap lang po ang dadalhin natin pauwi ngayong gabi: **ang hatol ni Jehova ay may katapusan, pero ang tapat na pag-ibig Niya ay wala.**
+
 ---
 
 **Buod ng reference:**
