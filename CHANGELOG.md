@@ -4,6 +4,33 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.30.0] - 2026-09-13
+
+### Watchtower — "Matuto sa mga Gibeonita," Setyembre 7-13, 2026
+
+**Added:**
+- `docs/watchtower/matuto-sa-mga-gibeonita/index.md` — personal answer-preparation script for
+  the Sep 7-13, 2026 study article. 16 question blocks across three sections (Magpakita ng
+  Pananampalataya at Kapakumbabaan; Hintayin na Ituwid ni Jehova ang Kawalang-katarungan;
+  Tapat na Suportahan ang Tunay na Pagsamba), each with mahahalagang punto, direktang sagot,
+  and a spoken-aloud `!!! success` answer (deeper variants for the three "Basahin" texts:
+  Jos. 9:8-13, 2 Sam. 21:3-6, 1 Cron. 9:2 at talababa). Closes with MGA ARAL NA NATUTUHAN
+  (3 abstract boxes matching the article's review questions). FORMULA: Pananampalataya at
+  Kapakumbabaan + Pagtitiwala kay Jehova + Katapatan = Pagtulad sa mga Gibeonita.
+- `watchtower/matuto-sa-mga-gibeonita/outline.md` — article facts, structure table, exact
+  question text, picture captions, per-paragraph notes, and exact NWT text for the three
+  Basahin passages (column-cropped from `reference/books/nwt-bagong-sanlibutang-salin.pdf`,
+  pp. 380-382, 535, 654) plus a PANALANGIN GIST section.
+- `mkdocs.yml` — nav entry "Matuto sa mga Gibeonita" at the top of Watchtower.
+
+**Note:**
+- Source article extracted from `reference/books/w_TG_202607.pdf` (Hulyo 2026 issue,
+  git-ignored, local only). All question texts and the theme scripture verified verbatim
+  against the layout extract; theme scripture and Jos. 9:8-13 also cross-checked against
+  the NWT PDF.
+
+---
+
 ## [4.29.0] - 2026-09-11
 
 ### CBS — wcg Kabanata 7 (Jacob), Setyembre 7-13, 2026

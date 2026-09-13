@@ -52,6 +52,7 @@ Full copyrighted JW publication PDFs are stored here for research/citation. This
 | lmd | Mahalin ang mga Tao—Gumawa ng mga Alagad (Love People, Make Disciples) | `lmd-mahalin-ang-mga-tao-gumawa-ng-mga-alagad.pdf` |
 | jr | Mensahe ng Diyos sa Pamamagitan ni Jeremias | `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf` |
 | w | Ang Bantayan (Pag-aaral) Hunyo 2026 | `w_TG_202606.pdf` |
+| w | Ang Bantayan (Pag-aaral) Hulyo 2026 — study articles Setyembre 7–Oktubre 4, 2026 | `w_TG_202607.pdf` |
 | w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
 | wcg | Lakas-Loob na Lumakad Kasama ng Diyos (Walk Courageously With God) — **current CBS book**, 54 kabanata | `wcg-lakas-loob-na-lumakad-kasama-ng-diyos.pdf` |
 | nwt | Bagong Sanlibutang Salin ng Banal na Kasulatan (makabagong-wika) — source for exact NWT Tagalog Bible text | `nwt-bagong-sanlibutang-salin.pdf` |
