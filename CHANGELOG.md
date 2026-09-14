@@ -4,6 +4,35 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.31.0] - 2026-09-13
+
+### Watchtower — "Mapapatibay Ka ng Aklat ng Isaias," Setyembre 14-20, 2026
+
+**Added:**
+- `docs/watchtower/mapapatibay-ka-ng-aklat-ng-isaias/index.md` — personal answer-preparation
+  script for the Sep 14-20, 2026 study article. 14 question blocks across three sections
+  (Kapag Biglang Nagbago ang Kalagayan; Kung Sobra pa Rin Tayong Nakokonsensiya; Kapag
+  Namatayan Tayo ng Mahal sa Buhay), each with mahahalagang punto, direktang sagot, and a
+  spoken-aloud `!!! success` answer (deeper variants for the "Basahin" texts: Isa. 42:16,
+  Isa. 1:18, Isa. 38:17 at talababa, Isa. 26:19 at talababa). Closes with MGA ARAL NA
+  NATUTUHAN (3 abstract boxes matching the article's own review box, "Paano Ka Napatibay ng
+  Sumusunod na mga Teksto?"). FORMULA: Katiyakan ng Patnubay + Lubusang Pagpapatawad + Pag-asa
+  sa Pagkabuhay-Muli = Kaaliwan Mula sa Aklat ng Isaias.
+- `watchtower/mapapatibay-ka-ng-aklat-ng-isaias/outline.md` — article facts, structure table,
+  exact question text, picture captions, per-paragraph notes, and exact NWT text for the five
+  Basahin passages plus the theme scripture (column-cropped from
+  `reference/books/nwt-bagong-sanlibutang-salin.pdf`, pp. 1074, 1107-1108, 1128, 1135, 1173)
+  plus a PANALANGIN GIST section.
+- `mkdocs.yml` — nav entry "Mapapatibay Ka ng Aklat ng Isaias" at the top of Watchtower.
+
+**Note:**
+- Source article extracted from `reference/books/w_TG_202607.pdf` (Hulyo 2026 issue,
+  git-ignored, local only). All question texts verified verbatim against the layout extract;
+  theme scripture and all five Basahin texts (Isa. 42:16; 1:18; 38:17; 25:8; 26:19) cross-checked
+  word-for-word against the NWT PDF via column-cropped extraction.
+
+---
+
 ## [4.30.0] - 2026-09-13
 
 ### Watchtower — "Matuto sa mga Gibeonita," Setyembre 7-13, 2026
