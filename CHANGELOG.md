@@ -4,6 +4,29 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.32.0] - 2026-09-25
+
+### CBS — wcg Kabanata 9 (Sipra, Pua, Amram, Jokebed, Miriam), Setyembre 21-27, 2026
+
+**Added:**
+- `docs/cbs/0925-wcg-kabanata-09/index.md` — conductor/answer script for "Dahil sa
+  Pananampalataya Nila, Naingatan si Moises." 12 question blocks: Talakayin (+ the p. 48
+  picture question), 4 Alamin, 3 Gawin ang mga Natutuhan Mo, 3 Mahalagang Pag-isipan, plus
+  Tingnan Din, MGA ARAL NA NATUTUHAN, and SUMMARY. FORMULA: Takot sa Diyos + Pananampalataya +
+  Pagkilos = Lakas ng Loob na Nagliligtas ng Buhay.
+- `cbs/0925-wcg-kabanata-09/outline.md` — exact question text, key chapter quotes, exact NWT
+  text (Ex. 1:15-22; 2:1-10; 15:20, 21; Gawa 7:17-21; Heb. 11:23; Mik. 6:4), Alamin reference
+  summaries, picture notes.
+- `mkdocs.yml` — nav entry "Sep 21-27" at the top of CBS.
+- `CLAUDE.md` — new NWT page locations and the wcg09 article entry.
+
+**Note:**
+- Assignment verified on wol.jw.org (mwb26 Setyembre p. 6-7: "wcg kab. 9"). The four Alamin
+  references (g04 4/8; it "Komadrona"; w03 11/1; ijwia artikulo 7) were fetched from wol.jw.org
+  Tagalog and saved to `reference/articles/` (git-ignored, local only).
+
+---
+
 ## [4.31.0] - 2026-09-13
 
 ### Watchtower — "Mapapatibay Ka ng Aklat ng Isaias," Setyembre 14-20, 2026

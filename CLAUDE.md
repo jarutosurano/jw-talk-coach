@@ -87,6 +87,11 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | Passage | Page(s) |
 |---------|---------|
 | Genesis 22:1-19 | 71-72 |
+| Exodo 1:1-16 | 125 |
+| Exodo 1:17–2:11 | 126 |
+| Exodo 15:16–16:3 | 148 |
+| Gawa 7:5-24 | 1677 |
+| Mikas 6:3-14 | 1441 |
 | Hebreo 11 (v. 8-25) | 1847 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
@@ -108,6 +113,7 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | w91 | Isang Katumbas na Pantubos Para sa Lahat | Blg. 184 Sek. 3 — "bakit hindi anghel," katumbas na pantubos, ilustrasyon ng pabrika |
 | w91 | "Kayo'y Binili sa Halaga" | Blg. 184 Sek. 3 — **the verbatim "legal na karapatan sa buhay"**, and why the value had to be presented in heaven |
 | w90 | Ano ba ang Kabuluhan sa Iyo ng Kamatayan ni Jesus? | Blg. 184 Sek. 3 — the rights attached to the life Adam lost; why "binuhay bilang espiritu" matters |
+| wcg09 | wcg Kabanata 9 (Sipra, Pua, Amram, Jokebed, Miriam) — "Alamin" references (g04 4/8, it "Komadrona", w03 11/1, ijwia artikulo 7) | CBS Sep 21-27, 2026 — fetched from wol.jw.org Tagalog |
 | wcg05 | wcg Kabanata 5 (Abraham) — "Alamin" references (g 5/12, it "Abraham", ia 26, rr 20, g88 4/8) | CBS Aug 24-30, 2026 — the four Alamin research answers |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
