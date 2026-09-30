@@ -4,6 +4,25 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.33.1] - 2026-09-30
+
+### 10-Minute Talk "Patuloy Nating Tulungan ang Isa't Isa" — accuracy + read-aloud pass
+
+**Changed:**
+- New intro analogy (office meeting — a colleague speaks up to the boss) replacing the flat-tire
+  "stranger" analogy, which wrongly implied Ebed-melec was a stranger to Jeremiah (jr kab. 5 ¶13
+  treats them as friends).
+- Rewrote the spoken bridges into each point (no more "Ang sabi ng outline natin").
+- Accuracy fixes from a jr-book sweep + second red-team review: "humihigpit ang hawak ng Babilonya,"
+  the officials *asked* for his death, the king *gave the order* for the 30 men, no "in public"
+  claim, Zedekias "nagsuko" (w13) instead of "pumayag na ipapatay," full experience quote.
+
+**Added:**
+- `reference/jr-overview.md` — overview of the jr book: 15-chapter table, key people, timeline,
+  every passage on Jer 37-39, old vs. new NWT wording, common speaker mistakes.
+
+---
+
 ## [4.33.0] - 2026-09-30
 
 ### 10-Minute Talk — "Patuloy Nating Tulungan ang Isa't Isa" (Jeremias 38-39), Oct 2, 2026

@@ -37,6 +37,7 @@ Only `index.md` scripts go in `docs/` (published to GitHub Pages). All other fil
 - **reference/guidelines.md** — Official speaker guidelines (S-141-TG)
 - **reference/ministeryo-aralin.md** — Counsel points for field ministry
 - **reference/mahalin-ang-mga-tao.md** — Markdown extract/notes from the lmd book (Love People, Make Disciples)
+- **reference/jr-overview.md** — Overview of the jr book (chapters, people, timeline, Jer 37-39 passages) — check it first for any Jeremiah talk
 - **reference/books/** — Full copyrighted publication PDFs (see "Reference Books" below) — **git-ignored, local-only, NEVER published**
 - **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition
 

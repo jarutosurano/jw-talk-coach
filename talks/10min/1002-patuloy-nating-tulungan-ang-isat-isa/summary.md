@@ -1,7 +1,7 @@
 # Buod — Patuloy Nating Tulungan ang Isa't Isa
 
 **Petsa:** Oct 2, 2026 (Friday, OCLM, Gabi)
-**Pacing:** ~8 minuto (≈1,275 spoken words, kasama ang 3 teksto)
+**Pacing:** ~8-8.5 minuto (≈1,300 spoken words, kasama ang 3 teksto)
 **Bible reading ng linggo:** Jeremias 38-39
 
 ---
@@ -10,9 +10,11 @@
 
 Gaya nina Ebed-melec at Jeremias, patuloy nating tulungan ang isa't isa — sa pagtatanggol, pagpapatibay, at pagpapasigla — at hindi ito nakakalimutan ni Jehova.
 
-**Formula:** **Ipagtanggol + Patibayin + Pasiglahin** — *tanggol, tibay, sigla*
+**Formula:** **ipagtanggol, patibayin, at pasiglahin** — *tanggol, tibay, sigla*
 
-**Analohiya (spine):** Na-flat-an sa highway, gabi, umuulan — isang estranghero ang huminto. Hindi mo siya makakalimutan. → Mas hindi nakakalimot si Jehova.
+**Analohiya (spine):** Meeting sa trabaho — pinagtulungan kang sisihin ng ilang katrabaho sa harap ng boss, pumayag na lang ang boss, walang gustong madamay. Isang kasamahan ang nagsalita: "Sir, hindi po tama ito." Hindi mo siya makakalimutan. → Si Jehova, lalong hindi nakakalimot ("dahil nagtiwala ka sa akin").
+
+*Bakit hindi "estranghero":* Ayon sa jr kab. 5 ¶13, makatuwirang isipin na magkaibigan sina Jeremias at Ebed-melec — kaya "kasamahan," hindi estranghero.
 
 ---
 
@@ -20,7 +22,7 @@ Gaya nina Ebed-melec at Jeremias, patuloy nating tulungan ang isa't isa — sa p
 
 | # | Punto | Teksto | Simpleng Ideya |
 |---|-------|--------|----------------|
-| 1 | Ipagtanggol ang iba gaya ng ginawa ni Ebed-melec | Jer 38:7-9 | Nakiusap siya sa hari sa **pintuang-daan** — publiko, delikado. Matapang pero malambing (mga basahan sa kilikili). |
+| 1 | Ipagtanggol ang iba gaya ng ginawa ni Ebed-melec | Jer 38:7-9 | "**Napakasama ng ginawa ng mga lalaking ito**" — diretsahan sa hari, sa kabila ng panganib (w13). Matapang pero maalalahanin (mga basahan sa kilikili). |
 | 2 | Patibayin ang iba gaya ng ginawa ni Jeremias | Jer 39:15-18 | **Nakakulong pa** si Jeremias, pero pinatibay niya ang takot na kaibigan. Alam ni Jehova ang "mga lalaking kinatatakutan mo." |
 | 3 | Pasiglahin ang iba na sundin si Jehova gaya ng ginawa ni Jeremias | Jer 38:20 | **"Pakisuyo."** Kahit sa haring nagpabaya sa kaniya — walang sumbat, may pag-asa: "mapapabuti ka." |
 
@@ -30,7 +32,7 @@ Gaya nina Ebed-melec at Jeremias, patuloy nating tulungan ang isa't isa — sa p
 
 | Tanong | Sagot |
 |--------|-------|
-| Bakit kailangan ng lakas ng loob sa pagtatanggol? | Kasi madalas, tahimik lang ang karamihan — gaya ng mga sasakyang dumaraan lang. |
+| Bakit kailangan ng lakas ng loob sa pagtatanggol? | Kasi madalas, tahimik lang ang karamihan — walang gustong madamay. |
 | Bakit patibayin kahit tayo mismo ay may problema? | Si Jeremias nakakulong, pero nakatulong pa rin. Hindi kailangang perpekto ang kalagayan natin. |
 | Bakit "pakisuyo" at hindi sermon? | Ganiyan ang puso ni Jehova — gusto Niyang mapabuti kahit ang nagkamali. |
 | Napapansin ba ni Jehova? | Oo — "dahil nagtiwala ka sa akin." Hindi Niya nakalimutan si Ebed-melec. |
@@ -51,12 +53,12 @@ Gaya nina Ebed-melec at Jeremias, patuloy nating tulungan ang isa't isa — sa p
 
 ```
 Patuloy Nating Tulungan ang Isa't Isa (~8 min)
-├── INTRO [1 min] — flat tire analogy → "Alam n'yo po ba?" → tema + formula
+├── INTRO [1 min] — office-meeting analogy → "Alam n'yo po ba?" → tema + formula
 ├── BACKGROUND [1 min] — siege, taggutom, "Kayo na ang bahala," imbakang putik
-├── 1 IPAGTANGGOL [2.5 min] — Jer 38:7-9 → PICTURE 1 → basahan → sister na late
+├── 1 IPAGTANGGOL [2.5 min] — Jer 38:7-9 → PICTURE 1 → 30 lalaki + basahan → sister na late
 ├── 2 PATIBAYIN [2 min] — Jer 39:15-18 → PICTURE 2 → karanasan: sulat, ~8 taon
 ├── 3 PASIGLAHIN [1 min] — Jer 38:20 → "Pakisuyo" → puso ni Jehova
-└── CONCLUSION [30 seg] — balik sa kotse → Jehova hindi nakakalimot → Tanungin ang Sarili → i-text bago matulog
+└── CONCLUSION [30 seg] — balik sa kasamahan → Jehova hindi nakakalimot → Tanungin ang Sarili → i-text bago matulog
 ```
 
 ---
@@ -66,7 +68,7 @@ Patuloy Nating Tulungan ang Isa't Isa (~8 min)
 - w13 1/15 9 ¶12 — Ebed-melec isinapanganib ang buhay
 - w19.11 6 ¶17 — Jeremias, tunay na kaibigan kahit nakakulong
 - w20.09 24 ¶15-17 — ipagtanggol ang mga sister (senaryo: asawang di-Saksi)
-- jr kab. 5 ¶6, 13, 16; kab. 7 ¶19; kab. 14 ¶14-16 — background
+- jr kab. 5 ¶6, 13, 16; kab. 7 ¶19; kab. 15 ¶14-16 — background (tingnan ang reference/jr-overview.md)
 - Bantayan "Talagang Mas Masaya ang Nagbibigay!" ¶10, ¶19-20 — dagdag na application (hindi workbook reference)
 
 ---
