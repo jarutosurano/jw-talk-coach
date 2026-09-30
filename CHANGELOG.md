@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.33.0] - 2026-09-30
+
+### 10-Minute Talk — "Patuloy Nating Tulungan ang Isa't Isa" (Jeremias 38-39), Oct 2, 2026
+
+**Added:**
+- `docs/talks/10min/1002-patuloy-nating-tulungan-ang-isat-isa/index.md` — ~8-min script. Flat-tire
+  analogy → "Alam n'yo po ba?" hook, background of the cistern (Jer 38:4-6), 3 points
+  (Ipagtanggol / Patibayin / Pasiglahin), formula "tanggol, tibay, sigla", 2 pictures.
+- `picture-1.jpg` (Ebed-melec before Zedekias) and `picture-2.jpg` (sister comforting a grieving friend).
+- `talks/10min/1002-patuloy-nating-tulungan-ang-isat-isa/outline.md` and `summary.md` — workbook
+  outline, w13/w19.11/w20.09 references, exact NWT text (verified pp. 1246-1249), jr book background,
+  and the "Talagang Mas Masaya ang Nagbibigay!" article as extra application material.
+- `mkdocs.yml` — nav entry at the top of 10-Minute.
+
+**Note:**
+- Script red-team reviewed (accuracy, heart, timing, format); fixes applied — image order,
+  exact experience wording, Jehovah's viewpoint in Point 3 and conclusion, trimmed to ~8 min.
+
+---
+
 ## [4.32.0] - 2026-09-25
 
 ### CBS — wcg Kabanata 9 (Sipra, Pua, Amram, Jokebed, Miriam), Setyembre 21-27, 2026
