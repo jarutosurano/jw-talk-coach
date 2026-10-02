@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.38.3] - 2026-10-02
+
+### 10-Minute Talk v1.2 — clarify "isa't isa"
+
+**Changed:**
+- Punto 2: "Iyan po ang ibig sabihin ng 'isa't isa' sa tema natin — hindi one-way ang tulong. Ngayon, ikaw ang tumutulong; bukas, baka ikaw naman ang tutulungan." — ties the reversal back to the title.
+
+---
+
 ## [4.38.2] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — "matapang, natakot din"
