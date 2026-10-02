@@ -4,6 +4,25 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.35.0] - 2026-10-02
+
+### 10-Minute Talk "Patuloy Nating Tulungan ang Isa't Isa" — v1.2 (refined v1)
+
+**Added:**
+- `docs/talks/10min/1002-patuloy-nating-tulungan-ang-isat-isa/v1-2.md` — v1's flow (office
+  analogy, tanggol/tibay/sigla) refined against Aralin 1, 3, 4, 7, 8, 9, 13, 14, 17, 18, 19, 20
+  and a first-time-listener test: explains why the officials were angry, why Jeremiah is still
+  a prisoner (Jer 38:13), who the Caldeo are, and that the promise came true (jr kab. 15 ¶16).
+- New learnings: "Ang tumulong, siya na ngayon ang nangangailangan ng tulong" (= isa't isa);
+  "Bakit kaya niya nagawa iyon?" answered by "dahil nagtiwala ka sa akin"; w26.07 ¶7 question
+  with Jehovah's traits (mapagpahalaga, makatarungan, hindi nagtatangi).
+- ⏱ skippable passages (~25 sec) and the letter experience moved to an optional box.
+
+**Changed:**
+- `mkdocs.yml` nav — v1.2 listed first; v1 and v2 kept.
+
+---
+
 ## [4.34.0] - 2026-10-02
 
 ### 10-Minute Talk "Patuloy Nating Tulungan ang Isa't Isa" — v2 (from-scratch rewrite, 8 minuto)
