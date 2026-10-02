@@ -116,6 +116,21 @@ EXACT NWT Tagalog (makabagong-wika). Verified laban sa reference/books/nwt-bagon
 - kab. 14 ¶14-16 — May taggutom; "Habang lumulubog si Jeremias sa putik, wala na siyang maisip na paraan." "Pinakilos ng Diyos si Ebed-melec."
 - NWT footnote Jer 38:7 — "opisyal," Lit., "bating."
 
+**⭐ SUSING TANONG — isama sa talk (w26.07 "Patuloy na Kilalanin si Jehova," Set 21-27, 2026):**
+- ¶7 — *"Kaya kapag nagbabasa ng Bibliya, huwag nating kalimutang pag-isipan, **'Ano ang itinuturo nito sa akin tungkol kay Jehova?'**"*
+- ¶16 — kasunod na tanong: *"Anong mga katangian ni Jehova ang nakita ko dito?"*
+- ¶13 — Ito mismong ulat ang halimbawa ng artikulo: Jer 38:6-13 → mga katangian ni Ebed-melec: *"pagiging mapagsakripisyo, pagkakaroon ng lakas ng loob, at pagmamalasakit sa mga kapananampalataya."* Pero: *"naiisip mo rin ba kung anong mga katangian ni Jehova ang makikita sa ulat na ito? (Basahin ang Jeremias 39:15-18.)"* → **mapagpahalaga, makatarungan, hindi nagtatangi.** Pagkatapos: *"pasalamatan mo siya at sabihin sa kaniya kung gaano mo siya kamahal dahil sa mga katangian niyang iyon."*
+- ⚠️ Hindi sinabi ng artikulo kung aling talata ang nagpapakita ng bawat katangian — kung iuugnay natin (hal. "dahil nagtiwala ka sa akin" → mapagpahalaga), sabihin bilang pangangatuwiran, hindi bilang sinabi ng artikulo (Aralin 7).
+- Gamit sa talk: Punto 2 (Jer 39:15-18) + ulitin sa konklusyon (Aralin 14, 18, 19).
+
+**Ebed-melec — kapananampalataya ba? OO:**
+- Jer 39:18 — *"dahil nagtiwala ka sa akin"* (si Jehova mismo ang nagsabi)
+- jr kab. 5 ¶13 — *"dahil pareho silang kaibigan ni Jehova"*; ¶16 — *"dahil sa kaniyang pananampalataya at pagtitiwala kay Jehova"*
+- w26.07 ¶13 — *"pagmamalasakit sa mga kapananampalataya"*
+- it-1 "Ebed-melech" — "in full agreement with the work of Jehovah's prophet"; pangalan = "Lingkod ng Hari"
+- w12 5/1 p. 31 — kabaitan: nilagyan ng basahan ang lubid
+- ⚠️ HUWAG sabihing proselita/tuli — hindi sinasabi ng Bibliya. Ligtas: **"isang banyaga, pero tunay na lingkod at kaibigan ni Jehova."**
+
 **Karagdagang source (HINDI reference ng workbook — para sa application lang):**
 Bantayan article: **"Talagang Mas Masaya ang Nagbibigay!"** (Gawa 20:35)
 - ¶7 — Materyal na tulong: pagkain, damit; relief noong COVID-19 pandemic. (Heb. 13:16)

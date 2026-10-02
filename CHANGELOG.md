@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.34.0] - 2026-10-02
+
+### 10-Minute Talk "Patuloy Nating Tulungan ang Isa't Isa" — v2 (from-scratch rewrite, 8 minuto)
+
+**Added:**
+- `docs/talks/10min/1002-patuloy-nating-tulungan-ang-isat-isa/v2.md` — new skeleton built on
+  "tatlong boses" (magsalita para sa kapatid / sa kapatid / nang may "pakisuyo"); ~1,200 spoken
+  words for an 8-minute delivery with room for pauses. v1 (`index.md`) kept unchanged.
+- New-learning beat from w26.07 "Patuloy na Kilalanin si Jehova" ¶7/¶13: "Ano ang itinuturo nito
+  sa akin tungkol kay Jehova?" applied to Jer 39:15-18 (mapagpahalaga, makatarungan, hindi
+  nagtatangi), repeated in the conclusion.
+- `CHECKLIST NG ARALIN` table (Aralin 1, 3, 4, 7, 8, 9, 13, 14, 17, 18, 19, 20).
+- `talks/10min/1002-.../plan-v2.md` — design + plan for v2 (not published).
+- outline.md Notes: w26.07 key question, Ebed-melec as kapananampalataya (Jer 39:18; jr kab. 5
+  ¶13, 16; it-1; w12 5/1), and wording cautions.
+
+**Changed:**
+- `mkdocs.yml` nav — v2 listed above v1.
+
+---
+
 ## [4.33.1] - 2026-09-30
 
 ### 10-Minute Talk "Patuloy Nating Tulungan ang Isa't Isa" — accuracy + read-aloud pass
