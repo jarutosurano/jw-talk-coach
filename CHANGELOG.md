@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.37.5] - 2026-10-02
+
+### 10-Minute Talk v1.2 — Picture 1 before the reading
+
+**Changed:**
+- Punto 1: Picture 1 shown briefly before Jer 38:7-9 (describe + caption + "Salamat po sa picture"), then "Habang binabasa natin ang teksto, isipin po natin ang eksenang iyan." Picture is down before the reading (guidelines #8). Saves ~10-15 sec. Picture 2 unchanged.
+
+---
+
 ## [4.37.4] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — background read-aloud flow
