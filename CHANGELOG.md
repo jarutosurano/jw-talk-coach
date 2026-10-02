@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.37.4] - 2026-10-02
+
+### 10-Minute Talk v1.2 — background read-aloud flow
+
+**Changed:**
+- Background split into short spoken beats with connectors ("At sa gitna ng ganiyang sitwasyon…", "Hindi iyan nagustuhan…", "At ano ang sagot…", "Isipin n'yo — ang hari, bumitaw na."); Punto 1 opens with "Pero may isang lalaki…".
+
+---
+
 ## [4.37.3] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — intro → background transition
