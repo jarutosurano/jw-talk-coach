@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.39.0] - 2026-10-02
+
+### 10-Minute Talk v1.2 — red-team fixes (accuracy + flow)
+
+**Changed:**
+- Intro: "habang may panahon pa" (was "habang may kuryente/signal pa" — could sound like a forecast); conclusion: "i-text mo siya bago ka matulog ngayong gabi."
+- Background: "Nauubos na ang pagkain sa lunsod" (Jer 38:9) instead of "hindi makapasok."
+- Punto 1: one lesson instead of two; theme tie kept; enemy-lies line separated from the misjudged-sister example ("kahit sa loob ng kongregasyon… hindi alam ng iba ang buong sitwasyon niya").
+- Punto 3: bridge "Pero hindi lang si Ebed-melec ang tinulungan ni Jeremias."; "kung paano nakiusap si Jeremias"; ends "Iyan ang patuloy na pagtulong — kahit sa taong bumitaw sa atin."
+- Conclusion: alkansya + "matatakbuhan" payoff ("Iyan ang unang barya sa alkansya…").
+- Checkpoint box corrected (~9:25).
+
+---
+
 ## [4.38.5] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — explicit Punto 2 lesson
