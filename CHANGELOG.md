@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.37.6] - 2026-10-02
+
+### 10-Minute Talk v1.2 — Punto 1 lessons restructured
+
+**Changed:**
+- After Jer 38:9: short lesson tied to the theme ("Para patuloy nating matulungan ang isa't isa, ipagtanggol natin ang iba — huwag tayong manahimik"), then "Pero pansinin po ang ginawa pa niya" → basahan → "Matapang — pero maalalahanin" → deeper lesson "kailangan ang tapang — at ang malasakit."
+- "nilulubog" → "hinuhusgahan" (w20.09 ¶17 "panghuhusga"; not "chismis" — overstates the reference). Basahan detail no longer optional.
+
+---
+
 ## [4.37.5] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — Picture 1 before the reading
