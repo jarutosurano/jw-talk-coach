@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.38.2] - 2026-10-02
+
+### 10-Minute Talk v1.2 — "matapang, natakot din"
+
+**Added:**
+- Punto 2: "Ang matapang na si Ebed-melec, natakot din. Kahit ang pinakamatatag na kapatid, kailangan din ng pampatibay." — resolves the matapang (P1) / natakot (P2) tension as a lesson (jr kab. 5 ¶16; kab. 7 ¶19).
+
+---
+
 ## [4.38.1] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — full read-aloud review
