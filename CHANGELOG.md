@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.38.5] - 2026-10-02
+
+### 10-Minute Talk v1.2 — explicit Punto 2 lesson
+
+**Changed:**
+- After Jer 39:17, 18: shorter "so what?" (kinatatakutan mo → "Dahil nagtiwala ka sa akin") plus a clear lesson — "Kapag may kapatid na natatakot, huwag nating balewalain ang takot niya" (jr kab. 7 ¶19: "Hindi binale-wala ni Jeremias ang pangamba ni Ebed-melec"; w19.11 ¶17 "Kahit nakakulong").
+
+---
+
 ## [4.38.4] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — tighter conclusion
