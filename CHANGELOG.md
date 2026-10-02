@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.36.0] - 2026-10-02
+
+### 10-Minute Talk v1.2 — "mabuting bantay" intro + malaking kapighatian
+
+**Changed:**
+- Intro: office/boss analogy → hospital "mabuting bantay" (ipinagtatanggol, pinatitibay,
+  pinasisigla), self-reflection question "Mabuting bantay kaya ako sa mga kapatid ko?", and a
+  "pansinin ang salitang patuloy" beat. Removed the 3P's formula and the "Jeremias 38 at 39" framing.
+- Each point ends "— gaya ng mabuting bantay"; conclusion returns to the reflection question
+  before the exact TANUNGIN ANG SARILI wording.
+
+**Added:**
+- Punto 2: one sentence from w19.11 p. 2 ¶2 (source article of the Punto 2 reference) on why we
+  need good friends in the "malaking kapighatian" — "ngayon pa lang."
+- outline.md Notes: great-tribulation references and claims to avoid (outdated typology).
+
+---
+
 ## [4.35.1] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — "3P's ng Pagtutulungan"

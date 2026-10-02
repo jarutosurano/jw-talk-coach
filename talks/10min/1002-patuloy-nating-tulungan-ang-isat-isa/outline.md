@@ -131,6 +131,12 @@ EXACT NWT Tagalog (makabagong-wika). Verified laban sa reference/books/nwt-bagon
 - w12 5/1 p. 31 — kabaitan: nilagyan ng basahan ang lubid
 - ⚠️ HUWAG sabihing proselita/tuli — hindi sinasabi ng Bibliya. Ligtas: **"isang banyaga, pero tunay na lingkod at kaibigan ni Jehova."**
 
+**Malaking kapighatian (research Oct 2) — w19.11 "Patibayin ang Pagkakaibigan Bago Dumating ang Wakas" (pinagmulan ng w19.11 6 ¶17 ng Punto 2):**
+- ¶2 (p. 2) — *"Pagdating ng 'malaking kapighatian,' mapapahalagahan natin na may mabubuti tayong kaibigan na nagmamahal sa atin. (Apoc. 7:14) Kaya dapat tayong magkaroon ng matibay na kaugnayan sa iba ngayon pa lang… Marami tayong matututuhan sa karanasan ni Jeremias, na tinulungan ng mga kaibigan niya na makaligtas bago mawasak ang Jerusalem."* (verified wol.jw.org/tl 2019640)
+- ¶16 (p. 5) — *"…kakailanganin natin ang matatalik na kaibigan sa malaking kapighatian."*
+- w23.07 "Handa Ka Na Ba Para sa Malaking Kapighatian?" ¶16 — *"…poprotektahan niya tayo kung mananatili tayong kasama at kaisa ng mga kapatid."*
+- ⚠️ IWASAN: Ebed-melec bilang larawan ng "malaking pulutong" (lumang typology, w80; salungat sa w15 3/15); Jerusalem 607 = Sangkakristiyanuhan; "minarkahan na bago ang kapighatian" (binago sa w25.08 p. 31); Jer 39:18 bilang pangako sa atin.
+
 **Karagdagang source (HINDI reference ng workbook — para sa application lang):**
 Bantayan article: **"Talagang Mas Masaya ang Nagbibigay!"** (Gawa 20:35)
 - ¶7 — Materyal na tulong: pagkain, damit; relief noong COVID-19 pandemic. (Heb. 13:16)
