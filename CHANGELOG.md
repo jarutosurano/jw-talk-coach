@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.37.0] - 2026-10-02
+
+### 10-Minute Talk v1.2 — brownout intro + w19.11 depth
+
+**Changed:**
+- Intro: hospital "mabuting bantay" → "Isipin… nawalan ng kuryente at signal nang isang linggo"
+  with two door-knocking questions, framed as "Hindi pa po iyan ang malaking kapighatian" +
+  w19.11 ¶2 "ngayon pa lang"; reflection question "May mga kapatid kaya akong matatakbuhan — at
+  matatakbuhan din kaya nila ako?" returned to in the conclusion.
+- Punto 1: w19.11 ¶19 "mga kasinungalingan at maling impormasyon" → defend one another now.
+- Punto 2: w19.11 ¶18 practical help ("Ang pinakamahalaga, nandoon ka") + ¶1 experience
+  ("Napatibay namin ang isa't isa") replacing the duplicate tribulation line.
+- Conclusion: "habang may signal pa" callback; hopeful close from ¶19 ("magpakailanman").
+- Background shortened; honest section timings (~9.5 min; ⏱ skips → ~9 min).
+
+**Added:**
+- `reference/articles/w19.11-patibayin-ang-pagkakaibigan-bago-dumating-ang-wakas.md` (git-ignored).
+
+---
+
 ## [4.36.0] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — "mabuting bantay" intro + malaking kapighatian
