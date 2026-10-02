@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.38.1] - 2026-10-02
+
+### 10-Minute Talk v1.2 — full read-aloud review
+
+**Changed:**
+- Punto 1 summary before Jer 38:9 reordered (context → "Ano ang sinabi niya?" → "isipin ang eksenang nakita natin sa larawan" → open Bible) and made specific ("inihulog nila si Jeremias sa imbakan ng tubig").
+- Removed back-to-back "Kaya" openers (intro reflection question, conclusion); Punto 2 "nakakulong" repetition smoothed; Picture 2 description tied to the point ("para patibayin siya").
+- Section timings corrected (~9:20); added time-checkpoint box with three emergency skips; speaker-notes rows updated.
+
+---
+
 ## [4.38.0] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — time cut (~10.5 → ~9.3 min)
