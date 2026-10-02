@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.35.1] - 2026-10-02
+
+### 10-Minute Talk v1.2 — "3P's ng Pagtutulungan"
+
+**Changed:**
+- Formula renamed from "tanggol, tibay, sigla" to **3P's ng Pagtutulungan** — Pagtatanggol,
+  Pagpapatibay, Pagpapasigla (the outline's own verbs as nouns), following the 3P's/4P's pattern
+  of earlier talks; repeated as "unang / ikalawang / ikatlong P" at each point.
+- Intro now asks "Kaya paano nga ba natin patuloy na matutulungan ang isa't isa?" before the 3P's.
+- "banyaga" → "foreign official" (3 places).
+
+---
+
 ## [4.35.0] - 2026-10-02
 
 ### 10-Minute Talk "Patuloy Nating Tulungan ang Isa't Isa" — v1.2 (refined v1)
