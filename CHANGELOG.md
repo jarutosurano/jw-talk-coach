@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.37.3] - 2026-10-02
+
+### 10-Minute Talk v1.2 — intro → background transition
+
+**Changed:**
+- Bridge after the three ways: "…wala na siyang pintong makakatok. Bakit kaya? Pansinin po natin ang sitwasyon noong panahon ni Jeremias."
+- Background explains "kinukubkob — o under siege": food couldn't get in, people were starving (Jer 38:9; jr kab. 15 ¶14). Not "walang makalabas" — people did go out to the Chaldeans (Jer 38:2, 19).
+
+---
+
 ## [4.37.2] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — alkansya illustration
