@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.37.2] - 2026-10-02
+
+### 10-Minute Talk v1.2 — alkansya illustration
+
+**Added:**
+- "Patuloy" beat: alkansya analogy — "hindi mo ito mapupuno sa mismong araw na kailangan mo na ang pera… binubuo araw-araw."
+
+---
+
 ## [4.37.1] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — intro wording
