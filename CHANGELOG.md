@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.38.0] - 2026-10-02
+
+### 10-Minute Talk v1.2 — time cut (~10.5 → ~9.3 min)
+
+**Changed:**
+- Readings shortened: Jer 38:9 only (v. 7-8 summarized); Jer 39:17, 18 only (v. 15-16 summarized; "habang nakakulong" kept in the summary). Exact NWT text verified.
+- Punto 1 → 2 bridge: "Pero hindi pa po doon nagtatapos ang kuwento."
+- Jehovah's traits in one line; intro "ngayon pa lang" sentences merged; background "bumitaw na" line, Punto 3 "puso ni Jehova" line, and the Africa experience removed; conclusion fulfillment shortened to "At tinupad iyon ni Jehova." Section timings updated; ⏱ box removed.
+
+---
+
 ## [4.37.6] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — Punto 1 lessons restructured
