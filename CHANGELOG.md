@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.37.1] - 2026-10-02
+
+### 10-Minute Talk v1.2 — intro wording
+
+**Changed:**
+- "Isipin po natin ito, mga kapatid:" (inclusive); added "Hindi n'yo alam kung kailan babalik."; pause cue between the two door-knocking questions (kept "At" so listeners answer both). No "war" — avoids sounding like a prediction.
+
+---
+
 ## [4.37.0] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — brownout intro + w19.11 depth
