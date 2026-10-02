@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.38.4] - 2026-10-02
+
+### 10-Minute Talk v1.2 — tighter conclusion
+
+**Changed:**
+- Conclusion cut to 4 sentences + closing line: Jehovah notices (as with Ebed-melec) → exact TANUNGIN ANG SARILI → text someone tonight "habang may signal pa" → friendship lasts "magpakailanman" → "Kaya ipagtanggol, patibayin, pasiglahin — patuloy nating tulungan ang isa't isa."
+- Punto 2 traits line: "ginawa ni Ebed-melec, isang Etiope" instead of "isang foreign official."
+
+---
+
 ## [4.38.3] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — clarify "isa't isa"
