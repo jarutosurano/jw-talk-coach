@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.40.0] - 2026-10-02
+
+### 10-Minute Talk v1.2 — cut to speaker's real pace (~118 wpm)
+
+**Removed:**
+- Intro reflection question ("matatakbuhan"), "Hindi n'yo alam kung kailan babalik…", and the "Kanina, inisip natin…" bridge.
+- Background "under siege" explanation and "Walang tubig doon"; Picture 1 description (caption only); basahan detail; enemy-lies sentence; "Ang matapang… natakot din"; Jehovah-traits explanation (question kept); Picture 2 long setup; "Pinakalma muna…"; conclusion "magpakailanman" line.
+
+**Added (speaker's own lines):**
+- "Paano po natin matutularan si Ebed-melec dito?"; "Ano ang kailangan niya? Isang taong mahinahong magsasabi:"; conclusion opener "Ano po ang natutuhan natin ngayong gabi?"
+
+**Result:** ~1,144 words ≈ 9:40 at the speaker's pace; checkpoints and section timings updated.
+
+---
+
 ## [4.39.0] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — red-team fixes (accuracy + flow)
