@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.41.0] - 2026-10-04
+
+### Watchtower Sep 28–Oct 4: "Tulungan ang Iba na Makilalang Mabuti si Jehova"
+
+**Added:**
+- `docs/watchtower/tulungan-ang-iba-na-makilala-si-jehova/index.md` — answer script for all 18 paragraphs (w26.07 pp. 20-25), formula "Tumpak na Kaalaman + Tamang mga Tanong + Pagkakapit ng Natutuhan", and lessons-learned boxes.
+- Answers derived from the Bible text: ¶2 (1 Tim. 2:3, 4) and ¶15-16 (Juan 8:29). Short analogies in both direktang sagot and spoken answer: ¶11 (delivery rider) and ¶12-13 (matagal nang kaibigan).
+- `watchtower/tulungan-ang-iba-na-makilala-si-jehova/outline.md` — question map, review box, exact NWT text for Juan 17:3, 1 Tim. 2:3, 4, Mar. 12:30, Sant. 5:11, Juan 8:29.
+- Nav entry under Watchtower (latest first).
+
+**Changed (red-team review):**
+- Removed Bible wording paraphrased from memory (3 Juan 4, 1 Cor. 3:6, 7); Juan 8:29 no longer framed as a promise to the student; restored verbatim article quotes; trimmed ¶15-16; dropped lines the article doesn't say (¶7 "kautusan", ¶14 forgive/tiisin).
+
+---
+
 ## [4.40.0] - 2026-10-02
 
 ### 10-Minute Talk v1.2 — cut to speaker's real pace (~118 wpm)
