@@ -4,6 +4,36 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.42.0] - 2026-10-08
+
+### Week Oct 5–11 (Jeremias 40–41): 10-min talk, Hiyas, CBS, Watchtower + workbook storage
+
+**Added:**
+- **Workbook (mwb) storage:** `mwb_TG_202609.pdf` (Sep–Oct) and `mwb_TG_202611.pdf` (Nov–Dec), plus RTF and text conversions in `reference/books/mwb-rtf/`. All git-ignored. CLAUDE.md "Currently stored" table updated, with a tip to read text from `mwb-rtf/txt/`.
+- **10-min talk** "Lagi Ba Tayong Pinoprotektahan ni Jehova sa Pisikal?" (Oct 9):
+  - `talks/10min/1009-lagi-ba-tayong-pinoprotektahan-ni-jehova/outline.md` — placeholder with the full workbook content, all printed references (jr 189 ¶16, it "Gedalias" #4, cl ¶13-14), cl ¶15-20 summary, and an IWASAN list.
+  - `summary.md` for the talk.
+  - `docs/.../index.md` (~1,150 words incl. readings) and `picture.jpg` (from the workbook PDF).
+  - Hook: two houses after a typhoon. Refrain: "Hindi laging inaalis ni Jehova ang problema, pero lagi Niya tayong iniingatan sa espirituwal."
+- **Espirituwal na Hiyas — Jeremias 40-41:**
+  - Tanong 1 on Jer 40:12 / Deut 8:6-8 (w06 6/15 16 ¶4).
+  - Top-10 gems in the DEEPER format. They deliberately avoid the talk's verses and the "Gedalias didn't listen" angle.
+- **CBS Oct 5-11 — wcg kabanata 11 "Pumunta Ka sa Paraon" (Moises):**
+  - All 11 questions, with Alamin answers from the wol.jw.org Seksiyon 1 references (g04 4/8, w14 4/15, it "Diyos at Diyosa, Mga", it "Pag-alis").
+  - Formula: "Kapakumbabaan + Tiwala kay Jehova + Paulit-ulit na Pagsunod."
+- **Watchtower Oct 5–11 — "Labanan si Satanas—Magtiwala kay Jehova at kay Jesus"** (w26.08):
+  - 17 paragraph questions + 3 lessons learned.
+  - Formula: "Kilalanin ang Kasinungalingan + Pag-aralan ang Katotohanan + Alalahanin ang Tulong Nila."
+- `plans/2026-10-08-week-oct-5-11.md` — the week's plan, with the red-team amendments.
+- Nav entries for all four (latest first).
+
+**Verification:**
+- Every Bible quote was checked against the workbook text or the column-cropped NWT PDF. Close paraphrases were replaced with exact NWT wording (Kaw 13:20, 19:3, Isa 5:20, Mat 4:10, Juan 15:13, Sant 4:8).
+- Quotes in the old Bible wording are attributed to the reference that contains them (it "Pag-alis", w14).
+- `mkdocs build --strict` passes with 0 warnings.
+
+---
+
 ## [4.41.0] - 2026-10-04
 
 ### Watchtower Sep 28–Oct 4: "Tulungan ang Iba na Makilalang Mabuti si Jehova"
