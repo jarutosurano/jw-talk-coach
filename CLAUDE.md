@@ -57,6 +57,14 @@ Full copyrighted JW publication PDFs are stored here for research/citation. This
 | w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
 | wcg | Lakas-Loob na Lumakad Kasama ng Diyos (Walk Courageously With God) — **current CBS book**, 54 kabanata | `wcg-lakas-loob-na-lumakad-kasama-ng-diyos.pdf` |
 | nwt | Bagong Sanlibutang Salin ng Banal na Kasulatan (makabagong-wika) — source for exact NWT Tagalog Bible text | `nwt-bagong-sanlibutang-salin.pdf` |
+| mwb | Workbook Para sa Pulong — Setyembre-Oktubre 2026 (Sep 14–Nov 1; Jeremias 34-48) | `mwb_TG_202609.pdf` + `mwb-rtf/202609/*.rtf` |
+| mwb | Workbook Para sa Pulong — Nobyembre-Disyembre 2026 (Nov 9–Ene 3; Jeremias 51–Ezekiel 10) | `mwb_TG_202611.pdf` + `mwb-rtf/202611/*.rtf` |
+
+**Workbook (mwb) tip:** read text from the RTF conversions in `reference/books/mwb-rtf/txt/`
+(one file per week, e.g. `mwb_TG_202609_04.txt` = Okt 5-11). They include every quoted Bible
+text and reference paragraph verbatim. To regenerate:
+`textutil -convert txt -output txt/NAME.txt 202609/NAME.rtf`. Use the PDF only to pull
+pictures (`pdfimages -j -f PAGE -l PAGE`).
 
 ### Reading Exact Bible Text (`nwt-bagong-sanlibutang-salin.pdf`)
 
@@ -94,6 +102,20 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | Gawa 7:5-24 | 1677 |
 | Mikas 6:3-14 | 1441 |
 | Hebreo 11 (v. 8-25) | 1847 |
+| Jeremias 39:10–41:18 | 1249-1251 |
+| Jeremias 23:25–24:1 | 1221 |
+| Deuteronomio 8:1-18 | 325 |
+| Exodo 3:6–4:16 | 128-129 |
+| Exodo 7:10–8:2 (7:6, 7 sa p. 133) | 133-134 |
+| Hebreo 11:26–12:1 | 1848 |
+| Mateo 4:10 / 11:19 | 1488 / 1500-1501 |
+| Juan 10:29 / 15:13 | 1645 / 1654 |
+| Awit 118:2-22 | 966 |
+| Kawikaan 4 / 13:20 / 19:3 | 1001 / 1015 / 1023 |
+| Isaias 5:20 | 1080 |
+| 1 Tesalonica 5:5-28 | 1813 |
+| Santiago 4:8 | 1856 |
+| 1 Hari 15:10-26 | 576 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
 (`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
@@ -116,6 +138,11 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | w90 | Ano ba ang Kabuluhan sa Iyo ng Kamatayan ni Jesus? | Blg. 184 Sek. 3 — the rights attached to the life Adam lost; why "binuhay bilang espiritu" matters |
 | wcg09 | wcg Kabanata 9 (Sipra, Pua, Amram, Jokebed, Miriam) — "Alamin" references (g04 4/8, it "Komadrona", w03 11/1, ijwia artikulo 7) | CBS Sep 21-27, 2026 — fetched from wol.jw.org Tagalog |
 | wcg05 | wcg Kabanata 5 (Abraham) — "Alamin" references (g 5/12, it "Abraham", ia 26, rr 20, g88 4/8) | CBS Aug 24-30, 2026 — the four Alamin research answers |
+| cl07 | cl kab. 7 "Pagbibigay ng Proteksiyon" (¶13-20) | 10-min talk Oct 9 — "Lagi Ba Tayong Pinoprotektahan ni Jehova sa Pisikal?" |
+| jr | jr kab. 15 "Hindi Magawang Manahimik ni Jeremias" (¶16) | 10-min talk Oct 9 |
+| w06 | "'Alagaan Mo ang Punong Ubas na Ito'!" (w06 6/15) | Hiyas Oct 9 Tanong 1 (Jer 40:12) |
+| w26.08 | "Labanan si Satanas—Magtiwala kay Jehova at kay Jesus" | Watchtower Oct 5–11 |
+| wcg11 | wcg Kabanata 11 (Moises) — Alamin + Tingnan Din references + chapter text | CBS Oct 5-11 |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 
