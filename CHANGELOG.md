@@ -4,6 +4,34 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.43.0] - 2026-10-16
+
+### Week Oct 12–18 (Jeremias 42–44): 10-min talk, Hiyas, CBS
+
+**Added:**
+- **10-min talk** "Humingi Sila ng Payo, Pero Hindi Sila Sumunod" (Oct 16):
+  - `talks/10min/1016-humingi-sila-ng-payo-pero-hindi-sumunod/outline.md` — full workbook content, the printed references (it "Johanan" Blg. 5, w25.07 5 ¶14), a summary of the w25.07 article's context (¶11-17, from wol.jw.org), and an IWASAN list.
+  - `summary.md` for the talk.
+  - `docs/.../index.md` and `picture.jpg` (from the workbook PDF).
+  - Hook: Waze says "Kumanan," you turn left. Formula: **Humingi + Makinig + Sumunod = Pagpapala**.
+- **Espirituwal na Hiyas — Jeremias 42-44:**
+  - Tanong 1 on Jer 44:18 ("Reyna ng Langit"), using it "Pagkasutil" ¶4.
+  - Top-10 gems in the DEEPER format (Jer 42:4, 14, 16; 43:3, 8, 10; 44:7, 9, 10, 28). They avoid the talk's verses and next week's Baruc material.
+- **CBS Oct 12-18 — wcg kabanata 12 "Nanatili Siyang Tapat sa Diyos Niya" (Caleb):**
+  - All 11 questions, with Alamin answers from the wol.jw.org Seksiyon 1 references (w06 6/15, w11 3/1, w04 10/15, w06 10/1).
+  - Both Tingnan Din articles summarized (w06 10/1, w93 5/15).
+  - Formula: "Pananampalataya + Lakas ng Loob + Buong-Pusong Pagsunod = Tapat Hanggang sa Huli."
+- Git-ignored research: `reference/articles/w25.07-bakit-kailangan-nating-humingi-ng-payo.md`, `reference/articles/wcg12-caleb-alamin-references.md`.
+- CLAUDE.md: new NWT page locations (Jer 42–44, Bil 13–14, Ex 23:2, Jos 14) and article rows.
+- Nav entries for all three (latest first).
+
+**Verification:**
+- Every Bible quote was checked against the workbook text or the column-cropped NWT PDF.
+- Each deliverable was red-teamed by an independent reviewer before commit.
+- `mkdocs build --strict` passes.
+
+---
+
 ## [4.42.0] - 2026-10-08
 
 ### Week Oct 5–11 (Jeremias 40–41): 10-min talk, Hiyas, CBS, Watchtower + workbook storage

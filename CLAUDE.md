@@ -116,6 +116,10 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | 1 Tesalonica 5:5-28 | 1813 |
 | Santiago 4:8 | 1856 |
 | 1 Hari 15:10-26 | 576 |
+| Jeremias 42:1–44:30 | 1252-1256 |
+| Bilang 13:23–14:31 | 269-271 |
+| Exodo 23:2 | 159 |
+| Josue 14:7-15 | 389 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
 (`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
@@ -143,6 +147,8 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | w06 | "'Alagaan Mo ang Punong Ubas na Ito'!" (w06 6/15) | Hiyas Oct 9 Tanong 1 (Jer 40:12) |
 | w26.08 | "Labanan si Satanas—Magtiwala kay Jehova at kay Jesus" | Watchtower Oct 5–11 |
 | wcg11 | wcg Kabanata 11 (Moises) — Alamin + Tingnan Din references + chapter text | CBS Oct 5-11 |
+| w25.07 | Araling Artikulo 28 "Bakit Kailangan Nating Humingi ng Payo?" | 10-min talk Oct 16 — "Humingi Sila ng Payo, Pero Hindi Sila Sumunod" (¶14 + context) |
+| wcg12 | wcg Kabanata 12 (Caleb) — Alamin + Tingnan Din references | CBS Oct 12-18 |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 
