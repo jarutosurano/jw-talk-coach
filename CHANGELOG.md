@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.44.0] - 2026-10-20
+
+### Pahayag Oct 23: "Hindi si Jesus ang Diyos na Makapangyarihan-sa-Lahat" (lmd apendise A #20, th aralin 7)
+
+**Added:**
+- `talks/5min/1023-hindi-si-jesus-ang-diyos-na-makapangyarihan/outline.md` — the workbook item (4 minuto) and the exact NWT text of Juan 14:28 and 1 Cor 11:3. It also explains how the script applies th aralin 7, with notes on the speaker's first draft.
+- `docs/talks/5min/1023-hindi-si-jesus-ang-diyos-na-makapangyarihan/index.md` — the reviewed script, rewritten from the speaker's draft:
+  - Keeps the hook "Papunta ka pa lang, pabalik na ako."
+  - Memory device **MAS** (Juan 14:28) and **ULO** (1 Cor 11:3).
+  - Uses only the two outline texts. The draft's 1 Cor 15:27, 28, Mar 13:32 and Mat 28:18 were dropped, and the outline's 1 Cor 11:3 was added.
+  - Adds context (1 Corinto was written after Jesus returned to heaven) and a reasoning question after each text.
+  - Removes the wife-headship comparison.
+  - Simpler words, about 500 spoken words (~3:45).
+- Nav entry under Talks → 5-Minute.
+
+**Verification:**
+- Both Bible quotes were checked against the column-cropped NWT PDF.
+- Two independent red-team reviewers checked the script, one for accuracy and Aralin 7 and one for delivery, simplicity and timing. All their MUST-FIX and SHOULD-FIX findings were applied.
+
+---
+
 ## [4.43.0] - 2026-10-16
 
 ### Week Oct 12–18 (Jeremias 42–44): 10-min talk, Hiyas, CBS
