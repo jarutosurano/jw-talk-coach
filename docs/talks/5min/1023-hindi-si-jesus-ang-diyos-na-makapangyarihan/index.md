@@ -54,17 +54,15 @@ Pero hindi po ibig sabihin nito na minamaliit natin si Jesus. Mahal na mahal siy
 
 ---
 
-## CONCLUSION [0.75 minuto]
+## CONCLUSION [0.5 minuto]
 
-Kaya po, dalawang salita lang ang tandaan natin.
+Kaya tandaan po natin ang dalawang salita.
 
-**MAS**: si Jesus mismo ang nagsabi, "Ang Ama ay mas dakila kaysa sa akin."
+**MAS**: sabi mismo ni Jesus, "Ang Ama ay mas dakila kaysa sa akin."
 
-**ULO**: kahit nasa langit na si Jesus, "ang ulo ng Kristo ay ang Diyos."
+**ULO**: "Ang ulo ng Kristo ay ang Diyos."
 
-Kaya kapag may nagtanong sa atin, "Si Jesus ba ang Diyos na Makapangyarihan-sa-Lahat?", puwede nating sagutin nang mahinahon, mula mismo sa Bibliya: "Hindi po. Si Jehova ang Makapangyarihan-sa-Lahat. Si Jesus ang minamahal niyang Anak, na binigyan niya ng malaking kapangyarihan."
-
-Kaya balikan natin: "Papunta ka pa lang, pabalik na ako." Kusang kinikilala ni Jesus na nauna at mas mataas ang kaniyang Ama. Tularan natin siya. Ibigay natin kay Jehova, ang **Diyos na Makapangyarihan-sa-Lahat**, ang karangalang para sa kaniya.
+Kaya si Jehova lang ang **Diyos na Makapangyarihan-sa-Lahat**. At si Jesus, siya ang mapagpakumbabang Anak. Tularan po natin siya. Ibigay natin kay Jehova ang karangalan.
 
 ---
 
