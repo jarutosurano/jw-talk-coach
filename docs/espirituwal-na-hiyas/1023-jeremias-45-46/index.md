@@ -140,7 +140,7 @@ Ganiyan po ang Ehipto. Bago ang labanan, ang ingay nito: "Babangon ako at aapawa
 ### Mga handang sagot (kung ako ang sasagot)
 
 !!! success "Sagot kapag binasa nang malakas — Jeremias 46:28"
-    Sa Jeremias 46:28, sabi ni Jehova: "Didisiplinahin kita sa tamang antas." Ang natutuhan ko, hindi sobra si Jehova magdisiplina, pero hindi rin Niya ito pinapalampas. Kaya kapag napapayuhan ako, halimbawa kapag lumampas ako sa oras ng bahagi ko, iniisip ko na opportunity iyon para mag-improve. Tinatanggap ko ito at hindi ako nagdadamdam. Pagsisikapan ko pang ihanda nang mabuti ang bahagi ko para matapos ko ito sa saktong oras.
+    Sa Jeremias 46:28, sabi ni Jehova: "Didisiplinahin kita sa tamang antas." Ang natutuhan ko, hindi sobra si Jehova magdisiplina, pero hindi rin Niya ito pinapalampas. Kaya kapag napapayuhan ako, halimbawa kapag lumampas ako sa oras ng bahagi ko, iisipin ko na opportunity iyon para mag-improve. Tatanggapin ko ito at hindi ako magdadamdam. Pagsisikapan ko pang ihanda nang mabuti ang bahagi ko para matapos ko ito sa saktong oras.
 
 !!! success "Sagot kapag binasa nang malakas — Jeremias 46:17"
     Sa Jeremias 46:17, tinawag ang Paraon na "walang-kabuluhang ingay" na "nagpalampas ng pagkakataon." Tinamaan ako rito. Minsan, puro ako sabi: "Mag-aaral ako nang mas mabuti," o "Babalikan ko yung nakausap ko sa ministeryo." Pero hindi ko naman nagagawa. Ayokong maging puro ingay lang. Habang may pagkakataon pa, gagawin ko na ngayon.
