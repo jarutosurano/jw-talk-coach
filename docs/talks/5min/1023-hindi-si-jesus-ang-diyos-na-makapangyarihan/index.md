@@ -46,7 +46,7 @@ Isinulat ito ni apostol Pablo mahigit 20 taon matapos bumalik si Jesus sa langit
 !!! quote "1 Corinto 11:3"
     "Pero gusto kong malaman ninyo na ang ulo ng bawat lalaki ay ang Kristo; ang ulo ng babae ay ang lalaki; at **ang ulo ng Kristo ay ang Diyos**."
 
-Sa isang mag-asawa, ano po ang ginagawa ng ulo? Siya ang nangunguna. Ganiyan din dito: "**ang ulo ng Kristo ay ang Diyos.**" Tandaan po, isinulat ito noong nasa langit na si Jesus at may malaking kapangyarihan na. Pero may ulo pa rin siya, ang Diyos na si Jehova.
+Ano po ang ibig sabihin ng ulo? Ang ulo ang may awtoridad at nangunguna. Kaya sinasabi dito: "**ang ulo ng Kristo ay ang Diyos.**" Tandaan po, isinulat ito noong nasa langit na si Jesus at may malaking kapangyarihan na. Pero may ulo pa rin siya, ang Diyos na si Jehova.
 
 Kaya isipin po natin: May ulo pa ba ang Diyos na Makapangyarihan-sa-Lahat? {pause} Wala po. Wala nang mas mataas sa kaniya. Kaya malinaw: si Jehova lang ang Diyos na Makapangyarihan-sa-Lahat.
 
