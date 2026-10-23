@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.45.1] - 2026-10-23
+
+### CBS Oct 19–25: Q7 spoken answer (Larawan C)
+
+**Changed:**
+- `docs/cbs/1023-wcg-kabanata-13/index.md` — Q7 "Sagot kapag binasa nang malakas" rewritten to ~1 minute (142 words): tighter Josue 6:10 opening (march in silence → walls fall at the shout on day 7), "go-bag" instead of "emergency supply", and a likely objection ("Naghanda na ako ng go-bag noong pandemic, pero hindi ko pa naman nagamit") answered with Israel obeying day after day for six days.
+
+**Verification:**
+- Red-team review: Jos 6:10 checked against the NWT PDF (p. 375), matches word for word. Applied its fixes for the ambiguous "niya", the shout before the walls fell, the gap between the rebuttal and the "i-check" step, and a trim of the last line.
+
+---
+
 ## [4.45.0] - 2026-10-23
 
 ### Week Oct 19–25 (Jeremias 45–46): 10-min talk, Hiyas, CBS
