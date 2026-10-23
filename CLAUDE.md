@@ -694,6 +694,15 @@ Salamat po.
 
 ---
 
+### Mga handang sagot (kung ako ang sasagot)
+
+!!! success "Sagot kapag binasa nang malakas — [Book X:X]"
+    Sa [Book X:X], [key phrase only, exact NWT]. [Plain point.] Parang [short analogy]. Kaya [ako/ko application].
+
+(At least 2 blocks, each under 1 minute)
+
+---
+
 ## Maraming salamat po.
 
 Para sa huling komento po.. si sister..
@@ -712,6 +721,7 @@ Balik po tayo sa chairman.
 - Buod ng reference: bullet-point summary of the reference material (placed before Tanong 2)
 - Tanong 2 heading: always the exact same question text
 - Tanong 2 body: provide top 10 gems from the Bible reading — each with scripture text + personal answer (short, uses "ako/ko", within 30 seconds, practical application)
+- Tanong 2 handang sagot (from Oct 23, 2026): below the 10 gems, at least 2 spoken answers as if Jayr is the audience member answering — CBS style `!!! success` block. Open with the reference + key phrase only (exact NWT, not the whole verse), plain point, short analogy, "ako/ko" application. Under 1 minute (~70-100 words). Avoid verses the same week's talk uses.
 - Closing: always ends with the standard closing script (salamat, huling komento, paumanhin, balik sa chairman)
 - References from `outline.md` are NEVER published — only the highlights/summaries appear in the script
 - No timing markers in the script (conductor uses phone timer)

@@ -137,6 +137,19 @@ Ganiyan po ang Ehipto. Bago ang labanan, ang ingay nito: "Babangon ako at aapawa
 
 ---
 
+### Mga handang sagot (kung ako ang sasagot)
+
+!!! success "Sagot kapag binasa nang malakas — Jeremias 46:28"
+    Sa Jeremias 46:28, sinabi ni Jehova sa bayan Niya: "Didisiplinahin kita sa tamang antas." Hindi sobra ang disiplina ni Jehova, at hindi rin kulang. Parang mabuting doktor na nagbibigay ng tamang dosis — sapat para gumaling ang pasyente, pero hindi sobra para makasama. Kaya kapag napapayuhan ako o naitutuwid, ayokong magtampo. Iniisip ko na tamang dosis iyon mula kay Jehova, kasi mahal Niya ako at gusto Niyang gumaling ako sa espirituwal.
+
+!!! success "Sagot kapag binasa nang malakas — Jeremias 46:17"
+    Sa Jeremias 46:17, tinawag ang Paraon na "walang-kabuluhang ingay." Puro ingay pero walang laman, kaya "nagpalampas" siya "ng pagkakataon." Parang estudyanteng laging nagsasabing "Kayang-kaya ko 'yan," pero hindi nag-aral, kaya dumating ang exam na hindi siya handa. Napaisip ako: ayokong maging puro salita lang. Madaling sabihing "Mag-aaral ako nang mas mabuti" o "Babalikan ko yung nakausap ko sa ministeryo sa susunod." Pero habang may pagkakataon pa, gusto kong gawin na ito ngayon.
+
+!!! success "Sagot kapag binasa nang malakas — Jeremias 46:27"
+    Sa Jeremias 46:27, pagkatapos ng mabibigat na hatol sa Ehipto, sinabi ni Jehova sa bayan Niya: "Huwag kang matakot." Biglang lumambot ang tono. Hindi Niya nakalimutan ang bayan Niya kahit nasa lupain sila kung saan sila binihag. Sabi Niya: "ililigtas kita mula sa malayo." Parang magulang na susunduin ang anak niya kahit gaano kalayo ito, at sasabihing "Huwag kang matakot." Kaya kapag nakakatakot ang balita sa mundo, ang hinahanap ko ay ang mga pangako ni Jehova. Doon ako kumukuha ng lakas ng loob, kasi nangako Siya na magiging "panatag at payapa" ang bayan Niya.
+
+---
+
 ## Maraming salamat po.
 
 Para sa huling komento po.. si sister..

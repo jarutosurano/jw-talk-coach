@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.46.0] - 2026-10-23
+
+### Hiyas: ready-to-say answers for Tanong 2
+
+**Added:**
+- `docs/espirituwal-na-hiyas/1023-jeremias-45-46/index.md` — "Mga handang sagot (kung ako ang sasagot)" below the 10 gems: three spoken comments (Jer 46:28, 46:17, 46:27), each one under a minute (~70-95 words). Each opens with the reference and key phrase, then gives the point, a short analogy and an "ako/ko" application.
+
+**Changed:**
+- `CLAUDE.md` — Hiyas template and key rules: from now on every Hiyas script has at least 2 handang sagot in Tanong 2.
+
+**Verification:**
+- Red-team review: every quoted phrase was checked against the NWT PDF (p. 1258-1259) and matches. Applied its fixes: 46:17 no longer claims more than the verse says, the unclear "siya" is gone, the 46:27 analogy now matches "ililigtas kita mula sa malayo", and the 46:28 doctor line is tighter.
+
+---
+
 ## [4.45.1] - 2026-10-23
 
 ### CBS Oct 19–25: Q7 spoken answer (Larawan C)
