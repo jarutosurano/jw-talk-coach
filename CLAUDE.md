@@ -149,6 +149,8 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | wcg11 | wcg Kabanata 11 (Moises) — Alamin + Tingnan Din references + chapter text | CBS Oct 5-11 |
 | w25.07 | Araling Artikulo 28 "Bakit Kailangan Nating Humingi ng Payo?" | 10-min talk Oct 16 — "Humingi Sila ng Payo, Pero Hindi Sila Sumunod" (¶14 + context) |
 | wcg12 | wcg Kabanata 12 (Caleb) — Alamin + Tingnan Din references | CBS Oct 12-18 |
+| w25.07 | "Natutuhan Mo Na Ba ang 'Sekreto Kung Paano Maging Kontento'?" (p. 20-25) | 10-min talk Oct 23 — "Tinutulungan Tayo ng Pag-asa Natin Para Maging Kontento" (¶2, 8-9, 13-14) |
+| wcg13 | wcg Kabanata 13 (Josue) — Alamin + Tingnan Din references | CBS Oct 19-25 |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 

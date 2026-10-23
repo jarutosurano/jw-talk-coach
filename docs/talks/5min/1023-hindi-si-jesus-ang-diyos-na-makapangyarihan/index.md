@@ -29,7 +29,7 @@ Gabi po ito bago siya mamatay. Nagpapaalam na siya sa mga alagad niya. Buksan po
 
 Narinig n'yo po? Hindi ibang tao ang nagsabi nito tungkol kay Jesus. Si Jesus mismo: "**Ang Ama ay mas dakila kaysa sa akin.**"
 
-Tanungin po natin ang sarili: Kung si Jesus ang Diyos na Makapangyarihan-sa-Lahat, puwede bang may mas dakila pa sa kaniya? ... Hindi po. Walang mas dakila sa Kaniya. Kaya kung may mas dakila kay Jesus, hindi si Jesus ang Makapangyarihan-sa-Lahat.
+Tanungin po natin ang sarili: Kung si Jesus ang Diyos na Makapangyarihan-sa-Lahat, puwede bang may mas dakila pa sa kaniya? {pause} Hindi po. Walang mas dakila sa kaniya. Kaya kung may mas dakila kay Jesus, hindi si Jesus ang Makapangyarihan-sa-Lahat.
 
 Pero baka sabihin ng iba: "Tao pa kasi si Jesus noon." Paano naman pagbalik niya sa langit? Tingnan natin ang ikalawang teksto.
 

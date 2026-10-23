@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.45.0] - 2026-10-23
+
+### Week Oct 19–25 (Jeremias 45–46): 10-min talk, Hiyas, CBS
+
+**Added:**
+- `docs/talks/10min/1023-tinutulungan-tayo-ng-pag-asa-natin/` — 10-min talk "Tinutulungan Tayo ng Pag-asa Natin Para Maging Kontento" (Jer 45:3, 5; w25.07 ¶2, 8-9, 13-14), with the workbook picture. Formula **Malinaw na Pag-asa = Kontentong Puso**; ~1,150 spoken words. Outline and summary in `talks/10min/1023-tinutulungan-tayo-ng-pag-asa-natin/`.
+- `docs/espirituwal-na-hiyas/1023-jeremias-45-46/` — Hiyas: Tanong 1 Jer 46:22 (it "Tinig" ¶16) + 10 gems from Jer 45-46 that avoid the talk's verses.
+- `docs/cbs/1023-wcg-kabanata-13/` — CBS wcg kab. 13 "Sumunod Siya sa Ipinagawa ng Diyos sa Kaniya" (Josue), all 11 questions. Formula **Alala + Tiwala + Sunod = Tagumpay**.
+- Nav entries for all three.
+
+**Changed:**
+- `docs/talks/5min/1023-hindi-si-jesus-ang-diyos-na-makapangyarihan/index.md` — final check before delivery: consistent `{pause}` marker and lowercase "kaniya". No content change.
+- `CLAUDE.md` — two rows in "Article Texts": w25.07 (contentment article) and wcg13 references.
+
+**Verification:**
+- One red-team reviewer per deliverable, run in parallel. Each one cropped the NWT PDF itself, and every quoted verse matched.
+- Applied the findings: in the talk, lines that said more than w25.07 does; in the CBS, the attribution of "Lakasan mo ang loob mo" in Jos 1 and a picture description that claimed more than is visible; in the Hiyas, illustrations that didn't fit their verses.
+
+---
+
 ## [4.44.0] - 2026-10-20
 
 ### Pahayag Oct 23: "Hindi si Jesus ang Diyos na Makapangyarihan-sa-Lahat" (lmd apendise A #20, th aralin 7)
