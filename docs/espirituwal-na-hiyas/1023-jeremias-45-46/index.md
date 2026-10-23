@@ -140,13 +140,13 @@ Ganiyan po ang Ehipto. Bago ang labanan, ang ingay nito: "Babangon ako at aapawa
 ### Mga handang sagot (kung ako ang sasagot)
 
 !!! success "Sagot kapag binasa nang malakas — Jeremias 46:28"
-    Sa Jeremias 46:28, sinabi ni Jehova sa bayan Niya: "Didisiplinahin kita sa tamang antas." Hindi sobra ang disiplina ni Jehova, at hindi rin kulang. Parang mabuting doktor na nagbibigay ng tamang dosis — sapat para gumaling ang pasyente, pero hindi sobra para makasama. Kaya kapag napapayuhan ako o naitutuwid, ayokong magtampo. Iniisip ko na tamang dosis iyon mula kay Jehova, kasi mahal Niya ako at gusto Niyang gumaling ako sa espirituwal.
+    Sa Jeremias 46:28, sabi ni Jehova: "Didisiplinahin kita sa tamang antas." Ang natutuhan ko, hindi sobra si Jehova magdisiplina, pero hindi rin Niya ito pinapalampas. Kaya kapag napapayuhan ako, hindi ko na iniisip na pinag-iinitan ako. Tinatanggap ko na lang, kasi alam kong para sa ikabubuti ko iyon.
 
 !!! success "Sagot kapag binasa nang malakas — Jeremias 46:17"
-    Sa Jeremias 46:17, tinawag ang Paraon na "walang-kabuluhang ingay." Puro ingay pero walang laman, kaya "nagpalampas" siya "ng pagkakataon." Parang estudyanteng laging nagsasabing "Kayang-kaya ko 'yan," pero hindi nag-aral, kaya dumating ang exam na hindi siya handa. Napaisip ako: ayokong maging puro salita lang. Madaling sabihing "Mag-aaral ako nang mas mabuti" o "Babalikan ko yung nakausap ko sa ministeryo sa susunod." Pero habang may pagkakataon pa, gusto kong gawin na ito ngayon.
+    Sa Jeremias 46:17, tinawag ang Paraon na "walang-kabuluhang ingay" na "nagpalampas ng pagkakataon." Tinamaan ako rito. Minsan, puro ako sabi: "Mag-aaral ako nang mas mabuti," o "Babalikan ko yung nakausap ko sa ministeryo." Pero hindi ko naman nagagawa. Ayokong maging puro ingay lang. Habang may pagkakataon pa, gagawin ko na ngayon.
 
 !!! success "Sagot kapag binasa nang malakas — Jeremias 46:27"
-    Sa Jeremias 46:27, pagkatapos ng mabibigat na hatol sa Ehipto, sinabi ni Jehova sa bayan Niya: "Huwag kang matakot." Biglang lumambot ang tono. Hindi Niya nakalimutan ang bayan Niya kahit nasa lupain sila kung saan sila binihag. Sabi Niya: "ililigtas kita mula sa malayo." Parang magulang na susunduin ang anak niya kahit gaano kalayo ito, at sasabihing "Huwag kang matakot." Kaya kapag nakakatakot ang balita sa mundo, ang hinahanap ko ay ang mga pangako ni Jehova. Doon ako kumukuha ng lakas ng loob, kasi nangako Siya na magiging "panatag at payapa" ang bayan Niya.
+    Sa Jeremias 46:27, pagkatapos ng sunud-sunod na hatol sa Ehipto, sinabi ni Jehova sa bayan Niya: "Huwag kang matakot." Bihag sila sa malayong lupain, pero sabi Niya: "ililigtas kita mula sa malayo." Ang dating sa akin, walang sitwasyon na masyadong malayo para kay Jehova. Kaya kapag nakakatakot ang balita, hindi ako nagpapadala. Kumakapit ako sa pangako Niya.
 
 ---
 

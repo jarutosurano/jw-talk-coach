@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.46.1] - 2026-10-23
+
+### Hiyas: plainer Tanong 2 answers
+
+**Changed:**
+- `docs/espirituwal-na-hiyas/1023-jeremias-45-46/index.md` — the three handang sagot (Jer 46:28, 46:17, 46:27) rewritten as real talk, straight to the point: forced analogies dropped, now ~50-57 words each. The quoted NWT phrases are the same ones verified in 4.46.0.
+- `CLAUDE.md` — the Hiyas handang sagot rule and template now ask for this plain style (analogy only if it comes naturally). The rule applies to Hiyas only; CBS answers keep their own style.
+
+---
+
 ## [4.46.0] - 2026-10-23
 
 ### Hiyas: ready-to-say answers for Tanong 2
