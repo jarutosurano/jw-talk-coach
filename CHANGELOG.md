@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.47.1] - 2026-10-30
+
+### Pahayag Nov 13: two texts only (fits 4:00)
+
+**Changed:**
+- `docs/talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md`: rewritten around Daniel 2:44 and Mateo 6:9, 10 only (Jayr's decision). The memory words are now **LANGIT** and **LUPA**, taken from the texts. Point 1's evidence comes from Dan 2:44 itself: the same word "kaharian" is used for God's kingdom and for the human governments it crushes. The intro now reflects the jw.org footnote accurately ("sa maraming simbahan, itinuturo na nasa puso ito ng tao"). Length is ~487 spoken words, the same as the Oct 23 pahayag (≈4:00).
+- `talks/5min/1113-…/outline.md`: notes, counsel-point table and cut list updated for the 2-text version.
+
+**Verification:**
+- 2 red-team reviewers (accuracy + delivery/heart): both NWT texts re-cropped and they match; fixes applied for the "maraming relihiyon … lang" overstatement and the open-ended heart line.
+
+---
+
 ## [4.47.0] - 2026-10-30
 
 ### Week Oct 26–Nov 1 (Jeremias 47–48) + Watchtower + Pahayag Nov 13

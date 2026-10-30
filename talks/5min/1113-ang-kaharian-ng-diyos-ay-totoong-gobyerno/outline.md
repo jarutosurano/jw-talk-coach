@@ -18,10 +18,11 @@ lmd apendise A: #21—Tema: Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa L
 
 **21. Ang Kaharian ng Diyos ay isang totoong gobyerno sa langit.**—Daniel 2:44; 7:13, 14; Mateo 6:9, 10; Apocalipsis 11:15.
 
-<!-- Main points (3, each built only on the outline texts):
-1. Totoong Hari — Dan 7:13, 14 (may Hari, may awtoridad, may nasasakupan; "sa langit")
-2. Totoong Kapangyarihan — Dan 2:44; Apoc 11:15 (papalitan nito ang lahat ng gobyerno ng tao)
-3. Totoong Pagbabago — Mat 6:9, 10 (gagawin ang kalooban ng Diyos "gayon din sa lupa") ← heart point
+<!-- Main points (Oct 30 v2 — 2 teksto lang, para magkasya sa 4 na minuto; desisyon ni Jayr).
+Memory words, galing mismo sa teksto: LANGIT at LUPA.
+1. LANGIT — Dan 2:44 ("ang Diyos ng langit ay magtatatag ng isang kaharian"; iisang salitang "kaharian" para sa gobyerno ng Diyos at ng tao → gobyerno ang papalit sa gobyerno)
+2. LUPA — Mat 6:9, 10 ("Dumating nawa ang Kaharian mo" + "gayon din sa lupa") ← heart point
+Ang Dan 7:13, 14 at Apoc 11:15 ay hindi binabasa. Ayon sa apendise A mismo: "gumamit ng teksto na magpapaliwanag sa katotohanang iyon" (hindi kailangang lahat). Ang "si Jesus ang Hari nito, at mamamahala siya mula sa langit" ay galing sa lff aralin 31 ¶1.
 -->
 
 ---
@@ -31,7 +32,7 @@ lmd apendise A: #21—Tema: Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa L
 <!-- Ang lmd apendise A ay one-line na tema + mga teksto lang (walang talata).
      Mga publikasyong ginamit para sa accuracy (hindi babasahin sa pahayag). Buong text: reference/articles/kaharian-lff31-wp20-bhs08.md (git-ignored). -->
 
-- **lff aralin 31 "Ano ang Kaharian ng Diyos?"** — ¶1: "Ang Kaharian ay isang gobyerno na itinatag ng Diyos na Jehova. Si Jesu-Kristo ang Hari nito, at mamamahala siya mula sa langit." SUMARYO: "Ang Kaharian ng Diyos ay isang totoong gobyerno sa langit na mamamahala sa buong lupa." ¶4 ginagamit ang Daniel 7:14 ("Sa gobyerno ng tao, madalas palitan ang mga namumuno, at hindi buong lupa ang pinamamahalaan nila"). TINGNAN DIN: "Ang Kaharian Ba ng Diyos ay Basta Nasa Puso Mo Lang?" (jw.org) → batayan ng "para sa ilan, pakiramdam lang ito sa puso."
+- **lff aralin 31 "Ano ang Kaharian ng Diyos?"** — ¶1: "Ang Kaharian ay isang gobyerno na itinatag ng Diyos na Jehova. Si Jesu-Kristo ang Hari nito, at mamamahala siya mula sa langit." SUMARYO: "Ang Kaharian ng Diyos ay isang totoong gobyerno sa langit na mamamahala sa buong lupa." ¶4 ginagamit ang Daniel 7:14 ("Sa gobyerno ng tao, madalas palitan ang mga namumuno, at hindi buong lupa ang pinamamahalaan nila"). TINGNAN DIN: "Ang Kaharian Ba ng Diyos ay Basta Nasa Puso Mo Lang?" (jw.org) → batayan ng "sa maraming simbahan, itinuturo na nasa puso ito ng tao."
 - **wp20 Blg. 1 p. 12-13 "Ang Katotohanan Tungkol sa Kaharian ng Diyos"** — "Lokasyon. Ang Kaharian ng Diyos ay isang totoong gobyerno na itinatag sa langit.—Daniel 2:44; Mateo 4:17." "Layunin. Gagawing paraiso ng Kaharian ng Diyos ang lupa. Dito titira nang payapa at nagkakaisa ang lahat ng tao. Hindi na sila magkakasakit at mamamatay.—Awit 37:11, 29." Nagsisimula ang artikulo sa Mateo 6:9, 10.
 - **bhs kab. 8 "Ano ang Kaharian ng Diyos?"** — ¶1: "MILYON-MILYON ang nakakaalam ng panalanging Ama Namin." ¶5: "Ang gobyerno ng Diyos ay mamamahala sa lupa mula sa langit. (Apocalipsis 11:15)" ¶15: "Gusto pa rin niyang tumira ang perpektong mga tao sa paraisong lupa magpakailanman." ¶17: Daniel 2:44 — (1) may mga gobyerno pa sa lupa kapag nagsimulang mamahala ang Kaharian, (2) hindi ito mapapalitan, (3) papalitan nito ang mga gobyerno ng tao. ¶21: "darating ang panahon, wala nang magkakasakit o mamamatay."
 - **Background (it "Sinauna sa mga Araw" / Daniel 7):** ang "Sinauna sa mga Araw" ay si Jehova; ang "isang gaya ng anak ng tao" ay si Jesus (madalas tawagin ni Jesus ang sarili niya na "Anak ng tao").
@@ -74,10 +75,10 @@ None.
 
 | Bahagi ng aralin 7 | Saan sa script |
 |---|---|
-| Ibatay sa Salita ng Diyos; basahin mismo ang Bibliya | Lahat ng 4 na teksto ng outline ay binabasa nang buo (NWT) |
-| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Sinauna sa mga Araw" = ang Diyos na Jehova; "isang gaya ng anak ng tao" = Jesus, na siya mismong nag-apply ng Dan 7:13 sa sarili niya noong nililitis siya (Mat 26:64 — binanggit lang, hindi binabasa) |
-| Huwag sosobrahan ("ilan" ≠ "karamihan"); iulat nang tama ang ibang paniniwala | "may **ilan** na naniniwalang nasa puso lang ito ng tao" (ang paniniwalang tinatalakay ng jw.org "Ang Kaharian Ba ng Diyos ay Basta Nasa Puso Mo Lang?") |
-| Mangatuwiran batay sa ebidensiya, gamit ang tanong | "Ano po iyan kundi isang gobyerno?" · "Kaya po bang durugin at wakasan ng isang bagay na nasa puso lang ang lahat ng gobyerno sa mundo?" |
+| Ibatay sa Salita ng Diyos; basahin mismo ang Bibliya | Dan 2:44 at Mat 6:9, 10 ay binabasa nang buo (NWT) |
+| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Si Jesus ang Hari nito, at mamamahala siya mula sa langit" — lff aralin 31 ¶1. Ang "magkasunod na hiling" ng Mat 6:10 → ang Kaharian ang gagamitin para mangyari ang kalooban ng Diyos (bhs kab. 8 ¶21) |
+| Huwag sosobrahan; iulat nang tama ang ibang paniniwala | "sa maraming simbahan, itinuturo na nasa puso ito ng tao" — jw.org "Ang Kaharian ba ng Diyos ay Basta Nasa Puso Mo Lang?" talababa: "Itinuturo ng maraming relihiyong Kristiyano na ang Kaharian ng Diyos ay nasa loob ng isang tao, o nasa kaniyang puso." (buong text: `reference/articles/jw-kaharian-basta-nasa-puso-lang.md`) |
+| Mangatuwiran batay sa ebidensiya, gamit ang tanong | Ebidensiya sa mismong teksto: iisang salitang "kaharian" sa Dan 2:44 · "Kaya po bang durugin at wakasan ng isang bagay na nasa puso lang ang lahat ng gobyerno sa mundo?" |
 
 ---
 
@@ -85,10 +86,10 @@ None.
 
 <!-- Struggles, goals, audience type, timing reminders. -->
 
-- **Goal ni Jayr:** malakas na intro (simple analogy + tanong) → tatlong punto; 4 minuto lang; maabot ang puso.
+- **Goal ni Jayr:** malakas na intro (simple analogy + tanong) → dalawang punto (LANGIT, LUPA); 4 minuto lang; maabot ang puso.
 - **Intro analogy:** visa application — hindi mo nakikita ang officer, pero totoo siya at kayang baguhin ang buhay mo. Pangkalahatan lang; walang personal na detalye.
-- **Heart point:** Punto 3 (Mateo 6:9, 10) — "Isipin po natin ang pinakamabigat na dinadala natin ngayon..." Dahan-dahan dito, may pause bago ang "Iyan mismo ang aayusin ng gobyernong ito."
-- **Timing (3 red team, Oct 30):** ~600 spoken words, kasama ang ~195 salita ng 4 na pagbasa ng Bibliya. Tantiya: **~4:20-4:30** sa pace mo. Hindi kayang 4:00 flat nang hindi nagbabawas ng teksto ng outline; may ~30-40 segundo pa ring buffer sa 5-minutong slot.
-- **Kung lumampas sa 4:30 sa practice**, tanggalin (sa ganitong ayos): (1) "Pangitain ito ni Daniel." (2) "Kadalasan," sa intro. (3) "Kaya tandaan po natin:" → simulan na lang sa recap. Huwag tanggalin ang follow-up pagkatapos ng Apoc 11:15 o ang heart section, at huwag madaliin ang heart section.
-- **Delivery:** isang beat na pause bago ang bawat green na opener; pause bago ang "Iyan mismo ang aayusin ni Jehova..."
+- **Heart point:** Punto 2, LUPA (Mateo 6:9, 10) — "Isipin po natin ang pinakamabigat na dinadala natin ngayon..." Dahan-dahan dito, may pause bago ang "Mga ganiyang problema ang aayusin ni Jehova..."
+- **Timing (v2, 2 teksto):** ~495 spoken words, kasama ang ~78 salita ng 2 pagbasa — halos kapareho ng Oct 23 pahayag (487 words ≈ 4:00). May ~1 minutong buffer sa 5-minutong slot.
+- **Kung lumampas sa 4:00 sa practice**, tanggalin (sa ganitong ayos): (1) "Kadalasan," sa intro. (2) "Dalawang teksto po ang magpapatunay niyan." (3) "Kaya tandaan po natin ang dalawang salita." → simulan na lang sa recap. Huwag tanggalin o madaliin ang heart section.
+- **Delivery:** isang beat na pause bago ang bawat green na opener; pause bago ang "Mga ganiyang problema ang aayusin ni Jehova..." at bago ang "Hindi po." sa Punto 1
 - **Outline scriptures only:** Dan 2:44; 7:13, 14; Mat 6:9, 10; Apoc 11:15. Walang ibang babasahin.
