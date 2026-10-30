@@ -4,6 +4,26 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.47.0] - 2026-10-30
+
+### Week Oct 26–Nov 1 (Jeremias 47–48) + Watchtower + Pahayag Nov 13
+
+**Added:**
+- `docs/talks/10min/1030-matuwid-at-maawaing-hukom-si-jehova/`: 10-min talk "Matuwid at Maawaing Hukom si Jehova" (Jer 48:27, 29, 42, 31, 36, 47; it "Moab" ¶22, ¶24; w24.05 ¶10), with the workbook picture. It uses the device **3H: Hatol, Hagulgol, Habag** and runs ~1,155 spoken words. The outline and summary are in `talks/10min/`.
+- `docs/espirituwal-na-hiyas/1030-jeremias-47-48/`: Hiyas with Tanong 1 on Jer 48:6 (it "Enebro" Blg. 2), 10 gems that avoid the talk's verses, and 3 handang sagot (Jer 48:10, 11, 14).
+- `docs/cbs/1030-wcg-kabanata-14/`: CBS on wcg kab. 14 "Si Jehova ang Pinili Niya" (Rahab), with formula **Narinig + Pinili + Sinunod = Naligtas**.
+- `docs/watchtower/pahalagahan-ang-sagradong-paglilingkod/`: Watchtower answers for w26.08 pp. 20-25 (Lucas 1:67-79), with formula **Tanggapin ang Regalo + Pahalagahan ang Pribilehiyo = Masayang Gampanan ang Pananagutan**.
+- `docs/talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/`: Pahayag for Nov 13 (lmd apendise A #21, th aralin 7). It opens with a visa-officer hook and a question, then covers totoong Hari / kapangyarihan / pagbabago. It runs ~600 spoken words, about 4:20-4:30.
+- `reference/books/w_TG_202608.pdf` (git-ignored), downloaded from jw.org, plus new reference texts in `reference/articles/` (git-ignored).
+
+**Changed:**
+- `CLAUDE.md`: added the w_TG_202608 row, the new article rows and NWT page rows. This includes the two rows left uncommitted on Oct 23.
+
+**Verification:**
+- The midweek parts and the Watchtower each went through two red-team rounds. The pahayag had three reviewers (accuracy, delivery/timing, heart). Every quoted verse was checked against NWT column crops.
+
+---
+
 ## [4.46.1] - 2026-10-23
 
 ### Hiyas: plainer Tanong 2 answers

@@ -54,6 +54,7 @@ Full copyrighted JW publication PDFs are stored here for research/citation. This
 | jr | Mensahe ng Diyos sa Pamamagitan ni Jeremias | `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf` |
 | w | Ang Bantayan (Pag-aaral) Hunyo 2026 | `w_TG_202606.pdf` |
 | w | Ang Bantayan (Pag-aaral) Hulyo 2026 — study articles Setyembre 7–Oktubre 4, 2026 | `w_TG_202607.pdf` |
+| w | Ang Bantayan (Pag-aaral) Agosto 2026 — study articles Oktubre 5–Nobyembre 1, 2026 (downloaded Oct 30 via jw.org pub-media API) | `w_TG_202608.pdf` |
 | w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
 | wcg | Lakas-Loob na Lumakad Kasama ng Diyos (Walk Courageously With God) — **current CBS book**, 54 kabanata | `wcg-lakas-loob-na-lumakad-kasama-ng-diyos.pdf` |
 | nwt | Bagong Sanlibutang Salin ng Banal na Kasulatan (makabagong-wika) — source for exact NWT Tagalog Bible text | `nwt-bagong-sanlibutang-salin.pdf` |
@@ -120,6 +121,14 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | Bilang 13:23–14:31 | 269-271 |
 | Exodo 23:2 | 159 |
 | Josue 14:7-15 | 389 |
+| Josue 6:10 | 375 |
+| Jeremias 46:14-28 | 1258-1259 |
+| Jeremias 46:27–49:7 (Jer 47-48) / 16:16–17:18 | 1259-1263 / 1209-1210 |
+| Josue 1:17–3:9 / 4:10–5:4 / 6:6–7:6 | 370-371 / 373 / 375-376 |
+| Daniel 2:41–3:3 / 6:28–7:20 | 1375 / 1384-1385 |
+| Mateo 6:8-25 / Lucas 1:54-79 (1:79 sa 1573) | 1492 / 1572 |
+| Isaias 60:21–61:9 / Apocalipsis 10:11–11:15 | 1165 / 1893 |
+| Santiago 2:21–3:12 / Kawikaan 11:5-20 / Eclesiastes 3:4-22 / Efeso 4:24–5:12 | 1855 / 1011 / 1049 / 1794 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
 (`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
@@ -151,6 +160,10 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | wcg12 | wcg Kabanata 12 (Caleb) — Alamin + Tingnan Din references | CBS Oct 12-18 |
 | w25.07 | "Natutuhan Mo Na Ba ang 'Sekreto Kung Paano Maging Kontento'?" (p. 20-25) | 10-min talk Oct 23 — "Tinutulungan Tayo ng Pag-asa Natin Para Maging Kontento" (¶2, 8-9, 13-14) |
 | wcg13 | wcg Kabanata 13 (Josue) — Alamin + Tingnan Din references | CBS Oct 19-25 |
+| it / w24.05 | it "Moab, Mga Moabita" (full) + "Patuloy Tayong Nangangaral Dahil sa Pag-ibig!" | 10-min talk Oct 30 "Matuwid at Maawaing Hukom si Jehova" |
+| wcg14 | wcg Kabanata 14 (Rahab) — Alamin + Tingnan Din references | CBS Oct 26–Nov 1 |
+| w26.08 | "Pahalagahan ang 'Pribilehiyong Gumawa ng Sagradong Paglilingkod'" (p. 20-25) | Watchtower Oct 26–Nov 1 |
+| lff/wp20/bhs | lff aralin 31, wp20 Blg. 1 p. 12-13, bhs kab. 8 — "Ano ang Kaharian ng Diyos?" | Pahayag Nov 13 (apendise A #21) |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
 
