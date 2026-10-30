@@ -30,3 +30,6 @@ secrets/
 
 # Full article texts (copyrighted, local-only, never published)
 reference/articles/
+
+# Local backups of instruction files (e.g. CLAUDE.md.bak-2026-10-30)
+*.bak-*

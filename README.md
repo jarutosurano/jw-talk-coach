@@ -20,7 +20,7 @@ mkdocs build                      # Build for production
 |------------------|---------------|
 | Gumawa ng bagong talk | `docs/talks/5min/`, `10min/`, or `30min/` |
 | Gumawa ng field ministry script | `docs/field-ministry/` |
-| Tingnan ang workflow | `CLAUDE.md` |
+| Tingnan ang workflow | `CLAUDE.md` + `runbooks/` |
 | Aralin reference | `reference/public-talk-aralin.md` |
 | Ministeryo aralin reference | `reference/ministeryo-aralin.md` |
 | Speaker guidelines | `reference/guidelines.md` |

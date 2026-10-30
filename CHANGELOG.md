@@ -4,6 +4,33 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.48.0] - 2026-10-30
+
+### CLAUDE.md slimmed to fit the instruction budget; procedures moved to `runbooks/`
+
+**Changed:**
+- `CLAUDE.md`: 1,101 lines / 44.6 KB → 146 lines / 11.3 KB, within the ≤200-line / ≤20 KB budget. It now holds every never/must rule (publishing rule, copyright, Bible-text accuracy and NWT crop commands, exact outline wording, transitions, Hiyas/CBS/Watchtower musts, pre-commit) plus a **"Which runbook to read first (MUST)"** routing table. A new "Keeping this file small" section stops it from growing again.
+- `.claude/skills/jw-pagbabasa-at-pagtuturo.md` → `.claude/skills/jw-pagbabasa-at-pagtuturo/SKILL.md`, and `.claude/skills/10minute.md` → `.claude/commands/10minute.md`. Neither file could load from its old flat path; both now load.
+- `README.md`: the workflow pointer now names `CLAUDE.md` + `runbooks/`.
+- `.gitignore`: ignores `*.bak-*` (local backup `CLAUDE.md.bak-2026-10-30`).
+
+**Added:**
+- `runbooks/` (outside `docs/`, not published): `talks.md`, `hiyas.md`, `cbs.md`, `watchtower.md`, `field-ministry.md`, `coaching.md`, `reference-library.md`, `publishing.md`, plus a `README.md` index. The text was moved verbatim from the old CLAUDE.md, and these stale facts were corrected:
+  - **CBS:** the current wcg format replaces the obsolete lfb template; naming is `MMDD-wcg-kabanata-NN`.
+  - **Workbook week ranges:** mwb 202609 = Sep 7–Nov 1, 202611 = Nov 2–Ene 3, and `_00` is week 1.
+  - **Field ministry:** full lesson text goes to the git-ignored `reference/articles/`, and Bible text comes from the NWT crop.
+  - **Talks:** the 10-min word target is now one number (~1,165 at Jayr's pace).
+  - **Navigation:** the missing Watchtower/Field Ministry tabs and the nav-label rules are added.
+  - **Reference library:** periodical naming and the pub-media download URL are added, plus the missing `w_TG_202601.pdf` row.
+
+**Verification:**
+- Two red-team reviews.
+  - A lossless-move audit found no text lost from the repo. It flagged 5 must-rules that had been over-trimmed, and all 5 are restored in CLAUDE.md.
+  - A fresh-session routing test of 8 typical requests found the CBS template, workbook-row, field-ministry, greeting-scope and skill-path issues; all are fixed.
+- `claude-budget.sh`: all within budget.
+
+---
+
 ## [4.47.1] - 2026-10-30
 
 ### Pahayag Nov 13: two texts only (fits 4:00)

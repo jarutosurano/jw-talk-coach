@@ -1,1101 +1,146 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
----
-
-## 🚀 New Session? Start Here!
-
-1. **Check `README.md`** for quick start guide
-2. **Check `docs/talks/` folder** for existing and new talks
-3. **Ask user:** "Anong talk po ang gagawin natin ngayon?"
-
----
-
-## Project Overview
-
-This is a JW Public Talk Coaching System—a Tagalog-language knowledge base for helping speakers prepare and deliver effective public talks (pahayag pangmadla). Built with MkDocs Material. Run `mkdocs serve` for local development, `mkdocs build` to build.
-
-## File Structure
-
-**IMPORTANT — Publishing Rule:**
-Only `index.md` scripts go in `docs/` (published to GitHub Pages). All other files (outlines, summaries, reference docs) stay in root-level folders and are NOT placed in `docs/`.
-
-**Published content (GitHub Pages):**
-- **docs/talks/10min/*/index.md** — 10-minute talk scripts
-- **docs/talks/30min/*/index.md** — 30-minute talk scripts
-- **docs/talks/5min/*/index.md** — 5-minute talk scripts
-- **docs/field-ministry/*/index.md** — Bible study demonstration scripts
-- **docs/cbs/*/index.md** — Congregational Bible Study conductor scripts
-- **docs/index.md** — Homepage
-
-**Non-published content (root-level, repo only):**
-- **talks/10min/*/outline.md, summary.md** — Talk outlines and summaries
-- **talks/30min/*/outline.md, summary.md** — Talk outlines and summaries
-- **field-ministry/*/outline.md** — Field ministry outlines
-- **reference/public-talk-aralin.md** — Training curriculum with 15 lessons
-- **reference/guidelines.md** — Official speaker guidelines (S-141-TG)
-- **reference/ministeryo-aralin.md** — Counsel points for field ministry
-- **reference/mahalin-ang-mga-tao.md** — Markdown extract/notes from the lmd book (Love People, Make Disciples)
-- **reference/jr-overview.md** — Overview of the jr book (chapters, people, timeline, Jer 37-39 passages) — check it first for any Jeremiah talk
-- **reference/books/** — Full copyrighted publication PDFs (see "Reference Books" below) — **git-ignored, local-only, NEVER published**
-- **.claude/skills/jw-pagbabasa-at-pagtuturo.md** — Claude AI skill definition
-
-### Reference Books (`reference/books/`)
-
-Full copyrighted JW publication PDFs are stored here for research/citation. This folder is **git-ignored** (`.gitignore`: `reference/books/`) so the PDFs stay local and are **never committed or published**. When the user downloads a publication PDF and asks to store it, copy it here.
-
-**Naming convention:** `[publication-symbol]-[title-slug].pdf` (e.g., `lmd-mahalin-ang-mga-tao-gumawa-ng-mga-alagad.pdf`, `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf`).
-
-**Currently stored:**
-| Symbol | Title | File |
-|--------|-------|------|
-| lmd | Mahalin ang mga Tao—Gumawa ng mga Alagad (Love People, Make Disciples) | `lmd-mahalin-ang-mga-tao-gumawa-ng-mga-alagad.pdf` |
-| jr | Mensahe ng Diyos sa Pamamagitan ni Jeremias | `jr-mensahe-ng-diyos-sa-pamamagitan-ni-jeremias.pdf` |
-| w | Ang Bantayan (Pag-aaral) Hunyo 2026 | `w_TG_202606.pdf` |
-| w | Ang Bantayan (Pag-aaral) Hulyo 2026 — study articles Setyembre 7–Oktubre 4, 2026 | `w_TG_202607.pdf` |
-| w | Ang Bantayan (Pag-aaral) Agosto 2026 — study articles Oktubre 5–Nobyembre 1, 2026 (downloaded Oct 30 via jw.org pub-media API) | `w_TG_202608.pdf` |
-| w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
-| wcg | Lakas-Loob na Lumakad Kasama ng Diyos (Walk Courageously With God) — **current CBS book**, 54 kabanata | `wcg-lakas-loob-na-lumakad-kasama-ng-diyos.pdf` |
-| nwt | Bagong Sanlibutang Salin ng Banal na Kasulatan (makabagong-wika) — source for exact NWT Tagalog Bible text | `nwt-bagong-sanlibutang-salin.pdf` |
-| mwb | Workbook Para sa Pulong — Setyembre-Oktubre 2026 (Sep 14–Nov 1; Jeremias 34-48) | `mwb_TG_202609.pdf` + `mwb-rtf/202609/*.rtf` |
-| mwb | Workbook Para sa Pulong — Nobyembre-Disyembre 2026 (Nov 9–Ene 3; Jeremias 51–Ezekiel 10) | `mwb_TG_202611.pdf` + `mwb-rtf/202611/*.rtf` |
-
-**Workbook (mwb) tip:** read text from the RTF conversions in `reference/books/mwb-rtf/txt/`
-(one file per week, e.g. `mwb_TG_202609_04.txt` = Okt 5-11). They include every quoted Bible
-text and reference paragraph verbatim. To regenerate:
-`textutil -convert txt -output txt/NAME.txt 202609/NAME.rtf`. Use the PDF only to pull
-pictures (`pdfimages -j -f PAGE -l PAGE`).
-
-### Reading Exact Bible Text (`nwt-bagong-sanlibutang-salin.pdf`)
-
-**The full NWT Tagalog Bible is stored locally, so exact Bible text can be READ directly —
-no need to ask the user for it, and never paraphrase from memory.**
-
-File: `reference/books/nwt-bagong-sanlibutang-salin.pdf` (git-ignored, local only).
-Edition: **makabagong-wika** — the same edition the wcg book and current publications quote.
-Verified: Gen. 22:2 matches the wcg book word-for-word.
-
-**IMPORTANT — this PDF needs column-cropped extraction.** The page layout is three columns
-(text | cross-references | text). A plain `pdftotext` or `pdftotext -layout` interleaves the
-verse text with cross-reference fragments and produces unusable output. Crop by column
-geometry instead:
-
-```bash
-# Left text column
-pdftotext -f PAGE -l PAGE -x 8   -y 0 -W 128 -H 520 reference/books/nwt-bagong-sanlibutang-salin.pdf -
-# Right text column
-pdftotext -f PAGE -l PAGE -x 164 -y 0 -W 145 -H 520 reference/books/nwt-bagong-sanlibutang-salin.pdf -
-```
-
-Read the left column first, then the right, then concatenate. Printed page number == PDF page
-number, so to find a passage: `pdftotext -layout` the whole file once, grep for a distinctive
-phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`).
-
-**Known page locations** (add to this as they are found):
-
-| Passage | Page(s) |
-|---------|---------|
-| Genesis 22:1-19 | 71-72 |
-| Exodo 1:1-16 | 125 |
-| Exodo 1:17–2:11 | 126 |
-| Exodo 15:16–16:3 | 148 |
-| Gawa 7:5-24 | 1677 |
-| Mikas 6:3-14 | 1441 |
-| Hebreo 11 (v. 8-25) | 1847 |
-| Jeremias 39:10–41:18 | 1249-1251 |
-| Jeremias 23:25–24:1 | 1221 |
-| Deuteronomio 8:1-18 | 325 |
-| Exodo 3:6–4:16 | 128-129 |
-| Exodo 7:10–8:2 (7:6, 7 sa p. 133) | 133-134 |
-| Hebreo 11:26–12:1 | 1848 |
-| Mateo 4:10 / 11:19 | 1488 / 1500-1501 |
-| Juan 10:29 / 15:13 | 1645 / 1654 |
-| Awit 118:2-22 | 966 |
-| Kawikaan 4 / 13:20 / 19:3 | 1001 / 1015 / 1023 |
-| Isaias 5:20 | 1080 |
-| 1 Tesalonica 5:5-28 | 1813 |
-| Santiago 4:8 | 1856 |
-| 1 Hari 15:10-26 | 576 |
-| Jeremias 42:1–44:30 | 1252-1256 |
-| Bilang 13:23–14:31 | 269-271 |
-| Exodo 23:2 | 159 |
-| Josue 14:7-15 | 389 |
-| Josue 6:10 | 375 |
-| Jeremias 46:14-28 | 1258-1259 |
-| Jeremias 46:27–49:7 (Jer 47-48) / 16:16–17:18 | 1259-1263 / 1209-1210 |
-| Josue 1:17–3:9 / 4:10–5:4 / 6:6–7:6 | 370-371 / 373 / 375-376 |
-| Daniel 2:41–3:3 / 6:28–7:20 | 1375 / 1384-1385 |
-| Mateo 6:8-25 / Lucas 1:54-79 (1:79 sa 1573) | 1492 / 1572 |
-| Isaias 60:21–61:9 / Apocalipsis 10:11–11:15 | 1165 / 1893 |
-| Santiago 2:21–3:12 / Kawikaan 11:5-20 / Eclesiastes 3:4-22 / Efeso 4:24–5:12 | 1855 / 1011 / 1049 / 1794 |
-
-**Always still strip footnote markers** — single lowercase letters trailing a word
-(`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
-leak into the crop. Keep every actual word exact.
-
-### Article Texts (`reference/articles/`)
-
-Full text of individual articles the speaker supplies (pasted from JW Library, typed up, or
-copied from a publication). This folder is **git-ignored** (`.gitignore`: `reference/articles/`)
-for the same reason as `reference/books/` — the repo is public, so full copyrighted article
-text stays local. Only short cited excerpts go into committed research/outline files.
-
-**Naming:** `[publication-symbol][year]-[title-slug].md` (e.g. `w91-kayoy-binili-sa-halaga.md`).
-
-**Currently stored:**
-| Symbol | Title | Why |
-|--------|-------|-----|
-| w91 | Isang Katumbas na Pantubos Para sa Lahat | Blg. 184 Sek. 3 — "bakit hindi anghel," katumbas na pantubos, ilustrasyon ng pabrika |
-| w91 | "Kayo'y Binili sa Halaga" | Blg. 184 Sek. 3 — **the verbatim "legal na karapatan sa buhay"**, and why the value had to be presented in heaven |
-| w90 | Ano ba ang Kabuluhan sa Iyo ng Kamatayan ni Jesus? | Blg. 184 Sek. 3 — the rights attached to the life Adam lost; why "binuhay bilang espiritu" matters |
-| wcg09 | wcg Kabanata 9 (Sipra, Pua, Amram, Jokebed, Miriam) — "Alamin" references (g04 4/8, it "Komadrona", w03 11/1, ijwia artikulo 7) | CBS Sep 21-27, 2026 — fetched from wol.jw.org Tagalog |
-| wcg05 | wcg Kabanata 5 (Abraham) — "Alamin" references (g 5/12, it "Abraham", ia 26, rr 20, g88 4/8) | CBS Aug 24-30, 2026 — the four Alamin research answers |
-| cl07 | cl kab. 7 "Pagbibigay ng Proteksiyon" (¶13-20) | 10-min talk Oct 9 — "Lagi Ba Tayong Pinoprotektahan ni Jehova sa Pisikal?" |
-| jr | jr kab. 15 "Hindi Magawang Manahimik ni Jeremias" (¶16) | 10-min talk Oct 9 |
-| w06 | "'Alagaan Mo ang Punong Ubas na Ito'!" (w06 6/15) | Hiyas Oct 9 Tanong 1 (Jer 40:12) |
-| w26.08 | "Labanan si Satanas—Magtiwala kay Jehova at kay Jesus" | Watchtower Oct 5–11 |
-| wcg11 | wcg Kabanata 11 (Moises) — Alamin + Tingnan Din references + chapter text | CBS Oct 5-11 |
-| w25.07 | Araling Artikulo 28 "Bakit Kailangan Nating Humingi ng Payo?" | 10-min talk Oct 16 — "Humingi Sila ng Payo, Pero Hindi Sila Sumunod" (¶14 + context) |
-| wcg12 | wcg Kabanata 12 (Caleb) — Alamin + Tingnan Din references | CBS Oct 12-18 |
-| w25.07 | "Natutuhan Mo Na Ba ang 'Sekreto Kung Paano Maging Kontento'?" (p. 20-25) | 10-min talk Oct 23 — "Tinutulungan Tayo ng Pag-asa Natin Para Maging Kontento" (¶2, 8-9, 13-14) |
-| wcg13 | wcg Kabanata 13 (Josue) — Alamin + Tingnan Din references | CBS Oct 19-25 |
-| it / w24.05 | it "Moab, Mga Moabita" (full) + "Patuloy Tayong Nangangaral Dahil sa Pag-ibig!" | 10-min talk Oct 30 "Matuwid at Maawaing Hukom si Jehova" |
-| wcg14 | wcg Kabanata 14 (Rahab) — Alamin + Tingnan Din references | CBS Oct 26–Nov 1 |
-| w26.08 | "Pahalagahan ang 'Pribilehiyong Gumawa ng Sagradong Paglilingkod'" (p. 20-25) | Watchtower Oct 26–Nov 1 |
-| lff/wp20/bhs | lff aralin 31, wp20 Blg. 1 p. 12-13, bhs kab. 8 — "Ano ang Kaharian ng Diyos?" | Pahayag Nov 13 (apendise A #21) |
-
-**Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
-
-**IMPORTANT: All published markdown files (in `docs/`) need YAML frontmatter:**
-```yaml
----
-title: 'Your Title Here'
----
-```
-Navigation labels are defined in `mkdocs.yml` under the `nav:` section.
-
-## Claude Skill Behavior
-
-The skill in `.claude/skills/jw-pagbabasa-at-pagtuturo.md` activates when users say: "public talk", "pahayag pangmadla", "coach me", "improve intro/ending", or "fix outline/script".
-
-### Quick Intake Flow
-1. Ask for tema/title and time limit
-2. Request existing outline if available
-3. Identify audience (kapatid / bisita / mixed)
-4. Determine main struggle area
-5. Get 1-2 goals
-
-### Diagnostic Mapping (struggle → recommended Aralin)
-- Weak intro → Aralin 1
-- Engagement issues → Aralin 3, 8
-- Texts feel "inserted" → Aralin 4, 6
-- Accuracy/credibility issues → Aralin 7
-- Need visuals → Aralin 9
-- Lacks application → Aralin 13
-- Poor structure → Aralin 14, 17
-- Too negative → Aralin 16
-- No new learnings → Aralin 18
-- Doesn't touch hearts → Aralin 19
-- Weak ending → Aralin 20
-
-### Default Outputs
-1. One-sentence theme + goal
-2. 3-4 main points with transition lines
-3. Text handling (intro-before-read + "so what?" after)
-4. Application scenarios (2-3 realistic)
-5. Practice plan (10 minutes)
-6. Mini rubric (1-5): Clarity, Structure, Scripture-use, Warmth, Ending
-
-## Talk Preparation Workflow
-
-### Talk Types
-| Type | Duration | Schedule | Time of Day | Use in Script |
-|------|----------|----------|-------------|---------------|
-| 5 min | 5 minutes | Friday (OCLM) | Gabi | "ngayong gabi" |
-| 10 min | 10 minutes | Friday (OCLM) | Gabi | "ngayong gabi" |
-| 30 min | 30 minutes | Sunday (Public Talk) | Umaga | "ngayong umaga" |
-
-### Recommended File Structure
-
-**Published scripts** (in `docs/`):
-```
-docs/talks/
-  5min/MMDD-title/index.md
-  10min/MMDD-title/index.md
-  30min/[outline-number]-title/index.md
-
-docs/field-ministry/
-  MMDD-title-Xmin/index.md
-
-docs/espirituwal-na-hiyas/
-  MMDD-title/index.md
-
-docs/cbs/
-  MMDD-book-aral-XX-XX/index.md
-```
-
-**Non-published support files** (root-level):
-```
-talks/
-  5min/MMDD-title/outline.md
-  10min/MMDD-title/outline.md, summary.md, picture.jpg
-  30min/[outline-number]-title/outline.md, summary.md, references.md
-
-field-ministry/
-  MMDD-title-Xmin/outline.md
-
-espirituwal-na-hiyas/
-  MMDD-title/outline.md
-
-cbs/
-  MMDD-book-aral-XX-XX/outline.md
-
-reference/
-  public-talk-aralin.md
-  guidelines.md
-  ministeryo-aralin.md
-```
-
-**Naming Convention:**
-- **5min/10min/espirituwal-na-hiyas folders:** `MMDD-short-title` (e.g., `0124-siya-ang-ating-diyos`)
-- **30min folders:** `[outline-number]-title` (e.g., `33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan`) — uses outline number since speakers may have few talks per year
-- Files inside: simple names (`outline.md`, `index.md`, `summary.md`)
-- Images: `picture.jpg` or `picture-1.jpg`, `picture-2.jpg` (if multiple)
-- Use lowercase and hyphens for folder names
-
-**Navigation Sorting:**
-- **10-Minute Talks:** Latest first (newest at top) in `mkdocs.yml` nav
-- **30-Minute Talks:** Leave as is (few per year)
-
-### MANDATORY — Outline Template with Guided Comments
-
-When creating a new `outline.md` file for any talk type (5, 10, 30 min), ALWAYS include HTML comment guides (`<!-- -->`) in each section so the user knows exactly what to paste and how to format it. Every outline.md must have these sections with comments:
-
-- `## Outline` — what to paste (workbook text, main points, scriptures)
-- `## References` — format for each reference (publication code + full paragraph text)
-- `## Bible Texts` — reminder to paste EXACT NWT Tagalog text (never paraphrase). If left blank, Claude reads it from `reference/books/nwt-bagong-sanlibutang-salin.pdf`.
-- `## Image` — what to include (URL, description, caption) or note if none
-- `## Notes` — suggestions for what to write (struggles, goals, audience type)
-
-This ensures the user is guided on where to put each piece of information without needing to ask. See existing outlines in `talks/10min/` for the standard template.
-
-### Script Creation Workflow
-
-**Step 1: Intake**
-- Collect: outline, references, time limit, audience type
-- Ask: What's your main struggle? Any specific goals?
-
-**Step 2: Analyze Outline**
-- Identify tema (theme) and layunin (goal)
-- Map pangunahing punto (main points)
-- Note susing teksto (key texts marked "Basahin")
-
-**Step 3: Research References**
-- Read provided references
-- Extract key quotes, illustrations, experiences
-- Note which reference supports which point
-
-**Step 4: Draft Script**
-- Write intro (hook + tema + why it matters) — ~10% of time
-- Develop each main point with: explain → illustrate → apply
-- Handle each text: intro-before-read → read → "so what?" after
-- Write conclusion (recap + call to action) — ~10% of time
-- **IMPORTANT:** Use exact words/phrases from the outline — elders may follow along
-
-**Step 4a: Script Formatting Standards (10-Minute Talks)**
-
-This is the standard format. All 10-minute talks must follow this pattern:
-
-```markdown
----
-title: Talk Title Here
----
-
-Mon DD, YYYY
-
----
-
-## INTRO [1 minuto]
-
-[Content here...]
-
----
-
-## 1 — Full outline text here [X minuto]
-
-[Intro before reading...]
-
-*[Basahin ang Book X:X]*
-
-!!! quote "Book X:X"
-    "Scripture quote here..."
-
-**==Key phrase from outline==** — only at section intro
-
-**Key phrase from Bible text** — [explanation] (bold only, not highlight)
-
----
-
-## 2 — Full outline text here [X minuto]
-
-[Content here...]
-
----
-
-## IMAGE
-
-**IMAGE CUE: picture.jpg**
-
-[Image discussion...]
-
----
-
-## CONCLUSION [1 minuto]
-
-[Content here...]
-```
-
-| Element | Format | Example |
-|---------|--------|---------|
-| Title | YAML frontmatter `title:` (plain, no "Script:" prefix) | `title: Siya ang Ating Diyos!` |
-| Date | Below frontmatter, before first `---` | `Jan 24, 2026` |
-| Section headers | `## SECTION [X minuto]` | `## INTRO [1 minuto]` |
-| Point headers | `## N — Full outline text [X minuto]` (no "PUNTO") | `## 1 — Nagalit si Isaias... [2.5 minuto]` |
-| Read cues | Italic with brackets | `*[Basahin ang Isaias 29:13]*` |
-| Scripture quotes | Admonition (quote) | `!!! quote "Isaias 33:6"` |
-| Outline phrases | Bold + highlight | `**==masunurin mula sa puso==**` |
-| Image section | `## IMAGE` (no "pagkatapos ng Punto X") | `## IMAGE` |
-| Image cue | Bold | `**IMAGE CUE: picture.jpg**` |
-| Horizontal lines | Between every section | `---` |
-
-**Key rules:**
-- IMAGE is optional — not all 10-minute talks have images
-- IMAGE can be placed between any points (not fixed to after last point)
-- Always use `---` horizontal lines between sections
-- Date format: `Mon DD, YYYY` (e.g., `Jan 30, 2026`)
-
-**Step 4b: Handle Visual Aids (Images)**
-- **10-min talks:** Images are optional — include only if the outline has one
-- **30-min talks:** Images optional — include if specified in outline
-- Script template for introducing image:
-
-```markdown
-## IMAGE
-
-Ngayon naman po, tingnan natin ang larawan.
-
-<figure markdown="span">
-  ![Alt text](picture.jpg){ width="100%" }
-  <figcaption>Exact caption text from workbook</figcaption>
-</figure>
-
-Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?
-
-[Describe what's in the image — connect to the point]
-
-At napansin n'yo po ba ang caption? Sabi po dito:
-
-> **"[exact caption text]"**
-
-[Application from the image]
-```
-
-- Place image cue AFTER explaining the point (image supports the teaching, not replaces it)
-- Call attention to image → Describe → Connect to point → Read caption (if any)
-- See Aralin 9 and guidelines.md #8-9 for visual aid rules
-
-**IMPORTANT — Talks vs Hiyas Distinction:**
-- **Talks (5, 10, 15, 30 min):** WE are the speaker. No audience interaction. We read all scriptures ourselves. Never say "sino po ang gustong bumasa?" — that's Hiyas only.
-- **Hiyas (Espirituwal na Hiyas):** We are the CONDUCTOR. We ask the audience to read, answer, and share. "Sino po ang gustong bumasa?" is correct here.
-
-**MANDATORY — Use Exact Outline Wording:**
-- The exact words from the outline's main points MUST appear in the script
-- Don't paraphrase or rephrase the outline — use the outline's own words
-- These phrases should be woven naturally into the flow, not just in headings
-
-**Highlight vs Bold Rules:**
-- `**==highlight==**` (bold + yellow highlight) = ONLY when explicitly introducing/stating the outline point at the START of each section (once per point). This is the visual indicator that "these are the exact words from the outline."
-- `**bold only**` = for the SAME outline words when used in other contexts: application ("Kaya paano natin ito ikakapit?"), conclusion, summary, Bible text phrases, formula, and talk title
-- Bible text key phrases (derived from scripture, not from the outline) = **bold only**
-- Formula = **bold only** (not from the outline)
-- Talk title in intro = **bold only**
-
-**REIA Pattern (for each scripture/point):**
-Each main point should follow this flow:
-1. **R — Read** the scripture text
-2. **E — Explain** what it means
-3. **I — Ilarawan** (Illustrate) with a practical analogy or example
-4. **A — Ikapit** (Apply) to the audience's daily life
-
-**MANDATORY — Scripture Transitions (from guidelines.md #13):**
-Before reading any scripture, ALWAYS add a transition that:
-1. Tells the audience to open their Bible: "Buksan po natin ang [Book] kabanata X, bersikulo Y."
-2. Prepares their mind — tell them what to look for or ask a question: "Dito, makikita natin ang..."
-3. If returning to a previously opened text: "Balikan po natin ang [Book] X:X, pansinin naman ang..."
-
-Example:
-```
-Buksan po natin ang Isaias kabanata 33, bersikulo 6.
-Dito, makikita natin ang pangako ni Jehova sa atin.
-
-*[Basahin ang Isaias 33:6a]*
-```
-
-**MANDATORY — Image Transitions (from guidelines.md #8):**
-When presenting an image, ALWAYS follow this pattern:
-1. Call attention: "Ngayon naman po, tingnan natin ang larawan."
-2. Render image: `<figure markdown="span">` with caption
-3. Ask rhetorical question: "Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?"
-4. Describe and connect to the point
-5. Read caption: "At napansin n'yo po ba ang caption? Sabi po dito: ..."
-6. Apply from the image
-
-**MANDATORY — Bible Text Format:**
-Use `!!! quote "Book X:X"` admonition format (with book icon) instead of blockquotes for ALL scripture readings in talks. The quote admonition icon is configured as `material/book-open-page-variant` in `mkdocs.yml`.
-
-Example:
-```markdown
-!!! quote "Isaias 33:6"
-    "Siya ang magpapatatag sa iyo..."
-```
-
-**MANDATORY — Talk Title in Intro:**
-Always mention the talk title in the introduction. Example: "Ang tema po natin ngayong gabi: **Siya ang Magpapatatag sa Iyo** — mula sa Isaias 33:6."
-
-**Step 5: Apply Aralin Principles**
-- Match struggles to relevant Aralin (see diagnostic mapping)
-- Incorporate specific techniques from chosen Aralin
-
-**Step 6: Time Check**
-- 5 min: ~750 words
-- 10 min: ~1,500 words
-- 30 min: ~4,500 words
-- Adjust content to fit, prioritize susing teksto
-
-**Step 7: Review Against Both Reference Documents**
-
-MANDATORY: Check BOTH documents when preparing any talk (5, 10, 30 min):
-
-- `reference/guidelines.md` — S-141-TG: HOW to deliver (eye contact, scripture transitions, visual aids, positive tone)
-- `reference/public-talk-aralin.md` — Pagtuturo book: WHAT to focus on (structure, application, illustrations, main points)
-
-Review checklist:
-- Positive tone? (guidelines.md #14 + Aralin 16)
-- Clear structure / main points stand out? (guidelines.md #4 + Aralin 14, 17)
-- Practical application? (guidelines.md #5 + Aralin 13)
-- Heart-reaching? (Aralin 19)
-- Scripture transitions? (guidelines.md #13)
-- Visual aids used correctly? (guidelines.md #8-9)
-
-**Step 8: Practice Plan**
-- 2 min warm-up (read intro aloud)
-- 6 min run-through (focus on 1 skill)
-- 2 min review (self-evaluate)
-
-**Step 9: Create Summary (10-min talks)**
-- Create `summary.md` with the following sections:
-  - **Tema** — one-sentence theme
-  - **Ang 3 Pangunahing Punto** — each with teksto and simpleng ideya
-  - **Bakit Mahalaga Ito?** — table with tanong/sagot
-  - **Mga Realistic na Application** — table with sitwasyon/lip service/heart service (if applicable)
-  - **Visual na Structure ng Talk** — ASCII tree showing timing breakdown
-  - **Mga Reference na Ginamit** — list of publications cited
-- This helps the speaker review key points quickly before delivery
-
----
-
-## Field Ministry Scripts
-
-For Bible study demonstrations and other field ministry assignments.
-
-### Folder Structure
-
-**Published script** (in `docs/`):
-```
-docs/field-ministry/
-  MMDD-title-Xmin/index.md          # script (published)
-```
-
-**Non-published outline** (root-level):
-```
-field-ministry/
-  MMDD-title-Xmin/outline.md        # reference content + notes
-```
-
-### Script Creation Workflow
-
-**Step 1: Intake**
-- Collect: reference (lff aralin, etc.), time limit, counsel point (lmd aralin)
-- Ask for: actual Bible verse text, character names
-
-**Step 2: Create outline.md**
-- Copy full reference content from publication
-- Include all questions from the book
-- Add actual Bible verse text (ask user to provide)
-- Note if there are pictures with captions
-- Add notes section (time constraints, setting, what to skip)
-
-**Step 3: Draft Script**
-- Use JW/HH format with character names in header
-- Mostly Tagalog, basic English lang (okay, sure, exactly, video, picture)
-- Explicitly say "Panoorin natin yung video" then "nakita natin yung video" (skip watching)
-- Use questions directly from the publication
-- Include picture discussion with caption if applicable
-- Address householder by name for natural flow
-- Follow counsel point guidelines (e.g., aralin 11 #3 = short explanations)
-
-**Step 4: Review**
-- Check Bible verses match actual NWT Tagalog text
-- Verify questions align with publication
-- Ensure timing fits (4 min = skip prayer, skip video watching)
-
-### Script Format
-
-```markdown
----
-title: Title (X min)
----
-
-**Setting:** Bible Study (ongoing)
-**Reference:** lff aralin X: #X-X
-**Counsel point:** lmd aralin X: #X
-**Characters:** JW = [Name], HH = [Name]
-
----
-
-## Script
-
-**JW:** [dialogue]
-
-**HH:** [dialogue]
-
----
-
-## Notes
-
-- [Key reminders]
-```
-
-### Reference Files
-
-- **reference/ministeryo-aralin.md** — Counsel points from "Maging Mahusay sa Ministeryo at sa Pagtuturo" (lmd)
-
----
-
-## Espirituwal na Hiyas (Spiritual Gems)
-
-Conductor-led 10-minute discussion segment from the midweek meeting (OCLM). The user is the conductor — asks questions, audience answers. This is NOT a talk; it's a facilitated discussion.
-
-### How It Works
-
-1. **Timing:** 10 minutes total (no need to show timing per section in the script — conductor uses phone timer)
-2. **Two standard questions:**
-   - **Tanong 1:** Based on the Bible reading for that week. Comes with a specific scripture text and a Watchtower/workbook reference. The audience answers, and the conductor may ask guided follow-up questions if the answer needs to go deeper.
-   - **Tanong 2:** Always the same — "Sa pagbabasa ng Bibliya para sa linggong ito, anong espirituwal na hiyas ang nagustuhan mo?" Audience shares personal gems from their reading.
-
-### Folder Structure
-
-**Published script** (in `docs/`):
-```
-docs/espirituwal-na-hiyas/
-  MMDD-bible-reading/index.md     # conductor script (published)
-```
-
-**Non-published reference** (root-level):
-```
-espirituwal-na-hiyas/
-  MMDD-bible-reading/outline.md   # bible text, reference paragraphs, notes
-```
-
-**Naming:** `MMDD-bible-reading` (e.g., `0213-isaias-33-35`)
-
-### User Workflow
-
-1. User creates `espirituwal-na-hiyas/MMDD-title/outline.md` with:
-   - Bible reading range (e.g., Isaias 33-35)
-   - Tanong 1 text + scripture + reference paragraph
-   - Any notes
-2. User tells Claude: "May bagong hiyas ako sa folder MMDD-title. Gawan mo ng script."
-3. Claude reads `outline.md` and creates `docs/espirituwal-na-hiyas/MMDD-title/index.md`
-
-### MANDATORY — Bible Text Accuracy
-
-- **NEVER** paraphrase, assume, or search for Bible text
-- **ALWAYS** use the EXACT words from the user's `outline.md` (which contains NWT Tagalog text copied from their Bible)
-- Strip footnote markers (single lowercase letters appearing as superscripts after words: e.g., `bisiga` → `bisig`, `kami.c` → `kami.`) but keep every word exact
-- If Bible text is not in the outline, **read it from `reference/books/nwt-bagong-sanlibutang-salin.pdf`** — see "Reading Exact Bible Text" above for the required column-crop commands. Only ask the user if that fails; never guess.
-- All publications and references should use jw.org data
-- This applies to ALL Bible quotes: Intro scripture, Tanong 1 scripture, and Tanong 2 personal gems
-
-### Script Creation Workflow
-
-**Step 1:** Read `outline.md` — get bible reading, tanong 1, scripture text, reference
-
-**Step 2:** Draft script with this format:
-
-```markdown
----
-title: Espirituwal na Hiyas — [Bible Reading]
----
-
-Mon DD, YYYY
-
----
-
-## Intro
-
-Magandang gabi po sa inyong lahat — mga kapatid at mga bisita.
-
-Dumako na po tayo sa ating bahagi na "Espirituwal na Hiyas" mula sa pagbabasa ng Bibliya sa aklat ng [Book] kabanata [X-X].
-
-Pero bago po natin sagutin ang unang tanong, sino po dito ang gustong bumasa sa [Scripture]?
-
-*[Basahin ang Scripture]*
-
-> "Scripture text here..."
-
-Salamat po.
-
----
-
-## Tanong 1: [Exact workbook question with reference] (e.g., Isa 35:8 — Saan tumutukoy ang "Daan ng Kabanalan" ngayon? (w23.05 15 ¶8))
-
-**Simplified na sagot:**
-
-[1-2 sentence plain answer — the core idea]
-
-**Mga highlight ng sagot:**
-
-- [Key point 1 from reference]
-- [Key point 2 from reference]
-- [Key point 3 from reference]
-
-**Para ilarawan:**
-
-[Simple illustration or analogy to help explain the concept — practical, relatable, easy to understand. Think of a real-life scenario that makes the spiritual point click.]
-
-**Guided follow-up (kung kailangan):**
-
-- **[Follow-up question]**
-  Sagot: [Answer to the follow-up]
-
-- **[Another follow-up question]**
-  Sagot: [Answer]
-
----
-
-**Buod ng reference:**
-
-- [Summary bullet 1 from the reference material]
-- [Summary bullet 2]
-- [Summary bullet 3]
-
----
-
-## Tanong 2: Sa pagbabasa ng Bibliya para sa linggong ito, anong espirituwal na hiyas ang nagustuhan mo?
-
-**[Book X:X]** — "[Scripture text]"
-
-- [Personal gem — short, direct, uses "ako/ko", within 30 seconds]
-
-**[Book X:X]** — "[Scripture text]"
-
-- [Another personal gem]
-
-(Provide top 10 gems from the Bible reading — personal, concise, practical)
-
----
-
-### Mga handang sagot (kung ako ang sasagot)
-
-!!! success "Sagot kapag binasa nang malakas — [Book X:X]"
-    Sa [Book X:X], [key phrase only, exact NWT]. [What I learned, plainly.] Kaya [ako/ko application].
-
-(At least 2 blocks, each under 1 minute)
-
----
-
-## Maraming salamat po.
-
-Para sa huling komento po.. si sister..
-
-Maraming salamat po, mga kapatid, sa inyong pakikibahagi at sa inyong paghahanda.
-
-At paumanhin po sa di natawag.
-
-Balik po tayo sa chairman.
-```
-
-**Key rules:**
-- Intro: improve/vary wording each time — use engaging synonyms, align with the Bible reading theme
-- Tanong 1 heading: use the EXACT workbook question word-for-word including scripture reference and publication reference
-- Tanong 1 body: simplified answer first (explain "espirituwal na paraiso" or any unfamiliar terms in simple language), then highlights, then "Para ilarawan" illustration, then guided follow-ups WITH answers
-- Buod ng reference: bullet-point summary of the reference material (placed before Tanong 2)
-- Tanong 2 heading: always the exact same question text
-- Tanong 2 body: provide top 10 gems from the Bible reading — each with scripture text + personal answer (short, uses "ako/ko", within 30 seconds, practical application)
-- Tanong 2 handang sagot (from Oct 23, 2026): below the 10 gems, at least 2 spoken answers as if Jayr is the audience member answering — CBS style `!!! success` block. Open with the reference + key phrase only (exact NWT, not the whole verse), then what I learned and how I apply it ("ako/ko"). Real talk, straight to the point: no forced analogies, nothing OA (analogy only if it comes naturally). ~45-60 words, well under 1 minute. Avoid verses the same week's talk uses.
-- Closing: always ends with the standard closing script (salamat, huling komento, paumanhin, balik sa chairman)
-- References from `outline.md` are NEVER published — only the highlights/summaries appear in the script
-- No timing markers in the script (conductor uses phone timer)
-
-### Navigation Sorting
-
-Latest first (newest at top) in `mkdocs.yml` nav — same as 10-Minute Talks.
-
----
-
-## CBS (Congregational Bible Study)
-
-Conductor-led 30-minute book study from the midweek meeting (OCLM). The user is the conductor — introduces the material, assigns a reader, asks workbook questions, and facilitates discussion. This is NOT a talk; it's a facilitated study.
-
-### How It Works
-
-1. **Timing:** 30 minutes total (covers 2 aralins, sometimes with an introduction)
-2. **Flow per aralin:**
-   - Conductor gives brief intro on what we'll cover
-   - Reader reads the paragraphs: "Para simulan, makikisuyo tayo ni brother [name] para basahin ang mga talata"
-   - Conductor asks workbook questions after reading
-   - Audience answers, conductor may ask guided follow-ups
-   - Transition to next aralin
-3. **Current book:** lfb (Mga Aral Mula sa Bibliya)
-
-### Folder Structure
-
-**Published script** (in `docs/`):
-```
-docs/cbs/
-  MMDD-book-aral-XX-XX/index.md     # conductor script (published)
-```
-
-**Non-published reference** (root-level):
-```
-cbs/
-  MMDD-book-aral-XX-XX/outline.md   # aralin text, questions, notes
-```
-
-**Naming:** `MMDD-book-aral-XX-XX` (e.g., `0209-lfb-aral-60-61`)
-**Nav label:** `CBS` → `Feb 9-15` (week date range)
-
-### Script Creation Workflow
-
-**Step 1:** Read `outline.md` — get aralin text, questions, quoted texts, bible references
-
-**Step 2:** Draft script with this format:
-
-```markdown
----
-title: CBS — [Date Range]
----
-
-[Date Range], 2026
-
----
-
-## Intro
-
-[Brief introduction on what we'll cover — 2 aralins overview]
-
-Para simulan, makikisuyo tayo ni brother [name] para basahin ang mga talata.
-
----
-
-## Aral XX: [Title]
-
-### Tanong: [Exact workbook question]
-
-**Simplified na sagot:**
-
-[1-2 sentence plain answer — the core idea]
-
-**Mga highlight ng aralin:**
-
-- [Key point 1 from the aralin]
-- [Key point 2]
-- [Key point 3]
-
-### Mga Guided Questions
-
-**Q: [Basic question from intro/early part]**
-A: [30-second personalized answer — simple words, uses "ako/ko"]
-
-**Q: [Deeper question from middle]**
-A: [30-second personalized answer]
-
-**Q: [Application question from end]**
-A: [30-second personalized answer]
-
----
-
-[Transition script to next aralin]
-
----
-
-## Aral XX: [Title]
-
-[Same format as above]
-
----
-
-## SUMMARY
-
-### Aral XX: [Title]
-- [Summary point 1]
-- [Summary point 2]
-
-### Aral XX: [Title]
-- [Summary point 1]
-- [Summary point 2]
-```
-
-**Key rules:**
-- Intro: brief overview of both aralins, assign reader
-- Questions: use EXACT workbook questions word-for-word
-- Simplified answers: plain, simple Tagalog — the core idea in 1-2 sentences
-- Highlights: bullet points from the aralin content
-- Guided questions: personal use — structured from basic (intro) to deep (end of aralin), 30-second answers, personalized ("ako/ko"), simple words
-- Transition: natural bridge between aralins
-- Summary: at the bottom, one summary per aralin
-- No "Para ilarawan" section (unlike Hiyas)
-- No timing markers in the script (conductor manages time)
-
-### Navigation
-
-Nav label format: `CBS` section → `[Date Range]` (e.g., `Feb 9-15`)
-Latest first in `mkdocs.yml` nav.
-
----
-
-## Watchtower Study (Pag-aaral sa Bantayan)
-
-Personal answer-preparation script for the Sunday Watchtower study. The user is an audience member preparing comments — NOT the conductor.
-
-### Folder Structure
-
-**Published script** (in `docs/`):
-```
-docs/watchtower/
-  [short-title-slug]/index.md      # answer script (published)
-```
-
-**Non-published reference** (root-level):
-```
-watchtower/
-  [short-title-slug]/outline.md    # article summary, paragraph notes
-```
-
-**Source material:** Watchtower issue PDFs go in `reference/books/` (git-ignored, local only, NEVER committed). Naming: keep original filename (e.g., `w_TG_202606.pdf`). The June issue covers study articles ~2 months later (e.g., Hunyo 2026 issue = Agosto 10–Setyembre 6, 2026 study weeks). The study week ends on Sunday (study day).
-
-**Naming:** short title slug (e.g., `iingatan-ang-pakikipagkaibigan`)
-**Nav:** `Watchtower` section in `mkdocs.yml`, latest first.
-
-### MANDATORY — Answer Format (effective Aug 23, 2026)
-
-Script header (top of file, in order):
-1. YAML frontmatter `title:` (exact article title)
-2. `Pag-aaral sa Bantayan — [study week dates]`
-3. `!!! quote` admonition with the theme scripture
-4. `**MATUTUTUHAN:**` line from the article
-5. `!!! tip "FORMULA"` — a memorable equation for the main topic (e.g., `Kapakumbabaan + Pagtitiis + Kabaitan at Malasakit = Pagkakaibigang Naiingatan`), with a small table mapping each element to its section/hamon. Repeat the formula in a closing `!!! tip` at the bottom.
-
-Per question (use `### N — [exact question text] (Scripture ref if any)`):
-1. **Mahahalagang punto:** — unordered list of the paragraph's main points only (not full paragraph), with scripture refs inline
-2. **Direktang sagot:** — 1-2 sentence GENERALIZED answer (no "ako"/"tayo" — user personalizes later); short, concise, direct
-3. `!!! success "Sagot kapag binasa nang malakas"` — the answer as spoken aloud, built from the bullets, using the Bible as much as possible (cite/weave scriptures). Most answers stay short; mark deeper ones `"Sagot kapag binasa nang malakas (mas malalim)"` — use the deep version for "Basahin" texts and key paragraphs
-4. **Tanong para ikapit:** — 1 application question (question form, not statement)
-
-Review questions ("ANO ANG SAGOT MO?" / end-of-article box):
-- Heading `## MGA ARAL NA NATUTUHAN`
-- Each review question becomes a **lesson learned** in an `!!! abstract "Aral"` box — state the key quality/principle ("[Katangian] ang susi"), then the compressed takeaway with scriptures
-
-Key rules:
-- Use the Bible as much as possible in every answer — weave the cited texts into the spoken answers
-- `*[Basahin ang ...]*` cue before each "Basahin" text's question body
-- Section headings from the article as `## ALL CAPS` (matching article subheadings)
-- No timing markers
-- Bible quotes: only quote text that appears verbatim in the article/outline — never paraphrase NWT text from memory
-
----
-
-## Notion Integration
-
-### /10minute Command
-Push 10-minute talk scripts to Notion using the `/10minute` skill.
-
-**Usage:**
-| Command | What it does |
-|---------|--------------|
-| `/10minute` | Lists all talks, you pick one to push |
-| `/10minute <folder-name>` | Push specific talk (e.g., `/10minute 0124-siya-ang-ating-diyos`) |
-| `/10minute all` | Push all talks (with confirmation) |
-
-**Requirements:**
-- `scripts/config.json` must have valid Notion API key and parent page ID
-- Talk folder must have `index.md` file
-
-**Script Formatting for Notion:**
-- Outline phrases (exact words from outline) should use **==highlight==** format: `**==outline phrase here==**`
-- This renders as bold highlighted text in the published site
-- Headings should NOT have bold markers (converter handles them)
-
----
-
-## GitHub Pages
-
-Scripts are published to GitHub Pages for easy sharing and reading on any device.
-
-**URL Format:**
-```
-https://[username].github.io/jw-talk-coach/talks/10min/[folder-name]/
-```
-
-**Example:**
-```
-https://jarutosurano.github.io/jw-talk-coach/talks/10min/0130-parangalan-si-Jehova/
-```
-
-**Why `index.md` instead of `script.md`:**
-- Using `index.md` creates clean URLs (folder path only, no filename needed)
-- MkDocs renders `index.md` as the folder's default page
-
-**Setup (one-time):**
-1. Go to repo Settings → Pages
-2. Source: **Deploy from a branch** (`gh-pages`, `/ (root)`)
-3. The `.github/workflows/deploy.yml` handles `mkdocs gh-deploy` automatically
-
-**Notes:**
-- Repo must be **public** for free GitHub Pages
-- Private repos require GitHub Pro ($4/mo) for Pages
-- Navigation is defined in `mkdocs.yml` under the `nav:` section
-
-**Tab Navigation Structure:**
-
-The site uses MkDocs Material's header tabs (`navigation.tabs`) with 4 top-level tabs:
-
-| Tab | Sidebar Content | Adding New Content |
-|-----|----------------|-------------------|
-| **Home** | Custom hero page (no sidebar) | Edit `overrides/home.html` |
-| **Talks** | 5-Minute / 10-Minute / 30-Minute groups | Add under `Talks:` → `X-Minute:` in `mkdocs.yml` nav |
-| **Espirituwal na Hiyas** | Weekly entries | Add under `Espirituwal na Hiyas:` in nav |
-| **CBS** | Weekly entries | Add under `CBS:` in nav |
-
-Features enabled:
-- `navigation.tabs` — top-level nav items become header tabs
-- Tabs hide on scroll down, reappear on scroll up (no `navigation.tabs.sticky`)
-- `navigation.footer` — Previous/Next pagination in footer
-- `navigation.sections` — sidebar section headings stay bold
-
-**Adding a New Talk:**
-
-When adding a new talk:
-1. Create the folder and `index.md` under `docs/talks/`
-2. Add the nav entry in `mkdocs.yml` under `Talks:` → the appropriate duration group
-
----
-
-## MkDocs Material Features
-
-These MkDocs Material features are available for use in scripts. Extensions are already configured in `mkdocs.yml`.
-
-### Admonitions (Callout Boxes)
-
-Useful for highlighting key points, tips, or notes in scripts.
-
-```markdown
-!!! quote "Isaias 33:6"
-    "Siya ang magpapatatag sa iyo..."
-
-!!! tip "Ikapit"
-    Pag-aralan ang Bibliya araw-araw.
-
-!!! example "Para Ilarawan"
-    Isipin ang isang barko sa gitna ng bagyo...
-```
-
-**Collapsible version** (click to expand):
-```markdown
-??? note "Karagdagang Impormasyon"
-    Expanded by clicking...
-
-???+ note "Bukas by Default"
-    Already expanded...
-```
-
-**Available types:** `note`, `abstract`, `info`, `tip`, `success`, `question`, `warning`, `failure`, `danger`, `bug`, `example`, `quote`
-
-### Images with Captions
-
-```markdown
-<figure markdown="span">
-  ![Alt text](picture.jpg){ width="100%" }
-  <figcaption>Caption text here</figcaption>
-</figure>
-```
-
-Alignment: `{ align=left }` or `{ align=right }`
-Lazy loading: `{ loading=lazy }`
-
-### Content Tabs
-
-Organize content in tabbed sections:
-
-```markdown
-=== "Punto 1"
-    Content for tab 1
-
-=== "Punto 2"
-    Content for tab 2
-```
-
-### When to Use These Features
-
-| Feature | Good for | Example use in talks |
-|---------|----------|---------------------|
-| Admonitions | Highlighting key sections | Scripture quotes, application boxes, illustrations |
-| Images | Rendering pictures with captions | Talk images with teaching captions |
-| Content tabs | Organizing alternatives | REIA breakdown, multiple examples |
-| Collapsible | Optional/extra content | Reference details, buod ng punto |
-
----
-
-## Pre-Commit Workflow
+Guidance for Claude Code in this repo. This file holds only the hard rules and a routing table. Procedures,
+templates and lookup tables live in `runbooks/` (see "Which runbook to read first").
+
+## New session? Start here
+
+1. **Check `README.md`** for the quick start guide.
+2. **Check `docs/talks/`** for existing and new talks.
+3. **Ask the user:** "Anong talk po ang gagawin natin ngayon?"
+
+## Project
+
+JW Public Talk Coaching System: a Tagalog-language knowledge base for preparing and delivering talks (pahayag
+pangmadla), Espirituwal na Hiyas, CBS, Watchtower answers and field-ministry demos. Built with MkDocs Material
+(`mkdocs serve` for local preview, `mkdocs build` to build); published to GitHub Pages from `docs/`. The repo is public.
+
+## Which runbook to read first (MUST)
+
+Before you draft, edit, review or red-team anything in this table (even a one-line change), Read the whole runbook for
+that task, then open the latest published file of the same type (`ls docs/<type>/ | sort | tail -1`) and match its
+structure; if the two differ, follow the file and fix the runbook. When you hand work to a subagent or reviewer, name the
+runbook it must read. If this file and a runbook disagree, this file wins.
+
+| Task | Read first |
+|---|---|
+| 5, 10 or 30-minute talk (outline, script, summary.md, picture) | `runbooks/talks.md` |
+| Espirituwal na Hiyas | `runbooks/hiyas.md` |
+| CBS (Congregational Bible Study) | `runbooks/cbs.md` |
+| Watchtower answer script | `runbooks/watchtower.md` |
+| Field ministry demonstration or arrangement | `runbooks/field-ministry.md` |
+| Coaching request ("public talk", "pahayag pangmadla", "coach me", "improve intro/ending", "fix outline/script") | `runbooks/coaching.md` |
+| Stored books/PDFs, NWT page numbers, workbook weeks, stored articles (and adding new ones) | `runbooks/reference-library.md` |
+| Nav entries, GitHub Pages, MkDocs features, Notion `/10minute` | `runbooks/publishing.md` |
+
+## Where files go (publishing rule)
+
+- **Only `index.md` scripts go in `docs/`** (published). Outlines, summaries and reference files stay in
+  root-level folders and are NEVER placed in `docs/`.
+- Published: `docs/talks/{5min,10min,30min}/*/index.md`, `docs/espirituwal-na-hiyas/*/index.md`, `docs/cbs/*/index.md`,
+  `docs/watchtower/*/index.md`, `docs/field-ministry/*/index.md`, `docs/index.md` (homepage). Pictures sit next to
+  their `index.md` (`picture.jpg`, `picture-1.jpg`, …).
+- Not published (root level, same folder name): `talks/…/outline.md, summary.md`, `espirituwal-na-hiyas/…/outline.md`,
+  `cbs/…/outline.md`, `watchtower/…/outline.md`, `field-ministry/…/outline.md`, `runbooks/`, and `reference/`:
+  `public-talk-aralin.md` (teaching Aralin), `guidelines.md` (S-141-TG), `ministeryo-aralin.md` (lmd counsel points),
+  `mahalin-ang-mga-tao.md` (lmd notes), `jr-overview.md` (check first for any Jeremiah talk). The coaching skill is
+  `.claude/skills/jw-pagbabasa-at-pagtuturo/SKILL.md`; the Notion push command is `.claude/commands/10minute.md`.
+- Folder names: talks/Hiyas/CBS/field ministry `MMDD-short-title` (MMDD = meeting date; lowercase, hyphens);
+  30-min `[outline-number]-title`; Watchtower a short title slug (per-type examples in the runbooks). Files inside: `outline.md`, `index.md`, `summary.md`.
+- **Every published `.md` needs YAML frontmatter** (`title: 'Your Title Here'`), and every new page needs a nav entry
+  in `mkdocs.yml` (`nav:` defines the labels). 10-min, 5-min, Hiyas, CBS and Watchtower: latest first. 30-min: leave as is.
+
+## Copyrighted material and secrets: NEVER commit or publish
+
+- `reference/books/` (full publication PDFs, workbook RTF/TXT) and `reference/articles/` (full article texts) are
+  git-ignored and local-only. Never commit or publish them, and never paste their full text into tracked files: the repo
+  is public. Only short cited excerpts go into committed outlines.
+- When the user downloads a publication PDF and asks to store it, copy it to `reference/books/` (full article texts go to
+  `reference/articles/`) and add a row to `runbooks/reference-library.md`.
+- Never commit secrets or API keys; `scripts/config.json` (Notion key) must stay git-ignored.
+
+## Bible text: MANDATORY
+
+- **NEVER paraphrase, assume, or search for Bible text.** Use the EXACT NWT Tagalog (makabagong-wika) from the user's
+  `outline.md`. If it isn't there, read it from `reference/books/nwt-bagong-sanlibutang-salin.pdf`. Ask the user only
+  if reading the PDF fails; never guess.
+- That PDF needs column-cropped extraction (plain `pdftotext` interleaves cross-references and is unusable). Read the left
+  column, then the right; printed page = PDF page; known pages are in `runbooks/reference-library.md`;
+  for an unknown page, grep the running header (e.g. `JEREMIAS 50:`) in `pdftotext -layout` output.
+  - Left: `pdftotext -f PAGE -l PAGE -x 8 -y 0 -W 128 -H 520 reference/books/nwt-bagong-sanlibutang-salin.pdf -`
+  - Right: `pdftotext -f PAGE -l PAGE -x 164 -y 0 -W 145 -H 520 reference/books/nwt-bagong-sanlibutang-salin.pdf -`
+- Strip footnote markers (`bisiga` → `bisig`, `kami.c` → `kami.`) and stray cross-reference digits; keep every word exact.
+- Verses quoted inside it/w/wcg often use an older edition or a paraphrase: attribute that wording to its source, or
+  use the exact NWT crop.
+- All publications and references come from jw.org data.
+
+## Talk scripts: MANDATORY (5, 10, 30 min; full format in `runbooks/talks.md`)
+
+- **Exact outline wording:** the outline's main-point words must appear word for word (don't paraphrase; elders may
+  follow along), woven into the spoken flow, not just the headings. `**==highlight==**` them once,
+  when the point is introduced; reuse them elsewhere (application, conclusion, summary) as **bold only**. Bible-text
+  phrases, the formula and the talk title are also bold only.
+- **Mention the talk title in the intro.** Open with a hook (question, story or analogy); no formal greeting.
+- **Scripture transitions:** before every reading, "Buksan po natin ang [Book] kabanata X, bersikulo Y." plus what to
+  look for; returning to a text: "Balikan po natin ang [Book] X:X, pansinin naman ang…". Each point follows REIA (Read,
+  Explain, Ilarawan, Apply).
+- **Bible text format:** `!!! quote "Book X:X"` admonition for every scripture reading in talks (not blockquotes).
+- **Image transitions:** "Ngayon naman po, tingnan natin ang larawan." → `<figure markdown="span">` with caption →
+  "Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan?" → describe and connect → read the caption → apply.
+- **Talks vs Hiyas:** in talks (5, 10, 15, 30 min) WE are the speaker: no audience interaction, and we read every
+  scripture ourselves; never "sino po ang gustong bumasa?" (Hiyas only, where we conduct).
+- **10-min format (must):** follow Step 4a in `runbooks/talks.md` exactly: `## INTRO [1 minuto]`, `## N — full outline
+  text [X minuto]` (no "PUNTO"), `---` between every section, `## IMAGE` + `**IMAGE CUE: picture.jpg**` only if the
+  outline has an image, `## CONCLUSION [1 minuto]`.
+- **Dual reference:** prepare every talk with BOTH `reference/guidelines.md` (S-141-TG: how to deliver) AND
+  `reference/public-talk-aralin.md` (Pagtuturo: what to focus on). Never rely on just one.
+- **Outline template:** every new `outline.md` (any talk type) has HTML comment guides in `## Outline`, `## References`,
+  `## Bible Texts`, `## Image`, `## Notes` (see `runbooks/talks.md`).
+- Friday OCLM = "ngayong gabi"; Sunday public talk = "ngayong umaga". Date line `Mon DD, YYYY`. Word targets: `runbooks/talks.md`
+  Step 6 (Jayr's pace, not the generic rate: a 10-min script is ~1,165 spoken words).
+
+## Other deliverables: MANDATORY (details in the runbooks)
+
+- **Hiyas:** Tanong 1 heading = the exact workbook question with its scripture and publication reference; Tanong 2
+  heading = always the exact same question; Bible text never paraphrased (intro, Tanong 1, gems); top 10 gems; standard
+  closing; no timing markers; the outline's references are never published.
+- **Hiyas handang sagot (from Oct 23, 2026):** at least 2 `!!! success` spoken answers below the gems: reference + key
+  phrase only (exact NWT, not the whole verse), then what I learned and how I apply it (ako/ko). Real talk, no forced
+  analogy, nothing OA; ~45-60 words; avoid verses the same week's talk uses.
+- **CBS:** exact workbook questions word for word; no timing markers; no "Para ilarawan" section.
+- **Watchtower (since Aug 23, 2026):** the full answer format in `runbooks/watchtower.md` is mandatory; the user is an
+  audience member, not the conductor; no timing markers; Bible quotes: only quote text that appears verbatim in the
+  article, the outline, or an NWT column crop; never paraphrase NWT text from memory.
+
+## Key guidelines for talks (5, 10, 30 min)
+
+- **Coaching scope:** talks only; not for Bible reading (pagbabasa) assignments.
+- **Visual aids:** pictures only, no videos unless instructed by the org; use them for teaching, not decoration.
+- **Text handling:** Explain → Illustrate → Apply (ipaliwanag → ilarawan → ipakita kung paano isasabuhay).
+- **Scripture intro:** prep the mind before reading (a tanong, or what to look for).
+- **Tone:** positive and upbuilding; avoid insults or harmful jokes. **Delivery:** speak from the heart, not read; practise aloud.
+- **Audience adaptation:** adjust wording to the bisita vs kapatid ratio.
+- **Natural Taglish:** common English words mixed naturally into Tagalog (e.g. "lip service", "shortcut", "proud").
+- **No formal greetings:** skip "Mga kapatid at mga kaibigan, magandang gabi po sa inyong lahat"; jump straight into the hook. (Hiyas and CBS keep their conductor greeting.)
+- **Generic reference citations:** "Base sa referensya natin", not publication names such as "Ayon sa Bantayan".
+- **Memorable formula (optional):** a simple equation or phrase (e.g. "Labi + Puso = Tunay na Pagsamba"); introduce
+  it in the intro, reinforce it at key moments, drive it home in the conclusion.
+
+## Pre-commit workflow
 
 **Before committing/pushing to git, always:**
 
-1. **Update `CHANGELOG.md` (REQUIRED):**
-   - Add entry under the current version or create a new version section
-   - Describe what changed and why
-   - Use format: `## [X.X.X] - YYYY-MM-DD` with `Added`, `Changed`, `Removed` subsections
+1. **Update `CHANGELOG.md` (REQUIRED):** add an entry under the current version or a new `## [X.X.X] - YYYY-MM-DD`
+   section with `Added` / `Changed` / `Removed`, saying what changed and why.
+2. **Update documentation if needed:** this file or `runbooks/*.md` (workflow or rules), `README.md` (user-facing
+   instructions), `.claude/skills/*/SKILL.md` and `.claude/commands/*.md` (skill/command behavior). If a commit
+   changes a deliverable's structure, update that runbook's template in the same commit.
+3. **Review changes:** files make sense; no secrets (API keys); `config.json` still in `.gitignore`.
+4. **Commit with a clear message** saying what changed and why (conventional format if applicable).
 
-2. **Update documentation if needed:**
-   - `CLAUDE.md` — Update if workflow or skills changed
-   - `README.md` — Update if user-facing instructions changed
-   - `.claude/skills/*.md` — Update if skill behavior changed
+## Keeping this file small
 
-3. **Review changes:**
-   - Check modified files make sense
-   - Ensure no secrets (API keys) are being committed
-   - Verify `config.json` is in `.gitignore`
-
-4. **Commit with clear message:**
-   - Describe what changed and why
-   - Use conventional format if applicable
-
----
-
-## Key Guidelines to Remember
-
-- **Public talk scope only** — not for Bible reading assignments
-- **Visual aids**: Pictures only, no videos unless instructed by org; use for teaching, not decoration
-- **Text handling**: Explain → Illustrate → Apply (ipaliwanag → ilarawan → ipakita kung paano isasabuhay)
-- **Scripture intro**: Prep the mind before reading (tanong or what to look for)
-- **Tone**: Positive and upbuilding; avoid insults or harmful jokes
-- **Delivery**: Speak from heart, not read; practice aloud
-- **Audience adaptation**: Adjust wording based on bisita vs kapatid ratio
-- **Natural Taglish**: Use common English words naturally mixed with Tagalog (e.g., "lip service," "shortcut," "proud") — this reflects how Filipinos actually speak and makes the talk more conversational
-- **No formal greetings**: Skip "Mga kapatid at mga kaibigan, magandang gabi po sa inyong lahat" — jump straight into the hook
-- **Generic reference citations**: Use "Base sa referensya natin" instead of specific publication names (e.g., "Ayon sa Bantayan") — sounds more natural and less like reading from a script
-- **Memorable formula (optional)**: When possible, create a simple equation or phrase that captures the main point (e.g., "Labi + Puso = Tunay na Pagsamba"). Introduce it in the intro, reinforce at key moments, and drive it home in the conclusion. This helps the message stick.
-- **MANDATORY — Bible text accuracy**: NEVER paraphrase, assume, or search for Bible text. ALWAYS use the EXACT words from the user's `outline.md` (NWT Tagalog). If the text is not in the outline, **read it from `reference/books/nwt-bagong-sanlibutang-salin.pdf`** (the full NWT Tagalog Bible is stored locally — see "Reading Exact Bible Text" for the required column-crop `pdftotext` commands). Strip footnote markers only. Ask the user only if reading the PDF fails — never guess.
-- **MANDATORY — Dual reference for talks**: When preparing any talk script (5, 10, 30 min), ALWAYS consult BOTH `reference/guidelines.md` (S-141-TG: delivery guidelines) AND `reference/public-talk-aralin.md` (Pagtuturo book: teaching techniques). Never rely on just one.
-
+- Budget: ≤200 lines and ≤20 KB, checked by `~/.claude/scripts/claude-budget.sh`. Run it after editing this file.
+- Only never/must rules and rules born from an incident belong here, one or two lines each. Everything else (new
+  procedures, templates, NWT page rows, stored-book and article rows) goes into the matching runbook.
+- The pre-split version is kept locally as `CLAUDE.md.bak-2026-10-30` (git-ignored), and in git history.
