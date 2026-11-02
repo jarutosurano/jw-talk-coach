@@ -123,8 +123,9 @@ runbook it must read. If this file and a runbook disagree, this file wins.
 - **Natural Taglish:** common English words mixed naturally into Tagalog (e.g. "lip service", "shortcut", "proud").
 - **No formal greetings:** skip "Mga kapatid at mga kaibigan, magandang gabi po sa inyong lahat"; jump straight into the hook. (Hiyas and CBS keep their conductor greeting.)
 - **Generic reference citations:** "Base sa referensya natin", not publication names such as "Ayon sa Bantayan".
-- **Memorable formula (optional):** a simple equation or phrase (e.g. "Labi + Puso = Tunay na Pagsamba"); introduce
-  it in the intro, reinforce it at key moments, drive it home in the conclusion.
+- **Formula or acronym: rare, never the default** (Jayr 2026-11-01: talks became a pattern, "no longer unique"). Use one
+  only when the outline's points genuinely suggest it. Before drafting, check the last 3 published talks and never reuse
+  their device (formula, acronym, hook type, "unang punto" framing).
 
 ## Pre-commit workflow
 

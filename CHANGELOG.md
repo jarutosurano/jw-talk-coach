@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.49.0] - 2026-11-01
+
+### Nov 13 pahayag rewritten (v3); formula/acronym no longer a default
+
+**Changed:**
+- `docs/talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md`: full rewrite. Jayr found v2 "tasteless" and dropped the LANGIT/LUPA device. v3 opens with the Ama Namin, tells the Daniel 2 dream (the statue of human governments and the stone not cut by hands), and reasons per th aralin 7: the stone strikes governments, not hearts, so a government replaces governments. It closes on Mateo 6:9, 10 ("Dumating nawa…", "gayon din sa lupa"). Still 2 texts, ~510 spoken words (~4:05).
+- `talks/5min/1113-…/outline.md`: v3 main points and the new sources (dp kab. 4 ¶33-36, lfb aral 60, nwtsty Mat 6:10 note, lff 31 ¶3).
+- `CLAUDE.md`: "Memorable formula (optional)" → "Formula or acronym: rare, never the default." Before drafting, check the last 3 published talks and don't reuse their device (formula, acronym, hook type, "unang punto" framing). Why: talks had become a pattern and were "no longer unique" (Jayr, Nov 1).
+
+---
+
 ## [4.48.0] - 2026-10-30
 
 ### CLAUDE.md slimmed to fit the instruction budget; procedures moved to `runbooks/`

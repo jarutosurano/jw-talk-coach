@@ -18,10 +18,13 @@ lmd apendise A: #21—Tema: Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa L
 
 **21. Ang Kaharian ng Diyos ay isang totoong gobyerno sa langit.**—Daniel 2:44; 7:13, 14; Mateo 6:9, 10; Apocalipsis 11:15.
 
-<!-- Main points (Oct 30 v2 — 2 teksto lang, para magkasya sa 4 na minuto; desisyon ni Jayr).
-Memory words, galing mismo sa teksto: LANGIT at LUPA.
-1. LANGIT — Dan 2:44 ("ang Diyos ng langit ay magtatatag ng isang kaharian"; iisang salitang "kaharian" para sa gobyerno ng Diyos at ng tao → gobyerno ang papalit sa gobyerno)
-2. LUPA — Mat 6:9, 10 ("Dumating nawa ang Kaharian mo" + "gayon din sa lupa") ← heart point
+<!-- Main points (Nov 1 v3 — rewrite; Jayr: v2 "tasteless", drop LANGIT/LUPA, no formula or acronym).
+Intro: Ama Namin (kabisado ng marami) → "nasa puso" belief, reported accurately → tema.
+1. Dan 2:44 — ikuwento muna ang panaginip (Dan 2:31-45, as explanation, not read): imahen = sunod-sunod na gobyerno ng tao;
+   batong natibag hindi ng kamay ng tao = Kaharian. Aralin 7 reasoning: ano ang tinamaan ng bato? Hindi puso, kundi gobyerno.
+   "hindi ibibigay sa ibang bayan" → hindi mapapalitan (lff 31 ¶3).
+2. Mat 6:9, 10 — balik sa Ama Namin: "Dumating nawa" (bakit hihilinging dumating kung nasa puso na?) + "gayon din sa lupa" ← heart point
+v2 (Oct 30): LANGIT/LUPA memory words + visa analogy; replaced.
 Ang Dan 7:13, 14 at Apoc 11:15 ay hindi binabasa. Ayon sa apendise A mismo: "gumamit ng teksto na magpapaliwanag sa katotohanang iyon" (hindi kailangang lahat). Ang "si Jesus ang Hari nito, at mamamahala siya mula sa langit" ay galing sa lff aralin 31 ¶1.
 -->
 
@@ -35,6 +38,8 @@ Ang Dan 7:13, 14 at Apoc 11:15 ay hindi binabasa. Ayon sa apendise A mismo: "gum
 - **lff aralin 31 "Ano ang Kaharian ng Diyos?"** — ¶1: "Ang Kaharian ay isang gobyerno na itinatag ng Diyos na Jehova. Si Jesu-Kristo ang Hari nito, at mamamahala siya mula sa langit." SUMARYO: "Ang Kaharian ng Diyos ay isang totoong gobyerno sa langit na mamamahala sa buong lupa." ¶4 ginagamit ang Daniel 7:14 ("Sa gobyerno ng tao, madalas palitan ang mga namumuno, at hindi buong lupa ang pinamamahalaan nila"). TINGNAN DIN: "Ang Kaharian Ba ng Diyos ay Basta Nasa Puso Mo Lang?" (jw.org) → batayan ng "sa maraming simbahan, itinuturo na nasa puso ito ng tao."
 - **wp20 Blg. 1 p. 12-13 "Ang Katotohanan Tungkol sa Kaharian ng Diyos"** — "Lokasyon. Ang Kaharian ng Diyos ay isang totoong gobyerno na itinatag sa langit.—Daniel 2:44; Mateo 4:17." "Layunin. Gagawing paraiso ng Kaharian ng Diyos ang lupa. Dito titira nang payapa at nagkakaisa ang lahat ng tao. Hindi na sila magkakasakit at mamamatay.—Awit 37:11, 29." Nagsisimula ang artikulo sa Mateo 6:9, 10.
 - **bhs kab. 8 "Ano ang Kaharian ng Diyos?"** — ¶1: "MILYON-MILYON ang nakakaalam ng panalanging Ama Namin." ¶5: "Ang gobyerno ng Diyos ay mamamahala sa lupa mula sa langit. (Apocalipsis 11:15)" ¶15: "Gusto pa rin niyang tumira ang perpektong mga tao sa paraisong lupa magpakailanman." ¶17: Daniel 2:44 — (1) may mga gobyerno pa sa lupa kapag nagsimulang mamahala ang Kaharian, (2) hindi ito mapapalitan, (3) papalitan nito ang mga gobyerno ng tao. ¶21: "darating ang panahon, wala nang magkakasakit o mamamatay."
+- **v3 sources (Nov 1, 2026):** dp kab. 4 ¶33-36 (bato = Mesiyanikong Kaharian, natibag "sa pamamagitan ng kapangyarihan ng Diyos, hindi ng mga kamay ng tao"; tatama sa mga paa ng imahen; "hindi ... isasalin sa iba pang bayan"); lfb aral 60 (simple retelling of the dream); nwtsty study note Mat 6:10 ("kahilingan ito na kumilos na ang Diyos para ang kaniyang Kaharian ... ang maging tanging gobyerno na namamahala sa lupa"); lff 31 ¶3 ("Papalitan din kasi sila ng ibang tagapamahala ... Pero ang Tagapamahala ng Kaharian ng Diyos, si Jesus, ay hindi mapapalitan"). Dream details from the NWT crop of Dan 2:31-45 (p. 1374-1375). Note: the Catholic Tagalog Ama Namin words the line differently, so the intro says "may hiling po roon tungkol sa Kaharian" instead of quoting it.
+- **Public talk outline 21 (S-34):** not on jw.org/wol, so not available here.
 - **Background (it "Sinauna sa mga Araw" / Daniel 7):** ang "Sinauna sa mga Araw" ay si Jehova; ang "isang gaya ng anak ng tao" ay si Jesus (madalas tawagin ni Jesus ang sarili niya na "Anak ng tao").
 
 ---
