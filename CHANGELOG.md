@@ -20,6 +20,10 @@ All notable changes to this project will be documented in this file.
 - Three parallel red-team reviewers (talk + Hiyas, CBS, Watchtower), each running its own NWT column crops. No Bible-text mismatches. Applied: Watchtower 2 must-fix (old Awit 91 view wording; UN + supporting governments destroy false religion) plus 8 smaller fixes; talk and Hiyas 6 should-fix (Jehovah-lens answers no longer repeat the Oct 30 title, generic citation in the image section, IMAGE CUE line, unsourced Hiyas line); CBS 3 should-fix (current NWT Mat 9:22, own-view lines marked, Aral 3 rebuilt on Ruth 4:10) plus 4 picture/wording fixes.
 - Kept "Para sa akin din po ito" in the talk (self-inclusion per Aralin 19), against one suggestion.
 
+**Changed (after review):**
+- `docs/cbs/1106-wcg-kabanata-15/index.md`: removed the FORMULA box and the closing "Tandaan ang FORMULA" tip (Jayr).
+- `runbooks/cbs.md`: the wcg format no longer requires a FORMULA box; it follows the talks rule (rare, never the default).
+
 ---
 
 ## [4.49.0] - 2026-11-01

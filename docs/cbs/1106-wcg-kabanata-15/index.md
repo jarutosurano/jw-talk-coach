@@ -15,18 +15,6 @@ Nov 2-8, 2026
 
 **BASAHIN SA BIBLIYA:** Ruth 1:1–4:22
 
-!!! tip "FORMULA"
-    **Hindi Iniwan + Nagsipag + Nanganlong kay Jehova = Pinagpala**
-
-    | Sangkap | Saan natin iyon nakita | Teksto |
-    |---|---|---|
-    | Hindi Iniwan | "Pero hindi iniwan ni Ruth si Noemi" | Ruth 1:14, 16 |
-    | Nagsipag | "patuloy siyang namulot ng uhay sa bukid hanggang sa gumabi" | Ruth 2:7, 17 |
-    | Nanganlong kay Jehova | "nanganlong ka sa mga pakpak niya" | Ruth 2:12 |
-    | Pinagpala | Nagkaroon sila ng manunubos at ng apo, si Obed, na lolo ni Haring David | Ruth 4:14, 17; Mat. 1:5, 6 |
-
-    Hindi lang isa ang humarap sa problema. **Magkasama nila itong hinarap.**
-
 ---
 
 ## INTRO
@@ -327,13 +315,6 @@ Ginamit ni Jehova sina Ruth at Boaz para ingatan ang linya ng angkan na pagmumul
 
 !!! abstract "Aral"
     **Hindi pagiging makasarili ang susi.** Inuna ni Boaz ang kapakanan nina Noemi at Ruth, "para ang pangalan ng namatay ay maibalik sa kaniyang mana" (Ruth 4:10). Pinagpala siya ni Jehova, at nakalista siya sa angkan ni Jesus (Mat. 1:5).
-
----
-
-!!! tip "Tandaan ang FORMULA"
-    **Hindi Iniwan + Nagsipag + Nanganlong kay Jehova = Pinagpala**
-
-    Hindi natin kailangang harapin nang mag-isa ang mga problema. **Ginagamit ni Jehova ang isa't isa para alalayan tayo.**
 
 ---
 
