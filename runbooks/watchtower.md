@@ -34,7 +34,7 @@ Script header (top of file, in order):
 2. `Pag-aaral sa Bantayan — [study week dates]`
 3. `!!! quote` admonition with the theme scripture
 4. `**MATUTUTUHAN:**` line from the article
-5. `!!! tip "FORMULA"` — a memorable equation for the main topic (e.g., `Kapakumbabaan + Pagtitiis + Kabaitan at Malasakit = Pagkakaibigang Naiingatan`), with a small table mapping each element to its section/hamon. Repeat the formula in a closing `!!! tip` at the bottom.
+5. **No FORMULA box** (removed Nov 6, 2026, Jayr; formula is rare, never the default). Articles up to Oct 26–Nov 1 still have one; leave those as they are.
 
 Per question (use `### N — [exact question text] (Scripture ref if any)`):
 1. **Mahahalagang punto:** — unordered list of the paragraph's main points only (not full paragraph), with scripture refs inline

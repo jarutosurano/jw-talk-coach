@@ -23,6 +23,7 @@ All notable changes to this project will be documented in this file.
 **Changed (after review):**
 - `docs/cbs/1106-wcg-kabanata-15/index.md`: removed the FORMULA box and the closing "Tandaan ang FORMULA" tip (Jayr).
 - `runbooks/cbs.md`: the wcg format no longer requires a FORMULA box; it follows the talks rule (rare, never the default).
+- `docs/watchtower/magtiwalang-poprotektahan-ka-ni-jehova/index.md` and `runbooks/watchtower.md`: same change for the Watchtower (both FORMULA tips removed; no longer part of the required header).
 
 ---
 

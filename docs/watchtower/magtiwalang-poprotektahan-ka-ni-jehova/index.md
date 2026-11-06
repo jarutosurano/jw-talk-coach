@@ -9,17 +9,6 @@ Pag-aaral sa Bantayan — Nobyembre 2-8, 2026
 
 **MATUTUTUHAN:** Kung bakit tayo makakapagtiwala na poprotektahan tayo ni Jehova ngayon at sa hinaharap.
 
-!!! tip "FORMULA"
-    **Pagtitiwala kay Jehova + Ang Pangako Niyang Proteksiyon = Lakas-Loob na Harapin ang Hinaharap**
-
-    | Elemento | Seksiyon ng artikulo |
-    |----------|----------------------|
-    | **Pagtitiwala kay Jehova** | Isang Awit Tungkol sa Pagtitiwala at Proteksiyon (¶4-6) |
-    | **Ang Pangako Niyang Proteksiyon** | Anong Klase ng Proteksiyon ang Ipinapangako sa Awit 91? (¶7-10) at Paano Tayo Pinoprotektahan ni Jehova sa Ngayon? (¶11-17) |
-    | **Lakas-Loob na Harapin ang Hinaharap** | Paano Tayo Poprotektahan ni Jehova sa Hinaharap? (¶18-20) |
-
-    Galing ang formula sa huling pangungusap ng artikulo (¶20): *"Kaya lakas-loob sana nating harapin ang mga malapit nang mangyari, dahil sigurado tayong poprotektahan tayo ni Jehova."*
-
 ---
 
 ### 1-2 — Anong nakakagulat na mga pangyayari ang malapit na nating masaksihan?
@@ -414,9 +403,3 @@ Hindi tayo dapat matakot dahil sa Armagedon, walang isa man sa mga lingkod ng Di
     - Sa Armagedon: **walang isa man sa mga lingkod ng Diyos ang mapapatay** ng mga kaaway (Luc. 21:28; 2 Ped. 2:9).
     - Lubusang proteksiyon, **bilang grupo at bilang mga indibidwal**: **"Hindi iyon lalapit sa iyo."** (Awit 91:7)
 
----
-
-!!! tip "Tandaan ang FORMULA"
-    **Pagtitiwala kay Jehova + Ang Pangako Niyang Proteksiyon = Lakas-Loob na Harapin ang Hinaharap**
-
-    "Dahil sinabi mo: 'Si Jehova ang kanlungan ko,' Ginawa mong tahanan mo ang Kataas-taasan;" — **Awit 91:9**
