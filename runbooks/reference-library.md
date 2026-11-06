@@ -19,18 +19,22 @@ Full copyrighted JW publication PDFs are stored here for research/citation. This
 | w | Ang Bantayan (Pag-aaral) Hunyo 2026 | `w_TG_202606.pdf` |
 | w | Ang Bantayan (Pag-aaral) Hulyo 2026 — study articles Setyembre 7–Oktubre 4, 2026 | `w_TG_202607.pdf` |
 | w | Ang Bantayan (Pag-aaral) Agosto 2026 — study articles Oktubre 5–Nobyembre 1, 2026 (downloaded Oct 30 via jw.org pub-media API) | `w_TG_202608.pdf` |
+| w | Ang Bantayan (Pag-aaral) Setyembre 2026 — study articles Nobyembre 2–Disyembre 6, 2026 (downloaded Nov 6 via jw.org pub-media API) | `w_TG_202609.pdf` |
 | w | Ang Bantayan (Pag-aaral) Agosto 2020 — Araling Artikulo 33 "Pagkabuhay-Muli—Patunay ng Pag-ibig, Karunungan, at Pagtitiis ng Diyos" (Blg. 184 research) | `w_TG_202008.pdf` |
 | wcg | Lakas-Loob na Lumakad Kasama ng Diyos (Walk Courageously With God) — **current CBS book**, 54 kabanata | `wcg-lakas-loob-na-lumakad-kasama-ng-diyos.pdf` |
 | nwt | Bagong Sanlibutang Salin ng Banal na Kasulatan (makabagong-wika) — source for exact NWT Tagalog Bible text | `nwt-bagong-sanlibutang-salin.pdf` |
 | mwb | Workbook Para sa Pulong — Setyembre-Oktubre 2026 (Sep 7–Nov 1; Jeremias 32-48) | `mwb_TG_202609.pdf` + `mwb-rtf/202609/*.rtf` |
 | mwb | Workbook Para sa Pulong — Nobyembre-Disyembre 2026 (Nov 2–Ene 3; Jeremias 49–Ezekiel 10) | `mwb_TG_202611.pdf` + `mwb-rtf/202611/*.rtf` |
+| S-34 | Public talk outline Blg. 21 "Pahalagahan ang Papel Mo Bilang Sakop ng Kaharian" (30 min, 4/18). Speaker outline, not on jw.org; stored Nov 2, 2026. Its first point uses the same Dan 2:44 + Mat 6:9, 10 as lmd apendise A #21 | `s34/S-34_TG_021.docx` + `.txt` |
 
 **Workbook (mwb) tip:** `_00` is the first week, not a cover file (`202609_00` = Sep 7-13, `202611_00` = Nov 2-8).
 Read text from the RTF conversions in `reference/books/mwb-rtf/txt/`
 (one file per week, e.g. `mwb_TG_202609_04.txt` = Okt 5-11). They include every quoted Bible
 text and reference paragraph verbatim. To regenerate:
 `textutil -convert txt -output txt/NAME.txt 202609/NAME.rtf`. Use the PDF only to pull
-pictures (`pdfimages -j -f PAGE -l PAGE`).
+pictures (`pdfimages -j -f PAGE -l PAGE`). The PDF pictures are small (~356 px wide); for a talk picture,
+take the 1200 px copy from wol instead: find the week's page by phrase search (Nov 2-8, 2026 = doc `202026401`),
+grep its HTML for `/tl/wol/mp/r27/lp-tg/mwb26/2026/NNN` links, and download them (the larger file is the picture).
 
 ### Reading Exact Bible Text (`nwt-bagong-sanlibutang-salin.pdf`)
 
@@ -94,6 +98,9 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | Mateo 6:8-25 / Lucas 1:54-79 (1:79 sa 1573) | 1492 / 1572 |
 | Isaias 60:21–61:9 / Apocalipsis 10:11–11:15 | 1165 / 1893 |
 | Santiago 2:21–3:12 / Kawikaan 11:5-20 / Eclesiastes 3:4-22 / Efeso 4:24–5:12 | 1855 / 1011 / 1049 / 1794 |
+| Jeremias 48:45–50:40 (Jer 49-50) / Lucas 21:34–22:19 | 1263-1269 / 1616 |
+| Ruth 1:1–4:22 / Levitico 19:3-19 / Deuteronomio 24:13–25:6 | 444-449 / 225 / 348 |
+| Awit 91:1–92:3 / Mateo 4:1-23 / Mateo 5:20-36 | 941 / 1488 / 1490 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
 (`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
@@ -129,5 +136,9 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | wcg14 | wcg Kabanata 14 (Rahab) — Alamin + Tingnan Din references | CBS Oct 26–Nov 1 |
 | w26.08 | "Pahalagahan ang 'Pribilehiyong Gumawa ng Sagradong Paglilingkod'" (p. 20-25) | Watchtower Oct 26–Nov 1 |
 | lff/wp20/bhs | lff aralin 31, wp20 Blg. 1 p. 12-13, bhs kab. 8 — "Ano ang Kaharian ng Diyos?" | Pahayag Nov 13 (apendise A #21) |
+| it / w08 | it "Kapangahasan" (full) + w08 6/15 p. 7-11 "Mga Bagay na Dapat Nating Takasan" | 10-min talk Nov 6 "Tulungan ang Iba na Makinabang sa Awa ni Jehova" |
+| it | it "Bitag" (full) | Hiyas Nov 6 Tanong 1 (Jer 50:24) |
+| wcg15 | wcg Kabanata 15 (Noemi at Ruth) — Alamin + Tingnan Din references (ia 39 ¶23 tlb., ia 47 ¶17-18, w16.11 3, w23.03 14, w21.11 8-13, ijwis artikulo 12) | CBS Nov 2-8 |
+| w26.09 | "Magtiwalang Poprotektahan Ka ni Jehova" (p. 2-7) | Watchtower Nov 2-8 |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`

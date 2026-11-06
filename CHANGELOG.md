@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.50.0] - 2026-11-06
+
+### Week Nov 2-8 (Jeremias 49-50): 10-min talk, Hiyas, CBS, Watchtower
+
+**Added:**
+- `docs/talks/10min/1106-tulungan-ang-iba-na-makinabang-sa-awa-ni-jehova/` (+ `talks/10min/1106-…/outline.md, summary.md`): "Tulungan ang Iba na Makinabang sa Awa ni Jehova". Hook contrasts "Ako ay laban sa iyo" (Jer 50:31) with "Patatawarin ko" (Jer 50:20); green labels Ang Babilonya / Ang Israel / Tayo. No formula or acronym, and no device reused from the last 3 talks. ~1,177 spoken words. Picture is the 1200 px copy from wol.
+- `docs/espirituwal-na-hiyas/1106-jeremias-49-50/`: Tanong 1 Jer 50:24 (it "Bitag" ¶3, with Luc 21:34, 35); 10 gems that avoid the talk's verses; 3 handang sagot (49:11, 49:16, 50:34).
+- `docs/cbs/1106-wcg-kabanata-15/`: wcg kabanata 15 (Noemi at Ruth), all 11 questions.
+- `docs/watchtower/magtiwalang-poprotektahan-ka-ni-jehova/`: w26.09 "Magtiwalang Poprotektahan Ka ni Jehova" (Awit 91:9), study Nov 2-8.
+- `mkdocs.yml`: nav entries for all four (latest first).
+- `runbooks/reference-library.md`: w_TG_202609 row; NWT pages for Jer 49-50, Luc 21, Ruth, Lev 19, Deut 24-25, Awit 91, Mat 4-5; article rows (it "Kapangahasan", w08 6/15, it "Bitag", wcg15, w26.09); how to get the 1200 px workbook picture from wol (`/wol/mp/…`). Also the S-34 Blg. 21 row left uncommitted on Nov 2.
+
+**Verification:**
+- Three parallel red-team reviewers (talk + Hiyas, CBS, Watchtower), each running its own NWT column crops. No Bible-text mismatches. Applied: Watchtower 2 must-fix (old Awit 91 view wording; UN + supporting governments destroy false religion) plus 8 smaller fixes; talk and Hiyas 6 should-fix (Jehovah-lens answers no longer repeat the Oct 30 title, generic citation in the image section, IMAGE CUE line, unsourced Hiyas line); CBS 3 should-fix (current NWT Mat 9:22, own-view lines marked, Aral 3 rebuilt on Ruth 4:10) plus 4 picture/wording fixes.
+- Kept "Para sa akin din po ito" in the talk (self-inclusion per Aralin 19), against one suggestion.
+
+---
+
 ## [4.49.0] - 2026-11-01
 
 ### Nov 13 pahayag rewritten (v3); formula/acronym no longer a default
