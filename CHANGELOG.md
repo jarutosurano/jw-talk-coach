@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.51.0] - 2026-11-10
+
+### Week Nov 9-15 (Jeremias 51-52): 10-min talk, Hiyas, CBS, Watchtower
+
+**Added:**
+- `docs/talks/10min/1113-huwag-tularan-si-zedekias/` (+ `talks/10min/1113-…/outline.md, summary.md`): "Huwag Tularan si Zedekias" (Jer 52:1, 2; 52:3; 52:8-11; jr p. 29; w17.10 ¶9-12). Hook states facts from the text (21 years old, 11 years, a prophet to consult: his problem was not a lack of knowledge); green labels are three stages of his life (Nang maging hari siya / Nang maghimagsik siya / Nang maabutan siya). No formula or acronym. ~1,107 spoken words, which leaves about 50 words of room. Picture is the 1200 px copy from wol.
+- `docs/espirituwal-na-hiyas/1113-jeremias-51-52/`: Tanong 1 Jer 51:6, 7, 36 (jr 165 ¶21; 167 ¶25); 10 gems that avoid the talk's verses; 3 handang sagot (51:46, 51:58, 52:33).
+- `docs/cbs/1113-wcg-kabanata-16/`: wcg kabanata 16 (Barak at Debora), all 11 questions plus Tingnan Din; no FORMULA box.
+- `docs/watchtower/kung-paano-magkakaroon-ng-masunuring-puso/`: w26.09 p. 8-13 "Kung Paano Magkakaroon ng 'Masunuring Puso'" (1 Hari 3:9), study Nov 9-15; no FORMULA box.
+- `mkdocs.yml`: nav entries for all four (latest first).
+- `runbooks/reference-library.md`: NWT pages for Jer 51-52, Hukom 4-5, Awit 106, Jer 23, 2 Cro 19-20, 1 Hari 3; article rows (wcg16, w26.09 second article); the wol workbook docids run in week order (Nov 9-15 = `202026402`).
+
+**Verification:**
+- Three red-team reviewers (talk + Hiyas, CBS, Watchtower), each running its own NWT column crops. No Bible-text mismatches in any deliverable. The CBS reviewer was re-run after the first run was cut off by a usage limit.
+- Talk: 8 should-fix applied (no "outline natin" aloud; "gagawin ng tao" to match the reference; label "Nang maghimagsik siya" because Jer 52:3 is the broken oath, not the swearing; two unsourced lines replaced with the reference's wording; conclusion tightened and re-timed 2 / 1.5 min; recap merged into one sentence; "Para sa akin din po ito" dropped because all 3 previous talks used it).
+- Hiyas: 1 must-fix (jr ¶21 does not cite Jer 51:7, so that link is now marked as ours) and 3 should-fix (the text says "ika-37 taon" and one report per year; v. 59 says "iniutos").
+- Watchtower: 2 must-fix picture descriptions (six brothers, not five; the boy holds a lamp, not a bowl), 6 should-fix and 5 smaller fixes. The theme box keeps the full NWT 1 Hari 3:9, as last week's file did.
+- CBS: 1 must-fix (Larawan A: the two walkers are not two men) and 9 should-fix (invented inner states removed, "marurunong na tao ni Sisera", a headship-balance bullet under question 6, Huk. 5:31 no longer called a foretaste). Also completed the Huk. 4:6 quote to the full NWT clause ("…si Jehova na Diyos ng Israel?").
+- Not done: `mkdocs build` (mkdocs is not installed on this machine); the GitHub Pages build is the check. CBS spoken answers run 80-130 words, the same as kabanata 15, and were not trimmed.
+
+---
+
 ## [4.50.0] - 2026-11-06
 
 ### Week Nov 2-8 (Jeremias 49-50): 10-min talk, Hiyas, CBS, Watchtower

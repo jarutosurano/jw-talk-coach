@@ -33,7 +33,7 @@ Read text from the RTF conversions in `reference/books/mwb-rtf/txt/`
 text and reference paragraph verbatim. To regenerate:
 `textutil -convert txt -output txt/NAME.txt 202609/NAME.rtf`. Use the PDF only to pull
 pictures (`pdfimages -j -f PAGE -l PAGE`). The PDF pictures are small (~356 px wide); for a talk picture,
-take the 1200 px copy from wol instead: find the week's page by phrase search (Nov 2-8, 2026 = doc `202026401`),
+take the 1200 px copy from wol instead: find the week's page by phrase search (Nov 2-8, 2026 = doc `202026401`; the docids run in week order, so Nov 9-15 = `202026402`),
 grep its HTML for `/tl/wol/mp/r27/lp-tg/mwb26/2026/NNN` links, and download them (the larger file is the picture).
 
 ### Reading Exact Bible Text (`nwt-bagong-sanlibutang-salin.pdf`)
@@ -101,6 +101,9 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | Jeremias 48:45–50:40 (Jer 49-50) / Lucas 21:34–22:19 | 1263-1269 / 1616 |
 | Ruth 1:1–4:22 / Levitico 19:3-19 / Deuteronomio 24:13–25:6 | 444-449 / 225 / 348 |
 | Awit 91:1–92:3 / Mateo 4:1-23 / Mateo 5:20-36 | 941 / 1488 / 1490 |
+| Jeremias 50:41–52:34 (Jer 51-52) | 1270-1277 |
+| Hukom 3:25–6:11 (Huk 4-5) | 411-415 |
+| Awit 106:1-7 / Jeremias 23:1-13 / 2 Cronica 19:3–20:20 / 1 Hari 3:2-17 | 954 / 1219 / 710-711 / 550 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
 (`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
@@ -140,5 +143,7 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | it | it "Bitag" (full) | Hiyas Nov 6 Tanong 1 (Jer 50:24) |
 | wcg15 | wcg Kabanata 15 (Noemi at Ruth) — Alamin + Tingnan Din references (ia 39 ¶23 tlb., ia 47 ¶17-18, w16.11 3, w23.03 14, w21.11 8-13, ijwis artikulo 12) | CBS Nov 2-8 |
 | w26.09 | "Magtiwalang Poprotektahan Ka ni Jehova" (p. 2-7) | Watchtower Nov 2-8 |
+| wcg16 | wcg Kabanata 16 (Barak at Debora) — Alamin + Tingnan Din references (w15 8/1 12-13, w86 6/1 31, w05 1/15 25, w17.04 28-32, w03 11/15 28-31) | CBS Nov 9-15 |
+| w26.09 | "Kung Paano Magkakaroon ng 'Masunuring Puso'" (p. 8-13) | Watchtower Nov 9-15 |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`
