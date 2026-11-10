@@ -92,14 +92,14 @@ None.
 
 **KUNG ANO ANG GAGAWIN:** Gumamit ng mapagkakatiwalaang mga ebidensiya para matulungan ang mga tagapakinig na makabuo ng tamang konklusyon.
 
-**Kung paano inilapat sa pahayag (v4):**
+**Kung paano inilapat sa pahayag (v5, pagkatapos ng red team):**
 
 | Bahagi ng aralin 7 | Saan sa script |
 |---|---|
-| Gumamit ng mapagkakatiwalaang reperensiya; basahin mismo ang Bibliya | Dan 2:44 at Mat 6:9, 10 ay binabasa nang buo (NWT). "Milyon-milyon ang nakakaalam" (bhs kab. 8 ¶1). Ang ilustrasyon ng kabisera ay mula sa be p. 280 |
-| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Hula" ang tawag sa Dan 2:44 (bhs ¶16); ang panaginip ay sa hari (mrt 125). "Kumilos na ang Kaharian" (kr kab. 1 ¶9), hindi "wala pa ang Kaharian". "Mamamahala siya mula sa langit" (lff 31 ¶1) |
-| Huwag sosobrahan | "Sa maraming simbahan" = "maraming relihiyong Kristiyano" (jw.org talababa), hindi "lahat". "Maraming tao ang hindi pa nakakarating sa kabisera" (be: "maraming tao"). "Mga gobyerno ng tao", hindi "lahat ng gobyerno sa mundo" |
-| Mangatuwiran batay sa ebidensiya, gamit ang tanong | Pagkatapos ng Dan 2:44: "Sino po ang magtatatag?" · "Ano ang wawakasan nito? Damdamin ba sa puso ng tao?" → "ang lahat ng kahariang iyon" → gobyerno ang papalit sa gobyerno. Pagkatapos ng Mat 6:10: "Hinihiling po ba nating dumating ang isang bagay na nasa loob na natin?" |
+| Gumamit ng mapagkakatiwalaang reperensiya; basahin mismo ang Bibliya | Dan 2:44 at Mat 6:9, 10 ay binabasa nang buo (NWT). "Milyon-milyon ang nakakaalam" (bhs kab. 8 ¶1). Ang larawan ng kabisera ay mula sa be p. 280; ang linyang "walang magsasabing nasa puso lang nila ang gobyerno" ay atin, hindi sa be |
+| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Hula" ang tawag sa Dan 2:44 (bhs ¶16); ang panaginip ay sa hari (mrt 125); bato = Kaharian (mrt 125), sinasabi bago ang pagbasa dahil ang v. 44 ay hindi bumabanggit ng bato. "Kumilos na" (kr kab. 1 ¶9). "Mula sa langit siya mamamahala" (lff 31 ¶1) |
+| Huwag sosobrahan | "Marami po ang nagsasabing nasa puso" (jw.org: "maraming relihiyong Kristiyano"); hindi na "damdamin sa puso" (ang turo nila ay pamamahala ng Diyos sa puso). "Sa malaking bansa, marami ang…" (be: "sa isang malaking bansa, maraming tao"). "Aalisin ng Kaharian ng Diyos ang sakit", hindi pangako tungkol sa isang partikular na tao |
+| Mangatuwiran batay sa ebidensiya, gamit ang tanong | Bawat punto: dalawang tanong sa "Pansinin po", at iyon ding dalawa ang sinasagot mula sa teksto. Dan 2:44: sino ang magtatatag? ano ang wawakasan? → "Kaya po ba iyon ng nasa puso lang?" Mat 6:9, 10: kaninong Kaharian? saan mangyayari ang kalooban niya? |
 
 ---
 
@@ -108,10 +108,11 @@ None.
 <!-- Struggles, goals, audience type, timing reminders. -->
 
 - **Goal ni Jayr (Nov 10):** simple at madaling maintindihan; isang simple pero malakas na ilustrasyon; makapagsalita nang walang script (memory palace); 4 minuto para may oras huminga at tumingin sa audience.
-- **Aralin 1 (intro):** interes (Ama Namin) → paksa (tema) → bakit mahalaga ("para alam natin kung ano talaga ang hinihiling natin"). Ang v3 intro ay walang "bakit mahalaga" at nagtapos sa "Magsimula po tayo sa isang panaginip."
+- **Aralin 1 (intro):** interes (Ama Namin) → paksa (tema) → bakit mahalaga ("Kung hindi natin alam kung ano iyon, ano po ang hinihiling natin?"). Ang v3 intro ay walang "bakit mahalaga" at nagtapos sa "Magsimula po tayo sa isang panaginip."
 - **Hula, hindi panaginip:** ang tema ay "totoong gobyerno"; mas tumpak at mas nakakakumbinsi ang "hula". Isang beses lang binabanggit ang panaginip, bilang paraan ng pagbibigay ng hula.
 - **Isang ilustrasyon lang:** ang kabisera na hindi pa napupuntahan (be p. 280). Hindi ginamit: pag-ibig sa bayan (nasa puso) vs gobyerno; ang araw (nasa langit, ramdam sa lupa).
 - **Heart point:** Punto 2, "Isipin po natin ang mahal natin sa buhay na may sakit ngayon." Payak lang ang pagsasabi.
-- **Timing (v4):** ~500 spoken words kasama ang 2 pagbasa (v3: ~514; Oct 23 pahayag: ~487 ≈ 4:00). Mga 4:05; ang cut list ay nasa vault note.
+- **Ayos ng bawat punto (v5):** signpost ("Una… / Pangalawa…") → isang linya ng background → "Pansinin po" (dalawang tanong) → basahin → sagutin ang dalawang tanong mula sa teksto → isang pangungusap na bumabalik sa tema. Ginawa ito dahil "nawawala sa transition" ang v4.
+- **Timing (v5):** ~495 spoken words kasama ang 2 pagbasa (Oct 23 pahayag: ~487 ≈ 4:00). Mga 4:04; ang cut list ay nasa vault note.
 - **Memory palace:** 7 stops, nasa vault note (`~/Documents/jw/jw-vault/Talks/5-min/2026-11-13 …md`).
 - **Outline scriptures only:** Dan 2:44; Mat 6:9, 10 ang binabasa. Ang Dan 7:13, 14 at Apoc 11:15 ay hindi binabasa.

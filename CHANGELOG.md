@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.53.0] - 2026-11-10
+
+### Nov 13 pahayag v5: one pattern per point, transitions rebuilt after a 3-lens red team
+
+**Changed:**
+- `docs/talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md`: Jayr said v4 "got lost in transition". Both points now follow one pattern: signpost ("Una, ang hula" / "Pangalawa, ang panalangin"), one line of background, "Pansinin po" with two questions, the reading, the same two questions answered from the verse, and one sentence that lands on the theme. ~495 spoken words.
+- `talks/5min/1113-…/outline.md`: v5 th aralin 7 table and notes.
+
+**Verification (three reviewers, one lens each):**
+- Accuracy: both readings match the NWT crops word for word and every sourced line is faithful. Applied: the stone is now identified before the reading ("Kaharian po ang batong iyon", mrt 125), because v. 44 itself does not mention it; "Damdamin ba sa puso ng tao?" was dropped because it understated what other churches teach; the sick-loved-one line no longer reads as a promise about one person; "Sa malaking bansa, marami…" keeps the source's qualifier.
+- Structure: the reviewer's run was cut off by a usage limit after it saved its revised script but before its written report; the revised script was used.
+- Listener: applied 3 must-fix (the chain of five questions after the Daniel reading cut to the two promised ones plus one answered reasoning question; point 2 no longer argues "hindi galing sa puso" from "Kaharian mo"; the point 2 landing now joins "dito sa lupa" and "sa langit") and 7 should-fix (a real "why it matters" line, the request stated plainly, "Marami po ang nagsasabing…" instead of naming churches, "imahen, o estatuwa").
+- Not applied: "Marami po sa atin ang hindi pa nakakarating sa kabisera" (the source says "sa isang malaking bansa, maraming tao"); "rebulto" (the NWT footnote says "estatuwa"). Not timed aloud yet.
+
+---
+
 ## [4.52.0] - 2026-11-10
 
 ### Nov 13 pahayag v4: "hula" not "panaginip", Aralin 1 intro, one illustration
