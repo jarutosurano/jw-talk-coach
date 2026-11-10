@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.52.0] - 2026-11-10
+
+### Nov 13 pahayag v4: "hula" not "panaginip", Aralin 1 intro, one illustration
+
+**Changed:**
+- `docs/talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md`: rewritten as v4 because Jayr was still not satisfied with v3. Daniel 2:44 is now presented as a hula given through the king's dream (one line of background, no statue anatomy). The intro adds why the answer matters (Aralin 1) and previews "isang hula at isang panalangin". One illustration from the publications (be p. 280: the capital never visited). "Dumating nawa" is explained as "kumilos na" (kr kab. 1 ¶9), and the heart point uses w14 10/1 p. 16. ~500 spoken words (v3: ~514).
+- `talks/5min/1113-…/outline.md`: v4 main points, sources, accuracy limits, th aralin 7 table and notes.
+
+**Verification:**
+- Three independent researchers searched jw.org / wol.jw.org only; each checked its quotes against the fetched pages, and all three agreed on "hula" for Dan 2:44. The two Bible readings are unchanged from v3 (exact NWT crops).
+- Not red-teamed, and not timed aloud yet (about 4:05 by word count). The memory-palace practice note is in the private Obsidian vault, not in this repo.
+
+---
+
 ## [4.51.0] - 2026-11-10
 
 ### Week Nov 9-15 (Jeremias 51-52): 10-min talk, Hiyas, CBS, Watchtower

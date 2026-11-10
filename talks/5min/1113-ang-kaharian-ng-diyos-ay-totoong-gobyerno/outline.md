@@ -18,7 +18,15 @@ lmd apendise A: #21—Tema: Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa L
 
 **21. Ang Kaharian ng Diyos ay isang totoong gobyerno sa langit.**—Daniel 2:44; 7:13, 14; Mateo 6:9, 10; Apocalipsis 11:15.
 
-<!-- Main points (Nov 1 v3 — rewrite; Jayr: v2 "tasteless", drop LANGIT/LUPA, no formula or acronym).
+<!-- Main points (Nov 10 v4 — Jayr: still not satisfied with v3; say "hula" not "panaginip"; intro per Aralin 1; one simple illustration; simpler explanation; memory palace).
+Intro: Ama Namin (milyon-milyon ang nakakaalam) → ano ang kahariang iyon? → "nasa puso" belief → bakit mahalaga ang sagot (Aralin 1) → tema → "isang hula at isang panalangin".
+1. Ang hula, Dan 2:44 — one line of background (hula na ibinigay sa pamamagitan ng panaginip ng hari; imahen = sunod-sunod na gobyerno ng tao; bato), no statue anatomy.
+   Aralin 7 reasoning from the verse's own words: sino ang magtatatag? ano ang wawakasan, damdamin sa puso? → "ang lahat ng kahariang iyon" → gobyerno ang papalit sa gobyerno.
+   One illustration (be p. 280): the capital never visited, the ruler never seen in person; still a real government (namamahala, batas, mamamayan).
+2. Ang panalangin, Mat 6:9, 10 — "Dumating nawa" = kumilos na (kr kab. 1 ¶9); "gayon din sa lupa" → w14 10/1 p. 16 ← heart point.
+-->
+
+<!-- Earlier: Main points (Nov 1 v3 — rewrite; Jayr: v2 "tasteless", drop LANGIT/LUPA, no formula or acronym).
 Intro: Ama Namin (kabisado ng marami) → "nasa puso" belief, reported accurately → tema.
 1. Dan 2:44 — ikuwento muna ang panaginip (Dan 2:31-45, as explanation, not read): imahen = sunod-sunod na gobyerno ng tao;
    batong natibag hindi ng kamay ng tao = Kaharian. Aralin 7 reasoning: ano ang tinamaan ng bato? Hindi puso, kundi gobyerno.
@@ -39,6 +47,14 @@ Ang Dan 7:13, 14 at Apoc 11:15 ay hindi binabasa. Ayon sa apendise A mismo: "gum
 - **wp20 Blg. 1 p. 12-13 "Ang Katotohanan Tungkol sa Kaharian ng Diyos"** — "Lokasyon. Ang Kaharian ng Diyos ay isang totoong gobyerno na itinatag sa langit.—Daniel 2:44; Mateo 4:17." "Layunin. Gagawing paraiso ng Kaharian ng Diyos ang lupa. Dito titira nang payapa at nagkakaisa ang lahat ng tao. Hindi na sila magkakasakit at mamamatay.—Awit 37:11, 29." Nagsisimula ang artikulo sa Mateo 6:9, 10.
 - **bhs kab. 8 "Ano ang Kaharian ng Diyos?"** — ¶1: "MILYON-MILYON ang nakakaalam ng panalanging Ama Namin." ¶5: "Ang gobyerno ng Diyos ay mamamahala sa lupa mula sa langit. (Apocalipsis 11:15)" ¶15: "Gusto pa rin niyang tumira ang perpektong mga tao sa paraisong lupa magpakailanman." ¶17: Daniel 2:44 — (1) may mga gobyerno pa sa lupa kapag nagsimulang mamahala ang Kaharian, (2) hindi ito mapapalitan, (3) papalitan nito ang mga gobyerno ng tao. ¶21: "darating ang panahon, wala nang magkakasakit o mamamatay."
 - **v3 sources (Nov 1, 2026):** dp kab. 4 ¶33-36 (bato = Mesiyanikong Kaharian, natibag "sa pamamagitan ng kapangyarihan ng Diyos, hindi ng mga kamay ng tao"; tatama sa mga paa ng imahen; "hindi ... isasalin sa iba pang bayan"); lfb aral 60 (simple retelling of the dream); nwtsty study note Mat 6:10 ("kahilingan ito na kumilos na ang Diyos para ang kaniyang Kaharian ... ang maging tanging gobyerno na namamahala sa lupa"); lff 31 ¶3 ("Papalitan din kasi sila ng ibang tagapamahala ... Pero ang Tagapamahala ng Kaharian ng Diyos, si Jesus, ay hindi mapapalitan"). Dream details from the NWT crop of Dan 2:31-45 (p. 1374-1375). Note: the Catholic Tagalog Ama Namin words the line differently, so the intro says "may hiling po roon tungkol sa Kaharian" instead of quoting it.
+- **v4 sources (Nov 10, 2026; three independent researchers, jw.org / wol.jw.org only, every quote checked against the fetched page):**
+  - Hula: "Sinasabi ng hula sa Daniel 2:44" (bhs kab. 8 ¶16); "Ibinigay ng Diyos ang hulang ito sa Bibliya sa pamamagitan ng isang panaginip sa hari ng Babilonya" (jw.org mrt artikulo 125); nwtsty outline: "Ang ibig sabihin ng panaginip (36-45)", so v. 44 is Daniel's explanation, not the dream scene.
+  - Text then conclusion: "(Daniel 2:44) Totoong gobyerno ang Kaharian ng Diyos." (wp16 Blg. 5 p. 16); "isang Kaharian, o gobyerno, na papalit sa lahat ng gobyerno ng tao" (wp20 Blg. 2 p. 4-5).
+  - Illustration: "sa isang malaking bansa, maraming tao ang hindi pa kailanman nakararating sa kabisera o nakikita nang personal ang kanilang tagapamahala" (be p. 280); "Ang Kaharian ng Diyos ay may mga tagapamahala, mamamayan, at batas" (ijwbq 79); "Ang isang gobyerno ay may mga tagapamahala, kautusan, at mga sakop" (w08 8/1 p. 6-8).
+  - Bridge to Mateo: "Ang Kaharian ding ito ang itinuro ni Jesus na ipanalangin ng mga tagasunod niya" (mrt 125); "Ito ang Kaharian na ipinapanalangin ng milyon-milyong tao. (Mateo 6:9, 10)" (wp20 Blg. 2 p. 4-5).
+  - Mat 6:10: "hinihiling natin na kumilos na ang Kaharian" (kr kab. 1 ¶9); heart: "Walang gobyerno ng tao na lubusang makapag-aalis ng sakit, karahasan, o kawalang-katarungan. Pero magagawa ito at gagawin ito ng Kaharian ng Diyos." (w14 10/1 p. 16).
+  - Accuracy limits: the Kingdom is already set up in heaven and the crushing is still future, so "dumating" = kumilos, not "wala pa" (kr kab. 1 ¶10); "lahat ng kahariang iyon" in Dan 2:44 = the kingdoms pictured by the image (w12 6/15 p. 17 kahon), so the script says "mga gobyerno ng tao", not "lahat ng gobyerno sa mundo"; the verse says "Diyos ng langit" (who sets it up), and the location "mula sa langit" comes from lff 31 ¶1; Jesus is the Hari, not God himself (wp20 Blg. 2 p. 4-5). Several older sources (kr, w14, w08, be) quote the old NWT wording: used for the idea only.
+  - Full reports (local scratchpad, this session only): r1_report.md, r2_report.md, r3_report.md.
 - **Public talk outline 21 (S-34):** not on jw.org/wol, so not available here.
 - **Background (it "Sinauna sa mga Araw" / Daniel 7):** ang "Sinauna sa mga Araw" ay si Jehova; ang "isang gaya ng anak ng tao" ay si Jesus (madalas tawagin ni Jesus ang sarili niya na "Anak ng tao").
 
@@ -76,14 +92,14 @@ None.
 
 **KUNG ANO ANG GAGAWIN:** Gumamit ng mapagkakatiwalaang mga ebidensiya para matulungan ang mga tagapakinig na makabuo ng tamang konklusyon.
 
-**Kung paano inilapat sa pahayag:**
+**Kung paano inilapat sa pahayag (v4):**
 
 | Bahagi ng aralin 7 | Saan sa script |
 |---|---|
-| Ibatay sa Salita ng Diyos; basahin mismo ang Bibliya | Dan 2:44 at Mat 6:9, 10 ay binabasa nang buo (NWT) |
-| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Si Jesus ang Hari nito, at mamamahala siya mula sa langit" — lff aralin 31 ¶1. Ang "magkasunod na hiling" ng Mat 6:10 → ang Kaharian ang gagamitin para mangyari ang kalooban ng Diyos (bhs kab. 8 ¶21) |
-| Huwag sosobrahan; iulat nang tama ang ibang paniniwala | "sa maraming simbahan, itinuturo na nasa puso ito ng tao" — jw.org "Ang Kaharian ba ng Diyos ay Basta Nasa Puso Mo Lang?" talababa: "Itinuturo ng maraming relihiyong Kristiyano na ang Kaharian ng Diyos ay nasa loob ng isang tao, o nasa kaniyang puso." (buong text: `reference/articles/jw-kaharian-basta-nasa-puso-lang.md`) |
-| Mangatuwiran batay sa ebidensiya, gamit ang tanong | Ebidensiya sa mismong teksto: iisang salitang "kaharian" sa Dan 2:44 · "Kaya po bang durugin at wakasan ng isang bagay na nasa puso lang ang lahat ng gobyerno sa mundo?" |
+| Gumamit ng mapagkakatiwalaang reperensiya; basahin mismo ang Bibliya | Dan 2:44 at Mat 6:9, 10 ay binabasa nang buo (NWT). "Milyon-milyon ang nakakaalam" (bhs kab. 8 ¶1). Ang ilustrasyon ng kabisera ay mula sa be p. 280 |
+| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Hula" ang tawag sa Dan 2:44 (bhs ¶16); ang panaginip ay sa hari (mrt 125). "Kumilos na ang Kaharian" (kr kab. 1 ¶9), hindi "wala pa ang Kaharian". "Mamamahala siya mula sa langit" (lff 31 ¶1) |
+| Huwag sosobrahan | "Sa maraming simbahan" = "maraming relihiyong Kristiyano" (jw.org talababa), hindi "lahat". "Maraming tao ang hindi pa nakakarating sa kabisera" (be: "maraming tao"). "Mga gobyerno ng tao", hindi "lahat ng gobyerno sa mundo" |
+| Mangatuwiran batay sa ebidensiya, gamit ang tanong | Pagkatapos ng Dan 2:44: "Sino po ang magtatatag?" · "Ano ang wawakasan nito? Damdamin ba sa puso ng tao?" → "ang lahat ng kahariang iyon" → gobyerno ang papalit sa gobyerno. Pagkatapos ng Mat 6:10: "Hinihiling po ba nating dumating ang isang bagay na nasa loob na natin?" |
 
 ---
 
@@ -91,10 +107,11 @@ None.
 
 <!-- Struggles, goals, audience type, timing reminders. -->
 
-- **Goal ni Jayr:** malakas na intro (simple analogy + tanong) → dalawang punto (LANGIT, LUPA); 4 minuto lang; maabot ang puso.
-- **Intro analogy:** visa application — hindi mo nakikita ang officer, pero totoo siya at kayang baguhin ang buhay mo. Pangkalahatan lang; walang personal na detalye.
-- **Heart point:** Punto 2, LUPA (Mateo 6:9, 10) — "Isipin po natin ang pinakamabigat na dinadala natin ngayon..." Dahan-dahan dito, may pause bago ang "Mga ganiyang problema ang aayusin ni Jehova..."
-- **Timing (v2, 2 teksto):** ~495 spoken words, kasama ang ~78 salita ng 2 pagbasa — halos kapareho ng Oct 23 pahayag (487 words ≈ 4:00). May ~1 minutong buffer sa 5-minutong slot.
-- **Kung lumampas sa 4:00 sa practice**, tanggalin (sa ganitong ayos): (1) "Kadalasan," sa intro. (2) "Dalawang teksto po ang magpapatunay niyan." (3) "Kaya tandaan po natin ang dalawang salita." → simulan na lang sa recap. Huwag tanggalin o madaliin ang heart section.
-- **Delivery:** isang beat na pause bago ang bawat green na opener; pause bago ang "Mga ganiyang problema ang aayusin ni Jehova..." at bago ang "Hindi po." sa Punto 1
-- **Outline scriptures only:** Dan 2:44; 7:13, 14; Mat 6:9, 10; Apoc 11:15. Walang ibang babasahin.
+- **Goal ni Jayr (Nov 10):** simple at madaling maintindihan; isang simple pero malakas na ilustrasyon; makapagsalita nang walang script (memory palace); 4 minuto para may oras huminga at tumingin sa audience.
+- **Aralin 1 (intro):** interes (Ama Namin) → paksa (tema) → bakit mahalaga ("para alam natin kung ano talaga ang hinihiling natin"). Ang v3 intro ay walang "bakit mahalaga" at nagtapos sa "Magsimula po tayo sa isang panaginip."
+- **Hula, hindi panaginip:** ang tema ay "totoong gobyerno"; mas tumpak at mas nakakakumbinsi ang "hula". Isang beses lang binabanggit ang panaginip, bilang paraan ng pagbibigay ng hula.
+- **Isang ilustrasyon lang:** ang kabisera na hindi pa napupuntahan (be p. 280). Hindi ginamit: pag-ibig sa bayan (nasa puso) vs gobyerno; ang araw (nasa langit, ramdam sa lupa).
+- **Heart point:** Punto 2, "Isipin po natin ang mahal natin sa buhay na may sakit ngayon." Payak lang ang pagsasabi.
+- **Timing (v4):** ~500 spoken words kasama ang 2 pagbasa (v3: ~514; Oct 23 pahayag: ~487 ≈ 4:00). Mga 4:05; ang cut list ay nasa vault note.
+- **Memory palace:** 7 stops, nasa vault note (`~/Documents/jw/jw-vault/Talks/5-min/2026-11-13 …md`).
+- **Outline scriptures only:** Dan 2:44; Mat 6:9, 10 ang binabasa. Ang Dan 7:13, 14 at Apoc 11:15 ay hindi binabasa.
