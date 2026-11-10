@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.54.0] - 2026-11-10
+
+### Nov 13 pahayag v7: Jayr's practice edits, "Ano po ang natutuhan natin dito?", Ottawa illustration, platform contrast
+
+**Changed:**
+- `docs/talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md`: rebuilt with Jayr while he practised aloud. After each reading: "Ano po ang natutuhan natin dito?" and short numbered lessons (Dan 2:44: three; Mat 6:9, 10: two). Point 1 names Nabucodonosor, Daniel and the world powers up to Britain and America; Jesus as King in heaven since 1914. The capital illustration now uses Parliament in Ottawa (the congregation is in Canada), with the Prime Minister unnamed. Point 2 explains "kung paano sa langit" (the Kingdom already rules in heaven) and contrasts human government "platforms" with what God's Kingdom will do (no sickness, no death). Conclusion restates the theme first. ~561 spoken words; timed aloud by Jayr.
+- `talks/5min/1113-…/outline.md`: v7 th aralin 7 table and notes.
+
+**Verification (two red-team passes, wol.jw.org only):**
+- Facts confirmed: world powers and the feet = Anglo-America (w12 9/15 ¶13; w23 Agosto ¶12-13; es24 Mayo 31); the UN is not in Daniel 2 (Apo 17); Daniel explained the dream (w23 Agosto ¶12); Jesus King in heaven since 1914 (bhs kab. 8 ¶23; w20 Mayo ¶17; S-34 Blg. 21); the Kingdom acts on earth and removes sickness and death (w14 "Dumating Nawa ang Iyong Kaharian" ¶9; w17 Nobyembre ¶16); God's will done on earth as in heaven (lr kab. 12).
+- Applied: no politician's name from the platform; "nagsimulang mamahala" grammar; "Siguro marami po" (not everyone); "Sabi ni Jesus" wording dropped in favour of Jayr's shorter lessons; exact NWT comma before "gayon din sa lupa".
+- Not applied (Jayr's call): cutting 1914; replacing "daw" in the platform list.
+
+---
+
 ## [4.53.0] - 2026-11-10
 
 ### Nov 13 pahayag v5: one pattern per point, transitions rebuilt after a 3-lens red team

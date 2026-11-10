@@ -12,63 +12,87 @@ Milyon-milyon po ang nakakaalam ng panalanging Ama Namin. Doon, hinihiling natin
 
 Kung hindi natin alam kung ano iyon, ano po ang hinihiling natin?
 
-Ito po ang sagot ng Bibliya: **==Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit==**. Dalawang patunay: isang hula, at ang panalangin mismo.
+Ito po ang sagot ng Bibliya: **==Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit==**. Dalawang patunay: isang hula sa Bibliya, at ang panalanging itinuro ni Jesus.
 
 ---
 
-## 1 — Daniel 2:44: Ang hula [1.75 minuto]
+## 1 — Daniel 2:44: Ang hula [2 minuto]
 
-<mark class="green">**Una, ang hula.**</mark> Ibinigay ito ng Diyos sa isang panaginip ng hari ng Babilonya. Nakakita siya ng isang malaking imahen, o estatuwa. Sunod-sunod na gobyerno ng tao ang kahulugan nito. Dinurog ito ng isang bato.
+<mark class="green">**Una, ang hula.**</mark>
 
-Kaharian po ang batong iyon. Buksan po natin ang Daniel kabanata 2, bersikulo 44. Pansinin po kung sino ang magtatatag ng kahariang ito, at kung ano ang wawakasan nito.
+Binigyan ng Diyos ng isang panaginip si Nabucodonosor, ang hari ng Babilonya. Nakakita siya ng isang malaking imahen, o estatuwa, at ng isang bato na dumurog dito.
+
+Ipinaliwanag ito ng Diyos sa pamamagitan ni propeta Daniel. Ang imahen ay sunod-sunod na world power: Babilonya, Medo-Persia, Gresya, Roma, at sa panahon natin, ang Britanya at Amerika. Ang bato naman ay isang kaharian.
+
+Buksan po natin ang Daniel kabanata 2, bersikulo 44. Pansinin po ang tatlong bagay tungkol sa kahariang ito: sino ang magtatatag nito, ano ang gagawin nito, at gaano ito katagal.
 
 *[Basahin ang Daniel 2:44]*
 
 !!! quote "Daniel 2:44"
     "Sa panahon ng mga haring iyon, ang Diyos ng langit ay magtatatag ng isang kaharian na hindi mawawasak kailanman. At ang kahariang ito ay hindi ibibigay sa ibang bayan. Dudurugin nito at wawakasan ang lahat ng kahariang iyon, at ito lang ang mananatili magpakailanman."
 
-Sino po ang magtatatag? **"Ang Diyos ng langit."** Hindi po tao.
+Ano po ang natutuhan natin dito? Tatlo.
 
-At ano ang wawakasan nito? **"Ang lahat ng kahariang iyon,"** mga gobyerno ng tao. Kaya po ba iyon ng nasa puso lang? Hindi po. Gobyerno ang papalit sa gobyerno.
+**Una,** Diyos ang magtatatag nito.
 
-Base sa referensya natin, si Jesus ang Hari nito, at mula sa langit siya mamamahala.
+**Pangalawa,** papalitan nito ang mga gobyerno ng tao.
 
-Totoo po ba ang gobyernong hindi natin nakikita? Sa malaking bansa, marami ang hindi pa nakakarating sa kabisera, at hindi pa nakikita nang personal ang namumuno sa kanila. Pero wala pong magsasabing nasa puso lang nila ang gobyerno. Totoo iyon: may namamahala, may batas, may mamamayan.
+**Pangatlo,** hindi na ito mapapalitan.
 
-Ganiyan din po ang Kaharian ng Diyos: nasa langit, hindi natin nakikita, pero totoong gobyerno.
+Sino po ang Hari nito? Si Jesus. Saan siya namamahala? Sa langit. At kailan siya nagsimulang mamahala? Noong 1914.
+
+Pero totoo po ba ang gobyernong hindi natin nakikita? Siguro marami po sa atin ang hindi pa nakakapunta sa Parliament sa Ottawa, at hindi pa nakikita nang personal ang Prime Minister. Pero alam nating totoo ang gobyerno ng Canada.
+
+Ganiyan din po ang Kaharian ng Diyos: nasa langit, hindi natin nakikita, pero **totoong gobyerno**.
 
 ---
 
-## 2 — Mateo 6:9, 10: Ang panalangin [1.25 minuto]
+## 2 — Mateo 6:9, 10: Ang panalangin [1.5 minuto]
 
-<mark class="green">**Pangalawa, ang panalangin.**</mark> Ang Kaharian ding ito ang itinuro ni Jesus na ipanalangin natin. Buksan po natin ang Mateo kabanata 6, bersikulo 9 at 10. Pansinin po kung kaninong Kaharian ang hinihiling, at kung saan mangyayari ang kalooban ng Diyos.
+<mark class="green">**Pangalawa, ang panalangin.**</mark>
+
+Ang Kaharian ding ito ang itinuro ni Jesus na ipanalangin natin. Buksan po natin ang Mateo kabanata 6, bersikulo 9 at 10. At pansinin po ang dalawang bagay: kanino ang Kaharian, at ano ang gagawin nito.
 
 *[Basahin ang Mateo 6:9, 10]*
 
 !!! quote "Mateo 6:9, 10"
     "Manalangin kayo sa ganitong paraan: 'Ama namin na nasa langit, pakabanalin nawa ang pangalan mo. Dumating nawa ang Kaharian mo. Mangyari nawa ang kalooban mo, kung paano sa langit, gayon din sa lupa.'"
 
-Kaninong Kaharian po? **"Dumating nawa ang Kaharian mo."** Sa Ama, na **"nasa langit."** Kaharian niya ito, at hinihiling nating kumilos na ito.
+Ano po ang natutuhan natin dito? Dalawa.
 
-At saan mangyayari ang kalooban niya? **"Gayon din sa lupa."** Dito po.
+**Una,** Kaharian ito ng Diyos, o Gobyerno ito ng Diyos.
 
-Bakit po dito? Dahil walang gobyerno ng tao na lubusang makapag-aalis ng sakit, karahasan, o kawalang-katarungan. Isipin po natin ang mahal natin sa buhay na may sakit ngayon. Aalisin po ng Kaharian ng Diyos ang sakit.
+**Pangalawa,** kikilos ito dito sa lupa.
 
-Kaya humihiling tayo ng totoong solusyon dito sa lupa, mula sa totoong gobyerno sa langit.
+Bakit po **"kung paano sa langit"**? Dahil sa langit, namamahala na ang Kaharian ng Diyos, at nangyayari na roon ang kalooban niya. Kaya hinihiling natin na mangyari rin iyan dito sa lupa.
+
+Ano po ang gagawin nito sa lupa? May mga platform ang gobyerno ng tao: kapayapaan daw, walang korapsiyon daw, mabuting kalusugan daw. Pero hindi nila lubusang magawa. At wala silang magagawa sa kamatayan.
+
+Ang Kaharian ng Diyos, gagawin talaga iyan: tunay na kapayapaan, walang korapsiyon, walang sakit, walang kamatayan.
+
+Kaya kapag ipinapanalangin natin ang Kaharian, humihingi tayo ng totoong solusyon dito sa lupa, mula sa totoong gobyerno sa langit.
 
 ---
 
 ## CONCLUSION [0.5 minuto]
 
-Tandaan po natin. Sa hula: Diyos ang magtatatag ng Kaharian, at papalitan nito ang mga gobyerno ng tao. Sa panalangin: hinihiling nating kumilos na ito dito sa lupa. Talagang **ang Kaharian ng Diyos ay isang totoong gobyerno sa langit**. Kaya patuloy po natin itong ipanalangin.
+At bilang conclusion: **Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit.**
+
+Tandaan po natin ang dalawang patunay.
+
+Sa hula: Diyos ang magtatatag ng Kaharian, at papalitan nito ang mga gobyerno ng tao.
+
+Sa panalangin: hinihiling natin na gawin nito ang gusto ng Diyos dito sa lupa.
+
+Kaya patuloy po nating ipanalangin ang Kaharian ng Diyos.
 
 ---
 
 ## SUMMARY
 
-**Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit**: Daniel 2:44; Mateo 6:9, 10. (Ang Daniel 7:13, 14 at Apocalipsis 11:15 ng outline ay hindi na binabasa para magkasya sa 4 na minuto.)
+**Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit**: Daniel 2:44; Mateo 6:9, 10. (Ang Daniel 7:13, 14 at Apocalipsis 11:15 ng outline ay hindi na binabasa.)
 
-Iisang ayos ang dalawang punto: sabihin ang punto → "Pansinin po" (dalawang tanong) → basahin → sagutin ang dalawang tanong mula sa teksto → isang pangungusap na bumabalik sa tema.
+Iisang ayos ang dalawang punto: sabihin ang punto → background → "Pansinin po" → basahin → "Ano po ang natutuhan natin dito?" → maiikling aral → paliwanag na bumabalik sa tema.
 
-- **Una, ang hula (Daniel 2:44):** ibinigay sa isang panaginip ng hari ng Babilonya; ang imahen = sunod-sunod na gobyerno ng tao; ang bato = Kaharian. *Sino ang magtatatag?* "Ang Diyos ng langit." *Ano ang wawakasan?* "Ang lahat ng kahariang iyon." Hindi iyon kaya ng nasa puso lang, kaya gobyerno ang papalit sa gobyerno. Gaya ng gobyernong nasa kabisera na hindi pa napupuntahan: nasa langit, hindi nakikita, pero totoong gobyerno.
-- **Pangalawa, ang panalangin (Mateo 6:9, 10):** *Kaninong Kaharian?* Sa Ama, na "nasa langit"; hinihiling nating kumilos na ito. *Saan mangyayari ang kalooban niya?* "Gayon din sa lupa": dito aalisin ang sakit, karahasan, at kawalang-katarungan. Totoong solusyon dito sa lupa, mula sa totoong gobyerno sa langit.
+- **Una, ang hula (Daniel 2:44):** panaginip ni Nabucodonosor, ipinaliwanag sa pamamagitan ni Daniel; imahen = sunod-sunod na world power hanggang Britanya at Amerika; bato = kaharian. Tatlong aral: Diyos ang magtatatag; papalitan nito ang mga gobyerno ng tao; hindi na ito mapapalitan. Si Jesus ang Hari, sa langit, mula 1914. Gaya ng gobyerno ng Canada na hindi natin nakikita sa Ottawa: nasa langit, hindi nakikita, pero totoong gobyerno.
+- **Pangalawa, ang panalangin (Mateo 6:9, 10):** Kaharian (gobyerno) ito ng Diyos; kikilos ito dito sa lupa. Namamahala na ito sa langit, kaya hinihiling nating mangyari rin sa lupa ang kalooban ng Diyos. Platform ng tao (kapayapaan, walang korapsiyon, kalusugan) vs Kaharian ng Diyos: tunay na kapayapaan, walang korapsiyon, walang sakit, walang kamatayan.

@@ -92,14 +92,14 @@ None.
 
 **KUNG ANO ANG GAGAWIN:** Gumamit ng mapagkakatiwalaang mga ebidensiya para matulungan ang mga tagapakinig na makabuo ng tamang konklusyon.
 
-**Kung paano inilapat sa pahayag (v5, pagkatapos ng red team):**
+**Kung paano inilapat sa pahayag (v7, Nov 10, pagkatapos ng 2 red team):**
 
 | Bahagi ng aralin 7 | Saan sa script |
 |---|---|
-| Gumamit ng mapagkakatiwalaang reperensiya; basahin mismo ang Bibliya | Dan 2:44 at Mat 6:9, 10 ay binabasa nang buo (NWT). "Milyon-milyon ang nakakaalam" (bhs kab. 8 ¶1). Ang larawan ng kabisera ay mula sa be p. 280; ang linyang "walang magsasabing nasa puso lang nila ang gobyerno" ay atin, hindi sa be |
-| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Hula" ang tawag sa Dan 2:44 (bhs ¶16); ang panaginip ay sa hari (mrt 125); bato = Kaharian (mrt 125), sinasabi bago ang pagbasa dahil ang v. 44 ay hindi bumabanggit ng bato. "Kumilos na" (kr kab. 1 ¶9). "Mula sa langit siya mamamahala" (lff 31 ¶1) |
-| Huwag sosobrahan | "Marami po ang nagsasabing nasa puso" (jw.org: "maraming relihiyong Kristiyano"); hindi na "damdamin sa puso" (ang turo nila ay pamamahala ng Diyos sa puso). "Sa malaking bansa, marami ang…" (be: "sa isang malaking bansa, maraming tao"). "Aalisin ng Kaharian ng Diyos ang sakit", hindi pangako tungkol sa isang partikular na tao |
-| Mangatuwiran batay sa ebidensiya, gamit ang tanong | Bawat punto: dalawang tanong sa "Pansinin po", at iyon ding dalawa ang sinasagot mula sa teksto. Dan 2:44: sino ang magtatatag? ano ang wawakasan? → "Kaya po ba iyon ng nasa puso lang?" Mat 6:9, 10: kaninong Kaharian? saan mangyayari ang kalooban niya? |
+| Gumamit ng mapagkakatiwalaang reperensiya; basahin mismo ang Bibliya | Dan 2:44 at Mat 6:9, 10 ay binabasa nang buo (NWT). Imahen = world powers hanggang Britanya at Amerika (w12 9/15 ¶13; w23 Agosto ¶12-13; es24 Mayo 31). Ipinaliwanag ni Daniel (w23 Agosto ¶12). Si Jesus, Hari sa langit mula 1914 (bhs kab. 8 ¶23; w20 Mayo ¶17; S-34 Blg. 21). Ang ilustrasyon ng Ottawa ay batay sa be p. 280 (kabisera na hindi pa napupuntahan) |
+| Gamitin ang reperensiya sa tamang paraan (konteksto) | "Hula" ang Dan 2:44 (bhs ¶16). "Kikilos ito dito sa lupa" (w14 "Dumating Nawa ang Iyong Kaharian" ¶9). "Kung paano sa langit": namamahala na ito sa langit at nangyayari na roon ang kalooban ng Diyos (lr kab. 12; bhs kab. 8). Walang sakit at kamatayan (w14 ¶9, Apoc 21:3-5; bhs kab. 3 ¶22-23) |
+| Huwag sosobrahan | "Siguro marami po sa atin…" (hindi lahat). "Hindi nila lubusang magawa" (may naitutulong ang gobyerno, pero hindi lubusan). Walang pangalan ng Prime Minister (neutralidad) |
+| Mangatuwiran batay sa ebidensiya | Bawat pagbasa: "Pansinin po" → basahin → "Ano po ang natutuhan natin dito?" → maiikling aral na galing sa teksto (Dan 2:44: tatlo; Mat 6:9, 10: dalawa) |
 
 ---
 
@@ -110,9 +110,10 @@ None.
 - **Goal ni Jayr (Nov 10):** simple at madaling maintindihan; isang simple pero malakas na ilustrasyon; makapagsalita nang walang script (memory palace); 4 minuto para may oras huminga at tumingin sa audience.
 - **Aralin 1 (intro):** interes (Ama Namin) → paksa (tema) → bakit mahalaga ("Kung hindi natin alam kung ano iyon, ano po ang hinihiling natin?"). Ang v3 intro ay walang "bakit mahalaga" at nagtapos sa "Magsimula po tayo sa isang panaginip."
 - **Hula, hindi panaginip:** ang tema ay "totoong gobyerno"; mas tumpak at mas nakakakumbinsi ang "hula". Isang beses lang binabanggit ang panaginip, bilang paraan ng pagbibigay ng hula.
-- **Isang ilustrasyon lang:** ang kabisera na hindi pa napupuntahan (be p. 280). Hindi ginamit: pag-ibig sa bayan (nasa puso) vs gobyerno; ang araw (nasa langit, ramdam sa lupa).
-- **Heart point:** Punto 2, "Isipin po natin ang mahal natin sa buhay na may sakit ngayon." Payak lang ang pagsasabi.
-- **Ayos ng bawat punto (v5):** signpost ("Una… / Pangalawa…") → isang linya ng background → "Pansinin po" (dalawang tanong) → basahin → sagutin ang dalawang tanong mula sa teksto → isang pangungusap na bumabalik sa tema. Ginawa ito dahil "nawawala sa transition" ang v4.
-- **Timing (v5):** ~495 spoken words kasama ang 2 pagbasa (Oct 23 pahayag: ~487 ≈ 4:00). Mga 4:04; ang cut list ay nasa vault note.
-- **Memory palace:** 7 stops, nasa vault note (`~/Documents/jw/jw-vault/Talks/5-min/2026-11-13 …md`).
+- **Isang ilustrasyon lang:** Parliament sa Ottawa, Prime Minister na hindi pa nakikita (batay sa be p. 280; Canada ang kongregasyon). Walang pangalan ng PM (neutralidad). Hindi ginamit: pag-ibig sa bayan (nasa puso) vs gobyerno; ang araw (nasa langit, ramdam sa lupa).
+- **Heart point:** Punto 2, platform ng tao vs platform ng Kaharian (walang sakit, walang kamatayan). Tinanggal ang "Isipin po natin ang mahal natin sa buhay na may sakit" (inuulit lang ang platform).
+- **Ayos ng bawat punto (v7):** sabihin ang punto → background → "Pansinin po" → basahin → "Ano po ang natutuhan natin dito?" → maiikling aral (Una, Pangalawa…) → paliwanag na bumabalik sa tema.
+- **Dati (v5):** signpost ("Una… / Pangalawa…") → isang linya ng background → "Pansinin po" (dalawang tanong) → basahin → sagutin ang dalawang tanong mula sa teksto → isang pangungusap na bumabalik sa tema. Ginawa ito dahil "nawawala sa transition" ang v4.
+- **Timing (v7):** ~561 spoken words kasama ang 2 pagbasa. Mas mahaba sa 4:00 na target; inorasan ni Jayr nang malakas. Kung kailangang bawasan, unahin ang "At kailan siya nagsimulang mamahala? Noong 1914."
+- **Memory palace:** 8 stops (v7), nasa vault note (`~/Documents/jw/jw-vault/Talks/5-min/2026-11-13 …md`).
 - **Outline scriptures only:** Dan 2:44; Mat 6:9, 10 ang binabasa. Ang Dan 7:13, 14 at Apoc 11:15 ay hindi binabasa.
