@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.56.0] - 2026-11-14
+
+### 10-min talk Nov 20: "Ang Normal na Reaksiyon Kapag May Di-magandang Nangyari" (Panaghoy 1-2)
+
+**Added:**
+- `docs/talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/index.md` + `picture.jpg` (wol 1200 px). The part includes the 2:46 video *Introduksiyon sa Mga Panaghoy* (length from jw.org pub-media), so the script is ~839 spoken words (≈ 7:05) for ≈ 9:51 total. New `## VIDEO` and `## PAGBUBULAY-BULAY` sections; labels total 10:00.
+- Architecture: one image carried through, the **luha** (Pan 2:11 Jeremiah's tears for the people; Pan 2:19 the heart poured out before Jehovah; conclusion: our tears to Jehovah in prayer). Analogy hook (parent who warned a child). No formula or acronym; no device from the last 3 talks.
+- Research (wol.jw.org / jw.org only): NWT footnotes on Pan 2:11; jr kab. 2 ¶24 and kab. 3 ¶18; w07 6/1 p. 8 ¶1; w24.08 ¶7-9 (2024 wording "inalis sa kongregasyon"); w23.08 ¶12-13 ("pabigat"); real experiences Stefano (w25.11 p. 21 ¶15) and Elizabeth (w21.09 p. 27 ¶4, p. 31 ¶18). Reserve experiences listed in the outline.
+- `talks/10min/1120-…/outline.md` and `summary.md`.
+
+**Verification (five red teams: NWT + format, reference fidelity, experiences, delivery/Aralin/timing, doctrine/overlap/sensitivity):**
+- Applied: Luke 15:20 wording attributed to w24.08 (NWT reads "tumakbo ito at niyakap at hinalikan siya"), later cut for time; "Buksan po natin" before 2:19; w24.08 ¶9 balance ("hindi kinukunsinti… Pero hindi niya sila sinusukuan"); w23.08 ¶13 "Ang anak mo ang mananagot…"; "Buti nga" replaced by jr kab. 3 ¶18 "Sabi ko na sa inyo eh!"; Luke dropped (his tears came from self-blame); Elizabeth's son "mismo ang nagpasiyang bumalik" (not a reward for the advice); Stefano's own wish to return restored; experiences introduced as "May karanasan sa referensya natin"; new hook (the first one echoed 1113's factual opening); Pagbubulay-bulay moved out of the conclusion; tears loop closed in the conclusion.
+- Not applied: an unsourced "Handa pa rin Siyang makinig" line.
+
+---
+
 ## [4.55.0] - 2026-11-14
 
 ### Watchtower Nov 15 re-verified: two red teams, fidelity fixes
