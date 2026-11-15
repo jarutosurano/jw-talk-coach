@@ -25,7 +25,7 @@ Pag-aaral sa Bantayan — Nobyembre 9-15, 2026
 Marami ang sumusunod dahil may nakakakita, dahil takot maparusahan, o para pahangain ang iba. Ang mga lingkod ni Jehova ay sumusunod dahil alam nilang para sa ikabubuti nila iyon, pero may mas mahalagang dahilan pa.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Iba-iba po ang dahilan ng mga tao. Marami ang sumusunod lang dahil may nakakakita sa kanila o natatakot silang maparusahan. May ilan naman na sumusunod sa Diyos para pahangain ang iba, gaya ng mga lider ng relihiyon sa Mateo 23:5. Pero hindi tayo ganiyan. Sumusunod tayo kay Jehova kasi alam nating para sa ikabubuti natin iyon, gaya ng sinasabi sa Isaias 48:17, 18. Magandang dahilan iyan, pero may mas mahalagang dahilan pa.
+    Iba-iba po ang dahilan ng mga tao. Marami ang sumusunod lang dahil may nakakakita sa kanila o natatakot silang maparusahan. May ilan naman na sumusunod lang sa Diyos para pahangain ang iba, gaya ng mga lider ng relihiyon sa Mateo 23:5. Pero hindi tayo ganiyan. Sumusunod tayo kay Jehova kasi alam nating para sa ikabubuti natin iyon, gaya ng sinasabi sa Isaias 48:17, 18. Magandang dahilan iyan, pero may mas mahalagang dahilan pa.
 
 **Tanong para ikapit:**
 
@@ -48,7 +48,7 @@ Marami ang sumusunod dahil may nakakakita, dahil takot maparusahan, o para pahan
 Ang pinakadahilan ng pagsunod kay Jehova ay ang pag-ibig sa kaniya. Ang pag-ibig na iyan ang nagpapakilos sa isa na maging "masunurin mula sa puso," kahit walang nakakakita at kahit hindi agad nakikita ang pakinabang.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Ang pinakadahilan po ay dahil mahal na mahal natin si Jehova, kaayon ng Mateo 22:37, 38. Dahil sa pag-ibig na iyan, napapakilos tayong maging "masunurin mula sa puso," gaya ng sabi sa Roma 6:17. Kaya sumusunod tayo kahit walang nakakakita at kahit hindi natin agad nakikita ang pakinabang. Pero hindi tayo perpekto, kaya kung minsan, hindi madaling sumunod. Kaya pag-aaralan natin ang nangyari sa mga Israelita noong iniligtas sila mula sa Ehipto, at ang magandang halimbawa ni Haring Jehosapat.
+    Ang pinakadahilan po ay dahil mahal na mahal natin si Jehova, kaayon ng Mateo 22:37, 38. Dahil sa pag-ibig na iyan, napapakilos tayong maging "masunurin mula sa puso," gaya ng sabi sa Roma 6:17. Kaya sumusunod tayo kahit walang nakakakita at kahit hindi natin agad nakikita ang pakinabang. Pero hindi tayo perpekto, kaya kung minsan, hindi madaling sumunod.
 
 **Tanong para ikapit:**
 
@@ -74,7 +74,7 @@ Ang pinakadahilan ng pagsunod kay Jehova ay ang pag-ibig sa kaniya. Ang pag-ibig
 Sinasamba ng mga Ehipsiyo ang mga lalaking tupa, kaya posibleng natakot ang mga Israelita na magagalit ang mga ito at papatayin sila kapag nakita silang pumapatay ng lalaking tupa. Pero sumunod pa rin sila, at pinagpala sila ni Jehova.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Iniutos po ni Jehova na pumatay sila ng isang lalaking tupa o kambing at lagyan ng dugo nito ang mga poste ng pinto nila. Pero sinasamba ng mga Ehipsiyo ang mga lalaking tupa. Kaya posibleng natakot ang mga Israelita na magagalit ang mga Ehipsiyo at papatayin sila, gaya ng makikita sa Exodo 8:25-27. Pero sabi sa Exodo 12:28, "ginawa [nila] ang iniutos ni Jehova." Sa larawan, makikita ang isang lalaking Israelita na naglalagay ng dugo sa poste ng pinto, at may batang lalaki sa tabi niya. Dahil sumunod sila, pinanatiling buháy ni Jehova ang mga panganay nila.
+    Iniutos po ni Jehova na pumatay sila ng isang lalaking tupa o kambing at lagyan ng dugo nito ang mga poste ng pinto nila. Pero sinasamba ng mga Ehipsiyo ang mga lalaking tupa. Kaya posibleng natakot ang mga Israelita na baka magalit ang mga Ehipsiyo at patayin sila, kaayon ng Exodo 8:25-27. Pero sabi sa Exodo 12:28, "ginawa [nila] ang iniutos ni Jehova." Sa larawan, makikita ang isang lalaking Israelita na naglalagay ng dugo sa poste ng pinto, at may batang lalaki sa tabi niya. Dahil sumunod sila, pinanatiling buháy ni Jehova ang mga panganay nila.
 
 **Tanong para ikapit:**
 
@@ -128,7 +128,7 @@ Inutusan sila ni Jehova na maglakbay patimog at magkampo sa pagitan ng dagat at 
 Hindi pinahalagahan, o naintindihan, ng mga Israelita ang mga ginawa ni Jehova sa Ehipto, at hindi nila inalaala ang tapat na pag-ibig niya. Hindi sila nagtiwalang ililigtas niya sila ulit, at hindi nila itinuwid ang kaisipan nila.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Sabi po sa Awit 106:7: "Hindi pinahalagahan ng mga ninuno namin sa Ehipto ang kamangha-mangha mong mga gawa. Hindi nila inalaala ang iyong saganang tapat na pag-ibig." At ayon sa talababa, ang "pinahalagahan" ay puwede ring "naintindihan." Nakita na nila kung paano pinrotektahan ni Jehova ang mga panganay nila. Pero hindi nila lubusang naintindihan kung gaano sila kamahal ni Jehova, kaya hindi sila nagtiwalang ililigtas niya sila ulit. Kaya sinabi ng talata na "naghimagsik sila sa dagat, sa tabi ng Dagat na Pula." Pansinin po: tumawid naman sila sa dagat, pero hindi nila itinuwid ang kaisipan nila. Kaya bandang huli, itinakwil ni Jehova ang buong henerasyong iyon at hindi sila nakapasok sa Lupang Pangako. Ang aral: hindi sapat na basta sumunod; kailangang galing sa puso ang pagsunod.
+    Sabi po sa Awit 106:7: "Hindi pinahalagahan ng mga ninuno namin sa Ehipto ang kamangha-mangha mong mga gawa. Hindi nila inalaala ang iyong saganang tapat na pag-ibig . . ." At ayon sa talababa, ang "pinahalagahan" ay puwede ring "naintindihan." Nakita na nila kung paano pinrotektahan ni Jehova ang mga panganay nila. Pero hindi nila lubusang naintindihan kung gaano sila kamahal ni Jehova, at hindi sila nagtiwalang ililigtas niya sila ulit. Kaya sinabi ng talata na "naghimagsik sila sa dagat, sa tabi ng Dagat na Pula." Pansinin po: tumawid naman sila sa dagat, pero hindi nila itinuwid ang kaisipan nila. Kaya bandang huli, itinakwil ni Jehova ang buong henerasyong iyon at hindi sila nakapasok sa Lupang Pangako.
 
 **Tanong para ikapit:**
 
@@ -159,7 +159,7 @@ Hindi pinahalagahan, o naintindihan, ng mga Israelita ang mga ginawa ni Jehova s
 Kapag may masunuring puso, lubusang makakapagtiwala ang isa kay Jehova at sa mga inatasan niyang manguna. Kaya susunod siya sa tagubilin kahit hindi niya lubusang naiintindihan ang dahilan o kahit may magalit sa kaniya.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Sa Jeremias 23:4, nangako po si Jehova: "Bibigyan ko sila ng mga pastol na talagang magpapastol sa kanila. Hindi na sila matatakot o masisindak." Kaya kapag may masunuring puso tayo, lubusan tayong makakapagtiwala kay Jehova at sa mga inatasan niyang manguna sa atin. Kabaligtaran iyan ng mga Israelita. Noong gabi ng Paskuwa, pinangyari ni Jehova na maging "kalugod-lugod ang bayan sa paningin ng mga Ehipsiyo." Pero nang hinahabol na sila ng mga Ehipsiyo, nawalan sila ng tiwala kay Jehova at nagrebelde. Kaya sinusuri natin ang motibo natin: sumusunod lang ba tayo kapag may pakinabang? Kung galing sa puso ang pagsunod natin, susunod pa rin tayo kahit hindi natin lubusang naiintindihan kung bakit ibinigay ang tagubilin, o kahit magalit sa atin ang mga hindi naglilingkod kay Jehova.
+    Sa Jeremias 23:4, nangako po si Jehova: "Bibigyan ko sila ng mga pastol na talagang magpapastol sa kanila. Hindi na sila matatakot o masisindak . . ." Kaya kapag may masunuring puso tayo, lubusan tayong makakapagtiwala kay Jehova at sa mga inatasan niyang manguna sa atin. Kabaligtaran iyan ng mga Israelita. Noong gabi ng Paskuwa, pinangyari ni Jehova na maging "kalugod-lugod ang bayan sa paningin ng mga Ehipsiyo." Pero nang hinahabol na sila ng mga Ehipsiyo, nawalan sila ng tiwala kay Jehova at nagrebelde. Kaya sinusuri natin ang motibo natin: sumusunod lang ba tayo kapag may pakinabang? Kung galing sa puso ang pagsunod natin, susunod pa rin tayo kahit hindi natin lubusang naiintindihan kung bakit ibinigay ang tagubilin, o kahit magalit sa atin ang mga hindi naglilingkod kay Jehova.
 
 **Tanong para ikapit:**
 
@@ -195,7 +195,7 @@ Dahil ang pag-ibig kay Jehova at ang tiwala sa kaniya ang pangunahing dahilan ng
 
 - Maraming kapatid ngayon ang sumusunod **kahit hindi nila nakikita ang magiging pakinabang nito**
 - **Elder sa Peru:** nang magsimulang kumalat ang COVID-19, may tagubilin na idaos ang mga pulong sa pamamagitan ng **videoconference**. Sabi niya: **"No'ng una, naisip ko na hindi iyon praktikal sa lugar namin."** Pero determinado siyang sumunod at magtiwala kay Jehova (Kaw. 3:5, 6)
-- Resulta: **"Nakita ko na pinagpapala ni Jehova ang pagiging masunurin natin. Mas naging malapít kaming magkakakongregasyon, at tumibay ang pananampalataya namin kay Jehova."**
+- Resulta: **"Nakita ko na pinagpapala ni Jehova ang pagiging masunurin natin,"** ang sabi niya. **"Mas naging malapít kaming magkakakongregasyon, at tumibay ang pananampalataya namin kay Jehova."**
 - **Sister sa Japan:** noong 2020, nagbago ang mga tagubilin para sa mga foreign-language group at congregation, at mawawala na ang grupo niya. Sabi niya: **"Gusto kong maging masunurin sa pagbabago. Ayokong magsalita ng negatibo tungkol doon. Sigurado akong magkakaroon ng magagandang resulta ang pagbabagong iyon."**
 
 **Direktang sagot:**
@@ -203,7 +203,7 @@ Dahil ang pag-ibig kay Jehova at ang tiwala sa kaniya ang pangunahing dahilan ng
 Sumunod ang isang elder sa Peru sa tagubilin tungkol sa videoconference kahit inisip niyang hindi iyon praktikal, at nakita niya ang pagpapala ni Jehova. Tinanggap naman ng isang sister sa Japan ang pagkawala ng foreign-language group niya nang hindi nagsasalita ng negatibo.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Noong nagsimula po ang COVID-19, may tagubilin na idaos ang mga pulong sa videoconference. Sabi ng isang elder sa Peru: "No'ng una, naisip ko na hindi iyon praktikal sa lugar namin." Pero sumunod siya at nagtiwala kay Jehova, gaya ng payo sa Kawikaan 3:5, 6. Ang resulta, sabi niya, mas naging malapít silang magkakakongregasyon at tumibay ang pananampalataya nila. Ganiyan din ang isang sister sa Japan. Nang malaman niyang mawawala na ang foreign-language group niya, sinabi niya: "Gusto kong maging masunurin sa pagbabago. Ayokong magsalita ng negatibo tungkol doon." Pareho silang sumunod kahit hindi pa nila nakikita ang pakinabang.
+    Noong nagsimula po ang COVID-19, may tagubilin na idaos ang mga pulong sa videoconference. Sabi ng isang elder sa Peru: "No'ng una, naisip ko na hindi iyon praktikal sa lugar namin." Pero determinado siyang sumunod at magtiwala kay Jehova, gaya ng payo sa Kawikaan 3:5, 6. Ang resulta, sabi niya, mas naging malapít silang magkakakongregasyon at tumibay ang pananampalataya nila. Ganiyan din ang isang sister sa Japan. Nang malaman niyang mawawala na ang foreign-language group niya, sinabi niya: "Gusto kong maging masunurin sa pagbabago. Ayokong magsalita ng negatibo tungkol doon." Pareho silang sumunod kahit hindi pa nila nakikita ang pakinabang.
 
 **Tanong para ikapit:**
 
@@ -252,7 +252,7 @@ Makakapaghanda para sa pag-uusig ang isa kung magiging masunurin na siya ngayon 
 Natakot si Jehosapat at ang bayan nang magsama-sama ang tatlong bansa laban sa Juda. Pero kahit natatakot siya, kumilos siya.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Tatlong bansa po ang nagsama-sama para makipagdigma laban sa Juda, kaya siyempre, natakot si Jehosapat at ang bayan, ayon sa 2 Cronica 20:1-3. Pero ang maganda, kahit natatakot siya, kumilos siya. Kaya titingnan natin ang ginawa niya para matularan natin siya at magkaroon din tayo ng masunuring puso.
+    Tatlong bansa po ang nagsama-sama para makipagdigma laban sa Juda, kaya siyempre, natakot si Jehosapat at ang bayan, ayon sa 2 Cronica 20:1-3. Pero ang maganda, kahit natatakot siya, kumilos siya.
 
 **Tanong para ikapit:**
 
@@ -330,7 +330,7 @@ Mapapatibay ang determinasyong sumunod kung patuloy na palalalimin ang kaalaman 
 Inaamin ng mapagpakumbaba na kailangan niya ang tulong ng Diyos, kaya mas madali para sa kaniya na sundin ang tagubilin Niya. Ganiyan si Jehosapat, kahit hari siya at may malaking hukbo.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Hari po si Jehosapat at may malaking hukbo. Puwede sana niyang maisip na kaya niya ang mga kaaway nang walang tulong ni Jehova. Pero sa harap ng buong bayan, sinabi niya sa 2 Cronica 20:12: "Hindi namin alam ang gagawin namin, pero umaasa kami sa iyo." Dahil mapagpakumbaba siya, naging mas madali para sa kaniya na sundin ang tagubilin ng Diyos. Ganiyan din tayo. Kapag inaamin nating kailangan natin si Jehova, mas madali tayong sumunod sa anumang sitwasyon, kaayon ng Filipos 2:5, 8.
+    Hari po si Jehosapat at may malaking hukbo. Puwede sana niyang maisip na kaya niya ang mga kaaway nang walang tulong ni Jehova. Pero sa panalangin niya sa harap ng bayan, mapagpakumbaba niyang sinabi sa 2 Cronica 20:12: "Wala kaming kalaban-laban sa malaking hukbong ito na sumasalakay sa amin; at hindi namin alam ang gagawin namin, pero umaasa kami sa iyo." Dahil mapagpakumbaba siya, naging mas madali para sa kaniya na sundin ang tagubilin ng Diyos. Ganiyan din tayo. Kapag inaamin nating kailangan natin si Jehova, mas madali tayong sumunod sa anumang sitwasyon, kaayon ng Filipos 2:5, 8.
 
 **Tanong para ikapit:**
 
@@ -393,7 +393,7 @@ Nag-atas si Jehosapat ng mga lalaking aawit ng papuri kay Jehova na maglalakad s
 **Mahahalagang punto:**
 
 - May matututuhan ang **mga elder, magulang, at iba pang may awtoridad**. Dahil naging masunurin si Jehosapat, **naging magandang halimbawa siya sa mga nasa pangangalaga niya**
-- Kagaya siya ni **Haring Solomon**. Noong tapat si Solomon, hiniling niya na magkaroon siya ng **masunuring puso**, **hindi para sa sariling pakinabang, kundi para sa bayan**. Gusto niyang **masunod ang paraan ni Jehova** sa paghatol niya sa bayan
+- Masasabing kagaya siya ni **Haring Solomon**. Noong tapat si Solomon, hiniling niya na magkaroon siya ng **masunuring puso**, **hindi para sa sariling pakinabang, kundi para sa bayan**. Gusto niyang **masunod ang paraan ni Jehova** sa paghatol niya sa bayan
 - Si Jehosapat: **mapagpakumbabang nakinig sa propeta ng Diyos**, **sumangguni sa bayan** bago gumawa ng malaking desisyon, at **pinatibay silang sundin ang tagubilin ni Jehova**
 - **Mga elder:** bago gumawa ng mga desisyon para sa kongregasyon, mapagpakumbaba silang **naghahanap ng patnubay mula sa Bibliya at sa mga publikasyon**, at **kumokonsulta sa ibang mga elder** (Kaw. 15:22). Sa mga sinasabi at ginagawa nila, **napapatibay nila ang mga kapatid na maging masunurin mula sa puso**
 - **Mga magulang:** alam nilang **nakikita ng mga anak nila kung masunurin sila o hindi**, at makakaapekto iyon sa gagawin ng mga anak nila (Kaw. 1:8; 14:1)
@@ -404,7 +404,7 @@ Nag-atas si Jehosapat ng mga lalaking aawit ng papuri kay Jehova na maglalakad s
 Ang pagiging masunurin ng may awtoridad ay nagiging halimbawa sa mga nasa pangangalaga niya. Gaya ni Jehosapat, ang mga elder ay mapagpakumbabang naghahanap ng patnubay at kumokonsulta sa isa't isa, at ang mga magulang ay nagpapakita ng pagsunod na nakikita ng mga anak nila.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Sa 1 Hari 3:9, hiniling po ni Solomon: "Bigyan mo ang iyong lingkod ng masunuring puso para humatol sa iyong bayan." Hindi iyon para sa sariling pakinabang, kundi para sa bayan. Gusto niyang masunod ang paraan ni Jehova. Ganiyan din si Jehosapat. Mapagpakumbaba siyang nakinig sa propeta ng Diyos, sumangguni siya sa bayan bago gumawa ng malaking desisyon, at pinatibay niya silang sumunod kay Jehova. Tinutularan iyan ng mga elder. Sa larawan, magkakasama silang nakaupo sa isang mesa na may nakabukas na mga Bibliya at publikasyon. Naghahanap sila ng patnubay at kumokonsulta sa isa't isa, gaya ng payo sa Kawikaan 15:22. Aral din ito sa mga magulang, kasi nakikita ng mga anak kung masunurin ang mga magulang nila o hindi.
+    Sa 1 Hari 3:9, hiniling po ni Solomon: "Bigyan mo ang iyong lingkod ng masunuring puso para humatol sa iyong bayan . . ." Hindi iyon para sa sariling pakinabang, kundi para sa bayan. Gusto niyang masunod ang paraan ni Jehova. Ganiyan din si Jehosapat. Mapagpakumbaba siyang nakinig sa propeta ng Diyos, sumangguni siya sa bayan bago gumawa ng malaking desisyon, at pinatibay niya silang sumunod kay Jehova. Tinutularan iyan ng mga elder. Sa larawan, magkakasama silang nakaupo sa isang mesa na may nakabukas na mga Bibliya at publikasyon. Naghahanap sila ng patnubay at kumokonsulta sa isa't isa, gaya ng payo sa Kawikaan 15:22. Aral din ito sa mga magulang, kasi nakikita ng mga anak kung masunurin ang mga magulang nila o hindi.
 
 **Tanong para ikapit:**
 
@@ -427,7 +427,7 @@ Ang pagiging masunurin ng may awtoridad ay nagiging halimbawa sa mga nasa pangan
 Dahil kapag may masunuring puso, makakaasa ang isa na tutulungan at gagabayan siya ni Jehova sa anumang hamon. Magbibigay si Jehova ng tagubilin sa pamamagitan ng mga inatasan niyang manguna, at di-hamak na mas mataas ang kaisipan at kakayahan niya kaysa sa tao.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Kung may masunuring puso po tayo, makakaasa tayong tutulungan at gagabayan tayo ni Jehova anumang hamon ang mapaharap sa atin. Gaya noong panahon ng Bibliya, magbibigay siya ng tagubilin sa pamamagitan ng mga inatasan niyang manguna sa bayan niya. Kaya hindi tayo magugulat kung parang kakaiba ang tagubiling matanggap natin. Tinatandaan natin ang Isaias 55:9: di-hamak na mas mataas ang kaisipan at kakayahan ni Jehova kaysa sa atin. Kaya patuloy tayong magiging masunurin mula sa puso.
+    Kung may masunuring puso po tayo, makakaasa tayong tutulungan at gagabayan tayo ni Jehova anumang hamon ang mapaharap sa atin. Gaya noong panahon ng Bibliya, magbibigay siya ng tagubilin sa pamamagitan ng mga inatasan niyang manguna sa bayan niya. Kaya huwag tayong magulat kung parang kakaiba ang tagubiling matanggap natin. Tandaan natin ang Isaias 55:9: di-hamak na mas mataas ang kaisipan at kakayahan ni Jehova kaysa sa atin. Kaya patuloy sana tayong maging masunurin mula sa puso.
 
 **Tanong para ikapit:**
 
@@ -443,7 +443,7 @@ Dahil kapag may masunuring puso, makakaasa ang isa na tutulungan at gagabayan si
     **Pag-ibig at tiwala kay Jehova ang susi.**
 
     - Sumunod ang mga Israelita noong una, pero **"hindi nila inalaala"** ang tapat na pag-ibig ni Jehova, kaya nawalan sila ng tiwala at **"naghimagsik sila . . . sa tabi ng Dagat na Pula"** (Awit 106:7).
-    - **Suriin ang motibo:** sumusunod lang ba tayo kapag may pakinabang? Ang masunuring puso ay sumusunod kahit hindi lubusang naiintindihan ang tagubilin o kahit may magalit (Jer. 23:4).
+    - **Suriin ang motibo:** sumusunod lang ba tayo kapag may pakinabang? Ang masunuring puso ay lubusang nagtitiwala kay Jehova at sa mga inatasan niyang manguna (Jer. 23:4), kaya sumusunod kahit hindi lubusang naiintindihan ang tagubilin o kahit may magalit.
     - **Palalimin ang pag-ibig kay Jehova** (1 Juan 5:3) at **maghanda para sa pag-uusig** sa pamamagitan ng pagsunod ngayon sa utos na mangaral (Mat. 24:14).
 
 ### Paano ipinakita ni Jehosapat na may "masunuring puso" siya?
@@ -458,7 +458,7 @@ Dahil kapag may masunuring puso, makakaasa ang isa na tutulungan at gagabayan si
 ### Ano ang matututuhan natin mula sa halimbawa ni Jehosapat?
 
 !!! abstract "Aral"
-    **Pagtulad kay Jehosapat ang susi.**
+    **Pag-iisip kung paano makakaapekto sa iba ang ginagawa natin ang susi.**
 
     - Kapag nakaka-stress ang sitwasyon: **ipasiyang sundin si Jehova**, alamin ang kalooban niya sa panalangin at pag-aaral, at magtiwalang tutulong siya (Awit 119:112).
     - **Patuloy na dagdagan** ang "imbakan ng kayamanan" (Mat. 13:52) at **manatiling mapagpakumbaba** (Fil. 2:5, 8).

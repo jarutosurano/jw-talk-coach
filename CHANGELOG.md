@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.55.0] - 2026-11-14
+
+### Watchtower Nov 15 re-verified: two red teams, fidelity fixes
+
+**Changed:**
+- `docs/watchtower/kung-paano-magkakaroon-ng-masunuring-puso/index.md`: re-reviewed by two independent red teams (article fidelity; NWT column crops + format + strict build). No must-fix issues. Applied: restored the article's hedges and wording ("sumusunod lang" ¶1, "Masasabing kagaya" ¶16, "at" not "kaya" ¶5, "huwag tayong magulat" / "patuloy sana" ¶17, "determinado siyang" ¶8); removed an added lesson line in ¶5 and conductor-style previews in ¶2 and ¶10; ¶3 cites Ex 8:25-27 as "kaayon ng" (Exodus does not record the fear); ¶13 now quotes 2 Cro 20:12 as part of the prayer; ¶8 testimonial split as printed; Aral 1 cites Jer 23:4 for trust in appointed shepherds (¶6); Aral 3 key line from ¶14; shortened NWT quotes end with " . . ." where the verse continues.
+- Verified clean: every Bible quote (1 Hari 3:9, Awit 106:7 + talababa, Jer 23:4, 2 Cro 20:3-21, Roma 6:17) against the NWT crops; picture descriptions against the PDF renders (six brothers on p. 12).
+
+---
+
 ## [4.54.0] - 2026-11-10
 
 ### Nov 13 pahayag v7: Jayr's practice edits, "Ano po ang natutuhan natin dito?", Ottawa illustration, platform contrast
