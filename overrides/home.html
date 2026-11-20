@@ -1,5 +1,22 @@
 {% extends "main.html" %}
 
+{#
+  Links below are computed from the nav, so they always open the NEWEST page of each
+  section (the nav is "newest first"; see runbooks/publishing.md). Nothing to update weekly.
+  latest("CBS") = first page under the top-level "CBS"; latest("Talks", "10-Minute") = first page of that group.
+#}
+{% macro first_url(item) -%}
+  {%- if item.children -%}{{ first_url(item.children | first) }}{%- else -%}{{ item.url | url }}{%- endif -%}
+{%- endmacro %}
+{% macro latest(top, sub=None) -%}
+  {%- set ns = namespace(node=None) -%}
+  {%- for i in nav if i.title == top -%}{%- set ns.node = i -%}{%- endfor -%}
+  {%- if sub and ns.node -%}
+    {%- for c in ns.node.children if c.title == sub -%}{%- set ns.node = c -%}{%- endfor -%}
+  {%- endif -%}
+  {%- if ns.node -%}{{ first_url(ns.node) }}{%- endif -%}
+{%- endmacro %}
+
 {% block tabs %}
   {{ super() }}
 
@@ -14,11 +31,11 @@
       <h1 class="mdx-animate-fadein" style="animation-delay: 0s">JW Talk Coach</h1>
       <p class="mdx-hero__tagline mdx-animate-fadein" style="animation-delay: 0.15s">Mga talk script at coaching resources para sa mga JW speakers — mula sa paghahanda hanggang sa paghahatid.</p>
       <div class="mdx-hero__actions mdx-animate-fadein" style="animation-delay: 0.3s">
-        <a href="{{ 'talks/10min/0227-gaya-ng-isang-pastol/' | url }}" class="md-button md-button--primary">
-          Pinakabagong Script
+        <a href="{{ latest('Talks') }}" class="md-button md-button--primary">
+          Pinakabagong Talk
         </a>
-        <a href="{{ 'talks/5min/0213-kung-paano-mananalangin/' | url }}" class="md-button">
-          Mga Talks
+        <a href="{{ latest('Espirituwal na Hiyas') }}" class="md-button">
+          Pinakabagong Hiyas
         </a>
       </div>
     </div>
@@ -29,22 +46,11 @@
   <section class="mdx-cards">
     <div class="md-grid">
       <h2 class="mdx-cards__heading mdx-animate-fadein" style="animation-delay: 0.35s">Mga Script</h2>
-      <p class="mdx-cards__subheading mdx-animate-fadein" style="animation-delay: 0.4s">Piliin ang uri ng assignment na gusto mong i-review</p>
+      <p class="mdx-cards__subheading mdx-animate-fadein" style="animation-delay: 0.4s">Piliin ang uri ng assignment. Bubukas ang pinakabago.</p>
 
       <div class="mdx-cards__grid">
 
-        <a href="{{ 'talks/5min/0213-kung-paano-mananalangin/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.45s">
-          <span class="mdx-card__badge">Student</span>
-          <div class="mdx-card__icon">
-            <span class="twemoji">
-              {% include ".icons/material/clock-fast.svg" %}
-            </span>
-          </div>
-          <h3>5-Minute Talks</h3>
-          <p>Student talk sa OCLM tuwing Biyernes gabi</p>
-        </a>
-
-        <a href="{{ 'talks/10min/0227-gaya-ng-isang-pastol/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.5s">
+        <a href="{{ latest('Talks', '10-Minute') }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.45s">
           <span class="mdx-card__badge">OCLM</span>
           <div class="mdx-card__icon">
             <span class="twemoji">
@@ -55,7 +61,18 @@
           <p>Script para sa OCLM talk tuwing Biyernes gabi</p>
         </a>
 
-        <a href="{{ 'talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.55s">
+        <a href="{{ latest('Talks', '5-Minute') }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.5s">
+          <span class="mdx-card__badge">Student</span>
+          <div class="mdx-card__icon">
+            <span class="twemoji">
+              {% include ".icons/material/clock-fast.svg" %}
+            </span>
+          </div>
+          <h3>5-Minute Talks</h3>
+          <p>Student talk sa OCLM tuwing Biyernes gabi</p>
+        </a>
+
+        <a href="{{ latest('Talks', '30-Minute') }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.55s">
           <span class="mdx-card__badge">Linggo</span>
           <div class="mdx-card__icon">
             <span class="twemoji">
@@ -66,7 +83,7 @@
           <p>Script para sa pahayag pangmadla tuwing Linggo</p>
         </a>
 
-        <a href="{{ 'espirituwal-na-hiyas/0227-isaias-38-40/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.6s">
+        <a href="{{ latest('Espirituwal na Hiyas') }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.6s">
           <span class="mdx-card__badge">Conductor</span>
           <div class="mdx-card__icon">
             <span class="twemoji">
@@ -77,7 +94,7 @@
           <p>Conductor script para sa Spiritual Gems</p>
         </a>
 
-        <a href="{{ 'cbs/0209-lfb-aral-60-61/' | url }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.65s">
+        <a href="{{ latest('CBS') }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.65s">
           <span class="mdx-card__badge">Conductor</span>
           <div class="mdx-card__icon">
             <span class="twemoji">
@@ -86,6 +103,17 @@
           </div>
           <h3>CBS</h3>
           <p>Conductor script para sa Congregational Bible Study</p>
+        </a>
+
+        <a href="{{ latest('Watchtower') }}" class="mdx-card mdx-animate-fadein" style="animation-delay: 0.7s">
+          <span class="mdx-card__badge">Linggo</span>
+          <div class="mdx-card__icon">
+            <span class="twemoji">
+              {% include ".icons/material/book-open-page-variant.svg" %}
+            </span>
+          </div>
+          <h3>Watchtower</h3>
+          <p>Mga sagot para sa Pag-aaral sa Bantayan</p>
         </a>
 
       </div>

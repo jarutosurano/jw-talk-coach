@@ -12,7 +12,11 @@ All notable changes to this project will be documented in this file.
 - `docs/talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/index.md` now holds the reworked script (formerly `v2.md`), title without "(v2)". Jayr compared the two and chose v2 after working through it section by section. 808 spoken words, ≈ 9:45 with the video.
 - `talks/10min/1120-…/summary.md` rewritten for the final script; `outline.md` notes updated.
 
-**Changed (navigation):**
+**Changed (navigation, long-term structure):**
+- `mkdocs.yml` nav: Hiyas, CBS and Watchtower are grouped by month (`Nov 2026`, newest first), so each list shows four or five entries instead of a year of weeks; Talks order is now 10-Minute, 5-Minute, 30-Minute, so the Talks tab opens the newest 10-minute talk. No file or URL moved; all 63 pages checked present.
+- `overrides/home.html`: the hero buttons and cards pointed at February scripts. They are now computed from the nav (`latest()` macro) and always open the newest page of each type; a Watchtower card was added.
+- `runbooks/publishing.md`: the six nav rules (newest first, month groups for weekly types, year wrap in January, never rename folders, one page per script) and a note that Material for MkDocs reaches end of life on May 5, 2027.
+- Built locally with mkdocs 1.6.1 in a temporary environment: build clean, home and tab links verified in the output.
 - `mkdocs.yml`: `navigation.sections` removed, so 5-Minute / 10-Minute / 30-Minute in the Talks sidebar are collapsible groups instead of one long list. Jayr asked for a way to keep the talks list manageable. `runbooks/publishing.md` updated.
 
 **Removed:**

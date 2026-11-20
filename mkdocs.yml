@@ -38,14 +38,10 @@ theme:
     code: JetBrains Mono
 
 nav:
+  # Rules (runbooks/publishing.md): newest first. Weekly types (Hiyas, CBS, Watchtower) are grouped
+  # by month ("Nov 2026"). Talks stay flat per year. In January, wrap last year's entries in a "2026" group.
   - Home: index.md
   - Talks:
-    - 5-Minute:
-      - Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit: talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md
-      - Hindi si Jesus ang Diyos na Makapangyarihan-sa-Lahat: talks/5min/1023-hindi-si-jesus-ang-diyos-na-makapangyarihan/index.md
-      - Inihula ni Jesus ang mga Pangyayaring Nakikita Natin Ngayon: talks/5min/0710-inihula-ni-jesus-ang-mga-pangyayari/index.md
-      - Kung Paano Mag-aaral: talks/5min/0424-kung-paano-mag-aaral/index.md
-      - Kung Paano Mananalangin: talks/5min/0213-kung-paano-mananalangin/index.md
     - 10-Minute:
       - Ang Normal na Reaksiyon Kapag May Di-magandang Nangyari: talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/index.md
       - Huwag Tularan si Zedekias: talks/10min/1113-huwag-tularan-si-zedekias/index.md
@@ -61,54 +57,77 @@ nav:
       - Siya ang Magpapatatag sa Iyo: talks/10min/0213-siya-ang-magpapatatag-sa-iyo/index.md
       - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
       - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
+    - 5-Minute:
+      - Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit: talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md
+      - Hindi si Jesus ang Diyos na Makapangyarihan-sa-Lahat: talks/5min/1023-hindi-si-jesus-ang-diyos-na-makapangyarihan/index.md
+      - Inihula ni Jesus ang mga Pangyayaring Nakikita Natin Ngayon: talks/5min/0710-inihula-ni-jesus-ang-mga-pangyayari/index.md
+      - Kung Paano Mag-aaral: talks/5min/0424-kung-paano-mag-aaral/index.md
+      - Kung Paano Mananalangin: talks/5min/0213-kung-paano-mananalangin/index.md
     - 30-Minute:
       - 'Kamatayan Ba ang Wakas ng Lahat?': talks/30min/184-kamatayan-ba-ang-wakas-ng-lahat/index.md
       - '"Hindi Bahagi ng Sanlibutan"—Bilang Pagtulad kay Kristo': talks/30min/11-hindi-bahagi-ng-sanlibutan/index.md
       - 'Makakamit Pa Kaya Natin ang Tunay na Katarungan?': talks/30min/33-makakamit-pa-kaya-natin-ang-tunay-na-katarungan/index.md
       - 'Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad': talks/30min/s289-security-training-blg2/index.md
   - Watchtower:
-    - 'Pangangaral sa "Lahat ng Wika ng mga Bansa"': watchtower/pangangaral-sa-lahat-ng-wika-ng-mga-bansa/index.md
-    - 'Kung Paano Magkakaroon ng "Masunuring Puso"': watchtower/kung-paano-magkakaroon-ng-masunuring-puso/index.md
-    - Magtiwalang Poprotektahan Ka ni Jehova: watchtower/magtiwalang-poprotektahan-ka-ni-jehova/index.md
-    - 'Pahalagahan ang "Pribilehiyong Gumawa ng Sagradong Paglilingkod"': watchtower/pahalagahan-ang-sagradong-paglilingkod/index.md
-    - 'Labanan si Satanas—Magtiwala kay Jehova at kay Jesus': watchtower/labanan-si-satanas-magtiwala/index.md
-    - Tulungan ang Iba na Makilalang Mabuti si Jehova: watchtower/tulungan-ang-iba-na-makilala-si-jehova/index.md
-    - Mapapatibay Ka ng Aklat ng Isaias: watchtower/mapapatibay-ka-ng-aklat-ng-isaias/index.md
-    - Matuto sa mga Gibeonita: watchtower/matuto-sa-mga-gibeonita/index.md
-    - Makinabang sa Pagiging Bahagi ng Grupo sa Paglilingkod sa Larangan: watchtower/grupo-sa-paglilingkod/index.md
-    - Iingatan ang Pakikipagkaibigan sa mga Kapatid: watchtower/iingatan-ang-pakikipagkaibigan/index.md
-    - Panatilihin ang Tamang Pananaw sa mga Problema: watchtower/tamang-pananaw-sa-mga-problema/index.md
-    - 'Paano Mo Ipapakita ang Pasasalamat Mo sa Pantubos?': watchtower/salamat-sa-pantubos/index.md
+    - Nov 2026:
+      - 'Pangangaral sa "Lahat ng Wika ng mga Bansa"': watchtower/pangangaral-sa-lahat-ng-wika-ng-mga-bansa/index.md
+      - 'Kung Paano Magkakaroon ng "Masunuring Puso"': watchtower/kung-paano-magkakaroon-ng-masunuring-puso/index.md
+      - Magtiwalang Poprotektahan Ka ni Jehova: watchtower/magtiwalang-poprotektahan-ka-ni-jehova/index.md
+    - Oct 2026:
+      - 'Pahalagahan ang "Pribilehiyong Gumawa ng Sagradong Paglilingkod"': watchtower/pahalagahan-ang-sagradong-paglilingkod/index.md
+      - 'Labanan si Satanas—Magtiwala kay Jehova at kay Jesus': watchtower/labanan-si-satanas-magtiwala/index.md
+    - Sep 2026:
+      - Tulungan ang Iba na Makilalang Mabuti si Jehova: watchtower/tulungan-ang-iba-na-makilala-si-jehova/index.md
+      - Mapapatibay Ka ng Aklat ng Isaias: watchtower/mapapatibay-ka-ng-aklat-ng-isaias/index.md
+      - Matuto sa mga Gibeonita: watchtower/matuto-sa-mga-gibeonita/index.md
+    - Aug 2026:
+      - Makinabang sa Pagiging Bahagi ng Grupo sa Paglilingkod sa Larangan: watchtower/grupo-sa-paglilingkod/index.md
+      - Iingatan ang Pakikipagkaibigan sa mga Kapatid: watchtower/iingatan-ang-pakikipagkaibigan/index.md
+    - Jun 2026:
+      - Panatilihin ang Tamang Pananaw sa mga Problema: watchtower/tamang-pananaw-sa-mga-problema/index.md
+    - Mar 2026:
+      - 'Paano Mo Ipapakita ang Pasasalamat Mo sa Pantubos?': watchtower/salamat-sa-pantubos/index.md
   - Field Ministry:
     - Colosas 4:6 — Zoom Ministry: field-ministry/0428-colosas-4-6-zoom/index.md
     - Roma 12:11 — Zoom Ministry: field-ministry/0311-roma-12-11-zoom/index.md
     - Guidelines: field-ministry/guidelines/index.md
   - Espirituwal na Hiyas:
-    - Panaghoy 1-2: espirituwal-na-hiyas/1120-panaghoy-1-2/index.md
-    - Jeremias 51-52: espirituwal-na-hiyas/1113-jeremias-51-52/index.md
-    - Jeremias 49-50: espirituwal-na-hiyas/1106-jeremias-49-50/index.md
-    - Jeremias 47-48: espirituwal-na-hiyas/1030-jeremias-47-48/index.md
-    - Jeremias 45-46: espirituwal-na-hiyas/1023-jeremias-45-46/index.md
-    - Jeremias 42-44: espirituwal-na-hiyas/1016-jeremias-42-44/index.md
-    - Jeremias 40-41: espirituwal-na-hiyas/1009-jeremias-40-41/index.md
-    - Jeremias 32-33: espirituwal-na-hiyas/0911-jeremias-32-33/index.md
-    - Jeremias 24-25: espirituwal-na-hiyas/0814-jeremias-24-25/index.md
-    - Jeremias 13-15: espirituwal-na-hiyas/0710-jeremias-13-15/index.md
-    - Jeremias 11-12: espirituwal-na-hiyas/0703-jeremias-11-12/index.md
-    - Isaias 38-40: espirituwal-na-hiyas/0227-isaias-38-40/index.md
-    - Isaias 33-35: espirituwal-na-hiyas/0213-isaias-33-35/index.md
+    - Nov 2026:
+      - Panaghoy 1-2: espirituwal-na-hiyas/1120-panaghoy-1-2/index.md
+      - Jeremias 51-52: espirituwal-na-hiyas/1113-jeremias-51-52/index.md
+      - Jeremias 49-50: espirituwal-na-hiyas/1106-jeremias-49-50/index.md
+    - Oct 2026:
+      - Jeremias 47-48: espirituwal-na-hiyas/1030-jeremias-47-48/index.md
+      - Jeremias 45-46: espirituwal-na-hiyas/1023-jeremias-45-46/index.md
+      - Jeremias 42-44: espirituwal-na-hiyas/1016-jeremias-42-44/index.md
+      - Jeremias 40-41: espirituwal-na-hiyas/1009-jeremias-40-41/index.md
+    - Sep 2026:
+      - Jeremias 32-33: espirituwal-na-hiyas/0911-jeremias-32-33/index.md
+    - Aug 2026:
+      - Jeremias 24-25: espirituwal-na-hiyas/0814-jeremias-24-25/index.md
+    - Jul 2026:
+      - Jeremias 13-15: espirituwal-na-hiyas/0710-jeremias-13-15/index.md
+      - Jeremias 11-12: espirituwal-na-hiyas/0703-jeremias-11-12/index.md
+    - Feb 2026:
+      - Isaias 38-40: espirituwal-na-hiyas/0227-isaias-38-40/index.md
+      - Isaias 33-35: espirituwal-na-hiyas/0213-isaias-33-35/index.md
   - CBS:
-    - Nov 16-22: cbs/1120-wcg-kabanata-17/index.md
-    - Nov 9-15: cbs/1113-wcg-kabanata-16/index.md
-    - Nov 2-8: cbs/1106-wcg-kabanata-15/index.md
-    - Oct 26-Nov 1: cbs/1030-wcg-kabanata-14/index.md
-    - Oct 19-25: cbs/1023-wcg-kabanata-13/index.md
-    - Oct 12-18: cbs/1016-wcg-kabanata-12/index.md
-    - Oct 5-11: cbs/1009-wcg-kabanata-11/index.md
-    - Sep 21-27: cbs/0925-wcg-kabanata-09/index.md
-    - Sep 7-13: cbs/0911-wcg-kabanata-07/index.md
-    - Aug 24-30: cbs/0824-wcg-kabanata-05/index.md
-    - Feb 9-15: cbs/0209-lfb-aral-60-61/index.md
+    - Nov 2026:
+      - Nov 16-22: cbs/1120-wcg-kabanata-17/index.md
+      - Nov 9-15: cbs/1113-wcg-kabanata-16/index.md
+      - Nov 2-8: cbs/1106-wcg-kabanata-15/index.md
+    - Oct 2026:
+      - Oct 26-Nov 1: cbs/1030-wcg-kabanata-14/index.md
+      - Oct 19-25: cbs/1023-wcg-kabanata-13/index.md
+      - Oct 12-18: cbs/1016-wcg-kabanata-12/index.md
+      - Oct 5-11: cbs/1009-wcg-kabanata-11/index.md
+    - Sep 2026:
+      - Sep 21-27: cbs/0925-wcg-kabanata-09/index.md
+      - Sep 7-13: cbs/0911-wcg-kabanata-07/index.md
+    - Aug 2026:
+      - Aug 24-30: cbs/0824-wcg-kabanata-05/index.md
+    - Feb 2026:
+      - Feb 9-15: cbs/0209-lfb-aral-60-61/index.md
 
 extra_css:
   - stylesheets/extra.css

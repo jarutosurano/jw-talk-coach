@@ -62,19 +62,31 @@ The site uses MkDocs Material's header tabs (`navigation.tabs`) with 4 top-level
 | Tab | Sidebar Content | Adding New Content |
 |-----|----------------|-------------------|
 | **Home** | Custom hero page (no sidebar) | Edit `overrides/home.html` |
-| **Talks** | 5-Minute / 10-Minute / 30-Minute groups | Add under `Talks:` → `X-Minute:` in `mkdocs.yml` nav |
-| **Espirituwal na Hiyas** | Weekly entries | Add under `Espirituwal na Hiyas:` in nav |
-| **CBS** | Weekly entries | Add under `CBS:` in nav |
-| **Watchtower** | Weekly answer scripts | Add under `Watchtower:` in nav |
+| **Talks** | 10-Minute / 5-Minute / 30-Minute groups (in that order) | Add at the top of `Talks:` → `X-Minute:` in `mkdocs.yml` nav |
+| **Espirituwal na Hiyas** | Month groups → weekly entries | Add at the top of the current month group under `Espirituwal na Hiyas:` |
+| **CBS** | Month groups → weekly entries | Add at the top of the current month group under `CBS:` |
+| **Watchtower** | Month groups → weekly answer scripts | Add at the top of the current month group under `Watchtower:` |
 | **Field Ministry** | Demo/arrangement scripts + guidelines | Add under `Field Ministry:` in nav |
 
 Nav labels: talk = its title; Hiyas = the reading (`Jeremias 47-48`); CBS = week range (`Oct 26-Nov 1`); Watchtower = article title (quote it if it contains `:` or `"`). Latest first, except 30-min.
+
+**Nav structure rules (Jayr 2026-11-20: "easy to navigate, simple to understand", for the long term):**
+
+1. **Newest first, everywhere.** A tab opens the first page under it, so the tab itself opens the newest script. The home page cards and buttons are computed from the nav the same way (`latest()` macro in `overrides/home.html`); never hard-code a script URL there.
+2. **Weekly types (Hiyas, CBS, Watchtower): one group per month**, labelled `Nov 2026` (English short month + year, like the date line). The month is the meeting date's month (Watchtower: the month the study week starts). A new month = a new group at the top.
+3. **Talks and Field Ministry: no month groups** (one or two a month would make one-item groups). 10-Minute comes first because it is the most frequent.
+4. **New year:** in January, wrap all of last year's entries of a section in one group named `2026`, below the current year's entries. Folder names carry no year (`MMDD-…`), so from 2027 on do not trust `ls | sort | tail -1` to find the latest file; use the nav order.
+5. **Never rename or move a published folder** to tidy the nav; URLs are shared and bookmarked. Change the nav only.
+6. **One page per script.** Compare versions (`v2.md`) only while deciding; when Jayr picks one, it becomes `index.md` and the others are removed.
+
+Check before pushing a nav change: every `.md` path that was in the nav is still there (a moved line is easy to drop).
 
 Features enabled:
 - `navigation.tabs` — top-level nav items become header tabs
 - Tabs hide on scroll down, reappear on scroll up (no `navigation.tabs.sticky`)
 - `navigation.footer` — Previous/Next pagination in footer
-- No `navigation.sections` (removed 2026-11-20): in the Talks tab, 5-Minute / 10-Minute / 30-Minute are collapsible groups, and only the group of the open page is expanded. Jayr asked for this because the lists were getting long. If one group still gets too long, split it by year in `nav:` (e.g. `10-Minute:` → `2026:`), newest first.
+- No `navigation.sections` (removed 2026-11-20): in the Talks tab, 5-Minute / 10-Minute / 30-Minute are collapsible groups, and only the group of the open page is expanded. Jayr asked for this because the lists were getting long. The same setting makes the month groups collapsible.
+- Material for MkDocs prints an end-of-life notice at build time (May 5, 2027; successor: Zensical). Nothing to do yet; plan the move before then.
 
 **Adding a New Talk:**
 
