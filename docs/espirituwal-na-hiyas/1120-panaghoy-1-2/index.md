@@ -140,8 +140,8 @@ Ganiyan po ang Israel. Ayon sa reference, may kaluwalhatian at kapangyarihan ito
 !!! success "Sagot kapag binasa nang malakas — Panaghoy 1:7"
     Sa Panaghoy 1:7, sinasabi na naalaala ng Jerusalem ang "lahat ng kaniyang kanais-nais na bagay noong unang panahon." Naalaala niya iyon noong nagdurusa na siya. Napaisip ako dito. Minsan, nasasanay na ako sa mga pulong at sa mga kapatid, kaya hindi ko na napapansin. Kaya gusto kong magpasalamat kay Jehova ngayon, habang nasa akin pa ang mga iyon.
 
-!!! success "Sagot kapag binasa nang malakas — Panaghoy 2:13"
-    Sa Panaghoy 2:13, itinanong ni Jeremias: "Saan kita maikukumpara para maaliw kita . . . ?" Gusto niyang umaliw, pero wala siyang mahanap na maihahambing. Nakaka-relate ako diyan. Kapag may kapatid na namatayan o may mabigat na problema, hindi ko alam ang sasabihin. Natutuhan ko na hindi ko kailangang may sagot ako. Puwede akong makinig lang at samahan siya.
+!!! success "Sagot kapag binasa nang malakas — Panaghoy 1:21"
+    Sa Panaghoy 1:21, inilalarawan ang Jerusalem na nagsasabing "walang umaaliw sa akin." Paulit-ulit iyan sa kabanata 1. Nagdurusa siya dahil sa sarili niyang kasalanan. Pero naisip ko, ang bigat pala kapag walang karamay. May mga kapatid na tahimik lang pero may mabigat na dinadala. Kaya ngayong linggo, gusto kong lapitan at kumustahin ang kahit isa sa kanila.
 
 !!! success "Sagot kapag binasa nang malakas — Panaghoy 2:14"
     Sa Panaghoy 2:14, sinabi tungkol sa mga propeta: "Hindi nila inilantad ang kasalanan mo." Di-totoo at nakaliligaw ang mga pangitaing sinabi nila, kaya hindi nahadlangan ang pagbihag. Ipinaalala nito sa akin na ang payo, kahit masakit, ay proteksiyon. Kaya kapag pinayuhan ako ng mga elder o ng isang kaibigan, sinisikap kong makinig muna at huwag agad magdahilan.

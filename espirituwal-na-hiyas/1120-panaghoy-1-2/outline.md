@@ -45,7 +45,9 @@ Sa pagbabasa ng Bibliya para sa linggong ito, anong espirituwal na hiyas ang nag
 
 **Mga napiling teksto (exact NWT crop, p. 1278-1282):** Pan 1:1; 1:4; 1:5; 1:7; 1:20; 2:7; 2:13; 2:14; 2:15; 2:17.
 
-**Mga handang sagot:** Pan 1:7, 2:13, 2:14.
+**Mga handang sagot:** Pan 1:7, 1:21, 2:14. (Nov 19: pinalitan ang 2:13 ng 1:21. Ang 2:13 ay kasama sa 2:11-13, ang mismong bahagi ng talk ni Jayr ngayong gabi; ang "walang umaaliw" ng kabanata 1 (1:2, 9, 17, 21; ihambing ang 1:16) ay kaayon naman ng bahagi 7 tungkol sa mga di-aktibo. Nananatili ang 2:13 sa 10 gems.)
+
+**Panaghoy 1:21** (p. 1280, kanang column) — "Narinig ng mga tao ang pagbubuntonghininga ko; walang umaaliw sa akin. Narinig ng lahat ng kaaway ko ang tungkol sa kapahamakan ko. Nagsaya sila, dahil pinasapit mo ito. Pero pasasapitin mo ang araw na inihayag mo, kung kailan sila ay magiging gaya ko."
 
 ---
 

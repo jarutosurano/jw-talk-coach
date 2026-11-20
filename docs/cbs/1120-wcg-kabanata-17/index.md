@@ -51,7 +51,7 @@ Para simulan, makikisuyo tayo sa ating reader para basahin ang mga talata.
 Nagpakita ng lakas ng loob si Jael nang piliin niyang suportahan si Jehova at hindi ang mga kaaway Niya, kahit kaalyado ng asawa niya si Haring Jabin. Hinarap niya ang isang malakas na mandirigma, kahit alam niyang puwede siyang mapatay nito.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Isipin po natin ang sitwasyon ni Jael. Sabi sa Hukom 4:17, tumakas si Sisera "papunta sa tolda ni Jael," kasi may mapayapang ugnayan si Jabin at ang sambahayan ni Heber. Kaya ayon sa aklat, inisip ni Sisera na ligtas siyang makakapagtago doon. Pero wala si Heber noon, at kailangang mag-isip agad ni Jael. Kilala niya si Sisera at alam niyang napakasama nito. Alam din niyang isang maling galaw lang, puwedeng magising si Sisera at siya ang mapapatay. Pero ayon sa Hukom 4:21, "dahan-dahan siyang lumapit." Gaya ni Rahab noon, pinili ni Jael na suportahan si Jehova, hindi ang mga kaaway Niya.
+    Sabi po sa Hukom 4:17, tumakas si Sisera "papunta sa tolda ni Jael," kasi may mapayapang ugnayan si Jabin at ang sambahayan ni Heber. Kaya ayon sa aklat, inisip ni Sisera na ligtas siyang makakapagtago doon. Pero kilala ni Jael si Sisera at alam niyang napakasama nito. Alam din niyang isang maling galaw lang, puwedeng magising si Sisera at siya ang mapapatay. Pero ayon sa Hukom 4:21, "dahan-dahan siyang lumapit." Gaya ni Rahab noon, pinili niyang suportahan si Jehova.
 
 **Tanong para ikapit:**
 
@@ -76,7 +76,7 @@ Nagpakita ng lakas ng loob si Jael nang piliin niyang suportahan si Jehova at hi
 Sa dalawang digmaan, si Jehova ang nagbibigay ng tagumpay: napupuksa ang mga kaaway Niya at naliligtas ang mga umiibig sa Kaniya. Ang pagkakaiba, sa Armagedon ay hindi makikipaglaban ang bayan ng Diyos. Natututuhan natin na makakapagtiwala tayo kay Jehova, kasi anuman ang gamitin Niya, mananalo Siya.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Ayon po sa reperensiya, ang "Armagedon" ay nangangahulugang "Bundok ng Megido." At malapit sa Megido natalo ang hukbo ni Sisera. Ano ang pagkakapareho? Tingnan natin ang dulo ng awit, sa Hukom 5:31: "Malipol nawa ang lahat ng iyong kaaway, O Jehova, Pero ang mga umiibig sa iyo ay maging gaya nawa ng araw na sumisikat nang napakaliwanag." Sabi ng reperensiya, sa Armagedon, mapupuksa rin ang mga kaaway ng Diyos at maliligtas ang mga umiibig sa Kaniya. Pero may malaking pagkakaiba. Sa Armagedon, hindi makikipaglaban ang bayan ng Diyos. Hindi man lang sila hahawak ng sandata. Kaya ang natututuhan ko, hindi ko kailangang matakot sa Armagedon. Sabi ng reperensiya, anuman ang gamitin ng Diyos, mananalo Siya.
+    Ayon po sa reperensiya, ang "Armagedon" ay nangangahulugang "Bundok ng Megido," at malapit sa Megido natalo ang hukbo ni Sisera. Ang pagkakapareho: gaya ng inawit sa Hukom 5:31, sa Armagedon, mapupuksa rin ang mga kaaway ng Diyos at maliligtas ang mga umiibig sa Kaniya. Pero may pagkakaiba. Sa Armagedon, hindi makikipaglaban ang bayan ng Diyos. Hindi man lang sila hahawak ng sandata. Kaya ang natututuhan ko, hindi ko kailangang matakot. Sabi ng reperensiya, anuman ang gamitin ng Diyos, mananalo Siya.
 
 **Tanong para ikapit:**
 
@@ -98,7 +98,7 @@ Sa dalawang digmaan, si Jehova ang nagbibigay ng tagumpay: napupuksa ang mga kaa
 Si Heber ay isang Kenita, inapo ni Hobab na kapamilya ni Moises dahil sa pag-aasawa. Matagal nang kaalyado ng Israel ang karamihan sa mga Kenita, pero humiwalay si Heber sa kanila at nakipagpayapaan kay Haring Jabin.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Sabi po sa Hukom 4:11, si Heber ay Kenita, at ang mga Kenita ay "mga inapo ni Hobab, na biyenan ni Moises." Kaya may ugnayan ang pamilya niya sa Israel mula pa noong panahon ni Moises. Sabi ng aklat, karamihan sa mga Kenita ay kaalyado ng mga Israelita. Pero ayon din sa talatang iyon, si Heber ay "humiwalay sa mga Kenita." At sa bersikulo 17, may mapayapang ugnayan siya kay Jabin na hari ng Hazor. Kaya mas naiintindihan natin kung gaano kahirap ang sitwasyon ni Jael: ang sambahayan niya ay may ugnayan sa kaaway ng bayan ng Diyos.
+    Sabi po sa Hukom 4:11, si Heber ay Kenita, at ang mga Kenita ay "mga inapo ni Hobab, na biyenan ni Moises." Sabi ng aklat, karamihan sa mga Kenita ay kaalyado ng mga Israelita mula pa noong panahon ni Moises. Pero ayon din sa bersikulo 11, si Heber ay "humiwalay sa mga Kenita," at sa bersikulo 17, may mapayapang ugnayan siya kay Jabin. Kaya mahirap ang sitwasyon ni Jael: may ugnayan ang sambahayan niya sa kaaway ng bayan ng Diyos.
 
 **Tanong para ikapit:**
 
@@ -121,7 +121,7 @@ Si Heber ay isang Kenita, inapo ni Hobab na kapamilya ni Moises dahil sa pag-aas
 Noong may mga bansang nagbabanta sa Israel, hiniling ng salmista kay Jehova na gawin sa mga iyon ang ginawa Niya kay Sisera at kay Jabin. Ipinakita nito na pinatibay ng tagumpay na iyon ang pananampalataya niya sa kakayahan ni Jehova na iligtas ang bayan Niya.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Makikita po iyan sa Awit 83. Ayon sa reperensiya, may mga bansang nagbabanta noon sa Israel. Kaya nanalangin ang salmista sa bersikulo 9: "Gawin mo sa kanila ang ginawa mo sa Midian, Gaya ng ginawa mo kay Sisera at kay Jabin sa ilog ng Kison." Inalala niya ang ginawa ni Jehova noong panahon nina Barak at Debora. At sabi ng reperensiya, makikita rito ang matibay na pananampalataya niya sa kakayahan ni Jehova na biguin ang mga plano ng mga kaaway. Ganiyan din ako. Kapag may sumasalansang sa atin o natatakot ako, nakakatulong na alalahanin ko ang mga ginawa ni Jehova noon para sa bayan Niya. Kung nagawa Niya iyon noon, kaya Niya ulit.
+    Makikita po iyan sa Awit 83. Ayon sa reperensiya, may mga bansang nagbabanta noon sa Israel. Kaya nanalangin ang salmista sa bersikulo 9: "Gawin mo sa kanila ang ginawa mo sa Midian, Gaya ng ginawa mo kay Sisera at kay Jabin sa ilog ng Kison." Sabi ng reperensiya, makikita rito ang matibay na pananampalataya niya sa kakayahan ni Jehova na biguin ang mga plano ng mga kaaway. Kaya kapag natatakot ako, inaalaala ko rin ang mga ginawa ni Jehova noon para sa bayan Niya.
 
 **Tanong para ikapit:**
 
@@ -145,7 +145,7 @@ Noong may mga bansang nagbabanta sa Israel, hiniling ng salmista kay Jehova na g
 Kahanga-hanga ito kasi hindi makasarili si Debora. Kahit siya ang propetisa, hindi niya ipinagkait kay Jael ang papuri. Ang mahalaga sa kaniya, nagkatotoo ang salita ni Jehova. Natututuhan natin na maging masaya sa nagagawa ng iba at maging bukas-palad sa komendasyon.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Tingnan po natin ang Larawan A. May lalaki at babaeng nakatingala at nakabukas ang mga kamay, na parang umaawit, at marami pang tao sa likod nila na nakataas ang mga kamay. Kaayon iyan ng Hukom 5:1, kung saan umawit sina Debora at Barak. At sa bersikulo 24, inawit nila: "Ang pinagpala sa lahat ng babae ay si Jael." Kahanga-hanga iyan. Si Debora ang propetisa, at sumama pa siya kay Barak. Pero ayon sa reperensiya, hindi siya makasarili. Hindi niya ipinagkait kay Jael ang papuri. Ang nasa isip lang niya, nagkatotoo ang salita ni Jehova. Ang natututuhan ko, kapag may kapatid na may nagawang mabuti, hindi ako maiinggit. Sasabihin ko sa kaniya na pinapahalagahan ko ang ginawa niya.
+    Sa Larawan A po, may lalaki at babaeng nakatingala at nakabukas ang mga kamay, na parang umaawit. Kaayon iyan ng Hukom 5:1, kung saan umawit sina Debora at Barak. At sa bersikulo 24, inawit nila: "Ang pinagpala sa lahat ng babae ay si Jael . . ." Kahit si Debora ang propetisa, ayon sa reperensiya, hindi siya makasarili. Hindi niya ipinagkait kay Jael ang papuri. Kaya kapag may kapatid na may nagawang mabuti, hindi ako maiinggit. Sasabihin ko sa kaniya na pinapahalagahan ko iyon.
 
 **Tanong para ikapit:**
 
@@ -170,7 +170,7 @@ Kahanga-hanga ito kasi hindi makasarili si Debora. Kahit siya ang propetisa, hin
 Matutularan ng isang sister ang lakas ng loob ni Jael kapag nananatili siyang tapat kay Jehova kahit hindi siya sinusuportahan ng asawa niya: sa pagdalo sa pulong, sa ministeryo, at sa pagtanggi sa mga gawaing hindi kaayon ng Bibliya. Ginagawa niya iyon nang may paggalang sa asawa niya.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Sabi po ng aklat, nakipag-alyansa si Heber kay Haring Jabin, pero si Jael, pinili niyang suportahan si Jehova. May mga sister ngayon na hindi rin kapananampalataya ang asawa. Kailangan nila ng lakas ng loob, halimbawa kapag ayaw ng asawa na dumalo sila sa pulong, o kapag inaasahan silang sumali sa selebrasyong hindi kaayon ng Bibliya. Pero hindi literal ang laban natin ngayon, at hindi kaaway ang asawa. Kaya sinusunod ng sister ang 1 Pedro 3:1, 2. Umaasa siyang makumbinsi ang asawa niya "nang walang salita" dahil sa "malinis na paggawi at matinding paggalang" niya. Matatag siya sa pagsamba, pero magalang pa rin.
+    Sabi po ng aklat, nakipag-alyansa si Heber kay Haring Jabin, pero si Jael, pinili niyang suportahan si Jehova. May mga sister ngayon na hindi rin kapananampalataya ang asawa. Kailangan nila ng lakas ng loob kapag ayaw ng asawa na dumalo sila sa pulong o mangaral. Pero hindi literal ang laban natin ngayon, at hindi kaaway ang asawa. Kaya sinusunod ng sister ang 1 Pedro 3:1, 2. Umaasa siyang makumbinsi ang asawa niya "nang walang salita" dahil sa "malinis na paggawi at matinding paggalang" niya. Matatag siya sa pagsamba, pero magalang pa rin.
 
 **Tanong para ikapit:**
 
@@ -193,7 +193,7 @@ Matutularan ng isang sister ang lakas ng loob ni Jael kapag nananatili siyang ta
 Natututuhan natin na hindi hadlang ang limitasyon para makapaglingkod kay Jehova. Hindi ginawa ni Jael ang hindi niya kaya. Ginawa niya ang kaya niya, gamit ang mga bagay na mayroon siya. Magagawa rin natin iyan kahit limitado tayo dahil sa edad, kalusugan, o kalagayan.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Sa Larawan B po, may dalawang litrato. Sa kaliwa, may may-edad na babaeng naka-wheelchair. May mga gamot sa mesa niya, at nagsusulat siya sa isang card. Sa kanan, may lalaking nagbabasa ng isang card, at nakangiti ang babaeng katabi niya. Mukhang napatibay sila sa natanggap nila. Ganiyan si Jael. Sabi ng aklat, alam niyang hindi niya kakayaning talunin si Sisera kung makikipaglaban siya dito. Kaya iba ang ginawa niya. Ayon sa Hukom 4:21, kumuha siya "ng isang tulos na pantolda at ng martilyo." Sabi ng aklat, posibleng sanay na sanay siyang gamitin ang mga ito. Para sa akin, ang aral ay huwag kong tingnan ang hindi ko na kaya. Tingnan ko kung ano ang hawak ko. Baka may kapatid na hindi na makalabas nang madalas, pero kaya pa niyang sumulat, tumawag, o manalangin para sa iba. Ganoon din ako: gagawin ko ang kaya ko.
+    Sa Larawan B po, may may-edad na babaeng naka-wheelchair na nagsusulat sa isang card. Sa kabilang litrato, may lalaking nagbabasa ng isang card. Ganiyan din si Jael: ginawa niya ang kaya niya. Sabi ng aklat, alam niyang hindi niya kakayaning talunin si Sisera kung makikipaglaban siya dito. Kaya ayon sa Hukom 4:21, kumuha siya "ng isang tulos na pantolda at ng martilyo." Para sa akin, kahit limitado ang oras o lakas ko, kaya ko pa ring sumulat o mag-message sa isang kapatid, halimbawa sa isang di-aktibo, gaya ng napag-usapan natin kanina.
 
 **Tanong para ikapit:**
 
@@ -216,7 +216,7 @@ Natututuhan natin na hindi hadlang ang limitasyon para makapaglingkod kay Jehova
 Matutularan natin si Jael kung kikilos tayo agad kapag may pagkakataong gawin ang tama, kung papanig tayo kay Jehova kahit tayo lang mag-isa, at kung lalabanan natin ang impluwensiya ng sanlibutan ni Satanas, halimbawa sa paaralan, sa trabaho, o sa ministeryo.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Napansin ko po ang sinabi ng aklat: "Kailangan niyang mag-isip agad!" Nakita na lang ni Jael na paparating si Sisera. Wala si Heber noon. Pero nang makita niyang may pagkakataon siya, kumilos siya. Sabi ng aklat, hindi na literal na nakikipaglaban ang mga lingkod ng Diyos ngayon. Pero nakikipaglaban tayo sa impluwensiya ni Satanas at ng masamang mundong ito. Kaya para sa akin, matutularan ko si Jael kapag bigla akong tinanong tungkol sa paniniwala ko, sa trabaho man o sa paaralan. O kapag may nag-alok sa akin ng bagay na alam kong mali. Walang panahon para mag-isip nang matagal. Kaya ngayon pa lang, pinaghahandaan ko na ang isasagot ko.
+    Napansin ko po ang sinabi ng aklat: "Kailangan niyang mag-isip agad!" Nang makita ni Jael na may pagkakataon siya, kumilos siya. Sabi ng aklat, hindi na literal na nakikipaglaban ang mga lingkod ng Diyos ngayon, pero nakikipaglaban tayo sa impluwensiya ni Satanas at ng masamang mundong ito. Kaya matutularan ko si Jael kapag bigla akong tinanong tungkol sa paniniwala ko, o kapag may nag-alok sa akin ng bagay na alam kong mali. Ngayon pa lang, pinaghahandaan ko na ang isasagot ko.
 
 **Tanong para ikapit:**
 
@@ -241,7 +241,7 @@ Matutularan natin si Jael kung kikilos tayo agad kapag may pagkakataong gawin an
 Itinuturo nito na laging tinutupad ni Jehova ang salita Niya, na kaya Niyang gamitin ang sinumang handang pumanig sa Kaniya, at na nakikita at pinahahalagahan Niya ang lakas ng loob ng mga lingkod Niya.
 
 !!! success "Sagot kapag binasa nang malakas (mas malalim)"
-    Ang tumatak po sa akin, tinutupad ni Jehova ang bawat detalye ng sinasabi Niya. Sa Hukom 4:9, sinabi ni Debora: "Sa kamay ng isang babae ibibigay ni Jehova si Sisera." Noong matapos ang labanan, parang hindi pa iyon natutupad, kasi nakatakas si Sisera. Pero sa bersikulo 22, pagpasok ni Barak sa tolda, nakita niyang natupad na. At pansinin po kung sino ang ginamit ni Jehova. Isang babaeng nakatira sa tolda. Ayon sa artikulo sa jw.org na nasa Tingnan Din, ipinapakita nito na kayang maniobrahin ni Jehova ang mga bagay-bagay para matupad ang hula. Itinuturo nito sa akin na hindi tinitingnan ni Jehova kung gaano kalaki ang pangalan o kakayahan ko. Ang papuri kay Jael ay nasa awit na si Jehova mismo ang nagpasulat.
+    Ang tumatak po sa akin, tinutupad ni Jehova ang bawat detalye ng sinasabi Niya. Sa Hukom 4:9, sinabi ni Debora: "Sa kamay ng isang babae ibibigay ni Jehova si Sisera." Noong matapos ang labanan, parang hindi pa iyon natutupad, kasi nakatakas si Sisera. Pero sa bersikulo 22, pagpasok ni Barak sa tolda, nakita niyang natupad na. At isang babaeng nakatira sa tolda ang ginamit ni Jehova. Itinuturo nito sa akin na kayang gamitin ni Jehova ang sinuman para tuparin ang salita Niya.
 
 **Tanong para ikapit:**
 
@@ -264,7 +264,7 @@ Itinuturo nito na laging tinutupad ni Jehova ang salita Niya, na kaya Niyang gam
 Ipinakita ng ulat na ito na aalisin ni Jehova ang mga kaaway Niya at bibigyan ng kapayapaan ang mga umiibig sa Kaniya. Ayon sa mga reperensiya, ganiyan din ang mangyayari sa Armagedon, at tiyak na magtatagumpay si Jehova.
 
 !!! success "Sagot kapag binasa nang malakas"
-    Tingnan po natin ang dulo ng binasa natin, sa Hukom 5:31: "Malipol nawa ang lahat ng iyong kaaway, O Jehova, Pero ang mga umiibig sa iyo ay maging gaya nawa ng araw na sumisikat nang napakaliwanag." At pagkatapos, sinabing "ang lupain ay nagkaroon ng kapayapaan sa loob ng 40 taon." Pagkatapos ng 20 taon ng pagmamalupit, nagkaroon ng kapayapaan. Ayon sa reperensiya, ganiyan din sa Armagedon: mapupuksa ang mga kaaway ng Diyos at maliligtas ang mga umiibig sa Kaniya. Kaya ang ulat na ito ay patunay na kaya ni Jehova na tuparin ang layunin Niya. At gaya ni Jael, ngayon pa lang, ipinapakita ko na kung kanino ako panig.
+    Tingnan po natin ang Hukom 5:31: "Malipol nawa ang lahat ng iyong kaaway, O Jehova, Pero ang mga umiibig sa iyo ay maging gaya nawa ng araw na sumisikat nang napakaliwanag." Pagkatapos, sinabing "ang lupain ay nagkaroon ng kapayapaan sa loob ng 40 taon." Ayon sa reperensiya, ganiyan din sa Armagedon: mapupuksa ang mga kaaway ng Diyos at maliligtas ang mga umiibig sa Kaniya. Kaya patunay ang ulat na ito na kaya ni Jehova na tuparin ang layunin Niya.
 
 **Tanong para ikapit:**
 
@@ -281,7 +281,7 @@ Ipinakita ng ulat na ito na aalisin ni Jehova ang mga kaaway Niya at bibigyan ng
 - "Ano ang naramdaman mo nang malaman mong may awit tungkol sa iyo, at na nababasa pa rin iyon pagkalipas ng libo-libong taon?"
 
 !!! success "Sagot kapag binasa nang malakas"
-    Gusto ko pong itanong kay Jael kung ano ang nasa isip niya noong makita niyang paparating si Sisera. Sabi ng aklat, posibleng hindi niya alam ang hula ni Debora na mamamatay si Sisera sa kamay ng isang babae. Kaya gusto kong malaman mula mismo sa kaniya: paano niya nalaman kung ano ang gusto ni Jehova na gawin niya? At itatanong ko rin kung ano ang naramdaman niya nang malaman niyang may awit, sa Hukom 5:24, na tumawag sa kaniyang "pinagpala sa lahat ng babae."
+    Gusto ko pong itanong kay Jael kung ano ang nasa isip niya noong makita niyang paparating si Sisera. Sabi ng aklat, posibleng hindi niya alam ang hula ni Debora na mamamatay si Sisera sa kamay ng isang babae. Kaya gusto kong malaman: paano niya nalaman kung ano ang gusto ni Jehova na gawin niya? At ano ang naramdaman niya nang malaman niyang may awit na tumawag sa kaniyang "pinagpala sa lahat ng babae"?
 
 ---
 
