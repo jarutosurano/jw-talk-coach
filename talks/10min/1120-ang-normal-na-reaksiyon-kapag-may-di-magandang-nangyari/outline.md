@@ -122,3 +122,11 @@ reference/books/nwt-bagong-sanlibutang-salin.pdf. Walang binagong salita.
 - **Red team (1):** walang mali sa mga sipi, teksto, outline wording, caption. Inilapat: binago ang pambungad dahil kahawig ng 1030 ("Isipin po… Ano po kaya ang mararamdaman…"); inayos ang pagkakasunod sa punto 1 at 2 para malinaw ang tinutukoy ng "Iyon din ang gusto Niya"; "footnote" sa halip na "talababa"; "Gaya si Jehova ng ama".
 - **Oras:** 791 words. Hanggang matapos ang video at ang dalawang sagot ≈ 4:16; natitira ≈ 5:20; kabuuan ≈ 9:36.
 
+### Pinal (Nov 20, 2026) — ang v2 na ang `index.md`; inalis ang v1
+
+- Pagkatapos ng red team, dinaanan ni Jayr ang bawat bahagi at binago ang pananalita. Hindi na dumaan sa bagong red team ang mga pagbabagong ito; ang mga sipi ay siniyasat laban sa reference habang ginagawa.
+- **Mga pinili ni Jayr:** hindi sinasagot ang tanong tungkol sa magulang sa intro; "kaibigan o kapatid sa kongregasyon na napalayo kay Jehova"; ang tema bilang tanong bago ang video at "Iyan po ang normal na reaksiyon" pagkatapos; inalis ang footnote ("awa o simpatiya"), ang "Sabi ko na sa inyo eh," at ang ama ng nawalang anak; ibinalik ang linya tungkol sa mga elder (¶7); "hindi tayo puwedeng magpabalot lang sa lungkot. May kailangan tayong gawin"; pagbubulay-bulay at konklusyon ayon sa daloy ng isa pang brother.
+- **Punto 2:** Jeremias → Jehova (¶9) → mga elder (¶7) → tayo. Hindi ginamit ang "Siya ang unang kumilos" (¶7; kay Oseas ang halimbawa sa artikulo).
+- **Oras:** 808 words ≈ 6:49 + 2:46 + ~10 s A/V ≈ 9:45. Unang aalisin kung humaba: ang linya tungkol sa mga elder (17 words).
+- Hiwalay ang kopya ni Jayr sa Notion; ibigay ang "dati → ngayon" sa bawat pagbabago.
+

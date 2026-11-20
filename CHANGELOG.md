@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.60.0] - 2026-11-20
+
+### Nov 20 talk: v2 is now the final script, v1 removed
+
+**Changed:**
+- `docs/talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/index.md` now holds the reworked script (formerly `v2.md`), title without "(v2)". Jayr compared the two and chose v2 after working through it section by section. 808 spoken words, ≈ 9:45 with the video.
+- `talks/10min/1120-…/summary.md` rewritten for the final script; `outline.md` notes updated.
+
+**Removed:**
+- `v2.md` and its nav entry "(v2)". The earlier script (video first, the Stefano and Elizabeth experiences) remains in git history.
+
+---
+
 ## [4.59.0] - 2026-11-20
 
 ### Nov 20 talk v2 reworked: analogy and questions before the video, clearer beats

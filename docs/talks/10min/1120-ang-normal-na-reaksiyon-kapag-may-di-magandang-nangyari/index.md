@@ -6,38 +6,52 @@ Nov 20, 2026
 
 ---
 
-## VIDEO [3 minuto]
+## INTRO [1 minuto]
 
-Panoorin po muna natin ang video na *Introduksiyon sa Mga Panaghoy.*
+May isang magulang na maraming beses nagpaalala sa anak niya. Pero hindi ito nakinig, at napahamak.
 
-**VIDEO CUE: Introduksiyon sa Mga Panaghoy (2:46)**
+Matutuwa ba ang magulang dahil tama siya?
+
+Ganoon din po kapag kaibigan natin, o kapatid sa kongregasyon, ang napalayo kay Jehova at napahamak.
+
+**Ano po ang normal na reaksiyon kapag may di-magandang nangyari sa kanila?**
+
+Naranasan iyan ni Jeremias. Apatnapung taon siyang nagbabala sa Jerusalem. Hindi nakinig ang bayan, at nawasak ang lunsod.
+
+Ano ang naramdaman niya? At may inasahan pa ba siya?
 
 ---
 
-## INTRO [1 minuto]
+## VIDEO [3.5 minuto]
 
-Isipin po ang isang magulang na ilang taon nang nagpapaalala sa anak niya. Hindi nakinig ang anak, at napahamak siya. Ano po ang mararamdaman ng magulang? Masasaktan siya.
+Hanapin po natin ang sagot sa video na *Introduksiyon sa Mga Panaghoy.*
 
-Ganiyan po si Jeremias. Apatnapung taon siyang nagbabala sa Jerusalem. Nang mangyari ang lahat ng sinabi niya, hindi siya nagsaya. Umiyak siya, gaya ng napanood natin.
+**VIDEO CUE: Introduksiyon sa Mga Panaghoy (2:46)**
 
-Iyan po ang tema natin ngayong gabi: **Ang Normal na Reaksiyon Kapag May Di-magandang Nangyari.** Sa Panaghoy kabanata 2, titingnan natin kung para kanino ang luha ni Jeremias, at kung saan niya gustong dalhin ng bayan ang luha nila.
+Batay po sa napanood natin, ano ang naramdaman ni Jeremias? Lungkot na lungkot siya sa sinapit ng Jerusalem.
+
+At may inasahan pa ba siya? Opo. Umasa siyang isasauli ni Jehova ang bansa.
+
+Kaya lungkot at pag-asa. Iyan po **ang normal na reaksiyon.** Tingnan po natin ang dalawang iyan sa mismong isinulat ni Jeremias.
 
 ---
 
 ## 1 — Lungkot na lungkot si Jeremias nang makita niyang nagdurusa ang mga taga-Jerusalem na hindi na naglilingkod kay Jehova [1.5 minuto]
 
-Buksan po natin ang Panaghoy kabanata 2, bersikulo 11. Pansinin po kung para kanino ang luha ni Jeremias.
+Buksan po natin ang Panaghoy kabanata 2, bersikulo 11. Pansinin po kung gaano kalalim ang lungkot ni Jeremias.
 
 *[Basahin ang Panaghoy 2:11]*
 
 !!! quote "Panaghoy 2:11"
     "Namumugto ang mga mata ko sa kaiiyak. Naghihirap ang kalooban ko. Nadurog ang puso ko, dahil sa pagbagsak ng anak na babae ng bayan ko, Dahil nanlulupaypay ang mga bata at mga sanggol sa mga liwasan ng bayan."
 
-**"Namumugto ang mga mata ko sa kaiiyak."** **==Lungkot na lungkot si Jeremias nang makita niyang nagdurusa ang mga taga-Jerusalem na hindi na naglilingkod kay Jehova.==**
+Ano po ang ipinapakita nito? **==Lungkot na lungkot si Jeremias nang makita niyang nagdurusa ang mga taga-Jerusalem na hindi na naglilingkod kay Jehova.==**
 
-At para kanino ang luhang iyan? Para sa **"anak na babae ng bayan ko."** Sabi ng talababa, malamang na nagpapahayag iyan ng **"awa o simpatiya."** Sila po ang bayang hindi nakinig sa mensahe niya. _Sabi ng isa pang publikasyon natin tungkol sa talatang ito, sila naman talaga **"ang dapat sisihin sa sinapit nila. Pero hindi sinabi ni Jeremias na, 'Sabi ko na sa inyo eh!'"**_ Naawa siya.
+Hindi siya natuwa na nagkatotoo ang babala niya. Namaga na ang mga mata niya sa kaiiyak. Nakita niya ang paghihirap nila, pati ng mga bata at mga sanggol.
 
-Ano po ang matututuhan natin dito? Normal na malungkot kapag ang mahal natin ay napalayo kay Jehova. Kung ganiyan din po tayo, normal iyan. Ganiyan din si Jeremias.
+Ganiyan din po tayo. Kapag nakikita nating nagdurusa ang isa dahil sa maling desisyon niya, normal na malungkot tayo.
+
+Halimbawa, baka may kapamilya tayo o malapit na kaibigan na unti-unting lumalayo kay Jehova. Ano ang mararamdaman natin? Malulungkot tayo, dahil mahal natin siya. At normal po iyan.
 
 ---
 
@@ -52,13 +66,13 @@ Ngayon naman po, tingnan natin ang larawan.
   <figcaption>Si Jeremias na napapaluha na lang habang isinusulat ang aklat ng Mga Panaghoy sa isang balumbon.</figcaption>
 </figure>
 
-Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan? May luha sa pisngi ni Jeremias, at nakahawak ang kamay niya sa ulo. At nagsusulat siya sa isang balumbon.
+Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan? May luha sa pisngi ni Jeremias, at nakahawak ang kamay niya sa ulo. Pero nagsusulat pa rin siya.
 
 At napansin n'yo po ba ang caption? Sabi po dito:
 
 > **"Si Jeremias na napapaluha na lang habang isinusulat ang aklat ng Mga Panaghoy sa isang balumbon."**
 
-At kahit dito sa kabanata 2, hindi lang lungkot ang isinulat niya. May pag-asa rin.
+Tapat na propeta siya, pero umiiyak. Kaya hindi po kahinaan ang umiyak. Pero hindi siya nagpabalot sa lungkot.
 
 *Salamat po sa picture.*
 
@@ -66,39 +80,47 @@ At kahit dito sa kabanata 2, hindi lang lungkot ang isinulat niya. May pag-asa r
 
 ## 2 — Umasa si Jeremias na manunumbalik sila kay Jehova, magpapakumbaba, mananalangin, at magsisisi [2 minuto]
 
-Buksan po natin ang Panaghoy kabanata 2, bersikulo 19. Dito, kinakausap ni Jeremias ang Jerusalem. Pansinin po kung saan niya gustong dalhin ng bayan ang mga luha nila.
+Gaya ni Jeremias, hindi rin tayo puwedeng magpabalot lang sa lungkot. May kailangan tayong gawin. Ano iyon?
+
+Buksan po natin ang Panaghoy kabanata 2, bersikulo 19. Pansinin po kung ano ang gusto niyang gawin ng bayan.
 
 *[Basahin ang Panaghoy 2:19]*
 
 !!! quote "Panaghoy 2:19"
     "Bumangon ka! Umiyak ka buong magdamag. Ibuhos mo ang puso mo na parang tubig sa harap ni Jehova. Itaas mo sa kaniya ang mga kamay mo alang-alang sa buhay ng mga anak mo, Na nanghihina sa kanto ng bawat kalye dahil sa taggutom."
 
-**"Ibuhos mo ang puso mo na parang tubig sa harap ni Jehova."** Bakit sa harap ni Jehova? Dahil **==umasa si Jeremias na manunumbalik sila kay Jehova, magpapakumbaba, mananalangin, at magsisisi.==**
+Ano po ang ginawa ni Jeremias? Hinimok niya ang bayan na manalangin at ibuhos ang puso nila **"sa harap ni Jehova."** Lungkot na lungkot siya, pero hindi siya sumuko. Oo, **==umasa si Jeremias na manunumbalik sila kay Jehova, magpapakumbaba, mananalangin, at magsisisi.==**
 
-At ano po naman ang nararamdaman ni Jehova sa mga napalayo? Sabi ng referensya natin, **"hindi hinintay ni Jehova na magsisi muna ang masuwayin niyang bayang Israel bago niya sila tulungan. Siya ang unang kumilos."**
+Ano po ang itinuturo nito sa atin tungkol kay Jehova? Ganiyan din ang nararamdaman ni Jehova. Sabi ng referensya natin, **"hindi kinukunsinti ni Jehova ang mga di-nagsisising nagkasala. Pero hindi niya sila sinusukuan. Gusto niya silang manumbalik."**
 
-Tinutularan iyan ng mga elder. **"Hindi nila ginagawang mahirap"** para sa nagkasala na bumalik.
+Ganiyan din ang mga elder sa mga inalis sa kongregasyon. **"Hindi nila ginagawang mahirap"** para sa nagkasala na bumalik.
 
-_May karanasan po sa isa sa mga publikasyon natin, isang brother na si Stefano. Inalis siya sa kongregasyon, at makalipas ang 12 taon, nagpasiya siyang dumalo ulit sa pulong. Sabi niya: **"Nakakailang noong una, pero gusto ko talagang makabalik sa mapagmahal na pamilya ni Jehova. Ipinaramdam sa akin ng mga elder na kumausap sa akin na masaya silang makasama akong muli."**_
+At tayo?
 
-Kaya kung may mga mahal tayo sa buhay na napalayo, huwag po nating isiping wala na silang pag-asa. Sabi ng referensya natin, **"hindi kinukunsinti ni Jehova ang mga di-nagsisising nagkasala. Pero hindi niya sila sinusukuan."**
+Kung may mahal tayo sa buhay na napalayo kay Jehova, umaasa pa rin ba tayong babalik siya? Iyan po ang kailangan nating gawin: gaya ni Jeremias, patuloy tayong umasa.
 
 ---
 
-## PAGBUBULAY-BULAY [1.5 minuto]
+## PAGBUBULAY-BULAY [1 minuto]
 
-May isa pa pong tanong para sa ating pagbubulay-bulay: **==Kapag iniisip nating tayo ang dahilan kung bakit nakagawa ng maling desisyon ang iba, ano ang makakatulong sa atin?==**
+Pero may isa pang tanong para sa ating pagbubulay-bulay: **==Kapag iniisip nating tayo ang dahilan kung bakit nakagawa ng maling desisyon ang iba, ano ang makakatulong sa atin?==**
 
-_May karanasan din sa isa pang publikasyon natin, isang sister na si Elizabeth. Nang alisin sa kongregasyon ang anak niya, sabi niya: **"Siguro hindi ako naging mabuting ina. Pakiramdam ko, hindi ko naitanim ang katotohanan sa puso ng anak ko."**_
+Halimbawa, huminto sa paglilingkod kay Jehova ang isang anak. Malulungkot ang mga magulang, at normal iyon. Pero kung sisisihin nila ang sarili nila, sabi ng referensya natin, **"mapapabigatan lang sila. Ayaw ni Jehova na maramdaman nila iyon."**
 
-Pero sabi ng referensya natin, kapag sinisi ng magulang ang sarili niya, **"mapapabigatan lang"** siya, at **"ayaw ni Jehova na maramdaman"** niya iyon.
+Ano po ang makakatulong? Tandaan na **"bawat isa sa atin, binigyan ni Jehova ng kalayaang magpasiya."** Alam ni Jehova na hindi perpekto ang mga magulang. Ang inaasahan lang Niya, gawin nila ang buong makakaya nila. Ang anak ang mananagot sa mga desisyon niya, hindi ang magulang.
 
-Paano natin maaalis ang pabigat na ito? **"Hindi tayo puwedeng magdesisyon para sa iba."** Ang inaasahan lang ni Jehova, **"gawin mo ang buong makakaya mo. Ang anak mo ang mananagot sa mga desisyon niya, hindi ikaw."** At kung may nagawa kang pagkakamali, **"Sabihin mo kay Jehova ang nararamdaman mo at humingi ng kapatawaran."**
-
-_At si Elizabeth? Ang anak niya mismo ang nagpasiyang bumalik. At ano ang ipinagpasalamat niya? **"Talagang nagpapasalamat kami sa mga nagpatibay sa amin para hindi kami mawalan ng pag-asa."**_
+Pero paano kung inaalala pa rin natin ang mga pagkakamali natin? Ito po ang payo: **"Sabihin mo kay Jehova ang nararamdaman mo at humingi ng kapatawaran."** At may pag-asa pa: kung magsisikap ang anak na manumbalik kay Jehova, **"buong puso Niya siyang tatanggapin."**
 
 ---
 
 ## CONCLUSION [0.5 minuto]
 
-Sa luha ni Jeremias, nakita po natin na **lungkot na lungkot si Jeremias**, pero **umasa si Jeremias na manunumbalik sila kay Jehova.** Iyan po **ang normal na reaksiyon kapag may di-magandang nangyari**: lungkot na may kasamang pag-asa. Kaya ang luha natin, dalhin natin kay Jehova sa panalangin, at huwag tayong mawalan ng pag-asa. Dahil kung magsisikap ang isa na manumbalik kay Jehova, **"buong puso Niya siyang tatanggapin."**
+Ano po ang natutuhan natin ngayong gabi? Tatlo.
+
+Una, normal ang malungkot **kapag may di-magandang nangyari.**
+
+Pangalawa, huwag tayong mawalan ng pag-asa na manunumbalik pa kay Jehova ang mga napalayo.
+
+Pangatlo, huwag nating sisihin ang sarili natin sa maling desisyon ng iba.
+
+Kaya tularan natin si Jeremias. Sabihin natin kay Jehova ang nararamdaman natin, at patuloy tayong magtiwala sa awa at pagmamahal Niya.
