@@ -1,138 +1,158 @@
 ---
-title: Patuloy Nating Tulungan ang Isa't Isa
+title: "Patuloy Nating Tulungan ang Isa't Isa"
 ---
 
 Oct 2, 2026
 
 ---
 
-## INTRO [1 minuto]
+## INTRO [1.5 minuto]
 
-Isipin po ninyo: nasa meeting kayo sa trabaho. Pinagtulungan kayong sisihin ng ilang katrabaho sa harap ng boss — sa bagay na hindi naman ninyo kasalanan. At pumayag na lang ang boss. Walang gustong madamay. Tapos may isang kasamahang nagsalita sa boss: "Sir, hindi po tama ito."
+Isipin po natin ito, mga kapatid: mamayang gabi, biglang nawalan ng kuryente ang buong lugar. Kinabukasan, wala pa rin. Walang signal, walang internet — hindi n'yo ma-text o matawagan ang kahit sino.
 
-Makakalimutan n'yo po ba ang taong iyon?
+Sino kaya ang kakatok sa pinto n'yo para kumustahin kayo? *{pause}* At kaninong pinto kaya kayo kakatok?
 
-Alam n'yo po ba na may isang propeta ng Diyos na hindi lang pinagbintangan — inihulog pa sa isang imbakan ng tubig na puro putik para mamatay? At ang naglakas-loob na magsalita para sa kaniya sa harap ng hari ay isang banyagang opisyal — na puwedeng mawalan ng posisyon dahil dito.
+Hindi pa po iyan ang malaking kapighatian. Pero base sa referensya natin, pagdating ng **"malaking kapighatian,"** mapapahalagahan natin na may mabubuti tayong kaibigan na nagmamahal sa atin. Kaya **ngayon pa lang**, habang may panahon pa, patibayin na natin ang pagkakaibigan.
 
-Ang tema po natin ngayong gabi: **Patuloy Nating Tulungan ang Isa't Isa.**
+Ang tema po natin ngayong gabi: **Patuloy Nating Tulungan ang Isa't Isa.** Pansinin po ang salitang **"patuloy."** Hindi minsan lang. Parang alkansya — hindi mo ito mapupuno sa mismong araw na kailangan mo na ang pera. Hinuhulugan mo ito ng barya, araw-araw. Ganiyan din ang pagkakaibigan: ang matibay sa araw ng pagsubok ay **binubuo araw-araw.**
 
-Tatlong paraan po ang makikita natin sa Jeremias 38 at 39: **ipagtanggol, patibayin, at pasiglahin** — tanggol, tibay, sigla.
+Kaya paano nga ba natin **patuloy** na matutulungan ang isa't isa? Tatlong paraan ang matututuhan natin sa halimbawa nina Ebed-melec at Jeremias: **ipagtanggol, patibayin, at pasiglahin.**
 
 ---
 
-## BACKGROUND [1 minuto]
+## BACKGROUND [0.75 minuto]
 
-Humihigpit ang hawak ng Babilonya sa Jerusalem. Paubos na ang pagkain sa lunsod. At si Jeremias, walang tigil sa pagsasabi ng mensahe ni Jehova.
+Kinukubkob noon ng Babilonya ang Jerusalem, at nauubos na ang pagkain.
 
-Kaya nagalit ang matataas na opisyal. Sinabi nila sa hari na pinahihina ni Jeremias ang loob ng mga mandirigma, kaya hiniling nilang ipapatay siya. At ano ang sagot ni Haring Zedekias? "Kayo na ang bahala sa kaniya."
+At sa gitna ng ganiyang sitwasyon, patuloy na sinasabi ni Jeremias ang mensahe ni Jehova: mabubuhay ang susuko sa mga taga-Babilonya. Hindi iyan nagustuhan ng matataas na opisyal. Kaya hiniling nila sa hari na ipapatay si Jeremias. At ano ang sagot ni Haring Zedekias? "Kayo na ang bahala sa kaniya."
 
-Kaya ibinaba nila si Jeremias sa isang imbakan ng tubig na puro putik. At sabi ng Bibliya, si Jeremias ay "nagsimulang lumubog sa putik."
+Kaya inihulog nila si Jeremias sa imbakan ng tubig. At sabi ng Bibliya, si Jeremias ay "nagsimulang lumubog sa putik."
 
-Ang hari, bumitaw na. Ang mga opisyal, gusto siyang mamatay.
+Sino pa kaya ang tutulong sa kaniya?
 
 ---
 
 ## 1 — Ipagtanggol ang iba gaya ng ginawa ni Ebed-melec [2.5 minuto]
 
-Pero may isang lalaki sa palasyo na hindi nanahimik — ang Etiopeng si Ebed-melec. At diyan po natin makikita ang <mark class="green">**una nating aral**</mark>: **==ipagtanggol ang iba gaya ng ginawa ni Ebed-melec.==**
+Pero may isang lalaki sa palasyo na hindi nanahimik — si Ebed-melec, isang foreign official mula sa Etiopia. At diyan po natin makikita ang <mark class="green">**una nating aral**</mark>: **==ipagtanggol ang iba gaya ng ginawa ni Ebed-melec.==**
 
-Buksan po natin ang Jeremias kabanata 38, bersikulo 7 hanggang 9. Pansinin po kung ano ang sinabi ni Ebed-melec sa hari.
-
-*[Basahin ang Jeremias 38:7-9]*
-
-!!! quote "Jeremias 38:7-9"
-    "Nalaman ng Etiope na si Ebed-melec, isang opisyal sa bahay ng hari, na inilagay nila si Jeremias sa imbakan ng tubig. Ang hari ay nakaupo noon sa Pintuang-Daan ng Benjamin, kaya lumabas si Ebed-melec sa bahay ng hari, at sinabi niya sa hari: 'O panginoon kong hari, napakasama ng ginawa ng mga lalaking ito sa propetang si Jeremias! Inihulog nila siya sa imbakan ng tubig, at mamamatay siya roon sa gutom, dahil wala nang tinapay sa lunsod.'"
-
-Napansin po ba natin? **"Napakasama ng ginawa ng mga lalaking ito."** Diretsahan — sa hari mismo. Base sa referensya natin, sa kabila ng panganib, nakiusap siya sa hari. Hindi siya naduwag. Isinapanganib niya ang kaniyang buhay, at handa siyang matanggal sa posisyon, magawa lang ang tama.
-
-Ngayon naman po, tingnan natin ang larawan.
+Tingnan po muna natin ang larawan.
 
 <figure markdown="span">
   ![Nakaluhod si Ebed-melec sa harap ni Haring Zedekias habang nanonood ang mga sundalo at opisyal](picture-1.jpg){ width="100%" }
   <figcaption>Si Ebed-melec habang nakikiusap kay Zedekias na tulungan si Jeremias.</figcaption>
 </figure>
 
-Ano po ba ang nakikita natin dito, mga kapatid at mga kaibigan? Isang lalaking nakaluhod sa harap ng hari — napapalibutan ng mga sundalo at opisyal.
-
-At napansin n'yo po ba ang caption? Sabi po dito:
-
-> **"Si Ebed-melec habang nakikiusap kay Zedekias na tulungan si Jeremias."**
+Sabi ng caption: **"Si Ebed-melec habang nakikiusap kay Zedekias na tulungan si Jeremias."**
 
 *Salamat po sa picture.*
 
-Nakinig ang hari. Inutusan niya si Ebed-melec na magsama ng 30 lalaki at iahon si Jeremias. At may isa pa pong detalye na nakakaantig: bago iahon si Jeremias, nagpababa si Ebed-melec ng sira-sirang mga basahan — para ilagay ni Jeremias sa pagitan ng kilikili niya at ng lubid. Maliit na detalye, pero ipinakita nito ang malasakit niya. Matapang — pero maalalahanin.
+Ayon sa Jeremias 38, nalaman ni Ebed-melec na inihulog nila si Jeremias sa imbakan ng tubig. Kaya lumabas siya ng palasyo at pinuntahan ang hari sa Pintuang-Daan ng Benjamin. Ano ang sinabi niya? Habang binabasa natin ang teksto, isipin po natin ang eksenang nakita natin sa larawan. Buksan po natin ang Jeremias kabanata 38, bersikulo 9.
 
-Kaya paano natin ito ikakapit? Baka may kapatid tayong **nilulubog** ng maling akala ng iba.
+*[Basahin ang Jeremias 38:9]*
 
-Halimbawa: may sister na laging late at umaalis agad pagkatapos ng pulong. May nagsasabi, "Dapat kasi manindigan siya." Ang hindi nila alam — di-Saksi ang asawa niya, at hindi siya ang may hawak ng iskedyul niya.
+!!! quote "Jeremias 38:9"
+    "O panginoon kong hari, napakasama ng ginawa ng mga lalaking ito sa propetang si Jeremias! Inihulog nila siya sa imbakan ng tubig, at mamamatay siya roon sa gutom, dahil wala nang tinapay sa lunsod."
 
-Puwede tayong magsalita nang mabait: "Alam n'yo, ang sipag n'yan. Ginagawa niya ang lahat para makarating." Isang pangungusap lang po — pero baka iyon na ang lubid na mag-aahon sa kaniya.
+**"Napakasama ng ginawa ng mga lalaking ito."** Direktang sinabi niya iyan sa hari.
+
+Hindi siya nanahimik. Isinapanganib pa nga niya ang buhay niya para sa tama. Bakit kaya niya nagawa iyon? Maya-maya, si Jehova mismo ang sasagot.
+
+Ano po ang matututuhan natin dito, mga kapatid? Para **patuloy nating matulungan ang isa't isa**, **ipagtanggol natin ang iba** — nang may tapang. Kahit sa loob ng kongregasyon, puwedeng may kapatid na **nahuhusgahan** dahil hindi alam ng iba ang buong sitwasyon niya.
+
+Halimbawa: may sister na laging late at umaalis agad. May nagsasabi, "Dapat kasi manindigan siya." Ang hindi nila alam — hindi Saksi ni Jehova ang asawa niya, at hindi siya ang may hawak ng iskedyul niya.
+
+Paano po natin matutularan si Ebed-melec dito? Puwede tayong magsalita nang mabait: "Alam n'yo, ang sipag n'yan. Ginagawa niya ang lahat para makarating." Isang pangungusap lang po — pero baka iyon na ang lubid na mag-aahon sa kaniya.
 
 ---
 
-## 2 — Patibayin ang iba gaya ng ginawa ni Jeremias [2 minuto]
+## 2 — Patibayin ang iba gaya ng ginawa ni Jeremias [3 minuto]
 
-Nang makaligtas si Jeremias, si Ebed-melec naman ang natakot — sa puwedeng gawin sa kaniya ng matataas na opisyal. At dito natin makikita ang <mark class="green">**ikalawang aral**</mark>: **==patibayin ang iba gaya ng ginawa ni Jeremias.==**
+Pero hindi pa po doon nagtatapos ang kuwento. Naiahon na si Jeremias, pero bilanggo pa rin siya sa Looban ng Bantay. At ngayon, si Ebed-melec naman ang natatakot — sa puwedeng gawin sa kaniya ng matataas na opisyal.
 
-Buksan po natin ang Jeremias kabanata 39, bersikulo 15 hanggang 18. Pansinin po kung nasaan si Jeremias habang pinapatibay niya ang kaibigan niya.
+Napansin n'yo po ba? Ang tumulong, siya naman ngayon ang nangangailangan ng tulong. Iyan po ang ibig sabihin ng **"isa't isa"** sa tema natin — hindi one-way ang tulong. Ngayon, ikaw ang tumutulong; bukas, baka ikaw naman ang tutulungan. At dito natin makikita ang <mark class="green">**ikalawang aral**</mark>: **==patibayin ang iba gaya ng ginawa ni Jeremias.==**
 
-*[Basahin ang Jeremias 39:15-18]*
+Habang nakakulong pa si Jeremias, ipinasabi ni Jehova sa kaniya ang isang mensahe para kay Ebed-melec. Pansinin po ang pangako ni Jehova. Buksan po natin ang Jeremias kabanata 39, bersikulo 17 at 18.
 
-!!! quote "Jeremias 39:15-18"
-    "Habang nakakulong si Jeremias sa Looban ng Bantay, dumating sa kaniya ang salita ni Jehova: 'Sabihin mo sa Etiope na si Ebed-melec, "Ito ang sinabi ni Jehova ng mga hukbo, ang Diyos ng Israel: 'Tutuparin ko ang mga sinabi kong kapahamakan, at hindi kabutihan, sa lunsod na ito, at sa araw na iyon ay makikita mong mangyayari ito.'" "Pero ililigtas kita sa araw na iyon," ang sabi ni Jehova, "at hindi ka ibibigay sa mga lalaking kinatatakutan mo." "Dahil tutulungan kitang makatakas, at hindi ka mamamatay sa espada. Ang buhay mo ang magiging samsam mo, dahil nagtiwala ka sa akin," ang sabi ni Jehova.'"
+*[Basahin ang Jeremias 39:17, 18]*
 
-**"Habang nakakulong si Jeremias."** Nakakulong pa siya! Pero hindi siya nanahimik. Kahit nakakulong, ginawa niya ang makakaya niya — sinabi niya sa kaibigan niya ang nakakapagpatibay na pangako ni Jehova.
+!!! quote "Jeremias 39:17, 18"
+    "'Pero ililigtas kita sa araw na iyon,' ang sabi ni Jehova, 'at hindi ka ibibigay sa mga lalaking kinatatakutan mo.' 'Dahil tutulungan kitang makatakas, at hindi ka mamamatay sa espada. Ang buhay mo ang magiging samsam mo, dahil nagtiwala ka sa akin,' ang sabi ni Jehova."
 
-At pansinin po ang **"mga lalaking kinatatakutan mo."** Alam ni Jehova kung ano mismo ang ikinatatakot ni Ebed-melec. At ginamit Niya si Jeremias para sabihin: **"Nagtiwala ka sa akin."**
+Pansinin po: **"mga lalaking kinatatakutan mo."** Alam ni Jehova ang mismong ikinatatakot ni Ebed-melec. At narito ang sagot sa tanong natin kanina — bakit niya nagawa iyon? **"Dahil nagtiwala ka sa akin."**
 
-Ngayon naman po, tingnan natin ang pangalawang larawan.
+Ano po ang matututuhan natin dito, mga kapatid? Kapag may kapatid na natatakot, **huwag nating balewalain ang takot niya.** Base sa referensya natin, hindi iyon binale-wala ni Jeremias. Kahit nakakulong pa siya, **pinatibay** niya ang kaibigan niya gamit ang pangako ni Jehova.
+
+Sa pag-aaral natin noong nakaraang linggo, natutuhan natin na kapag nagbabasa tayo ng Bibliya, pag-isipan natin: **"Ano ang itinuturo nito sa akin tungkol kay Jehova?"**
+
+Tingnan naman natin ang pangalawang larawan.
 
 <figure markdown="span">
   ![Pinapatibay ng isang sister ang kaibigan niyang umiiyak habang hawak ang litrato ng nanay niya](picture-2.jpg){ width="100%" }
   <figcaption>Pinapatibay ng isang sister ang kaibigan niya na namatayan ng nanay kamakailan lang.</figcaption>
 </figure>
 
-Ano po ang nakikita natin dito, mga kapatid at mga kaibigan? Isang sister na umiiyak, hawak ang litrato ng nanay niya — at ang kaibigan niyang nakahawak sa balikat niya, kinakausap siya nang malumanay.
-
-At napansin n'yo po ba ang caption? Sabi po dito:
+Isang sister na umiiyak, hawak ang litrato ng nanay niya — at ang kaibigang nasa tabi niya. Sabi ng caption:
 
 > **"Pinapatibay ng isang sister ang kaibigan niya na namatayan ng nanay kamakailan lang."**
 
-Siguro iniisip natin, "Pero hindi ko alam ang sasabihin." Huwag po masyadong mag-alala. Kung minsan, ang kailangan lang talaga ng mga kapatid ay **simpleng mga salita na mula sa puso.**
-
 *Salamat po sa picture.*
 
-May isang bagong bautisadong sister na sinulatan ng isang kapatid, at may teksto sa sulat. Makalipas ang mga walong taon, sumulat siya pabalik: *"Kung minsan, gusto ko na pong sumuko at iwan ang katotohanan. Pero lagi ko pong naaalala ang tekstong isinulat ninyo at iyon ang nakakatulong sa akin na manatiling tapat."* Isang teksto lang po.
+Baka iniisip natin, "Hindi ko alam ang sasabihin." Base sa referensya natin, puwede nating samahan ang kapatid, pakinggan siya, at sabihin ang isang tekstong gustong-gusto natin — gaya ng ginawa ni Jeremias. **Ang pinakamahalaga, nandoon ka.**
 
 ---
 
-## 3 — Pasiglahin ang iba na sundin si Jehova gaya ng ginawa ni Jeremias [1 minuto]
+## 3 — Pasiglahin ang iba na sundin si Jehova gaya ng ginawa ni Jeremias [1.25 minuto]
 
-May isa pang kinausap si Jeremias — ang mismong haring nagsabing, "Kayo na ang bahala sa kaniya." At dito naman ang <mark class="green">**ikatlong aral**</mark>: **==pasiglahin ang iba na sundin si Jehova gaya ng ginawa ni Jeremias.==**
+Pero hindi lang si Ebed-melec ang tinulungan ni Jeremias. Balikan po natin ang kabanata 38. Matapos maiahon si Jeremias, ipinatawag siya ng mismong haring nagsabing, "Kayo na ang bahala sa kaniya." At dito naman ang <mark class="green">**ikatlong aral**</mark>: **==pasiglahin ang iba na sundin si Jehova gaya ng ginawa ni Jeremias.==**
 
-Nang ipatawag siya ni Zedekias, sinabi ng hari na natatakot siya sa mga Judiong kumampi sa mga Caldeo. Buksan po natin ang Jeremias kabanata 38, bersikulo 20. Pansinin po ang salitang ginamit ni Jeremias sa kaniyang pakiusap.
+Inamin ni Zedekias na natatakot siya sa mga Judiong kumampi sa mga Caldeo, ang mga taga-Babilonya. Buksan po natin ang Jeremias kabanata 38, bersikulo 20. Pansinin po kung paano nakiusap si Jeremias.
 
 *[Basahin ang Jeremias 38:20]*
 
 !!! quote "Jeremias 38:20"
     "Pero sinabi ni Jeremias: 'Hindi ka ibibigay sa kanila. Pakisuyo, makinig ka sa tinig ni Jehova, sa mga sinasabi ko sa iyo, at mapapabuti ka at patuloy na mabubuhay.'"
 
-**"Pakisuyo."** Pinakalma muna ni Jeremias ang takot ng hari — **"Hindi ka ibibigay sa kanila"** — tapos nakiusap siya, at ipinakita ang pag-asa: **"mapapabuti ka."**
+**"Pakisuyo."** Nakiusap si Jeremias, at ipinakita ang pag-asa: **"mapapabuti ka."**
 
-Iyan po ang puso ni Jehova. Kahit ang haring nagsuko sa propeta Niya sa kamay ng mga opisyal — gusto pa rin ni Jehova na **mapabuti** siya at **mabuhay**.
-
-Ganiyan din po ang puwede nating gawin. Kapag may kapatid na nanghihina o natutuksong lumayo, hindi sermon ang kailangan niya. Kailangan niya ng isang taong mahinahong magsasabi: "Pakisuyo, huwag kang bibitaw kay Jehova. Mapapabuti ka."
+Kaya kapag may kapatid na nanghihina o natutuksong lumayo, hindi sermon ang kailangan niya. Ano ang kailangan niya? Isang taong mahinahong magsasabi: "Pakisuyo, huwag kang bibitaw kay Jehova. Mapapabuti ka." Iyan ang **patuloy** na pagtulong — kahit sa taong bumitaw sa atin.
 
 ---
 
-## CONCLUSION [30 segundo]
+## CONCLUSION [0.5 minuto]
 
-Balikan po natin ang kasamahang nagsalita sa boss. Hindi natin siya makakalimutan. Pero si Jehova po, lalong hindi nakakalimot. Sabi Niya kay Ebed-melec: "Ililigtas kita... **dahil nagtiwala ka sa akin.**" Ganiyan din po Siya sa bawat tulong na ginagawa natin sa kapatid.
+Ano po ang natutuhan natin ngayong gabi? Napapansin ni Jehova ang bawat tulong na ibinibigay natin sa isa't isa — gaya ng pagpansin niya kay Ebed-melec. Kaya tanungin po natin ang sarili: **=='Sino kaya sa mga kakongregasyon ko ang kailangan kong ipagtanggol at tulungan?'==** Kung may pangalang pumasok sa isip mo, i-text mo siya bago ka matulog. Iyan ang unang barya sa alkansya.
 
-Minsan, tayo ang kailangang magsalita para ipagtanggol; minsan, para patibayin; minsan, para pasiglahin — "Pakisuyo, huwag kang bibitaw."
+Kaya **ipagtanggol, patibayin, pasiglahin** — **patuloy nating tulungan ang isa't isa.**
 
-Kaya ngayong gabi, tanungin po natin ang ating sarili: **'Sino kaya sa mga kakongregasyon ko ang kailangan kong ipagtanggol at tulungan?'**
+---
 
-Kung may pangalang pumasok sa isip mo — i-text mo siya bago ka matulog. At kung may marinig kang negatibo tungkol sa kaniya — ikaw ang magsabi ng mabuti.
+!!! tip "Mga checkpoint sa oras (sa sarili mong bilis ~118 salita/minuto: ~9:40)"
+    | Simula ng… | Dapat nasa |
+    |---|---|
+    | Background | 1:25 |
+    | Punto 1 | 2:10 |
+    | Punto 2 | 4:45 |
+    | Punto 3 | 7:40 |
+    | Konklusyon | 9:05 |
 
-Tanggol, tibay, sigla — iyan po ang ibig sabihin ng **patuloy nating tulungan ang isa't isa.**
+    **Kung huli ka nang 30+ segundo sa Punto 2**, paikliin ang halimbawa ng sister sa Punto 1 at ang paglalarawan sa Picture 2.
+
+??? note "Kung may sobrang oras pa — karanasan (Punto 2, pagkatapos ng larawan)"
+    Base sa referensya natin, may isang bagong bautisadong sister na sinulatan ng isang kapatid, at may teksto sa sulat. Makalipas ang mga walong taon, sumulat pabalik ang sister: *"Kung minsan, gusto ko na pong sumuko at iwan ang katotohanan. Pero lagi ko pong naaalala ang tekstong isinulat ninyo at iyon ang nakakatulong sa akin na manatiling tapat."* Isang sulat lang po, na may isang teksto.
+
+??? abstract "Ano ang binago sa v1.2 (para sa speaker)"
+    | Aralin | Refinement |
+    |---|---|
+    | 1 — Introduksiyon | Hook: "Isipin… nawalan ng kuryente at signal" + 2 tanong ("Sino ang kakatok… kaninong pinto…") → w19.11 ¶2 "ngayon pa lang" → tema → "patuloy" → 3 paraan |
+    | 3 — Mga Tanong | Bagong tanong sa Punto 1 ("Bakit kaya niya nagawa iyon?") na sinasagot ni Jehova sa Punto 2 |
+    | 4 — Introduksiyon sa Teksto | Bawat teksto: buod ng konteksto + "Buksan po natin" + kung ano ang papansinin; binabasa lang ang susing bahagi (38:9; 39:17, 18; 38:20) |
+    | 7 — Tumpak | "Etiopia," "hindi Saksi ni Jehova," "bilanggo pa rin sa Looban ng Bantay" (Jer 38:13); katuparan mula sa jr kab. 15 ¶16; "mabubuhay ang susuko" mula sa jr kab. 2 ¶22 |
+    | 8 — Ilustrasyon | Brownout na walang signal (hindi pa malaking kapighatian); alkansya = pagkakaibigang binubuo araw-araw; "lubid na mag-aahon" |
+    | 9 — Visual Aid | Picture 1 bago basahin ang Jer 38:7-9 ("isipin ang eksenang iyan") — inalis bago magbasa (guidelines #8); "Salamat po sa picture" pagkatapos ng bawat larawan; may tulay bago ang Picture 2 ("Ganiyan din po ang pagpapatibay sa ngayon") |
+    | 13 — Magagamit sa Buhay | Sister na napag-uusapan; samahan, pakinggan, isang teksto (¶18); "Pakisuyo, huwag kang bibitaw" |
+    | 14 — Pangunahing Punto | Ipagtanggol / patibayin / pasiglahin — sa intro, sa bawat aral, at sa huling pangungusap |
+    | 17 — Madaling Maintindihan | Ipinaliwanag ang Caldeo (taga-Babilonya), bakit nagalit ang mga opisyal, at bakit nakakulong pa si Jeremias |
+    | 18 — May Matututuhan | Malaking kapighatian: "ngayon pa lang" (w19.11 ¶2), "kasinungalingan at maling impormasyon" (¶19), "nandoon ka" (¶18) — ang artikulong pinagmulan ng reference ng Punto 2; Bagong punto: "Ang tumulong, siya na ngayon ang nangangailangan ng tulong" = isa't isa; tanong ng w26.07 ¶7 |
+    | 19 — Tumatagos sa Puso | "May mga kapatid kaya akong matatakbuhan — at matatakbuhan din kaya nila ako?" (intro + konklusyon); "magpakailanman" (w19.11 ¶19);  Mga katangian ni Jehova (mapagpahalaga, makatarungan, hindi nagtatangi); "Iyan po ang puso ni Jehova" |
+    | 20 — Konklusyon | 4 pangungusap: napapansin ni Jehova → TANUNGIN ANG SARILI (eksakto) → i-text bago matulog → "magpakailanman" (w19.11 ¶19); huling linya: ipagtanggol, patibayin, pasiglahin |

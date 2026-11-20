@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 
 **Removed:**
 - `v2.md` and its nav entry "(v2)". The earlier script (video first, the Stefano and Elizabeth experiences) remains in git history.
+- Oct 2 talk (`1002-patuloy-nating-tulungan-ang-isat-isa`): Jayr kept v1.2, the one he liked (the power-outage hook), as `index.md`; the original and `v2.md`, with their nav entries "(v1.2)" and "(v2)", are removed and remain in git history.
 
 ---
 
