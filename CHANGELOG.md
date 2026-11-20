@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.58.0] - 2026-11-19
+
+### Nov 20 talk v2 (video lead-in), shorter CBS answers, Hiyas ready answer swapped
+
+**Added:**
+- `docs/talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/v2.md` + nav entry "(v2)", next to v1 so Jayr can compare. He asked for a way to start the video after a review of the whole meeting, with about 4-5 minutes through the video and about 5 minutes for the rest. v2: a hook from common sayings (Aralin 1), the title, two questions to answer while watching (what Jeremiah felt; what he still hoped for), the video, the two answers ("lungkot at pag-asa"), then the two outline points, the Pagbubulay-bulay item and a short conclusion. ~809 spoken words: ≈ 4:35 through the video and its answers, ≈ 5:10 after, ≈ 9:45 total. No experiences and no jr quote; only the workbook's references.
+- `talks/10min/1120-…/outline.md` (v2 notes: design, whole-meeting findings, timing, red-team results) and `summary.md` (v1 / v2 comparison table).
+
+**Changed:**
+- `docs/cbs/1120-wcg-kabanata-17/index.md`: the eleven spoken answers cut from about 100-140 words to about 75-90 (≈ 40 s each). Question 7 now ties back to the earlier part on inactive ones; question 6 keeps two situations.
+- `docs/espirituwal-na-hiyas/1120-panaghoy-1-2/index.md`: the ready answer on Pan 2:13 replaced by one on Pan 1:21 ("walang umaaliw sa akin"), because 2:13 sits in the same passage as the talk (2:11). The 2:13 gem stays in the list of ten.
+
+**Verification:**
+- Whole-meeting review: Hiyas = Pan 2:1 (why Jehovah cast Jerusalem down), Bible reading = Pan 1:8-18, part 7 = inactive ones (what we can do). So the talk stays on the reaction (sadness, hope, no self-blame) and does not mix inactive ones with removed ones.
+- Video: 2:46 confirmed from jw.org pub-media; no Tagalog subtitles exist, so the script's two answers were checked against the English subtitles and are paraphrases, not quotations.
+- Talk v2, two red teams (text + format + timing; fidelity + delivery): no error in Bible text, outline wording or reference quotes. Applied: the word "video" is no longer spoken before the cue line; green spoken labels removed (a device of 1113 and 1106); the Jehovah question is answered from ¶9 and names "mga inalis sa kongregasyon" (¶7 rests on Hosea, not Pan 2:19); the father of the lost son (¶8) replaces the elders line; the picture now answers the intro's question; "normal iyon" before the self-blame warning; "sa desisyon niya" in the conclusion.
+- Hiyas and CBS answer changes, one reviewer on the diff: no must-fix; applied the 1:21 clause "Nagdurusa siya dahil sa sarili niyang kasalanan" and five wording fixes in the CBS.
+- Not applied: restoring Elizabeth's quote in v2 (about +22 words; does not fit with the father illustration). Not done: `mkdocs build --strict` (mkdocs is not installed here); the Tagalog narration of the video was not heard.
+
+---
+
 ## [4.57.0] - 2026-11-19
 
 ### Week Nov 16-22: Hiyas (Panaghoy 1-2), CBS (wcg kabanata 17, Jael), Watchtower Nov 22
