@@ -104,6 +104,10 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | Jeremias 50:41–52:34 (Jer 51-52) | 1270-1277 |
 | Hukom 3:25–6:11 (Huk 4-5) | 411-415 |
 | Awit 106:1-7 / Jeremias 23:1-13 / 2 Cronica 19:3–20:20 / 1 Hari 3:2-17 | 954 / 1219 / 710-711 / 550 |
+| Panaghoy 1:1–3:10 (Pan 1-2) / Isaias 54:16–55:10 / Awit 132:7 | 1278-1283 / 1156 / 979 |
+| Hukom 4:9 / 4:10-24 / 5:19-27 / 5:28-31 / Awit 83:9, 10 / Apocalipsis 16:13-16 / 1 Pedro 3:1, 2 | 411 / 412 / 414 / 415 / 933 / 1899 / 1861-1862 |
+| Roma 10:13, 14 / Isaias 2:2-4 / Apocalipsis 14:6 / Juan 17:3 / 17:26 / Zacarias 2:11 / 8:23 | 1733 / 1075 / 1896 / 1656 / 1657 / 1464 / 1469 |
+| Gawa 2:11 / Ezekiel 38:23 / Kawikaan 18:10 / Awit 135:1 / 110:3 / Apocalipsis 7:9 | 1668 / 1351 / 1023 / 980 / 961 / 1889-1890 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
 (`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
@@ -145,5 +149,8 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | w26.09 | "Magtiwalang Poprotektahan Ka ni Jehova" (p. 2-7) | Watchtower Nov 2-8 |
 | wcg16 | wcg Kabanata 16 (Barak at Debora) — Alamin + Tingnan Din references (w15 8/1 12-13, w86 6/1 31, w05 1/15 25, w17.04 28-32, w03 11/15 28-31) | CBS Nov 9-15 |
 | w26.09 | "Kung Paano Magkakaroon ng 'Masunuring Puso'" (p. 8-13) | Watchtower Nov 9-15 |
+| w07 | "Mga Tampok na Bahagi sa Aklat ng mga Panaghoy" (w07 6/1 p. 8-11; wol docid 2007402) | Hiyas Nov 20 Tanong 1 (Pan 2:1) |
+| wcg17 | wcg Kabanata 17 (Jael) — Alamin + Tingnan Din references (w19.09 8-9 ¶3-6, it "Heber" Blg. 2, w08 10/15 14-15 ¶12-15, w15 8/1 15 ¶2, ijwbq artikulo 161) | CBS Nov 16-22 |
+| w26.09 | "Pangangaral sa 'Lahat ng Wika ng mga Bansa'" (p. 14-19) | Watchtower Nov 16-22 |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`

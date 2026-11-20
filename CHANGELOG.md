@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.57.0] - 2026-11-19
+
+### Week Nov 16-22: Hiyas (Panaghoy 1-2), CBS (wcg kabanata 17, Jael), Watchtower Nov 22
+
+**Added:**
+- `docs/espirituwal-na-hiyas/1120-panaghoy-1-2/index.md` + outline. Tanong 1: Pan 2:1 (w07 6/1 9 ¶1). Ten gems (Pan 1:1, 4, 5, 7, 20; 2:7, 13, 14, 15, 17) and three handang sagot (1:7, 2:13, 2:14); none from 2:1, from the talk's 2:11 and 2:19, or from the Bible-reading portion 1:8-18.
+- `docs/cbs/1120-wcg-kabanata-17/index.md` + outline: "Ang Pinagpala sa Lahat ng Babae" (Jael), 11 questions, same structure as kabanata 16 (no FORMULA box). The workbook's kabanata 17 is Jael; Gideon is kabanata 18.
+- `docs/watchtower/pangangaral-sa-lahat-ng-wika-ng-mga-bansa/index.md` + outline: w26.09 p. 14-19, study of Nov 16-22 (15 question blocks, 3 Aral boxes; Basahin texts Roma 10:13, 14; Isa 2:2-4; Apoc 14:6; Juan 17:3 with its study note from nwtsty).
+- `mkdocs.yml` nav entries for the three pages; `runbooks/reference-library.md` rows (NWT pages, stored articles).
+
+**Verification (two red teams per deliverable: NWT column crops + format + pictures; fidelity to the references):**
+- Hiyas: all quotes matched the crops. Applied: the Tanong 1 illustration now explains the figure of speech (a company that "bumagsak") instead of a light bulb; "Ano ang itinuturo nito tungkol kay Jehova" follows w24.08 ¶9 (does not tolerate the unrepentant, but does not give up on His people); Isa 55:9 credited to the verse, not the reference; the speaker in Pan 1:18, 20 named (Jerusalem personified); Lev 26:17 tied to "tinupad niya ang sinabi niya"; illustrations for 1:5, 2:14, 2:15 replaced (debt and "one wrong decision" could sting); Buod marks the two points taken from other items of the article.
+- CBS: no wrong word in any question, NWT quote or wcg quote. Applied: removed "mag-isa / walang ibang kasama" (not in the book or Judges 4); the 20 years of oppression were Jabin's and ended with the victory (Huk 4:3, 23, 24); the unbelieving-husband answer no longer parallels the husband with an ally of God's enemy; the drafter's own additions (sample situations, 1 Ped 3:1, 2) are labelled as such; an unsourced "hindi lang 40 taon" line cut; Larawan A describes the hands as visible; shortened quotes end with " . . .".
+- Watchtower: no Bible-text or question mismatch. Applied 7 must-fix and 17 should-fix fidelity items: restored "Sa panahon ng malaking kapighatian" (¶1), "Marami ring kapatid" (¶5), "nakatulong iyon para malaman" (¶8, ¶15), "isang dahilan" (¶12), "Halimbawa … karamihan" (¶13), "puwedeng magkaroon ng magagandang epekto" (¶11); removed "Hindi siya marunong mag-Turkish" and the "Una… Pangalawa…" framing in ¶7; Kaw 18:10 introduced with "kaayon ng"; long answers trimmed.
+- Not applied: shortening every CBS spoken answer to 30-45 seconds (the kabanata 16 house length was kept; only the longest were cut); an added Awit 37:29 line in CBS question 10. Not done: `mkdocs build --strict` (mkdocs is not installed on this machine); the CBS Tingnan Din video was not watched.
+
+---
+
 ## [4.56.0] - 2026-11-14
 
 ### 10-min talk Nov 20: "Ang Normal na Reaksiyon Kapag May Di-magandang Nangyari" (Panaghoy 1-2)
