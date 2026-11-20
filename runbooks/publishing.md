@@ -74,7 +74,7 @@ Features enabled:
 - `navigation.tabs` — top-level nav items become header tabs
 - Tabs hide on scroll down, reappear on scroll up (no `navigation.tabs.sticky`)
 - `navigation.footer` — Previous/Next pagination in footer
-- `navigation.sections` — sidebar section headings stay bold
+- No `navigation.sections` (removed 2026-11-20): in the Talks tab, 5-Minute / 10-Minute / 30-Minute are collapsible groups, and only the group of the open page is expanded. Jayr asked for this because the lists were getting long. If one group still gets too long, split it by year in `nav:` (e.g. `10-Minute:` → `2026:`), newest first.
 
 **Adding a New Talk:**
 

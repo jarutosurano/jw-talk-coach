@@ -16,7 +16,7 @@ theme:
     - navigation.tabs
     # navigation.tabs.sticky removed — tabs hide on scroll down, reappear on scroll up
     - navigation.footer
-    - navigation.sections
+    # navigation.sections removed 2026-11-20 — 5-Minute / 10-Minute / 30-Minute are now collapsible groups (the lists got long)
     - search.suggest
     - search.highlight
     - content.code.copy

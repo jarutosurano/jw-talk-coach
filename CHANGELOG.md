@@ -12,6 +12,9 @@ All notable changes to this project will be documented in this file.
 - `docs/talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/index.md` now holds the reworked script (formerly `v2.md`), title without "(v2)". Jayr compared the two and chose v2 after working through it section by section. 808 spoken words, ≈ 9:45 with the video.
 - `talks/10min/1120-…/summary.md` rewritten for the final script; `outline.md` notes updated.
 
+**Changed (navigation):**
+- `mkdocs.yml`: `navigation.sections` removed, so 5-Minute / 10-Minute / 30-Minute in the Talks sidebar are collapsible groups instead of one long list. Jayr asked for a way to keep the talks list manageable. `runbooks/publishing.md` updated.
+
 **Removed:**
 - `v2.md` and its nav entry "(v2)". The earlier script (video first, the Stefano and Elizabeth experiences) remains in git history.
 - Oct 2 talk (`1002-patuloy-nating-tulungan-ang-isat-isa`): Jayr kept v1.2, the one he liked (the power-outage hook), as `index.md`; the original and `v2.md`, with their nav entries "(v1.2)" and "(v2)", are removed and remain in git history.
