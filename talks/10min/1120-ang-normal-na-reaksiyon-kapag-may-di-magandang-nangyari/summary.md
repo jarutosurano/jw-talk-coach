@@ -70,31 +70,31 @@ Ang Normal na Reaksiyon Kapag May Di-magandang Nangyari (10 min)
 
 ---
 
-## v2 (Nov 19, 2026) — para maikumpara sa v1
+## v2 (binago Nov 20, 2026) — para maikumpara sa v1
 
-**~809 spoken words (≈ 6:49 sa pace mo) + video 2:46 → kabuuang ≈ 9:45 kasama ang ~10 s para sa A/V**
+**~791 spoken words (≈ 6:40 sa pace mo) + video 2:46 → kabuuang ≈ 9:36 kasama ang ~10 s para sa A/V**
 
-**Ideya:** may gawain ang mga tagapakinig habang nanonood. Dalawang tanong bago ang video; ang dalawang sagot ("lungkot at pag-asa") ang dalawang punto ng outline. Ang video na ang nagbibigay ng background, kaya diretso na sa teksto ang natitirang 5 minuto.
+**Ideya:** isang larawan ang dala sa buong talk: ang magulang. Magulang na umiiyak pero hindi sumusuko (intro) → si Jeremias ("anak na babae ng bayan ko") → si Jehova (ama ng nawalang anak) → mga magulang na huwag sisihin ang sarili. Dalawang tanong bago ang video; ang dalawang sagot ("lungkot at pag-asa") ang tulay papunta sa tema at sa dalawang punto.
 
 | | v1 | v2 |
 |---|---|---|
-| Simula | Video agad, walang pambungad | Kasabihan ("Huwag ka nang umiyak." "Be strong." "Move on na.") → tema → dalawang tanong → video |
-| Pagkatapos ng video | Intro (ilustrasyon ng magulang) | Sagot sa dalawang tanong → "lungkot at pag-asa" |
-| Dala sa buong talk | Ang luha | Ang dalawang tanong: naramdaman / inasahan |
-| Punto 1 | Paliwanag + sipi ng jr kab. 3 | "Ano po ang natutuhan natin dito? Dalawa." (normal ang malungkot; galing sa awa) |
-| Punto 2 | ¶7 + mga elder + karanasan ni Stefano | "Ano po ang itinuturo nito sa atin tungkol kay Jehova?" + ¶9 + ama sa ilustrasyon (¶8) |
-| Pagbubulay-bulay | Karanasan ni Elizabeth + ¶12-13 | ¶12-13 lang ("normal iyon"; huwag sisihin ang sarili) |
-| Haba | ~849 words ≈ 7:09 + 2:46 = 9:55 | ~809 words ≈ 6:49 + 2:46 = 9:35 (+ A/V) |
+| Simula | Video agad, walang pambungad | Ilustrasyon ng magulang → si Jeremias → dalawang tanong → video |
+| Pagkatapos ng video | Intro (ilustrasyon ng magulang) | Sagot sa dalawang tanong → "lungkot at pag-asa" → tema |
+| Punto 1 | Paliwanag + sipi ng jr kab. 3 | Bakit malalim ang lungkot (awa, footnote) → "Paano po natin ito maikakapit?" |
+| Punto 2 | ¶7 + mga elder + karanasan ni Stefano | "Ano po ang itinuturo nito sa atin tungkol kay Jehova?" (¶9) + ama (¶8) → "Paano po natin ito maikakapit?" |
+| Pagbubulay-bulay | Karanasan ni Elizabeth + ¶12-13 | ¶12-13 lang ("normal iyon"; kalayaang magpasiya) |
+| Konklusyon | Luha → lungkot na may pag-asa | "Ano po ang natutuhan natin ngayong gabi? Tatlo." |
+| Haba | ~849 words ≈ 7:09 + 2:46 = 9:55 | ~791 words ≈ 6:40 + 2:46 = 9:26 (+ A/V) |
 
 ```
 v2 (10 min)
-├── INTRO [0:51] — kasabihan · mali bang malungkot? · Mga Panaghoy, tapat na propeta · tema
-├── VIDEO [0:23 + 2:46 + 0:25] — dalawang tanong · cue · dalawang sagot · "lungkot at pag-asa"      ← ≈ 4:35
-├── 1 Lungkot [1:19] — Pan 2:11 · normal ang malungkot · galing sa awa (talababa)
-├── IMAGE [0:46] — luha, kamay sa ulo, nagsusulat · caption · hindi kahinaan ng pananampalataya · may pag-asa rin
-├── 2 Pag-asa [1:29] — Pan 2:19 · "sa harap ni Jehova" · iyon din ang gusto Niya (¶9) · ama (¶8) · patuloy na umasa
-├── PAGBUBULAY-BULAY [1:00] — normal ang lungkot, pabigat ang paninisi (w23.08 ¶12-13) · sabihin kay Jehova
-└── CONCLUSION [0:33] — lungkot at pag-asa · 2 punto (bold) · sabihin kay Jehova · "buong puso Niya siyang tatanggapin"   ← ≈ 5:10
+├── INTRO [0:38] — magulang at anak · matutuwa ba? iiyak, hindi susuko · si Jeremias, 40 taon · dalawang tanong
+├── VIDEO [0:06 + 2:46 + 0:35] — cue · dalawang sagot · "lungkot at pag-asa" · tema      ← ≈ 4:16
+├── 1 Lungkot [1:13] — Pan 2:11 · bakit? naawa siya (footnote) · maikakapit: normal, dahil mahal natin siya
+├── IMAGE [0:45] — luha, kamay sa ulo, nagsusulat pa rin · caption · hindi kahinaan ang umiyak · may pag-asa rin
+├── 2 Pag-asa [1:45] — Pan 2:19 · tungkol kay Jehova: iyon din ang gusto Niya (¶9) · ama (¶8) · maikakapit: patuloy na umasa
+├── PAGBUBULAY-BULAY [0:58] — normal ang lungkot, pabigat ang paninisi · kalayaang magpasiya · sabihin kay Jehova
+└── CONCLUSION [0:37] — Tatlo: normal ang malungkot · huwag mawalan ng pag-asa · huwag sisihin ang sarili · "buong puso Niya siyang tatanggapin"   ← ≈ 5:20
 ```
 
-Mga reference sa v2: mwb26.11 (outline, larawan, video); Panaghoy 2:11, 19 + talababa; w24.08 p. 28 ¶8-9; w23.08 p. 29 ¶12-13. Walang karanasan at walang jr.
+Mga reference sa v2: mwb26.11 (outline, larawan, video); Panaghoy 2:11, 19 + footnote; w24.08 p. 28 ¶8-9; w23.08 p. 29 ¶12-13. Walang karanasan at walang jr.

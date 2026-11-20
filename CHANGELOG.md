@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.59.0] - 2026-11-20
+
+### Nov 20 talk v2 reworked: analogy and questions before the video, clearer beats
+
+**Changed:**
+- `docs/talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/v2.md`: Jayr shared a transcript of a brother giving this part and asked for simpler wording, clearer structure, an analogy and a question before the video, and a smoother bridge from the video to the theme. v2 now opens with a parent whose child did not listen, moves to Jeremiah and two questions, plays the video, answers the two questions in the video's own Tagalog wording ("lungkot na lungkot"; "isasauli ni Jehova ang bansa"), and states the theme as the answer. Each point has a spoken beat ("Paano po natin ito maikakapit?", "Ano po ang itinuturo nito sa atin tungkol kay Jehova?"), and the conclusion is three lessons. 791 spoken words: ≈ 4:16 through the video and its answers, ≈ 5:20 after, ≈ 9:36 total.
+- `talks/10min/1120-…/outline.md` (revision notes) and `summary.md` (v2 section rewritten).
+
+**Verification:**
+- One red team: quotes, verses, outline wording and caption all exact. Applied: the first draft's hook copied the 1030 talk's skeleton, so it was reworded; two sentences reordered so "Iyon din ang gusto Niya" points at "manunumbalik"; "footnote" for "talababa"; "Gaya si Jehova ng ama".
+- The video answers rest on a by-ear transcript of the Tagalog narration, not on subtitles. Not done: `mkdocs build --strict` (mkdocs is not installed here).
+
+---
+
 ## [4.58.0] - 2026-11-19
 
 ### Nov 20 talk v2 (video lead-in), shorter CBS answers, Hiyas ready answer swapped
