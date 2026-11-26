@@ -4,6 +4,30 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.61.0] - 2026-11-25
+
+### Week Nov 23-29: 10-min talk, Hiyas (Panaghoy 3-5), 5-min pahayag, CBS (wcg kabanata 18, Gideon), Watchtower Nov 29
+
+**Added:**
+- `docs/talks/10min/1127-huwag-huminto-sa-paglilingkod-kay-jehova/index.md` + `picture.jpg` (wol 1200 px) + outline + summary: "Huwag Huminto sa Paglilingkod kay Jehova Kapag May Problema" (Pan 3:22, 23, 24; Mat 6:34; w24.01 ¶16; w21.08 ¶17-19). Hook: the change of tone in Panaghoy 3 ("may naalaala siya" at v. 21); one verse, one way not to stop. Snow-shovelling illustration for Mat 6:34 (Canada). Extra source for Pan 3:24: w11 9/15 ¶8, 11-13 (Levites had no land; Jeremias, a Levite, "patuloy siyang naglingkod kay Jehova bilang propeta"). No formula or acronym; no device from the last 3 talks. ~1,165 spoken words.
+- `docs/espirituwal-na-hiyas/1127-panaghoy-3-5/index.md` + outline. Tanong 1: Pan 3:27 (w07 6/1 11 ¶4). Ten gems (Pan 3:20, 25, 33, 40, 57; 4:12, 17; 5:7, 19, 21) and three handang sagot (3:20, 3:40, 5:21); none from the talk's 3:21-26 or Mat 6:34.
+- `docs/talks/5min/1127-mga-may-edad-naming-kapatid-mahalaga-kayo/index.md` + outline: pahayag from w25.12 26-30 (th aralin 16). Opens with Connie's quote; two texts only (Deut 6:5; Awit 37:25), Simeon retold; ~500 spoken words for a 4-minute delivery.
+- `docs/cbs/1127-wcg-kabanata-18/index.md` + outline: "Malakas ang Loob at Maingat" (Gideon), 11 questions, same structure as kabanata 17 (no FORMULA box).
+- `docs/watchtower/kaayusan-sa-pagkasaserdote/index.md` + outline: w26.09 p. 20-25, "Ipinapakita ng Kaayusan sa Pagkasaserdote ang Pag-ibig ni Jehova", study of Nov 23-29 (19 question blocks, 3 Aral boxes; Basahin texts Heb 5:1, 7:25, 4:16, 4:15).
+- `mkdocs.yml` nav entries for the five pages; `runbooks/reference-library.md` rows (NWT pages for Panaghoy 3-5, Hukom 6-8, Hebreo 4-8 and others; stored articles; the wol week page `202026404` and its reference links).
+
+**Verification (three red teams: talks; Hiyas + CBS; Watchtower; each ran its own NWT column crops):**
+- No wrong word in any Bible quote, reference quote or workbook/article question.
+- Talk: the intro no longer calls the first 20 verses heavy (v. 20 is already hopeful and is a Hiyas gem); points are "paraan", not "dahilan"; point 3 now answers its "Pansinin" (the decision to wait) and explains why Jehovah was the Levites' portion; "hindi pagtigil" instead of "hindi pag-upo lang" after the picture of the sitting sister; "nagbago ang pananaw niya" instead of "nagbago ang lahat".
+- Pahayag: "At napapatibay rin kayo" before Connie's quote; the theme words restated in the conclusion; "Noong mas malakas pa kayo".
+- Hiyas: the 3:57 handang sagot replaced with 3:40 (it echoed the talk's point 2 and CBS #8); 3:33 application now matches v. 32 (discipline); 3:40 illustration about one's own wrong turn; Tanong 1 illustration about carrying a load; the Jehovah follow-up names a quality.
+- CBS: #3 keeps the reference's "isa lamang" (one signal horn) with the inference marked; Larawan B no longer claims a drawn Jordan crossing; Larawan C describes the gestures as seen.
+- Watchtower: p. 23 picture says only "parang tumatanggi" (nothing visibly offered); ¶12 keeps the article's hedge; ¶13 quotes the first clause of Roma 8:26; ¶5 adds the priests and offerings; ¶6 no bracket read aloud (exact NWT Exo 19:22); ¶14 bridge after Ezek 33:11; outline Notes added.
+- `mkdocs build --strict` clean (mkdocs 1.6.1 in a scratch venv).
+- Not applied: a Jehovah-lens line in talk point 2 (length); an extra Gideon-actions line in CBS #4 and a w19.09 link in #10; a personal close for Watchtower ¶13.
+
+---
+
 ## [4.60.0] - 2026-11-20
 
 ### Nov 20 talk: v2 is now the final script, v1 removed

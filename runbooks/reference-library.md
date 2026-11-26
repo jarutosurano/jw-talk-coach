@@ -33,7 +33,7 @@ Read text from the RTF conversions in `reference/books/mwb-rtf/txt/`
 text and reference paragraph verbatim. To regenerate:
 `textutil -convert txt -output txt/NAME.txt 202609/NAME.rtf`. Use the PDF only to pull
 pictures (`pdfimages -j -f PAGE -l PAGE`). The PDF pictures are small (~356 px wide); for a talk picture,
-take the 1200 px copy from wol instead: find the week's page by phrase search (Nov 2-8, 2026 = doc `202026401`; the docids run in week order, so Nov 9-15 = `202026402`),
+take the 1200 px copy from wol instead: find the week's page by phrase search (Nov 2-8, 2026 = doc `202026401`; the docids run in week order, so Nov 9-15 = `202026402`, Nov 23-29 = `202026404`; its `/tl/wol/pc/r27/lp-tg/<docid>/N/0` links resolve each printed reference to its article),
 grep its HTML for `/tl/wol/mp/r27/lp-tg/mwb26/2026/NNN` links, and download them (the larger file is the picture).
 
 ### Reading Exact Bible Text (`nwt-bagong-sanlibutang-salin.pdf`)
@@ -108,6 +108,11 @@ phrase, then locate the page via its running header (e.g. `GENESIS 21:32-22:14`)
 | Hukom 4:9 / 4:10-24 / 5:19-27 / 5:28-31 / Awit 83:9, 10 / Apocalipsis 16:13-16 / 1 Pedro 3:1, 2 | 411 / 412 / 414 / 415 / 933 / 1899 / 1861-1862 |
 | Roma 10:13, 14 / Isaias 2:2-4 / Apocalipsis 14:6 / Juan 17:3 / 17:26 / Zacarias 2:11 / 8:23 | 1733 / 1075 / 1896 / 1656 / 1657 / 1464 / 1469 |
 | Gawa 2:11 / Ezekiel 38:23 / Kawikaan 18:10 / Awit 135:1 / 110:3 / Apocalipsis 7:9 | 1668 / 1351 / 1023 / 980 / 961 / 1889-1890 |
+| Panaghoy 2:18–3:10 / 3:11-35 / 3:36-62 / 3:63–4:11 / 4:12-22 / 5:1-22 | 1283 / 1284 / 1285 / 1286 / 1287 / 1288 |
+| Mateo 6:26-34 / Deuteronomio 6:2-20 / Awit 37:15-32 / Lucas 2:24-46 | 1493 / 322 / 888 / 1574 |
+| Hukom 5:28–9:3 (6:12-25 / 6:26-40 / 7:1-15 / 7:16–8:4 / 8:5-22 / 8:23–9:3) / Hebreo 11:32-34 | 415-421 (416 / 417 / 418 / 419 / 420 / 421) / 1848 |
+| Hebreo 4:8–5:9 / 5:10–7:11 / 7:12–8:3 / Malakias 1:13–2:11 / Awit 85:13–86:17 / 103:13–104:9 | 1838 / 1839-1840 / 1841 / 1478 / 935 / 950 |
+| Ezekiel 33:6-19 / Roma 8:16-33 / 1 Juan 1:10–2:17 / 3:8–4:1 / 4:2-19 | 1342 / 1730 / 1871 / 1873 / 1874 |
 
 **Always still strip footnote markers** — single lowercase letters trailing a word
 (`bisiga` → `bisig`, `kami.c` → `kami.`) — and drop any stray cross-reference digits that
@@ -152,5 +157,8 @@ text stays local. Only short cited excerpts go into committed research/outline f
 | w07 | "Mga Tampok na Bahagi sa Aklat ng mga Panaghoy" (w07 6/1 p. 8-11; wol docid 2007402) | Hiyas Nov 20 Tanong 1 (Pan 2:1) |
 | wcg17 | wcg Kabanata 17 (Jael) — Alamin + Tingnan Din references (w19.09 8-9 ¶3-6, it "Heber" Blg. 2, w08 10/15 14-15 ¶12-15, w15 8/1 15 ¶2, ijwbq artikulo 161) | CBS Nov 16-22 |
 | w26.09 | "Pangangaral sa 'Lahat ng Wika ng mga Bansa'" (p. 14-19) | Watchtower Nov 16-22 |
+| w24.01 / w21.08 / w11 | "Mahal na Mahal Ka ni Jehova" (p. 26-31; wol 2024245) + "Maghihintay Ka Ba kay Jehova?" (p. 8-13; wol 2021520) + w11 9/15 "Si Jehova ang Aking Bahagi" (p. 7-11; wol 2011682, ¶12: Jeremias "patuloy siyang naglingkod") | 10-min talk Nov 27 "Huwag Huminto sa Paglilingkod kay Jehova Kapag May Problema" |
+| wcg18 | wcg Kabanata 18 (Gideon) — Alamin + Tingnan Din references (it "Sebada" ¶7, it "Sungay, Tambuli" ¶4, w04 10/15 16 ¶9-10, w05 4/15 32, w00 8/1 16-18 ¶11-15, ijwis artikulo 13) | CBS Nov 23-29 |
+| w26.09 | "Ipinapakita ng Kaayusan sa Pagkasaserdote ang Pag-ibig ni Jehova" (p. 20-25) | Watchtower Nov 23-29 |
 
 **Note:** `lmd apendise A` (used for 5/10-min talk assignments) is the sample-presentation topic list in the lmd book — each numbered item is a one-line theme + cited scriptures (not a paragraph). E.g., `#18. Inihula ni Jesus ang mga pangyayaring nakikita natin ngayon.—Mat. 24:3, 7, 8, 14; Luc. 21:10, 11.`

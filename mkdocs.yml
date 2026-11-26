@@ -43,6 +43,7 @@ nav:
   - Home: index.md
   - Talks:
     - 10-Minute:
+      - Huwag Huminto sa Paglilingkod kay Jehova Kapag May Problema: talks/10min/1127-huwag-huminto-sa-paglilingkod-kay-jehova/index.md
       - Ang Normal na Reaksiyon Kapag May Di-magandang Nangyari: talks/10min/1120-ang-normal-na-reaksiyon-kapag-may-di-magandang-nangyari/index.md
       - Huwag Tularan si Zedekias: talks/10min/1113-huwag-tularan-si-zedekias/index.md
       - Tulungan ang Iba na Makinabang sa Awa ni Jehova: talks/10min/1106-tulungan-ang-iba-na-makinabang-sa-awa-ni-jehova/index.md
@@ -58,6 +59,7 @@ nav:
       - Parangalan si Jehova: talks/10min/0130-parangalan-si-Jehova/index.md
       - Siya ang Ating Diyos!: talks/10min/0124-siya-ang-ating-diyos/index.md
     - 5-Minute:
+      - Mga May-edad Naming Kapatid, Mahalaga Kayo sa Kongregasyon: talks/5min/1127-mga-may-edad-naming-kapatid-mahalaga-kayo/index.md
       - Ang Kaharian ng Diyos ay Isang Totoong Gobyerno sa Langit: talks/5min/1113-ang-kaharian-ng-diyos-ay-totoong-gobyerno/index.md
       - Hindi si Jesus ang Diyos na Makapangyarihan-sa-Lahat: talks/5min/1023-hindi-si-jesus-ang-diyos-na-makapangyarihan/index.md
       - Inihula ni Jesus ang mga Pangyayaring Nakikita Natin Ngayon: talks/5min/0710-inihula-ni-jesus-ang-mga-pangyayari/index.md
@@ -70,6 +72,7 @@ nav:
       - 'Security Training — Blg. 2: Pagharap sa mga Seryosong Banta sa Seguridad': talks/30min/s289-security-training-blg2/index.md
   - Watchtower:
     - Nov 2026:
+      - Ipinapakita ng Kaayusan sa Pagkasaserdote ang Pag-ibig ni Jehova: watchtower/kaayusan-sa-pagkasaserdote/index.md
       - 'Pangangaral sa "Lahat ng Wika ng mga Bansa"': watchtower/pangangaral-sa-lahat-ng-wika-ng-mga-bansa/index.md
       - 'Kung Paano Magkakaroon ng "Masunuring Puso"': watchtower/kung-paano-magkakaroon-ng-masunuring-puso/index.md
       - Magtiwalang Poprotektahan Ka ni Jehova: watchtower/magtiwalang-poprotektahan-ka-ni-jehova/index.md
@@ -93,6 +96,7 @@ nav:
     - Guidelines: field-ministry/guidelines/index.md
   - Espirituwal na Hiyas:
     - Nov 2026:
+      - Panaghoy 3-5: espirituwal-na-hiyas/1127-panaghoy-3-5/index.md
       - Panaghoy 1-2: espirituwal-na-hiyas/1120-panaghoy-1-2/index.md
       - Jeremias 51-52: espirituwal-na-hiyas/1113-jeremias-51-52/index.md
       - Jeremias 49-50: espirituwal-na-hiyas/1106-jeremias-49-50/index.md
@@ -113,6 +117,7 @@ nav:
       - Isaias 33-35: espirituwal-na-hiyas/0213-isaias-33-35/index.md
   - CBS:
     - Nov 2026:
+      - Nov 23-29: cbs/1127-wcg-kabanata-18/index.md
       - Nov 16-22: cbs/1120-wcg-kabanata-17/index.md
       - Nov 9-15: cbs/1113-wcg-kabanata-16/index.md
       - Nov 2-8: cbs/1106-wcg-kabanata-15/index.md
