@@ -6,71 +6,76 @@ Nov 27, 2026
 
 ---
 
-## INTRO [0.5 minuto]
+## INTRO [1 minuto]
 
-"Kapag binabalikan ko ang kabataan ko, naiisip ko, ang dami ko palang nagagawa noon. Pero ngayon, matanda na ako. Hindi ko na kaya iyon." Iyan po ang sinabi ni Connie, 83 taóng gulang.
+Alam po ba ninyo kung kailan pinakamaganda ang maple tree? Hindi sa spring. Hindi sa summer. Sa fall. Pula, orange, ginto.
 
-Baka ganiyan din po ang nararamdaman ng ilan sa inyo. Matagal na kayong naglilingkod nang tapat kay Jehova. Pero kapag ikinukumpara ninyo ang nagagawa ninyo ngayon sa nagagawa ninyo noon, baka nasisiraan kayo ng loob.
+Hindi po iyon tanda na tapos na ang puno. Iyon ang panahon na pinakamaganda siya.
 
-Kaya ngayong gabi, ito po ang gusto naming sabihin sa inyo: **==Mga May-edad Naming Kapatid, Mahalaga Kayo sa Kongregasyon.==**
+Kaya sa inyo po, mga minamahal naming kapatid na may-edad na: ganiyan po kayo sa paningin ni Jehova. Ang mga taon ng tapat na paglilingkod ninyo, hindi nagpapababa sa halaga ninyo. Iyon pa nga ang nagpapaganda sa inyo.
 
----
+Actually po, tumingin ako sa inyo ngayong gabi… parang wala naman akong makitang may-edad. Mga ka-edad ko lang pala. *(ngiti)*
 
-## 1 — Deuteronomio 6:5: Ang inaasahan ni Jehova [1.5 minuto]
-
-Una po, ano ba talaga ang inaasahan sa inyo ni Jehova?
-
-Buksan po natin ang Deuteronomio kabanata 6, bersikulo 5. Pansinin po kung paano natin dapat ibigin si Jehova.
-
-*[Basahin ang Deuteronomio 6:5]*
-
-!!! quote "Deuteronomio 6:5"
-    "Dapat ninyong ibigin ang Diyos ninyong si Jehova nang inyong buong puso, buong kaluluwa, at buong lakas."
-
-Ano po ang natutuhan natin dito? Ang inaasahan ni Jehova ay ang **buong puso, buong kaluluwa, at buong lakas** natin. Hindi ang lakas natin noon. Ang buong lakas natin ngayon.
-
-Noong mas malakas pa kayo, ibinigay ninyo ang buong makakaya ninyo. Ngayon, nagbago na ang kalagayan ninyo. Pero ibinibigay pa rin ninyo ang buong makakaya ninyo.
-
-Ganiyan ang tingin ni Jehova kay Simeon, isang may-edad nang Israelita noong ipanganak si Jesus. Malamang na mga nakakabatang lalaki na ang nag-aasikaso sa mahahalagang gawain sa templo. Pero para kay Jehova, **"matuwid at may takot sa Diyos"** si Simeon. Binigyan pa nga Niya siya ng pribilehiyong makita ang sanggol na si Jesus.
-
-Sabi ng referensya natin: kapag tinitingnan ni Jehova si Simeon, **"hindi isang matandang lalaki ang nakikita niya, kundi isang lalaking may matibay na pananampalataya."** Ganiyan din po ang nakikita Niya sa inyo.
+Pero seryoso po, ito ang gusto naming sabihin sa inyo: **==Mga May-edad Naming Kapatid, Mahalaga Kayo sa Kongregasyon.==**
 
 ---
 
-## 2 — Awit 37:25: Ang magagawa ninyo para sa amin [1.5 minuto]
+## 1 — Hebreo 6:10: Hindi niya lilimutin [1.5 minuto]
 
-Pangalawa po, ano ang magagawa ninyo na hindi magagawa ng mas nakababata?
+Mahalaga po kayo kay Jehova. Buksan po natin ang Hebreo kabanata 6, bersikulo 10. Pansinin po kung ano ang hindi gagawin ni Jehova.
 
-Buksan po natin ang Awit kabanata 37, bersikulo 25. Si Haring David ang sumulat nito. Pansinin po kung paano siya nagsimula.
+*[Basahin ang Hebreo 6:10]*
 
-*[Basahin ang Awit 37:25]*
+!!! quote "Hebreo 6:10"
+    "Matuwid ang Diyos, kaya hindi niya lilimutin ang mga ginawa ninyo at ang pag-ibig na ipinakita ninyo para sa pangalan niya sa pamamagitan ng paglilingkod at patuloy na paglilingkod sa mga banal."
 
-!!! quote "Awit 37:25"
-    "Bata ako noon, at ngayon ay matanda na, Pero wala pa akong nakitang matuwid na pinabayaan, At wala akong nakitang anak niya na namamalimos ng tinapay."
+Ano po ang natutuhan natin dito? Dalawa.
 
-Ano po ang natutuhan natin dito? **"Bata ako noon, at ngayon ay matanda na."** Hindi iyan masasabi ng isang kabataan. Sabi ng referensya natin, naobserbahan iyon ni David sa matagal na panahon ng tapat niyang paglilingkod, **"kaya mas naging kapani-paniwala"** ang sinabi niya.
+Una, **"hindi niya lilimutin ang mga ginawa ninyo."** Bawat taon ng tapat na paglilingkod ninyo, naaalala ni Jehova.
 
-Ganiyan din po kayo. Kapag ikinukuwento ninyo kung paano kayo tinulungan ni Jehova, mas tumatatak iyon sa amin, dahil kayo mismo ang nakaranas.
+Pangalawa, **"patuloy na paglilingkod."** Nakikita rin niya ang ginagawa ninyo ngayon. Kahit hindi na kayo kasinlakas ng dati, buong puso pa rin ang ibinibigay ninyo. At iyon lang ang hinihiling niya.
 
-Napapatibay rin ninyo kami kapag nakikita namin kayo sa Kingdom Hall, hangga't kaya ninyo. At napapatibay rin kayo. Sabi ni Connie tungkol sa pagdalo: **"Ramdam na ramdam ko doon ang pag-ibig ng lahat, kaya paano ako malulungkot?"**
+May isang lalaki po sa Bibliya na makakaintindi sa inyo, si Simeon. May-edad na siya noong ipanganak si Jesus. Sa templo, mga mas bata na ang abala. Baka naisip niya, "Hindi na ako mahalaga."
 
-At kahit simpleng tawag o card sa isang kapatid, malaki ang epekto, lalo na kung galing sa isang matagal nang lingkod ni Jehova.
+Pero ano ang ginawa ni Jehova? Si Simeon ang binigyan niya ng pribilehiyong makita ang sanggol na si Jesus. Sabi ng referensya natin, kapag tinitingnan ni Jehova si Simeon, **"hindi isang matandang lalaki ang nakikita niya, kundi isang lalaking may matibay na pananampalataya."** Ganiyan din po ang nakikita niya sa inyo.
+
+---
+
+## 2 — Ang malalalim na ugat [1 minuto]
+
+Pero hindi lang po kay Jehova kayo mahalaga. Mahalaga rin po kayo sa amin. Balikan po natin ang maple. Kapag matagal nang nakatanim ang puno, malalim na ang ugat nito, at pati ang lupa sa paligid, tumatatag.
+
+Ganiyan po kayo sa kongregasyon. Dahil malalim na ang ugat ng pananampalataya ninyo, pati kami, tumatatag.
+
+Baka itanong po ninyo, "Paano ko pa mapapatibay ang kongregasyon?"
+
+Una, sa mga karanasan ninyo. Kapag kayo ang nagsabing "Hindi ako pinabayaan ni Jehova," iba ang dating sa amin, dahil pinagdaanan ninyo mismo.
+
+Pangalawa, sa pagdalo ninyo, hangga't kaya ninyo. Alam po namin, isang oras ang biyahe papunta rito, at isang oras pauwi. Kaya kapag nakikita namin kayo rito, lumalakas talaga ang loob namin.
+
+At ngayong winter, kung hindi muna kayo makadalo dahil sa snow at yelo, Tay, Nay, naiintindihan po namin. Safety first. Makikita pa rin namin kayo sa screen, pero mami-miss namin kayo rito. Kaya see you po sa summer! *(ngiti)*
+
+Pangatlo, sa isang simpleng tawag o card, at sa ministeryo, kahit sa telepono lang.
+
+Naaalala ko ang isang masigasig nating sister na may-edad na. Kapag magkasama kami sa ministeryo, hindi siya nauubusan ng tatawagan. Wala nga lang siya ngayong gabi, nagbabakasyon. *(ngiti)* Pero ang totoo, napapatibay niya ako. At kayo rin po, napapatibay ninyo kami.
 
 ---
 
 ## CONCLUSION [0.5 minuto]
 
-Kaya mahal naming mga may-edad: **mahalaga kayo sa kongregasyon.** Ang buong makakaya ninyo ngayon ay buong puso pa rin para kay Jehova. At ang mga karanasan ninyo ay lakas para sa amin.
+Mahal naming mga may-edad, gaya ng maple sa fall, nasa pinakamagandang panahon po kayo.
 
-Sabi ng referensya natin: **"Tandaan na pinapahalagahan ni Jehova ang paglilingkod ninyo at napapatibay ninyo ang kongregasyon dahil sa pananampalataya ninyo."**
+At ang pinakamaganda pa: malapit nang alisin ng Kaharian ng Diyos ang pagtanda, at babalik ang lakas ng kabataan ninyo.
+
+Kaya tandaan po ninyo: mahalaga kayo kay Jehova, at mahalaga kayo sa amin. **Mga may-edad naming kapatid, mahalaga kayo sa kongregasyon.**
 
 ---
 
 ## SUMMARY
 
-**Mga May-edad Naming Kapatid, Mahalaga Kayo sa Kongregasyon**: Deuteronomio 6:5; Awit 37:25. (Ang Josue 23:14, Roma 1:11, 12, 2 Corinto 8:12 at Hebreo 6:10 ng artikulo ay hindi na binabasa.)
+**Mga May-edad Naming Kapatid, Mahalaga Kayo sa Kongregasyon**: Hebreo 6:10 lang ang binabasa. Ang larawan: ang maple tree sa fall.
 
-Iisang ayos ang dalawang punto: tanong → "Pansinin po" → basahin → "Ano po ang natutuhan natin dito?" → paliwanag na bumabalik sa tema.
-
-- **Una, ang inaasahan ni Jehova (Deuteronomio 6:5):** buong puso, buong kaluluwa, buong lakas, ayon sa kalagayan ngayon, hindi noon. Si Simeon: para kay Jehova, "matuwid at may takot sa Diyos"; hindi matandang lalaki ang nakikita Niya, kundi lalaking may matibay na pananampalataya.
-- **Pangalawa, ang magagawa ninyo para sa amin (Awit 37:25):** "Bata ako noon, at ngayon ay matanda na" — hindi masasabi ng kabataan. Ikuwento ang mga karanasan; dumalo sa Kingdom Hall hangga't kaya (Connie); simpleng tawag o card.
+- **Intro:** pinakamaganda ang maple sa fall, hindi tanda na tapos na ang puno. Ganiyan ang mga may-edad sa paningin ni Jehova.
+- **Una, mahalaga kayo kay Jehova (Hebreo 6:10):** "hindi niya lilimutin ang mga ginawa ninyo"; nakikita rin niya ang "patuloy na paglilingkod" ninyo ngayon. Si Simeon: hindi matandang lalaki ang nakikita ni Jehova, kundi lalaking may matibay na pananampalataya.
+- **Pangalawa, mahalaga kayo sa amin (malalalim na ugat):** ang mga karanasan ninyo; ang pagdalo ninyo, hangga't kaya (safety first ngayong winter); isang tawag o card, at ang ministeryo kahit sa telepono.
+- **Conclusion:** nasa pinakamagandang panahon kayo; aalisin ng Kaharian ang pagtanda.

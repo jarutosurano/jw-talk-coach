@@ -16,14 +16,13 @@
 6. Pahayag (5 minuto)
 w25.12 26-30—Tema: Mga May-edad Naming Kapatid, Mahalaga Kayo sa Kongregasyon. (th aralin 16)
 
-<!-- Main points (Nov 25 v1).
-Intro: sipi ni Connie, 83 (pambungad ng artikulo) → baka ganiyan din ang nararamdaman ng ilan → komendasyon (th aralin 16) → tema → dalawang tanong.
-1. "Una po, ano ba talaga ang inaasahan sa inyo ni Jehova?" — Deut 6:5 (seksiyong "Ang Inaasahan sa Iyo ni Jehova"): buong makakaya ngayon, hindi ang lakas noon.
-   Si Simeon (Luc 2:25-35, ikinukuwento lang, hindi binabasa): "hindi isang matandang lalaki ang nakikita niya, kundi isang lalaking may matibay na pananampalataya".
-2. "Pangalawa po, ano ang magagawa ninyo na hindi magagawa ng mas nakababata?" — Awit 37:25 (seksiyong "Malaki ang Maitutulong Mo sa Iba"):
-   ikuwento ang mga karanasan; dumalo in person (Connie); tumawag o magbigay ng card. ← heart point (kung bakit sila mahalaga sa kongregasyon).
-Konklusyon: ang huling pangungusap ng artikulo.
-Hindi binabasa: Jos 23:14, Roma 1:11, 12, 2 Cor 8:12, Heb 6:10, Roma 5:12 (dalawang teksto lang, ayon sa feedback_pahayag-two-texts).
+<!-- Main points (Nov 27 v2, replaces v1: v1 reused the article's sentences too much and read two texts).
+Intro: ang maple tree, pinakamaganda sa fall, hindi tanda na tapos na ang puno → "Kaya sa inyo po, mga minamahal naming kapatid na may-edad na: ganiyan po kayo sa paningin ni Jehova" → "Mga ka-edad ko lang pala" → tema.
+1. Hebreo 6:10 (ISANG teksto lang): "Ano po ang natutuhan natin dito? Dalawa." Una "hindi niya lilimutin ang mga ginawa ninyo"; Pangalawa "patuloy na paglilingkod" (buong puso ayon sa kalagayan ngayon, ideya ng Deut 6:5 / 2 Cor 8:12, hindi binabasa).
+   Si Simeon, ipinakilala muna ("May isang lalaki po sa Bibliya na makakaintindi sa inyo"); sipi: "hindi isang matandang lalaki ang nakikita niya, kundi isang lalaking may matibay na pananampalataya."
+2. Ang malalalim na ugat (maple ulit): "Paano ko pa mapapatibay ang kongregasyon?" Una mga karanasan; Pangalawa pagdalo hangga't kaya (isang oras ang biyahe; winter: safety first, "see you po sa summer"); Pangatlo tawag o card at ministeryo sa telepono (masigasig na sister na nagbabakasyon, totoong karanasan ni Jayr).
+Konklusyon: "nasa pinakamagandang panahon po kayo" → aalisin ng Kaharian ang pagtanda (ideya ng Roma 5:12) → tema bilang huling salita.
+Hindi ginamit: sipi ni Connie, Awit 37:25, Jos 23:14, kahon ng cart sa East Africa, mga pag-aaral tungkol sa kalusugan.
 -->
 
 ---
@@ -47,6 +46,8 @@ Hindi binabasa: Jos 23:14, Roma 1:11, 12, 2 Cor 8:12, Heb 6:10, Roma 5:12 (dalaw
 
 - **Deuteronomio 6:5** (p. 322, kaliwang column): "Dapat ninyong ibigin ang Diyos ninyong si Jehova nang inyong buong puso, buong kaluluwa, at buong lakas."
 - **Awit 37:25** (p. 888, kanang column): "Bata ako noon, at ngayon ay matanda na, Pero wala pa akong nakitang matuwid na pinabayaan, At wala akong nakitang anak niya na namamalimos ng tinapay."
+- **Hebreo 6:10** (p. 1839, kanang column; ang tanging binabasa sa v2): "Matuwid ang Diyos, kaya hindi niya lilimutin ang mga ginawa ninyo at ang pag-ibig na ipinakita ninyo para sa pangalan niya sa pamamagitan ng paglilingkod at patuloy na paglilingkod sa mga banal."
+- Deut 6:5 at Awit 37:25 sa itaas: ginamit sa v1 lang.
 - **Lucas 2:25** (p. 1574, kaliwang column; hindi binabasa, para lang ma-check ang sipi ng artikulo): "…Siya ay matuwid at may takot sa Diyos, na naghihintay sa kaaliwan ng Israel, at sumasakaniya ang banal na espiritu."
 
 ---

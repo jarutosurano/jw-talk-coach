@@ -4,6 +4,16 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [4.62.0] - 2026-11-27
+
+### Pahayag Nov 27 rewritten (v2): "Mga May-edad Naming Kapatid, Mahalaga Kayo sa Kongregasyon"
+
+**Changed:**
+- `docs/talks/5min/1127-mga-may-edad-naming-kapatid-mahalaga-kayo/index.md`: rewritten with Jayr. v1 reused the article's sentences too much and read two texts. v2 reads ONE text (Hebreo 6:10, exact NWT p. 1839) and is built on one picture, the maple tree in fall (Canada): the later years are its most beautiful season (intro), its old roots hold the ground firm (point 2), and the conclusion ends on the Kingdom hope and the theme. Simeon is introduced before he is used; the winter line ("safety first", "see you po sa summer") and Jayr's own example of a zealous older sister in telephone ministry are local. Aralin 16 throughout (commendation first, focus on what they can do, Jehovah in the spotlight). Article points covered: Jehovah's expectation (Deut 6:5 idea), experiences, attending as able, Simeon, call or card, ministry, Kingdom hope; left out for time: the health studies and the cart box. ~571 spoken words (about 4:40). Drafted by a Fable 5.2 subagent, then edited line by line with Jayr.
+- Its `outline.md`: main points v2, Hebreo 6:10 added to Bible Texts.
+
+---
+
 ## [4.61.0] - 2026-11-25
 
 ### Week Nov 23-29: 10-min talk, Hiyas (Panaghoy 3-5), 5-min pahayag, CBS (wcg kabanata 18, Gideon), Watchtower Nov 29
